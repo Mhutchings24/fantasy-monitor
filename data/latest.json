@@ -1,5 +1,5 @@
 {
- "content_hash": "c12f4b064ade3f9fec6da56e62e85c3dbb748418",
+ "content_hash": "c43ae11ffe9cf9d1058a522cf968cc70e7f87945",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -79,15 +79,6 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 0,
-   "name": "Baker Mayfield",
-   "pos": "QB",
-   "proj_4wk": 49.7,
-   "proj_this_week": 16.21,
-   "status": null,
-   "team": "TB"
-  },
-  {
    "adds_24h": 652496,
    "name": "Gardner Minshew II",
    "pos": "QB",
@@ -95,6 +86,15 @@
    "proj_this_week": 11.5,
    "status": null,
    "team": "ARI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Baker Mayfield",
+   "pos": "QB",
+   "proj_4wk": 49.7,
+   "proj_this_week": 16.21,
+   "status": null,
+   "team": "TB"
   },
   {
    "adds_24h": 0,
@@ -137,7 +137,7 @@
    "name": "Jakobi Meyers",
    "pos": "WR",
    "proj_4wk": 42.3,
-   "proj_this_week": 9.44,
+   "proj_this_week": 9.45,
    "status": null,
    "team": "JAX"
   },
@@ -280,8 +280,8 @@
    "adds_24h": 0,
    "name": "Mark Andrews",
    "pos": "TE",
-   "proj_4wk": 31.3,
-   "proj_this_week": 7.36,
+   "proj_4wk": 31.4,
+   "proj_this_week": 7.42,
    "status": null,
    "team": "BAL"
   },
@@ -358,15 +358,6 @@
    "team": "KC"
   },
   {
-   "adds_24h": 0,
-   "name": "Tyler Huntley",
-   "pos": "QB",
-   "proj_4wk": 29.4,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "BAL"
-  },
-  {
    "adds_24h": 99027,
    "name": "Michael Mayer",
    "pos": "TE",
@@ -374,6 +365,15 @@
    "proj_this_week": 8.08,
    "status": null,
    "team": "LV"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Tyler Huntley",
+   "pos": "QB",
+   "proj_4wk": 29.4,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "BAL"
   },
   {
    "adds_24h": 0,
@@ -407,7 +407,7 @@
    "name": "BAL D/ST",
    "pos": "DEF",
    "proj_4wk": 27.8,
-   "proj_this_week": 5.39,
+   "proj_this_week": 5.42,
    "status": null,
    "team": "BAL"
   },
@@ -466,6 +466,15 @@
    "team": "BUF"
   },
   {
+   "adds_24h": 0,
+   "name": "J.K. Dobbins",
+   "pos": "RB",
+   "proj_4wk": 26.2,
+   "proj_this_week": 10.07,
+   "status": null,
+   "team": "DEN"
+  },
+  {
    "adds_24h": 104328,
    "name": "SF D/ST",
    "pos": "DEF",
@@ -482,15 +491,6 @@
    "proj_this_week": 5.21,
    "status": null,
    "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
-   "name": "J.K. Dobbins",
-   "pos": "RB",
-   "proj_4wk": 26.1,
-   "proj_this_week": 9.91,
-   "status": null,
-   "team": "DEN"
   },
   {
    "adds_24h": 0,
@@ -521,15 +521,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Courtland Sutton",
-   "pos": "WR",
-   "proj_4wk": 25.0,
-   "proj_this_week": 7.93,
-   "status": null,
-   "team": "DEN"
-  },
-  {
-   "adds_24h": 0,
    "name": "DAL D/ST",
    "pos": "DEF",
    "proj_4wk": 25.0,
@@ -545,6 +536,15 @@
    "proj_this_week": 6.05,
    "status": "Questionable",
    "team": "NE"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Courtland Sutton",
+   "pos": "WR",
+   "proj_4wk": 25.0,
+   "proj_this_week": 7.87,
+   "status": null,
+   "team": "DEN"
   },
   {
    "adds_24h": 0,
@@ -572,6 +572,15 @@
    "proj_this_week": 6.81,
    "status": null,
    "team": "CIN"
+  },
+  {
+   "adds_24h": 87259,
+   "name": "Joe Fagnano",
+   "pos": "QB",
+   "proj_4wk": 24.3,
+   "proj_this_week": 10.56,
+   "status": null,
+   "team": "BAL"
   },
   {
    "adds_24h": 0,
@@ -608,15 +617,6 @@
    "proj_this_week": 7.68,
    "status": null,
    "team": "TB"
-  },
-  {
-   "adds_24h": 87259,
-   "name": "Joe Fagnano",
-   "pos": "QB",
-   "proj_4wk": 24.1,
-   "proj_this_week": 10.34,
-   "status": null,
-   "team": "BAL"
   },
   {
    "adds_24h": 0,
@@ -721,8 +721,8 @@
    "adds_24h": 0,
    "name": "Justice Hill",
    "pos": "RB",
-   "proj_4wk": 23.0,
-   "proj_this_week": 6.01,
+   "proj_4wk": 23.1,
+   "proj_this_week": 6.06,
    "status": null,
    "team": "BAL"
   },
@@ -835,7 +835,7 @@
    "team": "WAS"
   }
  ],
- "generated_at": "2026-11-04T20:37:02Z",
+ "generated_at": "2026-11-04T20:42:05Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1013,11 +1013,11 @@
   },
   "matchup": {
    "my_proj": 113.6,
-   "opp_best_possible": 135.04,
-   "opp_proj": 135.0,
+   "opp_best_possible": 135.15,
+   "opp_proj": 135.2,
    "opponent": "Touch of the Downs",
    "opponent_record": "2-6",
-   "win_prob": 0.272
+   "win_prob": 0.271
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1034,19 +1034,19 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.541,
+    "first_seed_odds": 0.539,
     "losses": 2,
     "mine": false,
     "pa": 1045.02,
     "pf": 1104.32,
     "playoff_odds": 0.999,
     "power_rank": 1,
-    "proj_avg": 131.8,
+    "proj_avg": 131.9,
     "proj_by_week": {
      "10": 132.2,
      "11": 124.98,
      "12": 138.59,
-     "9": 131.61
+     "9": 131.65
     },
     "rank": 1,
     "roster_id": 9,
@@ -1067,7 +1067,7 @@
      "10": 125.36,
      "11": 110.14,
      "12": 127.07,
-     "9": 121.82
+     "9": 121.93
     },
     "rank": 2,
     "roster_id": 8,
@@ -1076,19 +1076,19 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.216,
+    "first_seed_odds": 0.218,
     "losses": 3,
     "mine": false,
     "pa": 990.54,
     "pf": 1083.34,
     "playoff_odds": 0.986,
     "power_rank": 2,
-    "proj_avg": 131.0,
+    "proj_avg": 131.1,
     "proj_by_week": {
      "10": 125.63,
      "11": 132.93,
      "12": 137.24,
-     "9": 128.25
+     "9": 128.58
     },
     "rank": 3,
     "roster_id": 4,
@@ -1109,7 +1109,7 @@
      "10": 129.63,
      "11": 119.25,
      "12": 128.7,
-     "9": 122.47
+     "9": 122.61
     },
     "rank": 4,
     "roster_id": 5,
@@ -1123,7 +1123,7 @@
     "mine": false,
     "pa": 1104.36,
     "pf": 1110.86,
-    "playoff_odds": 0.907,
+    "playoff_odds": 0.906,
     "power_rank": 3,
     "proj_avg": 129.3,
     "proj_by_week": {
@@ -1186,14 +1186,14 @@
     "mine": false,
     "pa": 982.9,
     "pf": 937.8,
-    "playoff_odds": 0.348,
+    "playoff_odds": 0.349,
     "power_rank": 6,
-    "proj_avg": 121.6,
+    "proj_avg": 121.7,
     "proj_by_week": {
      "10": 113.75,
      "11": 107.3,
      "12": 132.23,
-     "9": 133.0
+     "9": 133.56
     },
     "rank": 8,
     "roster_id": 2,
@@ -1235,7 +1235,7 @@
      "10": 131.31,
      "11": 102.46,
      "12": 133.19,
-     "9": 135.04
+     "9": 135.15
     },
     "rank": 10,
     "roster_id": 3,
@@ -1421,7 +1421,7 @@
     "10": 11.54,
     "11": 11.02,
     "12": 11.51,
-    "9": 9.82
+    "9": 9.83
    },
    "slot": "bench",
    "status": null,
@@ -1550,7 +1550,7 @@
      "name": "Brenton Strange",
      "pid": "9480",
      "pos": "TE",
-     "ros_per_week": 11.2,
+     "ros_per_week": 11.3,
      "status": null,
      "team": "JAX"
     },
@@ -1596,7 +1596,7 @@
      "name": "Brenton Strange",
      "pid": "9480",
      "pos": "TE",
-     "ros_per_week": 11.2,
+     "ros_per_week": 11.3,
      "status": null,
      "team": "JAX"
     },
@@ -1665,6 +1665,43 @@
   {
    "get": [
     {
+     "name": "Jonah Coleman",
+     "pid": "13345",
+     "pos": "RB",
+     "ros_per_week": 10.7,
+     "status": null,
+     "team": "DEN"
+    }
+   ],
+   "give": [
+    {
+     "name": "Josh Downs",
+     "pid": "9500",
+     "pos": "WR",
+     "ros_per_week": 8.9,
+     "status": null,
+     "team": "IND"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "Glizzy Globbler ",
+   "partner_roster_id": 2,
+   "summary": "Give Josh Downs, get Jonah Coleman from Glizzy Globbler : +1.3 pts/week for you, -0.5 for them.",
+   "their_gain_per_week": -0.5,
+   "value_ratio": 1.21,
+   "why_them": [
+    "Josh Downs would start 1 of 9 weeks for them",
+    "Jonah Coleman only starts 2 of 9 weeks on their roster"
+   ],
+   "why_you": [
+    "Jonah Coleman would start 6 of 9 weeks for you",
+    "Josh Downs starts only 0 of 9 weeks for you"
+   ],
+   "your_gain_per_week": 1.3
+  },
+  {
+   "get": [
+    {
      "name": "Parker Washington",
      "pid": "9487",
      "pos": "WR",
@@ -1722,7 +1759,7 @@
      "name": "Brenton Strange",
      "pid": "9480",
      "pos": "TE",
-     "ros_per_week": 11.2,
+     "ros_per_week": 11.3,
      "status": null,
      "team": "JAX"
     }
@@ -1741,80 +1778,6 @@
     "Parker Washington would start 9 of 9 weeks for you",
     "Josh Jacobs starts 8 of 9 weeks for you",
     "Brenton Strange starts 8 of 9 weeks for you"
-   ],
-   "your_gain_per_week": 1.2
-  },
-  {
-   "get": [
-    {
-     "name": "Jonah Coleman",
-     "pid": "13345",
-     "pos": "RB",
-     "ros_per_week": 10.7,
-     "status": null,
-     "team": "DEN"
-    }
-   ],
-   "give": [
-    {
-     "name": "Malik Washington",
-     "pid": "11610",
-     "pos": "WR",
-     "ros_per_week": 9.9,
-     "status": null,
-     "team": "MIA"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "Glizzy Globbler ",
-   "partner_roster_id": 2,
-   "summary": "Give Malik Washington, get Jonah Coleman from Glizzy Globbler : +1.2 pts/week for you, -0.5 for them.",
-   "their_gain_per_week": -0.5,
-   "value_ratio": 1.08,
-   "why_them": [
-    "Malik Washington would start 1 of 9 weeks for them",
-    "Jonah Coleman only starts 2 of 9 weeks on their roster"
-   ],
-   "why_you": [
-    "Jonah Coleman would start 6 of 9 weeks for you",
-    "Malik Washington starts only 0 of 9 weeks for you"
-   ],
-   "your_gain_per_week": 1.2
-  },
-  {
-   "get": [
-    {
-     "name": "Jonah Coleman",
-     "pid": "13345",
-     "pos": "RB",
-     "ros_per_week": 10.7,
-     "status": null,
-     "team": "DEN"
-    }
-   ],
-   "give": [
-    {
-     "name": "Josh Downs",
-     "pid": "9500",
-     "pos": "WR",
-     "ros_per_week": 8.9,
-     "status": null,
-     "team": "IND"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "Glizzy Globbler ",
-   "partner_roster_id": 2,
-   "summary": "Give Josh Downs, get Jonah Coleman from Glizzy Globbler : +1.2 pts/week for you, -0.4 for them.",
-   "their_gain_per_week": -0.4,
-   "value_ratio": 1.21,
-   "why_them": [
-    "Josh Downs would start 1 of 9 weeks for them",
-    "Jonah Coleman only starts 2 of 9 weeks on their roster"
-   ],
-   "why_you": [
-    "Jonah Coleman would start 6 of 9 weeks for you",
-    "Josh Downs starts only 0 of 9 weeks for you"
    ],
    "your_gain_per_week": 1.2
   },
@@ -1854,6 +1817,43 @@
     "Malik Washington starts only 0 of 9 weeks for you"
    ],
    "your_gain_per_week": 1.2
+  },
+  {
+   "get": [
+    {
+     "name": "Jaylen Waddle",
+     "pid": "7526",
+     "pos": "WR",
+     "ros_per_week": 11.3,
+     "status": null,
+     "team": "DEN"
+    }
+   ],
+   "give": [
+    {
+     "name": "Josh Downs",
+     "pid": "9500",
+     "pos": "WR",
+     "ros_per_week": 8.9,
+     "status": null,
+     "team": "IND"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "Bradsbaconisundercooked",
+   "partner_roster_id": 1,
+   "summary": "Give Josh Downs, get Jaylen Waddle from Bradsbaconisundercooked: +1.2 pts/week for you, -0.5 for them.",
+   "their_gain_per_week": -0.5,
+   "value_ratio": 1.28,
+   "why_them": [
+    "Josh Downs would start 0 of 9 weeks for them",
+    "Jaylen Waddle only starts 2 of 9 weeks on their roster"
+   ],
+   "why_you": [
+    "Jaylen Waddle would start 8 of 9 weeks for you",
+    "Josh Downs starts only 0 of 9 weeks for you"
+   ],
+   "your_gain_per_week": 1.2
   }
  ],
  "waivers": [
@@ -1869,7 +1869,7 @@
     "10": 0.0,
     "11": 9.32,
     "12": 6.82,
-    "9": 9.91
+    "9": 10.07
    },
    "status": null,
    "stream": false,
