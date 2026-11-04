@@ -240,6 +240,106 @@ def tag(pid, players):
     return f"{name_of(pid, players)} ({p.get('position', '?')}, {p.get('team') or 'FA'})"
 
 
+def team_name(roster, users):
+    u = users.get(roster.get("owner_id"), {}) or {}
+    return (u.get("metadata") or {}).get("team_name") or u.get("display_name") or f"Team {roster.get('roster_id')}"
+
+
+def league_overview(rosters, users, mine, slots, players, adj, week, settings, lid, matchups_now, sims=4000):
+    """Standings, power rankings, this week's matchup and simulated playoff odds."""
+    import math
+    import random
+
+    SD = 25.0  # rough spread of a fantasy team's weekly score around its projection
+    proj_weeks = sorted(adj)
+    teams = {}
+    for r in rosters:
+        st = r.get("settings") or {}
+        rid = r.get("roster_id")
+        active = [p for p in (r.get("players") or []) if p and p not in set(r.get("reserve") or [])]
+        weekly = {w: optimal_lineup(active, slots, players, adj[w])[0] for w in proj_weeks}
+        avg = round(sum(weekly.values()) / len(weekly), 1) if weekly else 0.0
+        teams[rid] = {
+            "roster_id": rid, "team": team_name(r, users), "mine": r is mine,
+            "wins": st.get("wins", 0), "losses": st.get("losses", 0), "ties": st.get("ties", 0),
+            "pf": round(st.get("fpts", 0) + st.get("fpts_decimal", 0) / 100, 2),
+            "pa": round(st.get("fpts_against", 0) + st.get("fpts_against_decimal", 0) / 100, 2),
+            "proj_by_week": weekly, "proj_avg": avg,
+        }
+
+    # this week's matchup: use each side's set lineup if there is one
+    my_rid = mine.get("roster_id")
+    def set_lineup_proj(entry, rid):
+        starters = [p for p in (entry.get("starters") or []) if p and p != "0"]
+        if starters and week in adj:
+            return round(sum(adj[week].get(p, 0.0) for p in starters), 1)
+        return teams[rid]["proj_by_week"].get(week, teams[rid]["proj_avg"])
+    matchup = None
+    by_id = {}
+    for m in matchups_now or []:
+        if m.get("matchup_id") is not None:
+            by_id.setdefault(m["matchup_id"], []).append(m)
+    for mid, pair in by_id.items():
+        rids = [m.get("roster_id") for m in pair]
+        if my_rid in rids and len(pair) == 2:
+            me_e = pair[0] if pair[0]["roster_id"] == my_rid else pair[1]
+            op_e = pair[1] if me_e is pair[0] else pair[0]
+            mp, op = set_lineup_proj(me_e, my_rid), set_lineup_proj(op_e, op_e["roster_id"])
+            z = (mp - op) / (2 * SD)  # erf argument: diff / (sd_diff * sqrt2), sd_diff = SD*sqrt2
+            matchup = {"opponent": teams[op_e["roster_id"]]["team"], "opponent_record":
+                       f"{teams[op_e['roster_id']]['wins']}-{teams[op_e['roster_id']]['losses']}",
+                       "my_proj": mp, "opp_proj": op, "win_prob": round(0.5 * (1 + math.erf(z)), 3),
+                       "opp_best_possible": teams[op_e["roster_id"]]["proj_by_week"].get(week)}
+
+    # remaining regular-season schedule
+    pws = int(settings.get("playoff_week_start") or 15)
+    n_playoff = int(settings.get("playoff_teams") or 6)
+    schedule = {}
+    for w in range(week, pws):
+        ms = matchups_now if w == week else (get(f"{BASE}/league/{lid}/matchups/{w}") or [])
+        pairs = {}
+        for m in ms:
+            if m.get("matchup_id") is not None:
+                pairs.setdefault(m["matchup_id"], []).append(m["roster_id"])
+        schedule[w] = [p for p in pairs.values() if len(p) == 2]
+    playoff = None
+    if schedule and any(schedule.values()):
+        made = {rid: 0 for rid in teams}
+        seed1 = {rid: 0 for rid in teams}
+        rng = random.Random(42)
+        for _ in range(sims):
+            wins = {rid: t["wins"] + 0.5 * t["ties"] for rid, t in teams.items()}
+            pts = {rid: t["pf"] for rid, t in teams.items()}
+            for w, pairs in schedule.items():
+                for a, b in pairs:
+                    if a not in teams or b not in teams:
+                        continue
+                    sa = rng.gauss(teams[a]["proj_by_week"].get(w, teams[a]["proj_avg"]), SD)
+                    sb = rng.gauss(teams[b]["proj_by_week"].get(w, teams[b]["proj_avg"]), SD)
+                    pts[a] += sa
+                    pts[b] += sb
+                    wins[a if sa > sb else b] += 1
+            order = sorted(teams, key=lambda r: (wins[r], pts[r]), reverse=True)
+            for rid in order[:n_playoff]:
+                made[rid] += 1
+            seed1[order[0]] += 1
+        playoff = {"playoff_teams": n_playoff, "playoff_week_start": pws,
+                   "weeks_simulated": sorted(schedule), "sims": sims}
+        for rid in teams:
+            teams[rid]["playoff_odds"] = round(made[rid] / sims, 3)
+            teams[rid]["first_seed_odds"] = round(seed1[rid] / sims, 3)
+
+    standings = sorted(teams.values(), key=lambda t: (t["wins"] + 0.5 * t["ties"], t["pf"]), reverse=True)
+    for i, t in enumerate(standings, 1):
+        t["rank"] = i
+    power = sorted(teams.values(), key=lambda t: t["proj_avg"], reverse=True)
+    for i, t in enumerate(power, 1):
+        t["power_rank"] = i
+    for t in teams.values():
+        t["proj_by_week"] = {str(k): v for k, v in t["proj_by_week"].items()}
+    return {"standings": standings, "matchup": matchup, "playoff": playoff}
+
+
 def run():
     cfg = load(os.path.join(ROOT, "config.json"))
     th = cfg.get("alert_thresholds", {})
@@ -264,7 +364,8 @@ def run():
     # The week's actual lineup lives in that week's matchup; roster.starters can lag behind.
     current_starters = list(mine.get("starters") or [])
     lineup_source = "roster"
-    for m in (get(f"{BASE}/league/{lid}/matchups/{week}") or []):
+    matchups_now = get(f"{BASE}/league/{lid}/matchups/{week}") or []
+    for m in matchups_now:
         if m.get("roster_id") == mine.get("roster_id") and m.get("starters"):
             current_starters, lineup_source = list(m["starters"]), f"matchup week {week}"
             break
@@ -450,6 +551,13 @@ def run():
         })
     my_roster.sort(key=lambda r: (r["slot"] != "starter", r["pos"] or "", -(r["proj_by_week"].get(str(week)) or 0)))
 
+    try:
+        overview = league_overview(rosters, users, mine, slots, players, adj, week, settings, lid,
+                                   matchups_now) if adj else None
+    except Exception as e:  # the overview must never break the core monitor
+        log(f"League overview failed: {e}")
+        overview = None
+
     owner = users.get(mine.get("owner_id"), {})
     result = {
         "league": {"id": lid, "name": league.get("name"), "season": season,
@@ -463,6 +571,7 @@ def run():
                                             ("-%d" % (mine.get("settings") or {}).get("ties", 0)) if (mine.get("settings") or {}).get("ties") else "")},
         "week": week, "weeks_projected": list(adj.keys()), "projections_ok": have_proj,
         "roster": my_roster, "lineup": lineup, "waivers": waivers, "streams": streams, "free_agents": free_agents, "faab": faab,
+        "overview": overview,
     }
     return result, shape_sample, players
 
@@ -595,6 +704,26 @@ def report_md(r):
     for w in r.get("streams", []):
         L.append(f"\n**{w['pos']} stream this week:** add {w['name']} for {w['drop_name']} (+{w['gain_this_week']:.1f} pts this week)")
     L.append("")
+    ov = r.get("overview") or {}
+    if ov.get("matchup"):
+        m = ov["matchup"]
+        L.append("## This week's matchup")
+        L.append(f"vs **{m['opponent']}** ({m['opponent_record']}): you **{m['my_proj']:.1f}** – {m['opp_proj']:.1f} projected · "
+                 f"win chance **{m['win_prob']*100:.0f}%**\n")
+    if ov.get("standings"):
+        po = ov.get("playoff")
+        L.append("## League overview")
+        if po:
+            L.append(f"Top {po['playoff_teams']} make the playoffs (starting week {po['playoff_week_start']}). "
+                     f"Odds come from {po['sims']:,} simulated seasons using projections.\n")
+        L.append("| # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |")
+        L.append("|---|---|---|---|---|---|---|---|")
+        for t in ov["standings"]:
+            nm = f"**{t['team']}**" if t["mine"] else t["team"]
+            odds = f"{t['playoff_odds']*100:.0f}%" if "playoff_odds" in t else "—"
+            L.append(f"| {t['rank']} | {nm} | {t['wins']}-{t['losses']} | {t['pf']:.1f} | {t['pa']:.1f} | "
+                     f"{t['power_rank']} | {t['proj_avg']:.1f} | {odds} |")
+        L.append("")
     L.append("## Roster")
     L.append("| Player | Pos | Team | Spot | Status | " + " | ".join(f"Wk {w}" for w in weeks) + " |")
     L.append("|---|---|---|---|---|" + "---|" * len(weeks))
