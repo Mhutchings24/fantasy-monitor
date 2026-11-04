@@ -1,5 +1,5 @@
 {
- "content_hash": "aa678de344881b6ba96c5515ea84d90c70e0013f",
+ "content_hash": "efc18653881d041485261bc3a1576d0b1e944460",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -233,19 +233,19 @@
   },
   {
    "adds_24h": 0,
-   "name": "Chig Okonkwo",
-   "pos": "TE",
+   "name": "Drew Stevens",
+   "pos": "K",
    "proj_4wk": 32.2,
-   "proj_this_week": 8.22,
+   "proj_this_week": 8.34,
    "status": null,
    "team": "WAS"
   },
   {
    "adds_24h": 0,
-   "name": "Drew Stevens",
-   "pos": "K",
+   "name": "Chig Okonkwo",
+   "pos": "TE",
    "proj_4wk": 32.2,
-   "proj_this_week": 8.27,
+   "proj_this_week": 8.24,
    "status": null,
    "team": "WAS"
   },
@@ -289,8 +289,8 @@
    "adds_24h": 0,
    "name": "Antonio Williams",
    "pos": "WR",
-   "proj_4wk": 30.9,
-   "proj_this_week": 7.38,
+   "proj_4wk": 31.0,
+   "proj_this_week": 7.44,
    "status": null,
    "team": "WAS"
   },
@@ -358,15 +358,6 @@
    "team": "KC"
   },
   {
-   "adds_24h": 99054,
-   "name": "Michael Mayer",
-   "pos": "TE",
-   "proj_4wk": 29.4,
-   "proj_this_week": 8.08,
-   "status": null,
-   "team": "LV"
-  },
-  {
    "adds_24h": 0,
    "name": "Tyler Huntley",
    "pos": "QB",
@@ -374,6 +365,15 @@
    "proj_this_week": 0.0,
    "status": "Out",
    "team": "BAL"
+  },
+  {
+   "adds_24h": 99054,
+   "name": "Michael Mayer",
+   "pos": "TE",
+   "proj_4wk": 29.4,
+   "proj_this_week": 8.08,
+   "status": null,
+   "team": "LV"
   },
   {
    "adds_24h": 0,
@@ -497,7 +497,7 @@
    "name": "Tyler Higbee",
    "pos": "TE",
    "proj_4wk": 26.0,
-   "proj_this_week": 6.92,
+   "proj_this_week": 6.93,
    "status": null,
    "team": "LAR"
   },
@@ -758,7 +758,7 @@
    "name": "Treylon Burks",
    "pos": "WR",
    "proj_4wk": 22.9,
-   "proj_this_week": 5.66,
+   "proj_this_week": 5.73,
    "status": null,
    "team": "WAS"
   },
@@ -826,7 +826,7 @@
    "team": "SEA"
   }
  ],
- "generated_at": "2026-11-04T23:21:02Z",
+ "generated_at": "2026-11-04T23:26:07Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -904,12 +904,12 @@
    {
     "name": "LAR D/ST",
     "pid": "LAR",
-    "proj": 7.43,
+    "proj": 7.37,
     "slot": "DEF"
    }
   ],
-  "best_projected": 113.7,
-  "current_projected": 113.7,
+  "best_projected": 113.64,
+  "current_projected": 113.64,
   "gain": 0.0,
   "problems": [],
   "source": "matchup week 9",
@@ -1003,12 +1003,12 @@
    "week": 8
   },
   "matchup": {
-   "my_proj": 113.7,
-   "opp_best_possible": 134.84,
+   "my_proj": 113.6,
+   "opp_best_possible": 134.82,
    "opp_proj": 134.8,
    "opponent": "Touch of the Downs",
    "opponent_record": "2-6",
-   "win_prob": 0.275
+   "win_prob": 0.274
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1025,7 +1025,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.539,
+    "first_seed_odds": 0.537,
     "losses": 2,
     "mine": false,
     "pa": 1045.02,
@@ -1037,7 +1037,7 @@
      "10": 132.2,
      "11": 124.98,
      "12": 138.59,
-     "9": 129.57
+     "9": 129.38
     },
     "rank": 1,
     "roster_id": 9,
@@ -1046,7 +1046,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.117,
+    "first_seed_odds": 0.115,
     "losses": 2,
     "mine": false,
     "pa": 913.82,
@@ -1067,7 +1067,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.221,
+    "first_seed_odds": 0.226,
     "losses": 3,
     "mine": false,
     "pa": 990.54,
@@ -1109,7 +1109,7 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.06,
+    "first_seed_odds": 0.059,
     "losses": 4,
     "mine": false,
     "pa": 1104.36,
@@ -1156,14 +1156,14 @@
     "mine": false,
     "pa": 1009.1,
     "pf": 948.02,
-    "playoff_odds": 0.201,
+    "playoff_odds": 0.196,
     "power_rank": 9,
-    "proj_avg": 111.5,
+    "proj_avg": 111.1,
     "proj_by_week": {
      "10": 90.38,
      "11": 116.53,
      "12": 120.95,
-     "9": 118.14
+     "9": 116.36
     },
     "rank": 7,
     "roster_id": 6,
@@ -1177,7 +1177,7 @@
     "mine": false,
     "pa": 982.9,
     "pf": 937.8,
-    "playoff_odds": 0.342,
+    "playoff_odds": 0.344,
     "power_rank": 6,
     "proj_avg": 120.9,
     "proj_by_week": {
@@ -1198,14 +1198,14 @@
     "mine": true,
     "pa": 946.24,
     "pf": 906.7,
-    "playoff_odds": 0.222,
+    "playoff_odds": 0.223,
     "power_rank": 8,
     "proj_avg": 114.0,
     "proj_by_week": {
      "10": 118.86,
      "11": 104.75,
      "12": 118.56,
-     "9": 113.7
+     "9": 113.64
     },
     "rank": 9,
     "roster_id": 7,
@@ -1219,14 +1219,14 @@
     "mine": false,
     "pa": 1017.26,
     "pf": 942.36,
-    "playoff_odds": 0.303,
+    "playoff_odds": 0.304,
     "power_rank": 4,
-    "proj_avg": 125.5,
+    "proj_avg": 125.4,
     "proj_by_week": {
      "10": 131.31,
      "11": 102.46,
      "12": 133.19,
-     "9": 134.84
+     "9": 134.82
     },
     "rank": 10,
     "roster_id": 3,
@@ -1247,7 +1247,7 @@
     "10": 7.24,
     "11": 0.0,
     "12": 8.94,
-    "9": 7.43
+    "9": 7.37
    },
    "slot": "starter",
    "status": null,
@@ -1483,8 +1483,8 @@
   {
    "drop": "LAR",
    "drop_name": "LAR D/ST",
-   "gain_this_week": 1.86,
-   "gain_window": 1.86,
+   "gain_this_week": 1.92,
+   "gain_window": 1.92,
    "name": "KC D/ST",
    "pid": "KC",
    "pos": "DEF",
