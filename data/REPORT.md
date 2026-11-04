@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-04T17:44:35Z UTC
+Week 9 · record 3-5 · updated 2026-11-04T17:49:41Z UTC
 
 ## Lineup check
 Current lineup projects **113.7**, best possible **113.7**.
@@ -17,7 +17,7 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | Xavier Worthy | WR | KC | Malik Washington | +0.6 | +0.0 | 0 |
 | Dalton Kincaid | TE | BUF | Malik Washington | +0.4 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Malik Washington | +0.3 | +0.0 | 0 |
-| J.J. McCarthy | QB | NYG | Malik Washington | +0.2 | +0.0 | 88,374 |
+| J.J. McCarthy | QB | NYG | Malik Washington | +0.2 | +0.0 | 88,827 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.9 pts this week)
 
@@ -31,11 +31,11 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 1 | 131.9 | 100% |
+| 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 1 | 132.1 | 100% |
 | 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 7 | 121.2 | 96% |
 | 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 131.3 | 98% |
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 5 | 125.2 | 92% |
-| 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 129.4 | 90% |
+| 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 129.3 | 90% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 9 | 113.8 | 19% |
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 10 | 112.1 | 20% |
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 121.5 | 33% |
@@ -61,7 +61,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Matt Gay | K | LV | starter |  | 8.3 | 8.5 | 8.5 | 8.5 |
 | Jared Goff | QB | DET | starter |  | 19.9 | 17.8 | 19.2 | 19.8 |
 | Josh Jacobs | RB | GB | starter |  | 14.1 | 12.6 | 0.0 | 13.1 |
-| Quinshon Judkins | RB | CLE | starter |  | 12.2 | 9.7 | 0.0 | 10.8 |
+| Quinshon Judkins | RB | CLE | starter |  | 12.3 | 9.7 | 0.0 | 10.8 |
 | George Kittle | TE | SF | starter |  | 15.3 | 17.0 | 14.7 | 15.1 |
 | Mike Evans | WR | SF | starter | Questionable | 14.1 | 19.9 | 17.1 | 17.6 |
 | Keenan Allen | WR | IND | starter |  | 11.3 | 10.6 | 9.3 | 9.2 |
