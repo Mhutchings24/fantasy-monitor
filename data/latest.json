@@ -1,5 +1,5 @@
 {
- "content_hash": "d49de7e43793db9cde9887e66fb263ae51cc19bf",
+ "content_hash": "f0349b835ea282aa810a4831a255a52a8f302c9a",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -367,6 +367,15 @@
    "team": "KC"
   },
   {
+   "adds_24h": 0,
+   "name": "Tyler Huntley",
+   "pos": "QB",
+   "proj_4wk": 29.4,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "BAL"
+  },
+  {
    "adds_24h": 99261,
    "name": "Michael Mayer",
    "pos": "TE",
@@ -377,21 +386,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Tyler Huntley",
-   "pos": "QB",
-   "proj_4wk": 29.4,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "BAL"
-  },
-  {
-   "adds_24h": 0,
    "name": "Jason Sanders",
    "pos": "K",
    "proj_4wk": 28.1,
    "proj_this_week": 6.75,
    "status": null,
    "team": "NYJ"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chad Ryland",
+   "pos": "K",
+   "proj_4wk": 28.1,
+   "proj_this_week": 6.48,
+   "status": null,
+   "team": "ARI"
   },
   {
    "adds_24h": 75592,
@@ -410,15 +419,6 @@
    "proj_this_week": 5.42,
    "status": null,
    "team": "BAL"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Chad Ryland",
-   "pos": "K",
-   "proj_4wk": 27.8,
-   "proj_this_week": 6.17,
-   "status": null,
-   "team": "ARI"
   },
   {
    "adds_24h": 0,
@@ -817,7 +817,7 @@
    "team": "WAS"
   }
  ],
- "generated_at": "2026-11-04T18:48:25Z",
+ "generated_at": "2026-11-04T18:53:31Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
