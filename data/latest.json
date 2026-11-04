@@ -1,5 +1,5 @@
 {
- "content_hash": "7add5ba77e6a46bbddec1f5f0a633e4295480e0c",
+ "content_hash": "ac9a81db8c7b54230a2b14ed9cb0ff2df9b21524",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -190,8 +190,8 @@
    "adds_24h": 0,
    "name": "Dalton Schultz",
    "pos": "TE",
-   "proj_4wk": 33.7,
-   "proj_this_week": 8.43,
+   "proj_4wk": 33.9,
+   "proj_this_week": 8.61,
    "status": null,
    "team": "HOU"
   },
@@ -358,15 +358,6 @@
    "team": "KC"
   },
   {
-   "adds_24h": 0,
-   "name": "Tyler Huntley",
-   "pos": "QB",
-   "proj_4wk": 29.4,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "BAL"
-  },
-  {
    "adds_24h": 99387,
    "name": "Michael Mayer",
    "pos": "TE",
@@ -374,6 +365,15 @@
    "proj_this_week": 8.08,
    "status": null,
    "team": "LV"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Tyler Huntley",
+   "pos": "QB",
+   "proj_4wk": 29.4,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "BAL"
   },
   {
    "adds_24h": 0,
@@ -835,7 +835,7 @@
    "team": "WAS"
   }
  ],
- "generated_at": "2026-11-04T20:47:09Z",
+ "generated_at": "2026-11-04T20:52:13Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1055,12 +1055,12 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.126,
+    "first_seed_odds": 0.123,
     "losses": 2,
     "mine": false,
     "pa": 913.82,
     "pf": 960.38,
-    "playoff_odds": 0.961,
+    "playoff_odds": 0.959,
     "power_rank": 7,
     "proj_avg": 121.1,
     "proj_by_week": {
@@ -1076,7 +1076,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.218,
+    "first_seed_odds": 0.217,
     "losses": 3,
     "mine": false,
     "pa": 990.54,
@@ -1118,19 +1118,19 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.054,
+    "first_seed_odds": 0.058,
     "losses": 4,
     "mine": false,
     "pa": 1104.36,
     "pf": 1110.86,
-    "playoff_odds": 0.906,
+    "playoff_odds": 0.91,
     "power_rank": 3,
-    "proj_avg": 129.3,
+    "proj_avg": 129.8,
     "proj_by_week": {
      "10": 132.47,
      "11": 110.4,
      "12": 135.99,
-     "9": 138.17
+     "9": 140.47
     },
     "rank": 5,
     "roster_id": 10,
@@ -1165,7 +1165,7 @@
     "mine": false,
     "pa": 1009.1,
     "pf": 948.02,
-    "playoff_odds": 0.21,
+    "playoff_odds": 0.209,
     "power_rank": 9,
     "proj_avg": 112.0,
     "proj_by_week": {
@@ -1207,7 +1207,7 @@
     "mine": true,
     "pa": 946.24,
     "pf": 906.7,
-    "playoff_odds": 0.218,
+    "playoff_odds": 0.217,
     "power_rank": 8,
     "proj_avg": 114.0,
     "proj_by_week": {
@@ -1228,7 +1228,7 @@
     "mine": false,
     "pa": 1017.26,
     "pf": 942.36,
-    "playoff_odds": 0.303,
+    "playoff_odds": 0.302,
     "power_rank": 4,
     "proj_avg": 125.5,
     "proj_by_week": {
@@ -1629,42 +1629,6 @@
   {
    "get": [
     {
-     "name": "Javonte Williams",
-     "pid": "7588",
-     "pos": "RB",
-     "ros_per_week": 15.4,
-     "status": null,
-     "team": "DAL"
-    }
-   ],
-   "give": [
-    {
-     "name": "George Kittle",
-     "pid": "4217",
-     "pos": "TE",
-     "ros_per_week": 15.5,
-     "status": null,
-     "team": "SF"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "Monangynecologist",
-   "partner_roster_id": 5,
-   "summary": "Give George Kittle, get Javonte Williams from Monangynecologist: +1.4 pts/week for you, -0.2 for them.",
-   "their_gain_per_week": -0.2,
-   "value_ratio": 1.0,
-   "why_them": [
-    "George Kittle would start 9 of 9 weeks for them"
-   ],
-   "why_you": [
-    "Javonte Williams would start 8 of 9 weeks for you",
-    "George Kittle starts 9 of 9 weeks for you"
-   ],
-   "your_gain_per_week": 1.4
-  },
-  {
-   "get": [
-    {
      "name": "Jonah Coleman",
      "pid": "13345",
      "pos": "RB",
@@ -1854,6 +1818,42 @@
     "Josh Downs starts only 0 of 9 weeks for you"
    ],
    "your_gain_per_week": 1.2
+  },
+  {
+   "get": [
+    {
+     "name": "Patrick Mahomes",
+     "pid": "4046",
+     "pos": "QB",
+     "ros_per_week": 19.9,
+     "status": null,
+     "team": "KC"
+    }
+   ],
+   "give": [
+    {
+     "name": "Jared Goff",
+     "pid": "3163",
+     "pos": "QB",
+     "ros_per_week": 18.8,
+     "status": null,
+     "team": "DET"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "Bradsgay",
+   "partner_roster_id": 9,
+   "summary": "Give Jared Goff, get Patrick Mahomes from Bradsgay: +1.0 pts/week for you, -0.4 for them.",
+   "their_gain_per_week": -0.4,
+   "value_ratio": 1.06,
+   "why_them": [
+    "Jared Goff would start 4 of 9 weeks for them"
+   ],
+   "why_you": [
+    "Patrick Mahomes would start 9 of 9 weeks for you",
+    "Jared Goff starts 9 of 9 weeks for you"
+   ],
+   "your_gain_per_week": 1.0
   }
  ],
  "waivers": [

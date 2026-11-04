@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-04T20:47:09Z UTC
+Week 9 · record 3-5 · updated 2026-11-04T20:52:13Z UTC
 
 ## Lineup check
 Current lineup projects **113.6**, best possible **113.6**.
@@ -35,7 +35,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 7 | 121.1 | 96% |
 | 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 131.1 | 99% |
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 5 | 125.0 | 94% |
-| 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 129.3 | 91% |
+| 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 129.8 | 91% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 10 | 109.2 | 13% |
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 112.0 | 21% |
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 121.7 | 35% |
@@ -47,12 +47,12 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 
 - **Likely** · Give Brenton Strange + Malik Washington, get Tetairoa McMillan from Gibbs me Nabers 😵‍💫: +2.8 pts/week for you, +1.0 for them.
 - **Possible** · Give Brenton Strange + Malik Washington, get Malik Nabers from Gibbs me Nabers 😵‍💫: +4.1 pts/week for you, -0.4 for them.
-- **Possible** · Give George Kittle, get Javonte Williams from Monangynecologist: +1.4 pts/week for you, -0.2 for them.
 - **Possible** · Give Josh Downs, get Jonah Coleman from Glizzy Globbler : +1.3 pts/week for you, -0.5 for them.
 - **Possible** · Give Josh Jacobs, get Parker Washington from Touch of the Downs: +1.2 pts/week for you, -0.4 for them.
 - **Possible** · Give Josh Jacobs + Brenton Strange, get Parker Washington from Touch of the Downs: +1.2 pts/week for you, +0.2 for them.
 - **Possible** · Give Malik Washington, get Jaylen Waddle from Bradsbaconisundercooked: +1.2 pts/week for you, -0.5 for them.
 - **Possible** · Give Josh Downs, get Jaylen Waddle from Bradsbaconisundercooked: +1.2 pts/week for you, -0.5 for them.
+- **Possible** · Give Jared Goff, get Patrick Mahomes from Bradsgay: +1.0 pts/week for you, -0.4 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 9 | Wk 10 | Wk 11 | Wk 12 |
