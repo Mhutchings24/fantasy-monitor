@@ -4,6 +4,7 @@ Watches the **No Fun League** on Sleeper for `Mhutch2446` every ~5 minutes.
 
 - **Latest report:** [data/REPORT.md](data/REPORT.md)
 - **Raw analysis:** [data/latest.json](data/latest.json)
+- **In-depth reports (twice daily):** [reports/](reports/README.md) · [latest](reports/LATEST.md)
 
 Each run pulls the league from Sleeper's public API, then:
 
