@@ -316,6 +316,10 @@ def trade_ideas(rosters, users, mine, slots, players, ros, settings, cfg):
             dt = (value(t_new) - base_t) / n_weeks
             vg, vr = sum(raw(p) for p in give), sum(raw(p) for p in get_)
             fairness = vr / vg if vg else 9.9
+            # don't overpay: 1-for-1 should be roughly even; consolidating 2-for-1 may cost some depth
+            floor = 0.65 if len(give) > len(get_) else 0.8
+            if fairness < floor:
+                continue
             if dt > 0.3 and fairness <= 1.2:
                 likely = "Likely"
             elif dt > -0.5 and fairness <= 1.35:
