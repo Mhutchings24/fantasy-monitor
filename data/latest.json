@@ -1,5 +1,5 @@
 {
- "content_hash": "3d9fc9a501209b30b4e89774fb075d6d1aa1fc7c",
+ "content_hash": "3af57b7936e6d4147e68b009c87e3c1d6e61835f",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -367,15 +367,6 @@
    "team": "KC"
   },
   {
-   "adds_24h": 104751,
-   "name": "Michael Mayer",
-   "pos": "TE",
-   "proj_4wk": 29.4,
-   "proj_this_week": 8.08,
-   "status": null,
-   "team": "LV"
-  },
-  {
    "adds_24h": 0,
    "name": "Tyler Huntley",
    "pos": "QB",
@@ -383,6 +374,15 @@
    "proj_this_week": 0.0,
    "status": "Out",
    "team": "BAL"
+  },
+  {
+   "adds_24h": 104751,
+   "name": "Michael Mayer",
+   "pos": "TE",
+   "proj_4wk": 29.4,
+   "proj_this_week": 8.08,
+   "status": null,
+   "team": "LV"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-04T17:24:12Z",
+ "generated_at": "2026-11-04T17:29:19Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1025,19 +1025,19 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.561,
+    "first_seed_odds": 0.552,
     "losses": 2,
     "mine": false,
     "pa": 1045.02,
     "pf": 1104.32,
     "playoff_odds": 0.999,
     "power_rank": 1,
-    "proj_avg": 132.7,
+    "proj_avg": 132.1,
     "proj_by_week": {
      "10": 132.2,
      "11": 124.98,
      "12": 138.59,
-     "9": 134.97
+     "9": 132.62
     },
     "rank": 1,
     "roster_id": 9,
@@ -1046,7 +1046,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.124,
+    "first_seed_odds": 0.128,
     "losses": 2,
     "mine": false,
     "pa": 913.82,
@@ -1067,7 +1067,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.213,
+    "first_seed_odds": 0.216,
     "losses": 3,
     "mine": false,
     "pa": 990.54,
@@ -1088,12 +1088,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.046,
+    "first_seed_odds": 0.048,
     "losses": 3,
     "mine": false,
     "pa": 849.08,
     "pf": 967.6,
-    "playoff_odds": 0.921,
+    "playoff_odds": 0.92,
     "power_rank": 5,
     "proj_avg": 125.2,
     "proj_by_week": {
@@ -1114,7 +1114,7 @@
     "mine": false,
     "pa": 1104.36,
     "pf": 1110.86,
-    "playoff_odds": 0.904,
+    "playoff_odds": 0.903,
     "power_rank": 3,
     "proj_avg": 129.3,
     "proj_by_week": {
@@ -1135,7 +1135,7 @@
     "mine": false,
     "pa": 1070.2,
     "pf": 967.14,
-    "playoff_odds": 0.195,
+    "playoff_odds": 0.194,
     "power_rank": 9,
     "proj_avg": 113.8,
     "proj_by_week": {
@@ -1156,7 +1156,7 @@
     "mine": false,
     "pa": 1009.1,
     "pf": 948.02,
-    "playoff_odds": 0.204,
+    "playoff_odds": 0.203,
     "power_rank": 10,
     "proj_avg": 112.1,
     "proj_by_week": {
@@ -1177,7 +1177,7 @@
     "mine": false,
     "pa": 982.9,
     "pf": 937.8,
-    "playoff_odds": 0.325,
+    "playoff_odds": 0.332,
     "power_rank": 6,
     "proj_avg": 121.5,
     "proj_by_week": {
@@ -1198,7 +1198,7 @@
     "mine": true,
     "pa": 946.24,
     "pf": 906.7,
-    "playoff_odds": 0.204,
+    "playoff_odds": 0.203,
     "power_rank": 8,
     "proj_avg": 114.0,
     "proj_by_week": {
@@ -1219,7 +1219,7 @@
     "mine": false,
     "pa": 1017.26,
     "pf": 942.36,
-    "playoff_odds": 0.302,
+    "playoff_odds": 0.3,
     "power_rank": 4,
     "proj_avg": 125.6,
     "proj_by_week": {

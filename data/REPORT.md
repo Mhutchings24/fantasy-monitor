@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-04T17:24:12Z UTC
+Week 9 · record 3-5 · updated 2026-11-04T17:29:19Z UTC
 
 ## Lineup check
 Current lineup projects **113.7**, best possible **113.7**.
@@ -31,14 +31,14 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 1 | 132.7 | 100% |
+| 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 1 | 132.1 | 100% |
 | 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 7 | 121.2 | 96% |
 | 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 131.3 | 98% |
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 5 | 125.2 | 92% |
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 129.3 | 90% |
-| 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 9 | 113.8 | 20% |
+| 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 9 | 113.8 | 19% |
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 10 | 112.1 | 20% |
-| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 121.5 | 32% |
+| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 121.5 | 33% |
 | 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 8 | 114.0 | 20% |
 | 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 125.6 | 30% |
 
