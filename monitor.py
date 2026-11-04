@@ -337,7 +337,27 @@ def league_overview(rosters, users, mine, slots, players, adj, week, settings, l
         t["power_rank"] = i
     for t in teams.values():
         t["proj_by_week"] = {str(k): v for k, v in t["proj_by_week"].items()}
-    return {"standings": standings, "matchup": matchup, "playoff": playoff}
+    # last week's result, with each of your starters' points
+    last = None
+    if week > 1:
+        prev = get(f"{BASE}/league/{lid}/matchups/{week - 1}") or []
+        me_e = next((m for m in prev if m.get("roster_id") == my_rid), None)
+        if me_e:
+            op_e = next((m for m in prev if m.get("matchup_id") == me_e.get("matchup_id")
+                         and m.get("roster_id") != my_rid), None)
+            pp = me_e.get("players_points") or {}
+            starters = [p for p in (me_e.get("starters") or []) if p and p != "0"]
+            bench = [p for p in (me_e.get("players") or []) if p and p not in starters]
+            last = {
+                "week": week - 1, "my_points": me_e.get("points"),
+                "opponent": teams[op_e["roster_id"]]["team"] if op_e and op_e.get("roster_id") in teams else None,
+                "opp_points": op_e.get("points") if op_e else None,
+                "starters": [{"name": name_of(p, players), "pos": (players.get(p) or {}).get("position"),
+                              "points": pp.get(p, 0)} for p in starters],
+                "bench": sorted([{"name": name_of(p, players), "pos": (players.get(p) or {}).get("position"),
+                                  "points": pp.get(p, 0)} for p in bench], key=lambda x: -x["points"]),
+            }
+    return {"standings": standings, "matchup": matchup, "playoff": playoff, "last_week": last}
 
 
 def run():
