@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-04T08:15:10Z UTC
+Week 9 · record 3-5 · updated 2026-11-04T08:18:36Z UTC
 
 ## Lineup check
 Current lineup projects **97.9**, best possible **109.0**.
@@ -48,6 +48,18 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 116.5 | 28% |
 | 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 8 | 112.8 | 24% |
 | 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 125.0 | 40% |
+
+## Trade ideas
+Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
+
+- **Likely** · Give Brenton Strange + Quinshon Judkins, get Zay Flowers from Gibbs me Nabers 😵‍💫: +3.9 pts/week for you, +0.5 for them.
+- **Likely** · Give Brenton Strange + Quinshon Judkins, get Malik Nabers from Gibbs me Nabers 😵‍💫: +3.6 pts/week for you, +1.0 for them.
+- **Likely** · Give Josh Jacobs + Brenton Strange, get Parker Washington from Touch of the Downs: +1.4 pts/week for you, +0.4 for them.
+- **Likely** · Give George Kittle + Malik Washington, get Brock Bowers from Atticus Dean: +1.3 pts/week for you, +0.4 for them.
+- **Likely** · Give George Kittle + Quinshon Judkins, get Jonathan Taylor from Monangynecologist: +1.3 pts/week for you, +0.6 for them.
+- **Likely** · Give Josh Jacobs + Malik Washington, get Parker Washington from Touch of the Downs: +1.2 pts/week for you, +0.3 for them.
+- **Possible** · Give Brenton Strange + Quinshon Judkins, get Jaylen Warren from Monangynecologist: +2.3 pts/week for you, -0.4 for them.
+- **Possible** · Give Brenton Strange + Malik Washington, get Luther Burden III from Never Going Go Scottsdale: +2.0 pts/week for you, +0.3 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 9 | Wk 10 | Wk 11 | Wk 12 |
