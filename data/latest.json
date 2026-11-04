@@ -1,5 +1,5 @@
 {
- "content_hash": "5a0f3470d657f3f685d65dde86be923b15920ae1",
+ "content_hash": "12f7c1c944c9b0370248b97c99a193ce122489ee",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -530,21 +530,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Hunter Henry",
-   "pos": "TE",
-   "proj_4wk": 25.0,
-   "proj_this_week": 6.03,
-   "status": "Questionable",
-   "team": "NE"
-  },
-  {
-   "adds_24h": 0,
    "name": "Courtland Sutton",
    "pos": "WR",
    "proj_4wk": 25.0,
    "proj_this_week": 7.87,
    "status": null,
    "team": "DEN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Hunter Henry",
+   "pos": "TE",
+   "proj_4wk": 25.0,
+   "proj_this_week": 6.03,
+   "status": "Questionable",
+   "team": "NE"
   },
   {
    "adds_24h": 0,
@@ -835,7 +835,7 @@
    "team": "SEA"
   }
  ],
- "generated_at": "2026-11-04T22:50:19Z",
+ "generated_at": "2026-11-04T22:50:33Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
