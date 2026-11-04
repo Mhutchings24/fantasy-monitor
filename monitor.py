@@ -375,7 +375,7 @@ def run():
         lineup["gain"] = round(best_total - cur_total, 2)
 
     # ------------------------------------------------ waiver wire
-    waivers, streams = [], []
+    waivers, streams, free_agents = [], [], []
     trending = get(f"{BASE}/players/nfl/trending/add?lookback_hours=24&limit=50") or []
     trend_count = {t["player_id"]: t.get("count", 0) for t in trending if t.get("player_id")}
     if have_proj:
@@ -420,6 +420,12 @@ def run():
                     "trending_adds_24h": trend_count.get(f, 0),
                     "stream": streamer,
                 })
+        free_agents = [{"name": name_of(p, players), "pos": players[p].get("position"),
+                        "team": players[p].get("team"), "status": players[p].get("injury_status"),
+                        "proj_4wk": round(sum(adj[w].get(p, 0.0) for w in adj), 1),
+                        "proj_this_week": adj.get(week, {}).get(p, 0.0),
+                        "adds_24h": trend_count.get(p, 0)}
+                       for p in (fa[:80] + [p for p in trend_count if p in fa and p not in fa[:80]])]
         waivers.sort(key=lambda x: (x["gain_window"], x["trending_adds_24h"]), reverse=True)
         streams = [w for w in waivers if w["stream"]]
         streams = [next((w for w in streams if w["pos"] == pos), None) for pos in ("DEF", "K")]
@@ -456,7 +462,7 @@ def run():
                                             (mine.get("settings") or {}).get("losses", 0),
                                             ("-%d" % (mine.get("settings") or {}).get("ties", 0)) if (mine.get("settings") or {}).get("ties") else "")},
         "week": week, "weeks_projected": list(adj.keys()), "projections_ok": have_proj,
-        "roster": my_roster, "lineup": lineup, "waivers": waivers, "streams": streams, "faab": faab,
+        "roster": my_roster, "lineup": lineup, "waivers": waivers, "streams": streams, "free_agents": free_agents, "faab": faab,
     }
     return result, shape_sample, players
 
@@ -599,6 +605,20 @@ def report_md(r):
     return "\n".join(L) + "\n"
 
 
+def send_outbox(alert_state):
+    """Deliver messages queued by the scheduled analysis (data/outbox.json), once each."""
+    box = load(os.path.join(DATA, "outbox.json"), []) or []
+    done = alert_state.setdefault("outbox_sent", [])
+    for m in box:
+        mid = m.get("id")
+        if not mid or mid in done:
+            continue
+        if notify(m.get("title", "Fantasy update"), m.get("body", ""), m.get("priority", "default"),
+                  m.get("tags", "memo"), m.get("click")):
+            done.append(mid)
+    alert_state["outbox_sent"] = done[-50:]
+
+
 def main():
     cfg = load(os.path.join(ROOT, "config.json"))
     try:
@@ -607,6 +627,10 @@ def main():
         raise
     except Exception as e:
         log(f"Run failed (will retry next schedule): {e}")
+        st_path = os.path.join(DATA, "alert_state.json")
+        st = load(st_path, {}) or {}
+        send_outbox(st)
+        save(st_path, st)
         return 0
     stable = json.dumps(result, sort_keys=True)
     h = hashlib.sha1(stable.encode()).hexdigest()
@@ -616,6 +640,7 @@ def main():
     alert_path = os.path.join(DATA, "alert_state.json")
     alert_state = load(alert_path, {}) or {}
     out, first = alerts_for(result, players, alert_state, cfg)
+    send_outbox(alert_state)
     save(alert_path, alert_state)
 
     if prev.get("content_hash") != h:
