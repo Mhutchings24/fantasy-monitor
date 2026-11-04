@@ -64,6 +64,11 @@ Options, news (dated), chance of playing, role/matchup, floor–ceiling, recomme
 | Add | Drop | Bid | Why |
 (or "No adds worth making" with the reason)
 
+## Trades
+The monitor's trade engine (`trades` in latest.json) proposes deals that raise your projected starting points and also
+help the other team. Vet the top 2–3 with news (injuries, role changes, the partner's needs and record). For each:
+endorse, adjust (say what to change), or reject (say why). Skip the section if nothing is worth sending.
+
 ## Kicker & defense
 One or two lines on streaming.
 
@@ -105,8 +110,9 @@ Exact claims for this week's waiver run, in priority order, with FAAB bids and d
 Keep a FAAB reserve and say how much.
 
 ## Trade ideas
-1–3 realistic trades that fix a weakness: who to target on which team (and why that team would want it),
-what to offer from your surplus. Mark these as ideas to consider; never assume the user will make them.
+1–3 realistic trades that fix a weakness. Start from the engine's ideas (`trades` in latest.json), vet them with news,
+and add your own if you see a better one. For each: who to target on which team, why that team would want it,
+what to offer, and a one-line message the user could send. Mark these as ideas; never assume the user will make them.
 
 ## Roster health
 Players to hold, sell, stash or cut over the next month; IR returns and when.
@@ -114,7 +120,48 @@ Players to hold, sell, stash or cut over the next month; IR returns and when.
 ## Sources
 ```
 
-## 5. Filing
+## 5. Game-day check
+
+Short, urgent runs before each kickoff window (Thursday before the night game, Sunday morning before the 1 PM ET games,
+Sunday before the late-afternoon games, Monday before the night game). Saved as
+`reports/<season>/week-<WW>/<YYYY-MM-DD>-gameday-<HHMM>.md` (Mountain time). Focus only on players in that window and
+players still unlocked after it:
+
+```
+# Week <W> game-day check · <Day> <time> MT
+## Make these moves now
+Exact swaps, or "No changes needed". Include the kickoff/lock time for each.
+## Inactives and late news
+Each relevant player: active / inactive / game-time decision, with the source and time.
+## Still to decide
+Later-window decisions and when the news will come.
+## Sources
+```
+
+Search for official inactives and the latest beat-reporter news. When a starter is out or doubtful and his game
+hasn't started, the alert is `"priority": "high"` and the title starts with "Lineup change:".
+
+## 6. Flash report (event watcher)
+
+The event watcher runs hourly. It reads `data/events.json` (alerts the monitor logged) and `data/events_handled.json`
+(a JSON object `{"last_id": "<id>"}`; create it if missing). Each event has `type`
+(injury, roster, lineup, waiver, stream, other) and `severity` (high marks a starter who's now out or doubtful, or a
+lineup problem). If no event after `last_id` is `high` severity or of type `roster` or `injury`, set `last_id` to the
+newest event, commit, push, and stop: no report, no alert.
+
+Otherwise research the new events and write `reports/<season>/week-<WW>/<YYYY-MM-DD>-flash-<HHMM>.md`:
+
+```
+# Flash: <what happened, in a few words>
+## What changed
+## What to do
+Exact moves and deadlines.
+## Sources
+```
+
+Then file it as below and set `last_id` to the newest event handled.
+
+## 7. Filing
 
 1. Write the report file.
 2. Copy it over `reports/LATEST.md`.
@@ -125,5 +172,10 @@ Players to hold, sell, stash or cut over the next month; IR returns and when.
    `{"id": "<report file name>", "title": "Week <W> <AM|PM> report", "body": "<top 2–3 moves, under 300 characters>",
    "priority": "default", "tags": "memo", "click": "https://github.com/Mhutchings24/fantasy-monitor/blob/main/reports/LATEST.md"}`
    For the weekly check-in use the title `"Week <W> check-in"` and lead the body with the waiver claims.
+   For game-day checks use `"Game day: <window>"`; for flash reports `"Flash: <what happened>"`.
+   Also add the report to the index (step 3) — every report type goes in the same week group.
    Use `"priority": "high"` when there's an urgent move (a starter ruled out, a game about to lock).
-5. Commit with message `Week <W> <am|pm> report` and push to `main` (pull with rebase first; the monitor commits often).
+5. Commit with message `Week <W> <type> report` and push to `main` (pull with rebase first; the monitor commits often).
+
+Never change `monitor.py`, the app files (`index.html`, `app.js`) or the workflow in a scheduled run. If something in
+them looks broken, say so at the top of the report.

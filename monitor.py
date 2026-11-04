@@ -749,7 +749,7 @@ def alerts_for(result, players, alert_state, cfg):
         old, new = prev_status.get(r["pid"], "__unset__"), r["status"]
         if old != "__unset__" and old != new:
             if new:
-                out.append(("high" if new in BAD_START_STATUS else "default",
+                out.append(("high" if (new in BAD_START_STATUS and r["slot"] == "starter") else "default",
                             f"{r['name']} now {new}",
                             f"{r['name']} ({r['pos']}, {r['team']}) changed from {old or 'healthy'} to {new}.",
                             "warning"))
@@ -823,7 +823,10 @@ def alerts_for(result, players, alert_state, cfg):
         events = load(ev_path, []) or []
         stamp = now_iso()
         for i, (prio, title, body, tags_) in enumerate(out):
-            events.append({"id": f"{stamp}-{i}", "time": stamp, "week": week,
+            kind = {"warning": "injury", "white_check_mark": "injury", "inbox_tray": "roster",
+                    "rotating_light": "lineup", "arrows_counterclockwise": "lineup",
+                    "chart_with_upwards_trend": "waiver", "shield": "stream"}.get(tags_, "other")
+            events.append({"id": f"{stamp}-{i}", "time": stamp, "week": week, "type": kind,
                            "severity": prio, "title": title, "body": body})
         save(ev_path, events[-200:])
 
