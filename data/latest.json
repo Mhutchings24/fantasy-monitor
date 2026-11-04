@@ -1,11 +1,11 @@
 {
- "content_hash": "2b6273bf4e61da4f820a887ab462b93902b4704b",
+ "content_hash": "c3b1928172a27d934ee9c2107274378af866b442",
  "faab": {
   "budget": 100,
   "remaining": 110,
   "used": -10
  },
- "generated_at": "2026-11-04T07:44:50Z",
+ "generated_at": "2026-11-04T07:47:51Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -88,14 +88,27 @@
    }
   ],
   "best_projected": 109.0,
-  "current_projected": 103.32,
-  "gain": 5.68,
-  "problems": [],
+  "current_projected": 97.87,
+  "gain": 11.13,
+  "problems": [
+   {
+    "pid": "2216",
+    "status": "Out",
+    "text": "Mike Evans (WR, SF) is Out",
+    "type": "injury"
+   }
+  ],
+  "source": "matchup week 9",
   "swaps": [
    {
+    "bench": "2216",
+    "start": "11610",
+    "text": "Start Malik Washington (WR, MIA) (10.8) over Mike Evans (WR, SF) (0.0)"
+   },
+   {
     "bench": "12507",
-    "start": "4217",
-    "text": "Start George Kittle (TE, SF) (15.2) over Omarion Hampton (RB, LAC) (9.5)"
+    "start": "9480",
+    "text": "Start Brenton Strange (TE, JAX) (9.8) over Omarion Hampton (RB, LAC) (9.5)"
    }
   ],
   "week": 9
@@ -194,18 +207,18 @@
   },
   {
    "bye_this_week": false,
-   "name": "Brenton Strange",
-   "pid": "9480",
+   "name": "George Kittle",
+   "pid": "4217",
    "pos": "TE",
    "proj_by_week": {
-    "10": 11.54,
-    "11": 11.02,
-    "12": 11.51,
-    "9": 9.83
+    "10": 16.97,
+    "11": 14.72,
+    "12": 15.07,
+    "9": 15.2
    },
    "slot": "starter",
    "status": null,
-   "team": "JAX"
+   "team": "SF"
   },
   {
    "bye_this_week": false,
@@ -224,18 +237,18 @@
   },
   {
    "bye_this_week": false,
-   "name": "Malik Washington",
-   "pid": "11610",
+   "name": "Mike Evans",
+   "pid": "2216",
    "pos": "WR",
    "proj_by_week": {
-    "10": 10.04,
-    "11": 9.48,
-    "12": 9.92,
-    "9": 10.82
+    "10": 19.92,
+    "11": 17.14,
+    "12": 17.59,
+    "9": 0.0
    },
    "slot": "starter",
-   "status": null,
-   "team": "MIA"
+   "status": "Out",
+   "team": "SF"
   },
   {
    "bye_this_week": true,
@@ -254,18 +267,33 @@
   },
   {
    "bye_this_week": false,
-   "name": "George Kittle",
-   "pid": "4217",
+   "name": "Brenton Strange",
+   "pid": "9480",
    "pos": "TE",
    "proj_by_week": {
-    "10": 16.97,
-    "11": 14.72,
-    "12": 15.07,
-    "9": 15.2
+    "10": 11.54,
+    "11": 11.02,
+    "12": 11.51,
+    "9": 9.83
    },
    "slot": "bench",
    "status": null,
-   "team": "SF"
+   "team": "JAX"
+  },
+  {
+   "bye_this_week": false,
+   "name": "Malik Washington",
+   "pid": "11610",
+   "pos": "WR",
+   "proj_by_week": {
+    "10": 10.04,
+    "11": 9.48,
+    "12": 9.92,
+    "9": 10.82
+   },
+   "slot": "bench",
+   "status": null,
+   "team": "MIA"
   },
   {
    "bye_this_week": false,
@@ -326,21 +354,6 @@
    "slot": "reserve",
    "status": "IR",
    "team": "LAR"
-  },
-  {
-   "bye_this_week": false,
-   "name": "Mike Evans",
-   "pid": "2216",
-   "pos": "WR",
-   "proj_by_week": {
-    "10": 19.92,
-    "11": 17.14,
-    "12": 17.59,
-    "9": 0.0
-   },
-   "slot": "bench",
-   "status": "Out",
-   "team": "SF"
   }
  ],
  "streams": [
@@ -380,7 +393,7 @@
    "status": null,
    "stream": true,
    "team": "HOU",
-   "trending_adds_24h": 112510
+   "trending_adds_24h": 112916
   }
  ],
  "team": {
@@ -425,7 +438,7 @@
    "status": null,
    "stream": false,
    "team": "IND",
-   "trending_adds_24h": 133144
+   "trending_adds_24h": 133668
   },
   {
    "drop": "11628",
@@ -501,7 +514,7 @@
    "status": null,
    "stream": false,
    "team": "NO",
-   "trending_adds_24h": 63870
+   "trending_adds_24h": 64218
   },
   {
    "drop": "11628",
@@ -558,7 +571,7 @@
    "status": null,
    "stream": false,
    "team": "CIN",
-   "trending_adds_24h": 391912
+   "trending_adds_24h": 393424
   },
   {
    "drop": "11628",
@@ -577,7 +590,7 @@
    "status": null,
    "stream": false,
    "team": "NYG",
-   "trending_adds_24h": 97035
+   "trending_adds_24h": 97296
   }
  ],
  "week": 9,

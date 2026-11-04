@@ -1,10 +1,12 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-04T07:44:50Z UTC
+Week 9 · record 3-5 · updated 2026-11-04T07:47:51Z UTC
 
 ## Lineup check
-Current lineup projects **103.3**, best possible **109.0**.
+Current lineup projects **97.9**, best possible **109.0**.
 
-- 🔁 Start George Kittle (TE, SF) (15.2) over Omarion Hampton (RB, LAC) (9.5)
+- ⚠️ Mike Evans (WR, SF) is Out
+- 🔁 Start Malik Washington (WR, MIA) (10.8) over Mike Evans (WR, SF) (0.0)
+- 🔁 Start Brenton Strange (TE, JAX) (9.8) over Omarion Hampton (RB, LAC) (9.5)
 
 ## Waiver targets
 FAAB left: **$110** (league starting budget $100)
@@ -14,15 +16,15 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | J.K. Dobbins | RB | DEN | Marvin Harrison Jr. | +1.7 | +0.0 | 0 |
-| Keenan Allen | WR | IND | Marvin Harrison Jr. | +1.4 | +1.4 | 133,144 |
+| Keenan Allen | WR | IND | Marvin Harrison Jr. | +1.4 | +1.4 | 133,668 |
 | Xavier Worthy | WR | KC | Marvin Harrison Jr. | +1.1 | +0.5 | 0 |
 | Josh Downs | WR | IND | Marvin Harrison Jr. | +1.0 | +1.0 | 0 |
 | T.J. Hockenson | TE | MIN | Marvin Harrison Jr. | +0.9 | +0.9 | 0 |
-| Kendre Miller | RB | NO | Marvin Harrison Jr. | +0.7 | +0.7 | 63,870 |
+| Kendre Miller | RB | NO | Marvin Harrison Jr. | +0.7 | +0.7 | 64,218 |
 | Juwan Johnson | TE | NO | Marvin Harrison Jr. | +0.6 | +0.3 | 0 |
 | Dalton Kincaid | TE | BUF | Marvin Harrison Jr. | +0.4 | +0.0 | 0 |
-| Mike Gesicki | TE | CIN | Marvin Harrison Jr. | +0.4 | +0.4 | 391,912 |
-| J.J. McCarthy | QB | NYG | Marvin Harrison Jr. | +0.2 | +0.0 | 97,035 |
+| Mike Gesicki | TE | CIN | Marvin Harrison Jr. | +0.4 | +0.4 | 393,424 |
+| J.J. McCarthy | QB | NYG | Marvin Harrison Jr. | +0.2 | +0.0 | 97,296 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.8 pts this week)
 
@@ -37,13 +39,13 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | Josh Jacobs | RB | GB | starter |  | 14.1 | 12.6 | 0.0 | 13.1 |
 | Quinshon Judkins | RB | CLE | starter |  | 12.4 | 9.7 | 0.0 | 10.8 |
 | Omarion Hampton | RB | LAC | starter |  | 9.5 | 10.1 | 10.6 | 10.8 |
-| Brenton Strange | TE | JAX | starter |  | 9.8 | 11.5 | 11.0 | 11.5 |
+| George Kittle | TE | SF | starter |  | 15.2 | 17.0 | 14.7 | 15.1 |
 | DJ Moore | WR | BUF | starter | Questionable | 11.0 | 14.3 | 15.9 | 13.3 |
-| Malik Washington | WR | MIA | starter |  | 10.8 | 10.0 | 9.5 | 9.9 |
+| Mike Evans | WR | SF | starter | Out | 0.0 | 19.9 | 17.1 | 17.6 |
 | Rico Dowdle | RB | PIT | bench | BYE | 0.0 | 9.6 | 7.7 | 8.2 |
-| George Kittle | TE | SF | bench |  | 15.2 | 17.0 | 14.7 | 15.1 |
+| Brenton Strange | TE | JAX | bench |  | 9.8 | 11.5 | 11.0 | 11.5 |
+| Malik Washington | WR | MIA | bench |  | 10.8 | 10.0 | 9.5 | 9.9 |
 | Courtland Sutton | WR | DEN | bench |  | 7.8 | 0.0 | 8.6 | 8.6 |
 | Marvin Harrison Jr. | WR | HOU | bench |  | 5.0 | 4.8 | 5.0 | 5.0 |
 | Jordyn Tyson | WR | NO | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
-| Mike Evans | WR | SF | bench | Out | 0.0 | 19.9 | 17.1 | 17.6 |
