@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-04T07:58:13Z UTC
+Week 9 · record 3-5 · updated 2026-11-04T08:08:55Z UTC
 
 ## Lineup check
 Current lineup projects **97.9**, best possible **109.0**.
@@ -16,15 +16,15 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | J.K. Dobbins | RB | DEN | Marvin Harrison Jr. | +1.7 | +0.0 | 0 |
-| Keenan Allen | WR | IND | Marvin Harrison Jr. | +1.4 | +1.4 | 134,320 |
+| Keenan Allen | WR | IND | Marvin Harrison Jr. | +1.4 | +1.4 | 134,872 |
 | Xavier Worthy | WR | KC | Marvin Harrison Jr. | +1.1 | +0.5 | 0 |
 | Josh Downs | WR | IND | Marvin Harrison Jr. | +1.0 | +1.0 | 0 |
 | T.J. Hockenson | TE | MIN | Marvin Harrison Jr. | +0.9 | +0.9 | 0 |
-| Kendre Miller | RB | NO | Marvin Harrison Jr. | +0.7 | +0.7 | 64,488 |
+| Kendre Miller | RB | NO | Marvin Harrison Jr. | +0.7 | +0.7 | 64,768 |
 | Juwan Johnson | TE | NO | Marvin Harrison Jr. | +0.6 | +0.3 | 0 |
 | Dalton Kincaid | TE | BUF | Marvin Harrison Jr. | +0.4 | +0.0 | 0 |
-| Mike Gesicki | TE | CIN | Marvin Harrison Jr. | +0.4 | +0.4 | 395,000 |
-| J.J. McCarthy | QB | NYG | Marvin Harrison Jr. | +0.2 | +0.0 | 97,566 |
+| Mike Gesicki | TE | CIN | Marvin Harrison Jr. | +0.4 | +0.4 | 396,524 |
+| J.J. McCarthy | QB | NYG | Marvin Harrison Jr. | +0.2 | +0.0 | 97,836 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.8 pts this week)
 
