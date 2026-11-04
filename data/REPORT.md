@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-04T22:50:33Z UTC
+Week 9 · record 3-5 · updated 2026-11-04T22:55:37Z UTC
 
 ## Lineup check
-Current lineup projects **113.8**, best possible **113.8**.
+Current lineup projects **113.7**, best possible **113.7**.
 
 - ✅ Your lineup is already the best one available.
 
@@ -24,7 +24,7 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 **K stream this week:** add Eddy Pineiro for Matt Gay (+0.3 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **113.8** – 135.0 projected · win chance **27%**
+vs **Touch of the Downs** (2-6): you **113.7** – 134.8 projected · win chance **28%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -38,7 +38,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 129.9 | 92% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 10 | 109.2 | 13% |
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 111.5 | 20% |
-| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 121.0 | 34% |
+| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 120.9 | 34% |
 | 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 8 | 114.0 | 22% |
 | 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 125.5 | 30% |
 
