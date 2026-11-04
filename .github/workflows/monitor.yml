@@ -1,21 +1,25 @@
 name: Fantasy monitor
 
+# GitHub starts scheduled runs late and rarely on busy days (often about hourly).
+# So each scheduled run keeps watching for ~55 minutes, checking every 5 minutes.
+# Manual runs ("Run workflow", and the scheduled analysis tasks) do a single quick check.
+
 on:
   schedule:
-    - cron: "*/5 * * * *"   # every 5 minutes (GitHub may run it a little late)
-  workflow_dispatch: {}     # "Run workflow" button for a manual check
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
 
 permissions:
   contents: write
 
 concurrency:
-  group: fantasy-monitor
+  group: fantasy-monitor-${{ github.event_name }}
   cancel-in-progress: false
 
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 70
     steps:
       - uses: actions/checkout@v4
 
@@ -34,23 +38,26 @@ jobs:
           key: players-${{ steps.day.outputs.d }}
           restore-keys: players-
 
-      - name: Run monitor
+      - name: Watch the league
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-        run: python monitor.py
-
-      - name: Save results
+          LOOPS: ${{ github.event_name == 'schedule' && '11' || '1' }}
         run: |
           git config user.name "fantasy-monitor"
           git config user.email "fantasy-monitor@users.noreply.github.com"
-          git add data
-          if git diff --cached --quiet; then
-            echo "Nothing changed"
-            exit 0
-          fi
-          git commit -m "Update analysis $(date -u +%Y-%m-%dT%H:%MZ)"
-          for i in 1 2 3; do
-            git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push && exit 0
-            sleep 5
+          save() {
+            git add data
+            git diff --cached --quiet && return 0
+            git commit -q -m "Update analysis $(date -u +%Y-%m-%dT%H:%MZ)"
+            for i in 1 2 3 4; do
+              git pull -q --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push -q && return 0
+              sleep $((i * 4))
+            done
+            echo "push failed"; return 0
+          }
+          for n in $(seq 1 "$LOOPS"); do
+            git pull -q --rebase -X theirs origin "${GITHUB_REF_NAME}" || true
+            python monitor.py || echo "monitor exited with $?"
+            save
+            if [ "$n" -lt "$LOOPS" ]; then sleep 300; fi
           done
-          exit 1
