@@ -1,0 +1,630 @@
+{
+ "content_hash": "d0c236c257ba8f596dfa8b5b9252e33440fd946c",
+ "faab": {
+  "budget": 100,
+  "remaining": 110,
+  "used": -10
+ },
+ "generated_at": "2026-11-04T07:43:39Z",
+ "league": {
+  "id": "1389724872015347712",
+  "name": "No fun league",
+  "roster_positions": [
+   "QB",
+   "RB",
+   "RB",
+   "WR",
+   "WR",
+   "TE",
+   "FLEX",
+   "K",
+   "DEF",
+   "BN",
+   "BN",
+   "BN",
+   "BN",
+   "BN"
+  ],
+  "scoring_rec": 1.0,
+  "season": "2026",
+  "teams": 10,
+  "waiver_type": "FAAB"
+ },
+ "lineup": {
+  "best_lineup": [
+   {
+    "name": "Jared Goff",
+    "pid": "3163",
+    "proj": 19.95,
+    "slot": "QB"
+   },
+   {
+    "name": "Josh Jacobs",
+    "pid": "5850",
+    "proj": 14.05,
+    "slot": "RB"
+   },
+   {
+    "name": "Quinshon Judkins",
+    "pid": "12512",
+    "proj": 12.44,
+    "slot": "RB"
+   },
+   {
+    "name": "DJ Moore",
+    "pid": "4983",
+    "proj": 11.01,
+    "slot": "WR"
+   },
+   {
+    "name": "Malik Washington",
+    "pid": "11610",
+    "proj": 10.82,
+    "slot": "WR"
+   },
+   {
+    "name": "George Kittle",
+    "pid": "4217",
+    "proj": 15.2,
+    "slot": "TE"
+   },
+   {
+    "name": "Brenton Strange",
+    "pid": "9480",
+    "proj": 9.83,
+    "slot": "FLEX"
+   },
+   {
+    "name": "Matt Gay",
+    "pid": "6083",
+    "proj": 8.27,
+    "slot": "K"
+   },
+   {
+    "name": "LAR D/ST",
+    "pid": "LAR",
+    "proj": 7.43,
+    "slot": "DEF"
+   }
+  ],
+  "best_projected": 109.0,
+  "current_projected": 103.32,
+  "gain": 5.68,
+  "problems": [],
+  "swaps": [
+   {
+    "bench": "12507",
+    "start": "4217",
+    "text": "Start George Kittle (TE, SF) (15.2) over Omarion Hampton (RB, LAC) (9.5)"
+   }
+  ],
+  "week": 9
+ },
+ "projections_ok": true,
+ "roster": [
+  {
+   "bye_this_week": false,
+   "name": "LAR D/ST",
+   "pid": "LAR",
+   "pos": "DEF",
+   "proj_by_week": {
+    "10": 7.24,
+    "11": 0.0,
+    "12": 8.94,
+    "9": 7.43
+   },
+   "slot": "starter",
+   "status": null,
+   "team": "LAR"
+  },
+  {
+   "bye_this_week": false,
+   "name": "Matt Gay",
+   "pid": "6083",
+   "pos": "K",
+   "proj_by_week": {
+    "10": 8.49,
+    "11": 8.49,
+    "12": 8.49,
+    "9": 8.27
+   },
+   "slot": "starter",
+   "status": null,
+   "team": "LV"
+  },
+  {
+   "bye_this_week": false,
+   "name": "Jared Goff",
+   "pid": "3163",
+   "pos": "QB",
+   "proj_by_week": {
+    "10": 17.77,
+    "11": 19.23,
+    "12": 19.76,
+    "9": 19.95
+   },
+   "slot": "starter",
+   "status": null,
+   "team": "DET"
+  },
+  {
+   "bye_this_week": false,
+   "name": "Josh Jacobs",
+   "pid": "5850",
+   "pos": "RB",
+   "proj_by_week": {
+    "10": 12.61,
+    "11": 0.0,
+    "12": 13.09,
+    "9": 14.05
+   },
+   "slot": "starter",
+   "status": null,
+   "team": "GB"
+  },
+  {
+   "bye_this_week": false,
+   "name": "Quinshon Judkins",
+   "pid": "12512",
+   "pos": "RB",
+   "proj_by_week": {
+    "10": 9.7,
+    "11": 0.0,
+    "12": 10.75,
+    "9": 12.44
+   },
+   "slot": "starter",
+   "status": null,
+   "team": "CLE"
+  },
+  {
+   "bye_this_week": false,
+   "name": "Omarion Hampton",
+   "pid": "12507",
+   "pos": "RB",
+   "proj_by_week": {
+    "10": 10.06,
+    "11": 10.58,
+    "12": 10.8,
+    "9": 9.52
+   },
+   "slot": "starter",
+   "status": null,
+   "team": "LAC"
+  },
+  {
+   "bye_this_week": false,
+   "name": "Brenton Strange",
+   "pid": "9480",
+   "pos": "TE",
+   "proj_by_week": {
+    "10": 11.54,
+    "11": 11.02,
+    "12": 11.51,
+    "9": 9.83
+   },
+   "slot": "starter",
+   "status": null,
+   "team": "JAX"
+  },
+  {
+   "bye_this_week": false,
+   "name": "DJ Moore",
+   "pid": "4983",
+   "pos": "WR",
+   "proj_by_week": {
+    "10": 14.26,
+    "11": 15.89,
+    "12": 13.31,
+    "9": 11.01
+   },
+   "slot": "starter",
+   "status": "Questionable",
+   "team": "BUF"
+  },
+  {
+   "bye_this_week": false,
+   "name": "Malik Washington",
+   "pid": "11610",
+   "pos": "WR",
+   "proj_by_week": {
+    "10": 10.04,
+    "11": 9.48,
+    "12": 9.92,
+    "9": 10.82
+   },
+   "slot": "starter",
+   "status": null,
+   "team": "MIA"
+  },
+  {
+   "bye_this_week": true,
+   "name": "Rico Dowdle",
+   "pid": "7021",
+   "pos": "RB",
+   "proj_by_week": {
+    "10": 9.57,
+    "11": 7.68,
+    "12": 8.23,
+    "9": 0.0
+   },
+   "slot": "bench",
+   "status": null,
+   "team": "PIT"
+  },
+  {
+   "bye_this_week": false,
+   "name": "George Kittle",
+   "pid": "4217",
+   "pos": "TE",
+   "proj_by_week": {
+    "10": 16.97,
+    "11": 14.72,
+    "12": 15.07,
+    "9": 15.2
+   },
+   "slot": "bench",
+   "status": null,
+   "team": "SF"
+  },
+  {
+   "bye_this_week": false,
+   "name": "Courtland Sutton",
+   "pid": "5045",
+   "pos": "WR",
+   "proj_by_week": {
+    "10": 0.0,
+    "11": 8.56,
+    "12": 8.55,
+    "9": 7.83
+   },
+   "slot": "bench",
+   "status": null,
+   "team": "DEN"
+  },
+  {
+   "bye_this_week": false,
+   "name": "Marvin Harrison Jr.",
+   "pid": "11628",
+   "pos": "WR",
+   "proj_by_week": {
+    "10": 4.78,
+    "11": 5.01,
+    "12": 4.95,
+    "9": 4.99
+   },
+   "slot": "bench",
+   "status": null,
+   "team": "HOU"
+  },
+  {
+   "bye_this_week": false,
+   "name": "Jordyn Tyson",
+   "pid": "13281",
+   "pos": "WR",
+   "proj_by_week": {
+    "10": 0.0,
+    "11": 0.0,
+    "12": 0.0,
+    "9": 0.0
+   },
+   "slot": "reserve",
+   "status": "IR",
+   "team": "NO"
+  },
+  {
+   "bye_this_week": false,
+   "name": "Davante Adams",
+   "pid": "2133",
+   "pos": "WR",
+   "proj_by_week": {
+    "10": 0.0,
+    "11": 0.0,
+    "12": 0.0,
+    "9": 0.0
+   },
+   "slot": "reserve",
+   "status": "IR",
+   "team": "LAR"
+  },
+  {
+   "bye_this_week": false,
+   "name": "Mike Evans",
+   "pid": "2216",
+   "pos": "WR",
+   "proj_by_week": {
+    "10": 19.92,
+    "11": 17.14,
+    "12": 17.59,
+    "9": 0.0
+   },
+   "slot": "bench",
+   "status": "Out",
+   "team": "SF"
+  }
+ ],
+ "team": {
+  "name": "Conorrhea ",
+  "record": "3-5",
+  "roster_id": 7
+ },
+ "waivers": [
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 1.09,
+   "gain_window": 9.08,
+   "name": "HOU D/ST",
+   "pid": "HOU",
+   "pos": "DEF",
+   "proj_by_week": {
+    "10": 7.11,
+    "11": 7.99,
+    "12": 7.99,
+    "9": 8.52
+   },
+   "status": null,
+   "team": "HOU",
+   "trending_adds_24h": 730975
+  },
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 1.82,
+   "gain_window": 8.76,
+   "name": "KC D/ST",
+   "pid": "KC",
+   "pos": "DEF",
+   "proj_by_week": {
+    "10": 6.52,
+    "11": 6.94,
+    "12": 6.94,
+    "9": 9.25
+   },
+   "status": null,
+   "team": "KC",
+   "trending_adds_24h": 0
+  },
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 0.0,
+   "gain_window": 7.7,
+   "name": "BAL D/ST",
+   "pid": "BAL",
+   "pos": "DEF",
+   "proj_by_week": {
+    "10": 7.47,
+    "11": 7.47,
+    "12": 7.47,
+    "9": 5.45
+   },
+   "status": null,
+   "team": "BAL",
+   "trending_adds_24h": 0
+  },
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 0.12,
+   "gain_window": 7.24,
+   "name": "DET D/ST",
+   "pid": "DET",
+   "pos": "DEF",
+   "proj_by_week": {
+    "10": 5.91,
+    "11": 7.12,
+    "12": 7.12,
+    "9": 7.55
+   },
+   "status": null,
+   "team": "DET",
+   "trending_adds_24h": 539280
+  },
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 0.44,
+   "gain_window": 6.79,
+   "name": "NYG D/ST",
+   "pid": "NYG",
+   "pos": "DEF",
+   "proj_by_week": {
+    "10": 6.54,
+    "11": 6.35,
+    "12": 6.35,
+    "9": 7.87
+   },
+   "status": null,
+   "team": "NYG",
+   "trending_adds_24h": 227628
+  },
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 0.31,
+   "gain_window": 6.55,
+   "name": "SF D/ST",
+   "pid": "SF",
+   "pos": "DEF",
+   "proj_by_week": {
+    "10": 5.86,
+    "11": 6.24,
+    "12": 6.24,
+    "9": 7.74
+   },
+   "status": null,
+   "team": "SF",
+   "trending_adds_24h": 184539
+  },
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 0.0,
+   "gain_window": 6.35,
+   "name": "BUF D/ST",
+   "pid": "BUF",
+   "pos": "DEF",
+   "proj_by_week": {
+    "10": 6.99,
+    "11": 6.35,
+    "12": 6.35,
+    "9": 6.61
+   },
+   "status": null,
+   "team": "BUF",
+   "trending_adds_24h": 0
+  },
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 0.0,
+   "gain_window": 6.35,
+   "name": "DAL D/ST",
+   "pid": "DAL",
+   "pos": "DEF",
+   "proj_by_week": {
+    "10": 5.53,
+    "11": 6.35,
+    "12": 6.35,
+    "9": 6.81
+   },
+   "status": null,
+   "team": "DAL",
+   "trending_adds_24h": 0
+  },
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 0.0,
+   "gain_window": 6.29,
+   "name": "IND D/ST",
+   "pid": "IND",
+   "pos": "DEF",
+   "proj_by_week": {
+    "10": 6.61,
+    "11": 6.29,
+    "12": 6.29,
+    "9": 4.66
+   },
+   "status": null,
+   "team": "IND",
+   "trending_adds_24h": 0
+  },
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 0.62,
+   "gain_window": 6.09,
+   "name": "NO D/ST",
+   "pid": "NO",
+   "pos": "DEF",
+   "proj_by_week": {
+    "10": 6.13,
+    "11": 5.47,
+    "12": 5.47,
+    "9": 8.05
+   },
+   "status": null,
+   "team": "NO",
+   "trending_adds_24h": 295725
+  },
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 0.0,
+   "gain_window": 6.06,
+   "name": "CAR D/ST",
+   "pid": "CAR",
+   "pos": "DEF",
+   "proj_by_week": {
+    "10": 6.48,
+    "11": 6.06,
+    "12": 6.06,
+    "9": 6.2
+   },
+   "status": null,
+   "team": "CAR",
+   "trending_adds_24h": 0
+  },
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 0.03,
+   "gain_window": 1.67,
+   "name": "J.K. Dobbins",
+   "pid": "6806",
+   "pos": "RB",
+   "proj_by_week": {
+    "10": 0.0,
+    "11": 9.32,
+    "12": 6.82,
+    "9": 9.86
+   },
+   "status": null,
+   "team": "DEN",
+   "trending_adds_24h": 0
+  },
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 1.45,
+   "gain_window": 1.45,
+   "name": "Keenan Allen",
+   "pid": "1479",
+   "pos": "WR",
+   "proj_by_week": {
+    "10": 10.61,
+    "11": 9.26,
+    "12": 9.22,
+    "9": 11.28
+   },
+   "status": null,
+   "team": "IND",
+   "trending_adds_24h": 133668
+  },
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 0.51,
+   "gain_window": 1.07,
+   "name": "Xavier Worthy",
+   "pid": "11624",
+   "pos": "WR",
+   "proj_by_week": {
+    "10": 10.23,
+    "11": 11.58,
+    "12": 10.17,
+    "9": 10.34
+   },
+   "status": null,
+   "team": "KC",
+   "trending_adds_24h": 0
+  },
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 0.58,
+   "gain_window": 1.04,
+   "name": "Ka'imi Fairbairn",
+   "pid": "3451",
+   "pos": "K",
+   "proj_by_week": {
+    "10": 8.46,
+    "11": 8.72,
+    "12": 8.72,
+    "9": 8.85
+   },
+   "status": null,
+   "team": "HOU",
+   "trending_adds_24h": 112916
+  }
+ ],
+ "week": 9,
+ "weeks_projected": [
+  9,
+  10,
+  11,
+  12
+ ]
+}
