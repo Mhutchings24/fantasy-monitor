@@ -1,5 +1,5 @@
 {
- "content_hash": "1e5a2358c79dea46ac2c40168eb6e154aa262056",
+ "content_hash": "faa753730211f2d408a617b29c12c8488e3c9bb7",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -280,8 +280,8 @@
    "adds_24h": 0,
    "name": "Mark Andrews",
    "pos": "TE",
-   "proj_4wk": 31.4,
-   "proj_this_week": 7.41,
+   "proj_4wk": 31.1,
+   "proj_this_week": 7.16,
    "status": null,
    "team": "BAL"
   },
@@ -358,15 +358,6 @@
    "team": "KC"
   },
   {
-   "adds_24h": 99387,
-   "name": "Michael Mayer",
-   "pos": "TE",
-   "proj_4wk": 29.4,
-   "proj_this_week": 8.08,
-   "status": null,
-   "team": "LV"
-  },
-  {
    "adds_24h": 0,
    "name": "Tyler Huntley",
    "pos": "QB",
@@ -374,6 +365,15 @@
    "proj_this_week": 0.0,
    "status": "Out",
    "team": "BAL"
+  },
+  {
+   "adds_24h": 99387,
+   "name": "Michael Mayer",
+   "pos": "TE",
+   "proj_4wk": 29.4,
+   "proj_this_week": 8.08,
+   "status": null,
+   "team": "LV"
   },
   {
    "adds_24h": 0,
@@ -407,7 +407,7 @@
    "name": "BAL D/ST",
    "pos": "DEF",
    "proj_4wk": 27.8,
-   "proj_this_week": 5.42,
+   "proj_this_week": 5.39,
    "status": null,
    "team": "BAL"
   },
@@ -583,15 +583,6 @@
    "team": "ARI"
   },
   {
-   "adds_24h": 87181,
-   "name": "Joe Fagnano",
-   "pos": "QB",
-   "proj_4wk": 24.3,
-   "proj_this_week": 10.52,
-   "status": null,
-   "team": "BAL"
-  },
-  {
    "adds_24h": 0,
    "name": "Zane Gonzalez",
    "pos": "K",
@@ -599,6 +590,15 @@
    "proj_this_week": 7.1,
    "status": null,
    "team": "MIA"
+  },
+  {
+   "adds_24h": 87181,
+   "name": "Joe Fagnano",
+   "pos": "QB",
+   "proj_4wk": 24.1,
+   "proj_this_week": 10.38,
+   "status": null,
+   "team": "BAL"
   },
   {
    "adds_24h": 0,
@@ -721,8 +721,8 @@
    "adds_24h": 0,
    "name": "Justice Hill",
    "pos": "RB",
-   "proj_4wk": 23.1,
-   "proj_this_week": 6.06,
+   "proj_4wk": 22.9,
+   "proj_this_week": 5.89,
    "status": null,
    "team": "BAL"
   },
@@ -835,7 +835,7 @@
    "team": "WAS"
   }
  ],
- "generated_at": "2026-11-04T19:49:16Z",
+ "generated_at": "2026-11-04T19:54:21Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1013,8 +1013,8 @@
   },
   "matchup": {
    "my_proj": 113.7,
-   "opp_best_possible": 135.24,
-   "opp_proj": 135.2,
+   "opp_best_possible": 135.05,
+   "opp_proj": 135.1,
    "opponent": "Touch of the Downs",
    "opponent_record": "2-6",
    "win_prob": 0.272
@@ -1034,7 +1034,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.541,
+    "first_seed_odds": 0.542,
     "losses": 2,
     "mine": false,
     "pa": 1045.02,
@@ -1046,7 +1046,7 @@
      "10": 132.2,
      "11": 124.98,
      "12": 138.59,
-     "9": 131.71
+     "9": 131.67
     },
     "rank": 1,
     "roster_id": 9,
@@ -1055,7 +1055,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.125,
+    "first_seed_odds": 0.126,
     "losses": 2,
     "mine": false,
     "pa": 913.82,
@@ -1067,7 +1067,7 @@
      "10": 125.36,
      "11": 110.14,
      "12": 127.07,
-     "9": 121.99
+     "9": 121.88
     },
     "rank": 2,
     "roster_id": 8,
@@ -1076,19 +1076,19 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.217,
+    "first_seed_odds": 0.216,
     "losses": 3,
     "mine": false,
     "pa": 990.54,
     "pf": 1083.34,
     "playoff_odds": 0.986,
     "power_rank": 2,
-    "proj_avg": 131.1,
+    "proj_avg": 130.9,
     "proj_by_week": {
      "10": 125.63,
      "11": 132.93,
      "12": 137.24,
-     "9": 128.51
+     "9": 127.92
     },
     "rank": 3,
     "roster_id": 4,
@@ -1104,12 +1104,12 @@
     "pf": 967.6,
     "playoff_odds": 0.941,
     "power_rank": 5,
-    "proj_avg": 125.1,
+    "proj_avg": 125.0,
     "proj_by_week": {
      "10": 129.63,
      "11": 119.25,
      "12": 128.7,
-     "9": 122.69
+     "9": 122.55
     },
     "rank": 4,
     "roster_id": 5,
@@ -1123,7 +1123,7 @@
     "mine": false,
     "pa": 1104.36,
     "pf": 1110.86,
-    "playoff_odds": 0.906,
+    "playoff_odds": 0.907,
     "power_rank": 3,
     "proj_avg": 129.3,
     "proj_by_week": {
@@ -1165,7 +1165,7 @@
     "mine": false,
     "pa": 1009.1,
     "pf": 948.02,
-    "playoff_odds": 0.209,
+    "playoff_odds": 0.21,
     "power_rank": 9,
     "proj_avg": 112.0,
     "proj_by_week": {
@@ -1228,14 +1228,14 @@
     "mine": false,
     "pa": 1017.26,
     "pf": 942.36,
-    "playoff_odds": 0.304,
+    "playoff_odds": 0.302,
     "power_rank": 4,
     "proj_avg": 125.5,
     "proj_by_week": {
      "10": 131.31,
      "11": 102.46,
      "12": 133.19,
-     "9": 135.24
+     "9": 135.05
     },
     "rank": 10,
     "roster_id": 3,
@@ -1421,7 +1421,7 @@
     "10": 11.54,
     "11": 11.02,
     "12": 11.51,
-    "9": 9.83
+    "9": 9.81
    },
    "slot": "bench",
    "status": null,
@@ -1550,7 +1550,7 @@
      "name": "Brenton Strange",
      "pid": "9480",
      "pos": "TE",
-     "ros_per_week": 11.3,
+     "ros_per_week": 11.2,
      "status": null,
      "team": "JAX"
     },
@@ -1596,7 +1596,7 @@
      "name": "Brenton Strange",
      "pid": "9480",
      "pos": "TE",
-     "ros_per_week": 11.3,
+     "ros_per_week": 11.2,
      "status": null,
      "team": "JAX"
     },
@@ -1722,7 +1722,7 @@
      "name": "Brenton Strange",
      "pid": "9480",
      "pos": "TE",
-     "ros_per_week": 11.3,
+     "ros_per_week": 11.2,
      "status": null,
      "team": "JAX"
     }
