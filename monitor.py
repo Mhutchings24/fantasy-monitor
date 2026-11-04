@@ -198,8 +198,15 @@ def optimal_lineup(pids, slots, players, pts):
 
 # ---------------------------------------------------------------- alerts
 
+def ntfy_topic():
+    t = os.environ.get("NTFY_TOPIC", "").strip()
+    if not t:
+        t = (load(os.path.join(ROOT, "config.json"), {}) or {}).get("ntfy_topic", "").strip()
+    return t
+
+
 def notify(title, body, priority="default", tags="", click=None):
-    topic = os.environ.get("NTFY_TOPIC", "").strip()
+    topic = ntfy_topic()
     if not topic:
         log(f"[alert, no NTFY_TOPIC set] {title}: {body}")
         return False
@@ -524,7 +531,7 @@ def alerts_for(result, players, alert_state, cfg):
 
     first_run = not alert_state.get("initialized")
     alert_state["initialized"] = True
-    if not alert_state.get("welcome_sent") and os.environ.get("NTFY_TOPIC", "").strip():
+    if not alert_state.get("welcome_sent") and ntfy_topic():
         # one summary instead of a flood of everything that's already true
         lu = result["lineup"]
         lines = [f"Watching {result['league']['name']}, week {week}."]
