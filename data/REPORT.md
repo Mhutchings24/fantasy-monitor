@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-04T07:43:39Z UTC
+Week 9 · record 3-5 · updated 2026-11-04T07:44:50Z UTC
 
 ## Lineup check
 Current lineup projects **103.3**, best possible **109.0**.
@@ -7,27 +7,26 @@ Current lineup projects **103.3**, best possible **109.0**.
 - 🔁 Start George Kittle (TE, SF) (15.2) over Omarion Hampton (RB, LAC) (9.5)
 
 ## Waiver targets
-FAAB remaining: **$110** of $100
+FAAB left: **$110** (league starting budget $100)
 
 Gain = extra projected starting points over weeks 9–12 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| HOU D/ST | DEF | HOU | Marvin Harrison Jr. | +9.1 | +1.1 | 730,975 |
-| KC D/ST | DEF | KC | Marvin Harrison Jr. | +8.8 | +1.8 | 0 |
-| BAL D/ST | DEF | BAL | Marvin Harrison Jr. | +7.7 | +0.0 | 0 |
-| DET D/ST | DEF | DET | Marvin Harrison Jr. | +7.2 | +0.1 | 539,280 |
-| NYG D/ST | DEF | NYG | Marvin Harrison Jr. | +6.8 | +0.4 | 227,628 |
-| SF D/ST | DEF | SF | Marvin Harrison Jr. | +6.5 | +0.3 | 184,539 |
-| BUF D/ST | DEF | BUF | Marvin Harrison Jr. | +6.3 | +0.0 | 0 |
-| DAL D/ST | DEF | DAL | Marvin Harrison Jr. | +6.3 | +0.0 | 0 |
-| IND D/ST | DEF | IND | Marvin Harrison Jr. | +6.3 | +0.0 | 0 |
-| NO D/ST | DEF | NO | Marvin Harrison Jr. | +6.1 | +0.6 | 295,725 |
-| CAR D/ST | DEF | CAR | Marvin Harrison Jr. | +6.1 | +0.0 | 0 |
 | J.K. Dobbins | RB | DEN | Marvin Harrison Jr. | +1.7 | +0.0 | 0 |
-| Keenan Allen | WR | IND | Marvin Harrison Jr. | +1.4 | +1.4 | 133,668 |
+| Keenan Allen | WR | IND | Marvin Harrison Jr. | +1.4 | +1.4 | 133,144 |
 | Xavier Worthy | WR | KC | Marvin Harrison Jr. | +1.1 | +0.5 | 0 |
-| Ka'imi Fairbairn | K | HOU | Marvin Harrison Jr. | +1.0 | +0.6 | 112,916 |
+| Josh Downs | WR | IND | Marvin Harrison Jr. | +1.0 | +1.0 | 0 |
+| T.J. Hockenson | TE | MIN | Marvin Harrison Jr. | +0.9 | +0.9 | 0 |
+| Kendre Miller | RB | NO | Marvin Harrison Jr. | +0.7 | +0.7 | 63,870 |
+| Juwan Johnson | TE | NO | Marvin Harrison Jr. | +0.6 | +0.3 | 0 |
+| Dalton Kincaid | TE | BUF | Marvin Harrison Jr. | +0.4 | +0.0 | 0 |
+| Mike Gesicki | TE | CIN | Marvin Harrison Jr. | +0.4 | +0.4 | 391,912 |
+| J.J. McCarthy | QB | NYG | Marvin Harrison Jr. | +0.2 | +0.0 | 97,035 |
+
+**DEF stream this week:** add KC D/ST for LAR D/ST (+1.8 pts this week)
+
+**K stream this week:** add Ka'imi Fairbairn for Matt Gay (+0.6 pts this week)
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 9 | Wk 10 | Wk 11 | Wk 12 |

@@ -1,11 +1,11 @@
 {
- "content_hash": "d0c236c257ba8f596dfa8b5b9252e33440fd946c",
+ "content_hash": "2b6273bf4e61da4f820a887ab462b93902b4704b",
  "faab": {
   "budget": 100,
   "remaining": 110,
   "used": -10
  },
- "generated_at": "2026-11-04T07:43:39Z",
+ "generated_at": "2026-11-04T07:44:50Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -343,35 +343,12 @@
    "team": "SF"
   }
  ],
- "team": {
-  "name": "Conorrhea ",
-  "record": "3-5",
-  "roster_id": 7
- },
- "waivers": [
+ "streams": [
   {
-   "drop": "11628",
-   "drop_name": "Marvin Harrison Jr.",
-   "gain_this_week": 1.09,
-   "gain_window": 9.08,
-   "name": "HOU D/ST",
-   "pid": "HOU",
-   "pos": "DEF",
-   "proj_by_week": {
-    "10": 7.11,
-    "11": 7.99,
-    "12": 7.99,
-    "9": 8.52
-   },
-   "status": null,
-   "team": "HOU",
-   "trending_adds_24h": 730975
-  },
-  {
-   "drop": "11628",
-   "drop_name": "Marvin Harrison Jr.",
+   "drop": "LAR",
+   "drop_name": "LAR D/ST",
    "gain_this_week": 1.82,
-   "gain_window": 8.76,
+   "gain_window": 1.82,
    "name": "KC D/ST",
    "pid": "KC",
    "pos": "DEF",
@@ -382,171 +359,36 @@
     "9": 9.25
    },
    "status": null,
+   "stream": true,
    "team": "KC",
    "trending_adds_24h": 0
   },
   {
-   "drop": "11628",
-   "drop_name": "Marvin Harrison Jr.",
-   "gain_this_week": 0.0,
-   "gain_window": 7.7,
-   "name": "BAL D/ST",
-   "pid": "BAL",
-   "pos": "DEF",
+   "drop": "6083",
+   "drop_name": "Matt Gay",
+   "gain_this_week": 0.58,
+   "gain_window": 0.58,
+   "name": "Ka'imi Fairbairn",
+   "pid": "3451",
+   "pos": "K",
    "proj_by_week": {
-    "10": 7.47,
-    "11": 7.47,
-    "12": 7.47,
-    "9": 5.45
+    "10": 8.46,
+    "11": 8.72,
+    "12": 8.72,
+    "9": 8.85
    },
    "status": null,
-   "team": "BAL",
-   "trending_adds_24h": 0
-  },
-  {
-   "drop": "11628",
-   "drop_name": "Marvin Harrison Jr.",
-   "gain_this_week": 0.12,
-   "gain_window": 7.24,
-   "name": "DET D/ST",
-   "pid": "DET",
-   "pos": "DEF",
-   "proj_by_week": {
-    "10": 5.91,
-    "11": 7.12,
-    "12": 7.12,
-    "9": 7.55
-   },
-   "status": null,
-   "team": "DET",
-   "trending_adds_24h": 539280
-  },
-  {
-   "drop": "11628",
-   "drop_name": "Marvin Harrison Jr.",
-   "gain_this_week": 0.44,
-   "gain_window": 6.79,
-   "name": "NYG D/ST",
-   "pid": "NYG",
-   "pos": "DEF",
-   "proj_by_week": {
-    "10": 6.54,
-    "11": 6.35,
-    "12": 6.35,
-    "9": 7.87
-   },
-   "status": null,
-   "team": "NYG",
-   "trending_adds_24h": 227628
-  },
-  {
-   "drop": "11628",
-   "drop_name": "Marvin Harrison Jr.",
-   "gain_this_week": 0.31,
-   "gain_window": 6.55,
-   "name": "SF D/ST",
-   "pid": "SF",
-   "pos": "DEF",
-   "proj_by_week": {
-    "10": 5.86,
-    "11": 6.24,
-    "12": 6.24,
-    "9": 7.74
-   },
-   "status": null,
-   "team": "SF",
-   "trending_adds_24h": 184539
-  },
-  {
-   "drop": "11628",
-   "drop_name": "Marvin Harrison Jr.",
-   "gain_this_week": 0.0,
-   "gain_window": 6.35,
-   "name": "BUF D/ST",
-   "pid": "BUF",
-   "pos": "DEF",
-   "proj_by_week": {
-    "10": 6.99,
-    "11": 6.35,
-    "12": 6.35,
-    "9": 6.61
-   },
-   "status": null,
-   "team": "BUF",
-   "trending_adds_24h": 0
-  },
-  {
-   "drop": "11628",
-   "drop_name": "Marvin Harrison Jr.",
-   "gain_this_week": 0.0,
-   "gain_window": 6.35,
-   "name": "DAL D/ST",
-   "pid": "DAL",
-   "pos": "DEF",
-   "proj_by_week": {
-    "10": 5.53,
-    "11": 6.35,
-    "12": 6.35,
-    "9": 6.81
-   },
-   "status": null,
-   "team": "DAL",
-   "trending_adds_24h": 0
-  },
-  {
-   "drop": "11628",
-   "drop_name": "Marvin Harrison Jr.",
-   "gain_this_week": 0.0,
-   "gain_window": 6.29,
-   "name": "IND D/ST",
-   "pid": "IND",
-   "pos": "DEF",
-   "proj_by_week": {
-    "10": 6.61,
-    "11": 6.29,
-    "12": 6.29,
-    "9": 4.66
-   },
-   "status": null,
-   "team": "IND",
-   "trending_adds_24h": 0
-  },
-  {
-   "drop": "11628",
-   "drop_name": "Marvin Harrison Jr.",
-   "gain_this_week": 0.62,
-   "gain_window": 6.09,
-   "name": "NO D/ST",
-   "pid": "NO",
-   "pos": "DEF",
-   "proj_by_week": {
-    "10": 6.13,
-    "11": 5.47,
-    "12": 5.47,
-    "9": 8.05
-   },
-   "status": null,
-   "team": "NO",
-   "trending_adds_24h": 295725
-  },
-  {
-   "drop": "11628",
-   "drop_name": "Marvin Harrison Jr.",
-   "gain_this_week": 0.0,
-   "gain_window": 6.06,
-   "name": "CAR D/ST",
-   "pid": "CAR",
-   "pos": "DEF",
-   "proj_by_week": {
-    "10": 6.48,
-    "11": 6.06,
-    "12": 6.06,
-    "9": 6.2
-   },
-   "status": null,
-   "team": "CAR",
-   "trending_adds_24h": 0
-  },
+   "stream": true,
+   "team": "HOU",
+   "trending_adds_24h": 112510
+  }
+ ],
+ "team": {
+  "name": "Conorrhea ",
+  "record": "3-5",
+  "roster_id": 7
+ },
+ "waivers": [
   {
    "drop": "11628",
    "drop_name": "Marvin Harrison Jr.",
@@ -562,6 +404,7 @@
     "9": 9.86
    },
    "status": null,
+   "stream": false,
    "team": "DEN",
    "trending_adds_24h": 0
   },
@@ -580,8 +423,9 @@
     "9": 11.28
    },
    "status": null,
+   "stream": false,
    "team": "IND",
-   "trending_adds_24h": 133668
+   "trending_adds_24h": 133144
   },
   {
    "drop": "11628",
@@ -598,26 +442,142 @@
     "9": 10.34
    },
    "status": null,
+   "stream": false,
    "team": "KC",
    "trending_adds_24h": 0
   },
   {
    "drop": "11628",
    "drop_name": "Marvin Harrison Jr.",
-   "gain_this_week": 0.58,
+   "gain_this_week": 1.04,
    "gain_window": 1.04,
-   "name": "Ka'imi Fairbairn",
-   "pid": "3451",
-   "pos": "K",
+   "name": "Josh Downs",
+   "pid": "9500",
+   "pos": "WR",
    "proj_by_week": {
-    "10": 8.46,
-    "11": 8.72,
-    "12": 8.72,
-    "9": 8.85
+    "10": 11.08,
+    "11": 9.69,
+    "12": 9.59,
+    "9": 10.87
    },
    "status": null,
-   "team": "HOU",
-   "trending_adds_24h": 112916
+   "stream": false,
+   "team": "IND",
+   "trending_adds_24h": 0
+  },
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 0.95,
+   "gain_window": 0.95,
+   "name": "T.J. Hockenson",
+   "pid": "5844",
+   "pos": "TE",
+   "proj_by_week": {
+    "10": 10.66,
+    "11": 10.04,
+    "12": 10.21,
+    "9": 10.78
+   },
+   "status": null,
+   "stream": false,
+   "team": "MIN",
+   "trending_adds_24h": 0
+  },
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 0.69,
+   "gain_window": 0.69,
+   "name": "Kendre Miller",
+   "pid": "9757",
+   "pos": "RB",
+   "proj_by_week": {
+    "10": 4.56,
+    "11": 4.61,
+    "12": 4.68,
+    "9": 10.52
+   },
+   "status": null,
+   "stream": false,
+   "team": "NO",
+   "trending_adds_24h": 63870
+  },
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 0.32,
+   "gain_window": 0.6,
+   "name": "Juwan Johnson",
+   "pid": "7002",
+   "pos": "TE",
+   "proj_by_week": {
+    "10": 10.29,
+    "11": 11.3,
+    "12": 11.36,
+    "9": 10.15
+   },
+   "status": null,
+   "stream": false,
+   "team": "NO",
+   "trending_adds_24h": 0
+  },
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 0.0,
+   "gain_window": 0.41,
+   "name": "Dalton Kincaid",
+   "pid": "10236",
+   "pos": "TE",
+   "proj_by_week": {
+    "10": 10.34,
+    "11": 11.43,
+    "12": 9.67,
+    "9": 9.75
+   },
+   "status": null,
+   "stream": false,
+   "team": "BUF",
+   "trending_adds_24h": 0
+  },
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 0.39,
+   "gain_window": 0.39,
+   "name": "Mike Gesicki",
+   "pid": "4993",
+   "pos": "TE",
+   "proj_by_week": {
+    "10": 8.1,
+    "11": 8.74,
+    "12": 7.95,
+    "9": 10.22
+   },
+   "status": null,
+   "stream": false,
+   "team": "CIN",
+   "trending_adds_24h": 391912
+  },
+  {
+   "drop": "11628",
+   "drop_name": "Marvin Harrison Jr.",
+   "gain_this_week": 0.0,
+   "gain_window": 0.17,
+   "name": "J.J. McCarthy",
+   "pid": "11565",
+   "pos": "QB",
+   "proj_by_week": {
+    "10": 17.94,
+    "11": 13.78,
+    "12": 15.38,
+    "9": 16.81
+   },
+   "status": null,
+   "stream": false,
+   "team": "NYG",
+   "trending_adds_24h": 97035
   }
  ],
  "week": 9,
