@@ -1,5 +1,5 @@
 {
- "content_hash": "22128bb0de1cf4686cbfd5f34629fb6aaf62cdcd",
+ "content_hash": "da45bbbb0960dade5b79895058795e2abaa3e150",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -79,15 +79,6 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 621204,
-   "name": "Gardner Minshew II",
-   "pos": "QB",
-   "proj_4wk": 49.7,
-   "proj_this_week": 11.5,
-   "status": null,
-   "team": "ARI"
-  },
-  {
    "adds_24h": 0,
    "name": "Baker Mayfield",
    "pos": "QB",
@@ -95,6 +86,15 @@
    "proj_this_week": 16.21,
    "status": null,
    "team": "TB"
+  },
+  {
+   "adds_24h": 621204,
+   "name": "Gardner Minshew II",
+   "pos": "QB",
+   "proj_4wk": 49.7,
+   "proj_this_week": 11.5,
+   "status": null,
+   "team": "ARI"
   },
   {
    "adds_24h": 0,
@@ -358,15 +358,6 @@
    "team": "KC"
   },
   {
-   "adds_24h": 0,
-   "name": "Tyler Huntley",
-   "pos": "QB",
-   "proj_4wk": 29.4,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "BAL"
-  },
-  {
    "adds_24h": 98433,
    "name": "Michael Mayer",
    "pos": "TE",
@@ -374,6 +365,15 @@
    "proj_this_week": 8.08,
    "status": null,
    "team": "LV"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Tyler Huntley",
+   "pos": "QB",
+   "proj_4wk": 29.4,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "BAL"
   },
   {
    "adds_24h": 0,
@@ -835,7 +835,7 @@
    "team": "SEA"
   }
  ],
- "generated_at": "2026-11-04T21:47:19Z",
+ "generated_at": "2026-11-04T21:52:24Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
