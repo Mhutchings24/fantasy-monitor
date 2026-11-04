@@ -245,6 +245,134 @@ def team_name(roster, users):
     return (u.get("metadata") or {}).get("team_name") or u.get("display_name") or f"Team {roster.get('roster_id')}"
 
 
+TRADE_POS = {"QB", "RB", "WR", "TE"}
+
+
+def trade_ideas(rosters, users, mine, slots, players, ros, settings, cfg):
+    """Find trades that raise YOUR projected starting points for the rest of the season
+    while also helping (or barely costing) the other team, so they have a reason to say yes.
+
+    Value = projected points of each team's best possible lineup, week by week, through week 17
+    (fantasy playoff weeks count 1.25x). That rewards fixing holes, not just collecting names."""
+    from itertools import combinations
+    pws = int(settings.get("playoff_week_start") or 15)
+    weights = {w: (1.25 if w >= pws else 1.0) for w in ros}
+    n_weeks = sum(weights.values()) or 1.0
+    tcfg = cfg.get("trades", {})
+    min_gain = float(tcfg.get("min_gain_per_week", 1.0))
+    max_ideas = int(tcfg.get("max_ideas", 8))
+
+    def active_of(r):
+        res = set(r.get("reserve") or []) | set(r.get("taxi") or [])
+        return [p for p in (r.get("players") or []) if p and p not in res and p in players]
+
+    def value(pids):
+        return sum(weights[w] * optimal_lineup(pids, slots, players, ros[w])[0] for w in ros)
+
+    def raw(p):  # name-value proxy: total projected points rest of season
+        return sum(ros[w].get(p, 0.0) for w in ros)
+
+    def starts(pids, p):  # weeks p would start in that roster's best lineup
+        return sum(1 for w in ros if p in {x for _, x in optimal_lineup(pids, slots, players, ros[w])[1]})
+
+    def pos(p):
+        return (players.get(p) or {}).get("position")
+
+    def tradeable(pids, k):
+        c = [p for p in pids if pos(p) in TRADE_POS and raw(p) > 5]
+        return sorted(c, key=raw, reverse=True)[:k]
+
+    def drop_worst(pids):
+        if len(pids) <= 1:
+            return pids
+        worst = min(pids, key=raw)
+        return [p for p in pids if p != worst]
+
+    my_active = active_of(mine)
+    base_me = value(my_active)
+    my_c = tradeable(my_active, 12)
+    ideas = []
+    for r in rosters:
+        if r is mine:
+            continue
+        theirs = active_of(r)
+        if not theirs:
+            continue
+        base_t = value(theirs)
+        th_c = tradeable(theirs, 12)
+        deals = [((g,), (t,)) for g in my_c for t in th_c]
+        deals += [(g2, (t,)) for g2 in combinations(my_c[:9], 2) for t in th_c[:6]]
+        deals += [((g,), t2) for g in my_c[:6] for t2 in combinations(th_c[:9], 2)]
+        for give, get_ in deals:
+            me_new = [p for p in my_active if p not in give] + list(get_)
+            t_new = [p for p in theirs if p not in get_] + list(give)
+            if len(get_) > len(give):
+                me_new = drop_worst(me_new)
+            if len(give) > len(get_):
+                t_new = drop_worst(t_new)
+            dm = (value(me_new) - base_me) / n_weeks
+            if dm < min_gain:
+                continue
+            dt = (value(t_new) - base_t) / n_weeks
+            vg, vr = sum(raw(p) for p in give), sum(raw(p) for p in get_)
+            fairness = vr / vg if vg else 9.9
+            if dt > 0.3 and fairness <= 1.2:
+                likely = "Likely"
+            elif dt > -0.5 and fairness <= 1.35:
+                likely = "Possible"
+            else:
+                continue  # long shots aren't worth showing
+            ideas.append({"rid": r.get("roster_id"), "give": give, "get": get_, "dm": dm, "dt": dt,
+                          "fairness": fairness, "likely": likely, "me_new": me_new, "t_new": t_new,
+                          "theirs": theirs})
+    # best idea per trade partner first, then the rest, ranked by your gain (likely ones favored)
+    ideas.sort(key=lambda x: (x["dm"] + (1.5 if x["likely"] == "Likely" else 0)), reverse=True)
+    picked, seen_partner, seen_players = [], {}, set()
+    for x in ideas:
+        key = (frozenset(x["give"]), frozenset(x["get"]))
+        if key in seen_players or seen_partner.get(x["rid"], 0) >= 2:
+            continue
+        seen_players.add(key)
+        seen_partner[x["rid"]] = seen_partner.get(x["rid"], 0) + 1
+        picked.append(x)
+        if len(picked) >= max_ideas:
+            break
+
+    nw = len(ros)
+    out = []
+    rosters_by_id = {r.get("roster_id"): r for r in rosters}
+    for x in picked:
+        partner = team_name(rosters_by_id[x["rid"]], users)
+        def card(p):
+            pl = players.get(p) or {}
+            return {"pid": p, "name": name_of(p, players), "pos": pl.get("position"), "team": pl.get("team"),
+                    "status": pl.get("injury_status"), "ros_per_week": round(raw(p) / nw, 1)}
+        why_you, why_them = [], []
+        for p in x["get"]:
+            why_you.append(f"{name_of(p, players)} would start {starts(x['me_new'], p)} of {nw} weeks for you")
+        for p in x["give"]:
+            s_ = starts(my_active, p)
+            why_you.append(f"{name_of(p, players)} " + (f"starts only {s_} of {nw} weeks for you" if s_ <= nw // 2
+                                                       else f"starts {s_} of {nw} weeks for you"))
+        for p in x["give"]:
+            why_them.append(f"{name_of(p, players)} would start {starts(x['t_new'], p)} of {nw} weeks for them")
+        for p in x["get"]:
+            s_ = starts(x["theirs"], p)
+            if s_ <= nw // 2:
+                why_them.append(f"{name_of(p, players)} only starts {s_} of {nw} weeks on their roster")
+        out.append({
+            "partner": partner, "partner_roster_id": x["rid"],
+            "give": [card(p) for p in x["give"]], "get": [card(p) for p in x["get"]],
+            "your_gain_per_week": round(x["dm"], 1), "their_gain_per_week": round(x["dt"], 1),
+            "value_ratio": round(x["fairness"], 2), "likelihood": x["likely"],
+            "why_you": why_you, "why_them": why_them,
+            "summary": (f"Give {' + '.join(name_of(p, players) for p in x['give'])}, get "
+                        f"{' + '.join(name_of(p, players) for p in x['get'])} from {partner}: "
+                        f"+{x['dm']:.1f} pts/week for you, {x['dt']:+.1f} for them."),
+        })
+    return out
+
+
 def league_overview(rosters, users, mine, slots, players, adj, week, settings, lid, matchups_now, sims=4000):
     """Standings, power rankings, this week's matchup and simulated playoff odds."""
     import math
@@ -398,7 +526,8 @@ def run():
     last_week = 17 if int(season) >= 2021 else 16
     if season_type != "regular":
         log(f"Season type is {season_type}; projections may be empty")
-    weeks = [w for w in range(week, min(week + int(cfg.get("projection_weeks", 4)), last_week + 1))] or [week]
+    window = [w for w in range(week, min(week + int(cfg.get("projection_weeks", 4)), last_week + 1))] or [week]
+    weeks = list(range(week, last_week + 1)) or [week]  # rest of season, for trades
 
     # projections: pts[week][pid]
     pts_by_week, teams_playing, shape_sample = {}, {}, None
@@ -426,7 +555,7 @@ def run():
                                 "stat_keys_sample": sorted((r.get("stats") or {}).keys())[:40]}
         pts_by_week[w] = wk
         teams_playing[w] = playing
-    have_proj = bool(pts_by_week)
+    have_proj = any(w in pts_by_week for w in window)
 
     def bye(pid, w):
         team = (players.get(pid) or {}).get("team")
@@ -447,7 +576,8 @@ def run():
             out[pid] = round(v, 2)
         return out
 
-    adj = {w: adj_pts(w) for w in pts_by_week}
+    ros = {w: adj_pts(w) for w in pts_by_week}
+    adj = {w: ros[w] for w in window if w in ros}
 
     roster_all = [p for p in (mine.get("players") or []) if p]
     reserve = set(mine.get("reserve") or []) | set(mine.get("taxi") or [])
@@ -572,6 +702,12 @@ def run():
     my_roster.sort(key=lambda r: (r["slot"] != "starter", r["pos"] or "", -(r["proj_by_week"].get(str(week)) or 0)))
 
     try:
+        trades = trade_ideas(rosters, users, mine, slots, players, ros, settings, cfg) if ros else []
+    except Exception as e:
+        log(f"Trade engine failed: {e}")
+        trades = []
+
+    try:
         overview = league_overview(rosters, users, mine, slots, players, adj, week, settings, lid,
                                    matchups_now) if adj else None
     except Exception as e:  # the overview must never break the core monitor
@@ -591,7 +727,7 @@ def run():
                                             ("-%d" % (mine.get("settings") or {}).get("ties", 0)) if (mine.get("settings") or {}).get("ties") else "")},
         "week": week, "weeks_projected": list(adj.keys()), "projections_ok": have_proj,
         "roster": my_roster, "lineup": lineup, "waivers": waivers, "streams": streams, "free_agents": free_agents, "faab": faab,
-        "overview": overview,
+        "overview": overview, "trades": trades,
     }
     return result, shape_sample, players
 
@@ -617,6 +753,17 @@ def alerts_for(result, players, alert_state, cfg):
                 out.append(("default", f"{r['name']} cleared",
                             f"{r['name']} no longer has an injury designation.", "white_check_mark"))
         prev_status[r["pid"]] = new
+
+    # roster changes (waiver results, trades, drops)
+    now_roster = {r["pid"]: r["name"] for r in result["roster"]}
+    prev_roster = alert_state.get("roster")
+    if prev_roster is not None:
+        added = [n for p, n in now_roster.items() if p not in prev_roster]
+        dropped = [n for p, n in prev_roster.items() if p not in now_roster]
+        if added or dropped:
+            parts = ([f"Added {', '.join(added)}"] if added else []) + ([f"Dropped {', '.join(dropped)}"] if dropped else [])
+            out.append(("default", "Roster change", ". ".join(parts) + ".", "inbox_tray"))
+    alert_state["roster"] = now_roster
 
     lu = result["lineup"]
     for pr in lu.get("problems", []):
@@ -666,6 +813,16 @@ def alerts_for(result, players, alert_state, cfg):
 
     first_run = not alert_state.get("initialized")
     alert_state["initialized"] = True
+    # every alert also goes to the events log the event watcher reads
+    if out:
+        ev_path = os.path.join(DATA, "events.json")
+        events = load(ev_path, []) or []
+        stamp = now_iso()
+        for i, (prio, title, body, tags_) in enumerate(out):
+            events.append({"id": f"{stamp}-{i}", "time": stamp, "week": week,
+                           "severity": prio, "title": title, "body": body})
+        save(ev_path, events[-200:])
+
     if not alert_state.get("welcome_sent") and ntfy_topic():
         # one summary instead of a flood of everything that's already true
         lu = result["lineup"]
@@ -743,6 +900,12 @@ def report_md(r):
             odds = f"{t['playoff_odds']*100:.0f}%" if "playoff_odds" in t else "—"
             L.append(f"| {t['rank']} | {nm} | {t['wins']}-{t['losses']} | {t['pf']:.1f} | {t['pa']:.1f} | "
                      f"{t['power_rank']} | {t['proj_avg']:.1f} | {odds} |")
+        L.append("")
+    if r.get("trades"):
+        L.append("## Trade ideas")
+        L.append("Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).\n")
+        for t in r["trades"]:
+            L.append(f"- **{t['likelihood']}** · {t['summary']}")
         L.append("")
     L.append("## Roster")
     L.append("| Player | Pos | Team | Spot | Status | " + " | ".join(f"Wk {w}" for w in weeks) + " |")
