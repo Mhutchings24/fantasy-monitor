@@ -1,5 +1,5 @@
 {
- "content_hash": "c9de4cd0932d3c511db76a7d570a7297300022af",
+ "content_hash": "9b8daa78720dbfbbf1ca00552cc873f2c0a2c944",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -386,15 +386,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Deshaun Watson",
-   "pos": "QB",
-   "proj_4wk": 28.5,
-   "proj_this_week": 12.44,
-   "status": "Questionable",
-   "team": "CLE"
-  },
-  {
-   "adds_24h": 0,
    "name": "Jason Sanders",
    "pos": "K",
    "proj_4wk": 28.1,
@@ -437,6 +428,15 @@
    "proj_this_week": 7.5,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Shedeur Sanders",
+   "pos": "QB",
+   "proj_4wk": 27.2,
+   "proj_this_week": 12.8,
+   "status": null,
+   "team": "CLE"
   },
   {
    "adds_24h": 282756,
@@ -730,8 +730,8 @@
    "adds_24h": 310210,
    "name": "Dylan Sampson",
    "pos": "RB",
-   "proj_4wk": 19.9,
-   "proj_this_week": 8.59,
+   "proj_4wk": 20.0,
+   "proj_this_week": 8.65,
    "status": null,
    "team": "CLE"
   },
@@ -826,7 +826,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-04T17:08:54Z",
+ "generated_at": "2026-11-04T17:14:00Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -868,7 +868,7 @@
    {
     "name": "Quinshon Judkins",
     "pid": "12512",
-    "proj": 12.22,
+    "proj": 12.28,
     "slot": "RB"
    },
    {
@@ -908,8 +908,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 113.65,
-  "current_projected": 113.65,
+  "best_projected": 113.71,
+  "current_projected": 113.71,
   "gain": 0.0,
   "problems": [],
   "source": "matchup week 9",
@@ -1058,7 +1058,7 @@
      "10": 125.36,
      "11": 110.14,
      "12": 127.07,
-     "9": 122.28
+     "9": 122.34
     },
     "rank": 2,
     "roster_id": 8,
@@ -1121,7 +1121,7 @@
      "10": 132.47,
      "11": 110.4,
      "12": 135.99,
-     "9": 138.46
+     "9": 138.52
     },
     "rank": 5,
     "roster_id": 10,
@@ -1205,7 +1205,7 @@
      "10": 118.86,
      "11": 104.75,
      "12": 118.56,
-     "9": 113.65
+     "9": 113.71
     },
     "rank": 9,
     "roster_id": 7,
@@ -1307,7 +1307,7 @@
     "10": 9.7,
     "11": 0.0,
     "12": 10.75,
-    "9": 12.22
+    "9": 12.28
    },
    "slot": "starter",
    "status": null,

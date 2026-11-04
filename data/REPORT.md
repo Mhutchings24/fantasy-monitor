@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-04T17:08:54Z UTC
+Week 9 · record 3-5 · updated 2026-11-04T17:14:00Z UTC
 
 ## Lineup check
 Current lineup projects **113.7**, best possible **113.7**.
@@ -61,7 +61,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Matt Gay | K | LV | starter |  | 8.3 | 8.5 | 8.5 | 8.5 |
 | Jared Goff | QB | DET | starter |  | 19.9 | 17.8 | 19.2 | 19.8 |
 | Josh Jacobs | RB | GB | starter |  | 14.1 | 12.6 | 0.0 | 13.1 |
-| Quinshon Judkins | RB | CLE | starter |  | 12.2 | 9.7 | 0.0 | 10.8 |
+| Quinshon Judkins | RB | CLE | starter |  | 12.3 | 9.7 | 0.0 | 10.8 |
 | George Kittle | TE | SF | starter |  | 15.3 | 17.0 | 14.7 | 15.1 |
 | Mike Evans | WR | SF | starter | Questionable | 14.1 | 19.9 | 17.1 | 17.6 |
 | Keenan Allen | WR | IND | starter |  | 11.3 | 10.6 | 9.3 | 9.2 |
