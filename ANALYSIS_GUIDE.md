@@ -81,8 +81,9 @@ Keep it readable on a phone: short sentences, tables where they help, no walls o
 
 ## 4. Weekly check-in (Tuesdays)
 
-The Tuesday morning run (am, Mountain time) writes a weekly check-in instead of the regular report. The Tuesday pm run is a normal report, saved as
-`reports/<season>/week-<WW>/<YYYY-MM-DD>-weekly.md`, where WW is the **upcoming** week. Sections, in order:
+The Tuesday morning run (am, Mountain time) writes a weekly check-in instead of the regular report, saved as
+`reports/<season>/week-<WW>/<YYYY-MM-DD>-weekly.md`, where WW is the **upcoming** week. The Tuesday pm run is a
+normal report. Weekly check-in sections, in order:
 
 ```
 # Week <W> check-in · <Tue Mon D>
