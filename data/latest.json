@@ -1,5 +1,5 @@
 {
- "content_hash": "9b8daa78720dbfbbf1ca00552cc873f2c0a2c944",
+ "content_hash": "25acdf17bcb40d91c46d3e83335f68c9605c890a",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -367,15 +367,6 @@
    "team": "KC"
   },
   {
-   "adds_24h": 0,
-   "name": "Tyler Huntley",
-   "pos": "QB",
-   "proj_4wk": 29.4,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "BAL"
-  },
-  {
    "adds_24h": 104139,
    "name": "Michael Mayer",
    "pos": "TE",
@@ -383,6 +374,15 @@
    "proj_this_week": 8.08,
    "status": null,
    "team": "LV"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Tyler Huntley",
+   "pos": "QB",
+   "proj_4wk": 29.4,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "BAL"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-04T17:14:00Z",
+ "generated_at": "2026-11-04T17:19:06Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
