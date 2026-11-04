@@ -254,6 +254,15 @@ def run():
     if not mine:
         raise SystemExit("Couldn't find your roster in the league")
 
+    # The week's actual lineup lives in that week's matchup; roster.starters can lag behind.
+    current_starters = list(mine.get("starters") or [])
+    lineup_source = "roster"
+    for m in (get(f"{BASE}/league/{lid}/matchups/{week}") or []):
+        if m.get("roster_id") == mine.get("roster_id") and m.get("starters"):
+            current_starters, lineup_source = list(m["starters"]), f"matchup week {week}"
+            break
+    log(f"Lineup source: {lineup_source}")
+
     players = players_db()
     score = make_scorer(scoring)
     league_positions = sorted({p for s in slots for p in SLOT_ELIG.get(s, ())})
@@ -321,10 +330,10 @@ def run():
         return round(sum(optimal_lineup(pids, slots, players, adj[w])[0] for w in adj), 2)
 
     # ------------------------------------------------ lineup check (this week)
-    lineup = {"week": week, "problems": [], "swaps": []}
+    lineup = {"week": week, "problems": [], "swaps": [], "source": lineup_source}
     if week in adj:
         a = adj[week]
-        current = list(mine.get("starters") or [])
+        current = current_starters
         cur_total = 0.0
         for i, slot in enumerate(slots):
             pid = current[i] if i < len(current) else None
@@ -422,7 +431,7 @@ def run():
         my_roster.append({
             "pid": p, "name": name_of(p, players), "pos": pl.get("position"),
             "team": pl.get("team"), "status": pl.get("injury_status"),
-            "slot": "reserve" if p in reserve else ("starter" if p in (mine.get("starters") or []) else "bench"),
+            "slot": "reserve" if p in reserve else ("starter" if p in current_starters else "bench"),
             "proj_by_week": {str(w): adj[w].get(p, 0.0) for w in adj},
             "bye_this_week": bye(p, week),
         })
