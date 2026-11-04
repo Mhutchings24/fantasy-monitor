@@ -359,7 +359,7 @@ def run():
         lineup["gain"] = round(best_total - cur_total, 2)
 
     # ------------------------------------------------ waiver wire
-    waivers = []
+    waivers, streams = [], []
     trending = get(f"{BASE}/players/nfl/trending/add?lookback_hours=24&limit=50") or []
     trend_count = {t["player_id"]: t.get("count", 0) for t in trending if t.get("player_id")}
     if have_proj:
@@ -371,12 +371,21 @@ def run():
         fa.sort(key=lambda p: sum(adj[w].get(p, 0.0) for w in adj), reverse=True)
         pool = fa[: int(cfg.get("waiver_candidates", 80))]
         pool += [p for p in trend_count if p in fa and p not in pool]
-        drops = list(active)
+        base_week = optimal_lineup(active, slots, players, adj[week])[0] if week in adj else 0.0
         for f in pool:
+            fpos = players[f].get("position")
+            streamer = fpos in ("K", "DEF")
+            # K/DEF are weekly streams: judge on this week only, swapping for the same position
+            drops = [p for p in active if players.get(p, {}).get("position") == fpos] if streamer else list(active)
+            if streamer and (not drops or week not in adj):
+                continue
             best_gain, best_drop = None, None
             for d in drops:
                 trial = [p for p in active if p != d] + [f]
-                g = window_total(trial) - base
+                if streamer:
+                    g = optimal_lineup(trial, slots, players, adj[week])[0] - base_week
+                else:
+                    g = window_total(trial) - base
                 if best_gain is None or g > best_gain:
                     best_gain, best_drop = g, d
             if best_gain is not None and best_gain > 0.05:
@@ -393,9 +402,13 @@ def run():
                     "gain_window": round(best_gain, 2), "gain_this_week": round(this_week, 2),
                     "proj_by_week": {str(w): adj[w].get(f, 0.0) for w in adj},
                     "trending_adds_24h": trend_count.get(f, 0),
+                    "stream": streamer,
                 })
         waivers.sort(key=lambda x: (x["gain_window"], x["trending_adds_24h"]), reverse=True)
-        waivers = waivers[:15]
+        streams = [w for w in waivers if w["stream"]]
+        streams = [next((w for w in streams if w["pos"] == pos), None) for pos in ("DEF", "K")]
+        streams = [w for w in streams if w]
+        waivers = [w for w in waivers if not w["stream"]][:12]
 
     faab = None
     if settings.get("waiver_type") == 2:
@@ -427,7 +440,7 @@ def run():
                                             (mine.get("settings") or {}).get("losses", 0),
                                             ("-%d" % (mine.get("settings") or {}).get("ties", 0)) if (mine.get("settings") or {}).get("ties") else "")},
         "week": week, "weeks_projected": list(adj.keys()), "projections_ok": have_proj,
-        "roster": my_roster, "lineup": lineup, "waivers": waivers, "faab": faab,
+        "roster": my_roster, "lineup": lineup, "waivers": waivers, "streams": streams, "faab": faab,
     }
     return result, shape_sample, players
 
@@ -484,6 +497,17 @@ def alerts_for(result, players, alert_state, cfg):
             body += f" Added in {w['trending_adds_24h']:,} leagues in the last 24h."
         out.append(("default", f"Waiver target: {w['name']}", body, "chart_with_upwards_trend"))
 
+    for w in result.get("streams", []):
+        if w["gain_this_week"] < th.get("stream_gain_points", 3.0):
+            continue
+        key = f"stream:{week}:{w['pid']}"
+        if key in sent:
+            continue
+        sent[key] = now_iso()
+        out.append(("default", f"{w['pos']} stream: {w['name']}",
+                    f"Add {w['name']}, drop {w['drop_name']}: +{w['gain_this_week']:.1f} projected pts this week.",
+                    "shield"))
+
     # keep the dedupe log from growing forever
     cutoff = week - 2
     alert_state["sent"] = {k: v for k, v in sent.items()
@@ -491,7 +515,7 @@ def alerts_for(result, players, alert_state, cfg):
 
     first_run = not alert_state.get("initialized")
     alert_state["initialized"] = True
-    if first_run:
+    if not alert_state.get("welcome_sent") and os.environ.get("NTFY_TOPIC", "").strip():
         # one summary instead of a flood of everything that's already true
         lu = result["lineup"]
         lines = [f"Watching {result['league']['name']}, week {week}."]
@@ -503,7 +527,10 @@ def alerts_for(result, players, alert_state, cfg):
         if result["waivers"]:
             w = result["waivers"][0]
             lines.append(f"Top waiver add: {w['name']} for {w['drop_name']} (+{w['gain_window']:.1f}).")
-        notify("Fantasy monitor is live", "\n".join(lines), "default", "football", link)
+        if notify("Fantasy monitor is live", "\n".join(lines), "default", "football", link):
+            alert_state["welcome_sent"] = True
+        return out, True
+    if first_run:
         return out, first_run
     for prio, title, body, tags in out[:6]:
         notify(title, body, prio, tags, link)
@@ -531,7 +558,7 @@ def report_md(r):
     L.append("")
     L.append("## Waiver targets")
     if r.get("faab"):
-        L.append(f"FAAB remaining: **${r['faab']['remaining']}** of ${r['faab']['budget']}\n")
+        L.append(f"FAAB left: **${r['faab']['remaining']}** (league starting budget ${r['faab']['budget']})\n")
     weeks = r["weeks_projected"]
     if r["waivers"]:
         L.append(f"Gain = extra projected starting points over weeks {weeks[0]}–{weeks[-1]} after the swap.\n")
@@ -543,6 +570,8 @@ def report_md(r):
                      f"+{w['gain_window']:.1f} | +{w['gain_this_week']:.1f} | {w['trending_adds_24h']:,} |")
     else:
         L.append("No free agent improves your projected lineup right now.")
+    for w in r.get("streams", []):
+        L.append(f"\n**{w['pos']} stream this week:** add {w['name']} for {w['drop_name']} (+{w['gain_this_week']:.1f} pts this week)")
     L.append("")
     L.append("## Roster")
     L.append("| Player | Pos | Team | Spot | Status | " + " | ".join(f"Wk {w}" for w in weeks) + " |")
