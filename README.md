@@ -1,16 +1,27 @@
-# Fantasy monitor
+# Conorrhea HQ
 
-Watches the **No Fun League** on Sleeper for `Mhutch2446` every ~5 minutes.
+Fantasy management for **Conorrhea** in the **No Fun League** (Sleeper user `Mhutch2446`).
 
-- **Latest report:** [data/REPORT.md](data/REPORT.md)
-- **Raw analysis:** [data/latest.json](data/latest.json)
-- **In-depth reports (twice daily):** [reports/](reports/README.md) · [latest](reports/LATEST.md)
+- **App:** https://mhutchings24.github.io/fantasy-monitor/ (add it to your home screen)
+- **Latest analysis:** [reports/LATEST.md](reports/LATEST.md) · [all reports](reports/README.md)
+- **Alerts:** the ntfy app, topic set in `config.json`
 
-Each run pulls the league from Sleeper's public API, then:
+## How it works
 
-- **Waiver wire:** ranks free agents by how many extra projected starting points they add over the next 4 weeks, after dropping your least useful player.
-- **Lineup check:** flags starters who are out, doubtful, on bye, or empty slots, and lists better swaps from your bench.
-- **Alerts:** sends a push to the ntfy app for new injuries on your roster, lineup problems, and strong waiver targets. Each alert is sent once.
+| What | When | Does |
+|---|---|---|
+| **Monitor** (`monitor.py`) | Every ~5 min, around the clock | Pulls the league from Sleeper. Checks your lineup, ranks waiver adds and K/DEF streams, finds trades, runs standings and playoff odds. Alerts on injury changes, lineup problems, roster changes and strong pickups. |
+| **Analysis** (Claude) | Daily, 7:36 AM and 5:36 PM MT | Researches news on every starter, injury and waiver target and writes an in-depth report. Tuesday morning's is the **weekly check-in**: recap, playoff picture, waiver plan, trade ideas. |
+| **Game-day checks** (Claude) | Thu & Mon 4:51 PM, Sun 9:41 AM & 12:46 PM MT | Inactives and late news before each kickoff window, with exact swaps and lock times. |
+| **Event watcher** (Claude) | Hourly | When the monitor logs something serious (a starter ruled out, a roster change), it researches it and writes a flash report. |
 
-Settings live in `config.json`. Alerts need a repository secret named `NTFY_TOPIC`.
-To check right now: **Actions → Fantasy monitor → Run workflow**.
+Every report lands in `reports/`, shows up in the app, and sends a phone alert.
+
+## Files
+
+- `monitor.py`: the monitor. Settings live in `config.json`.
+- `ANALYSIS_GUIDE.md`: how Claude writes every report. Edit it to change the format.
+- `data/latest.json`: everything the monitor knows, refreshed every check. `data/REPORT.md` is the readable version.
+- `data/events.json`: the alert log. `data/outbox.json`: report alerts waiting to send.
+- `index.html`, `app.js`: the app.
+- To run a check right now: **Actions → Fantasy monitor → Run workflow**.
