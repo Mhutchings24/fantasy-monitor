@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-04T12:30:06Z UTC
+Week 9 · record 3-5 · updated 2026-11-04T13:43:48Z UTC
 
 ## Lineup check
 Current lineup projects **112.2**, best possible **114.0**.
@@ -17,7 +17,7 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | Xavier Worthy | WR | KC | Malik Washington | +0.6 | +0.0 | 0 |
 | Dalton Kincaid | TE | BUF | Malik Washington | +0.4 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Malik Washington | +0.3 | +0.0 | 0 |
-| J.J. McCarthy | QB | NYG | Malik Washington | +0.2 | +0.0 | 102,519 |
+| J.J. McCarthy | QB | NYG | Malik Washington | +0.2 | +0.0 | 98,484 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.8 pts this week)
 
@@ -36,11 +36,11 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 3 | 128.6 | 98% |
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 5 | 125.3 | 92% |
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 2 | 129.4 | 91% |
-| 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 8 | 118.4 | 30% |
-| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 10 | 109.6 | 14% |
-| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 121.6 | 33% |
-| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 9 | 114.0 | 19% |
-| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 125.6 | 27% |
+| 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 9 | 113.7 | 20% |
+| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 10 | 112.1 | 20% |
+| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 121.6 | 35% |
+| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 8 | 114.0 | 20% |
+| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 125.6 | 29% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -52,7 +52,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Possible** · Give Josh Jacobs + Brenton Strange, get Parker Washington from Touch of the Downs: +1.2 pts/week for you, +0.2 for them.
 - **Possible** · Give Malik Washington, get Jonah Coleman from Glizzy Globbler : +1.2 pts/week for you, -0.5 for them.
 - **Possible** · Give Keenan Allen, get Jonah Coleman from Glizzy Globbler : +1.2 pts/week for you, -0.5 for them.
-- **Possible** · Give Brenton Strange, get Jaylen Waddle from Bradsbaconisundercooked: +1.1 pts/week for you, -0.4 for them.
+- **Possible** · Give Malik Washington, get Jaylen Waddle from Bradsbaconisundercooked: +1.2 pts/week for you, -0.5 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 9 | Wk 10 | Wk 11 | Wk 12 |
