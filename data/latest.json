@@ -1,11 +1,823 @@
 {
- "content_hash": "c3b1928172a27d934ee9c2107274378af866b442",
+ "content_hash": "6432d8a14aee821b7a00f04d3ecf373b554f0ac5",
  "faab": {
   "budget": 100,
   "remaining": 110,
   "used": -10
  },
- "generated_at": "2026-11-04T07:47:51Z",
+ "free_agents": [
+  {
+   "adds_24h": 156568,
+   "name": "Kirk Cousins",
+   "pos": "QB",
+   "proj_4wk": 65.3,
+   "proj_this_week": 17.15,
+   "status": null,
+   "team": "LV"
+  },
+  {
+   "adds_24h": 392917,
+   "name": "Malik Willis",
+   "pos": "QB",
+   "proj_4wk": 63.9,
+   "proj_this_week": 17.84,
+   "status": null,
+   "team": "MIA"
+  },
+  {
+   "adds_24h": 97566,
+   "name": "J.J. McCarthy",
+   "pos": "QB",
+   "proj_4wk": 63.9,
+   "proj_this_week": 16.81,
+   "status": null,
+   "team": "NYG"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Geno Smith",
+   "pos": "QB",
+   "proj_4wk": 61.0,
+   "proj_this_week": 14.83,
+   "status": null,
+   "team": "NYJ"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Kyler Murray",
+   "pos": "QB",
+   "proj_4wk": 60.2,
+   "proj_this_week": 14.59,
+   "status": "Questionable",
+   "team": "MIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Daniel Jones",
+   "pos": "QB",
+   "proj_4wk": 57.7,
+   "proj_this_week": 14.91,
+   "status": null,
+   "team": "IND"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Justin Herbert",
+   "pos": "QB",
+   "proj_4wk": 57.3,
+   "proj_this_week": 14.04,
+   "status": null,
+   "team": "LAC"
+  },
+  {
+   "adds_24h": 119652,
+   "name": "Sam Darnold",
+   "pos": "QB",
+   "proj_4wk": 50.3,
+   "proj_this_week": 18.31,
+   "status": null,
+   "team": "SEA"
+  },
+  {
+   "adds_24h": 72012,
+   "name": "Bo Nix",
+   "pos": "QB",
+   "proj_4wk": 50.2,
+   "proj_this_week": 15.69,
+   "status": null,
+   "team": "DEN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Baker Mayfield",
+   "pos": "QB",
+   "proj_4wk": 49.7,
+   "proj_this_week": 16.21,
+   "status": null,
+   "team": "TB"
+  },
+  {
+   "adds_24h": 948716,
+   "name": "Gardner Minshew II",
+   "pos": "QB",
+   "proj_4wk": 49.3,
+   "proj_this_week": 11.13,
+   "status": null,
+   "team": "ARI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Aaron Rodgers",
+   "pos": "QB",
+   "proj_4wk": 43.6,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Juwan Johnson",
+   "pos": "TE",
+   "proj_4wk": 43.1,
+   "proj_this_week": 10.15,
+   "status": null,
+   "team": "NO"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Cam Ward",
+   "pos": "QB",
+   "proj_4wk": 42.4,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "TEN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Xavier Worthy",
+   "pos": "WR",
+   "proj_4wk": 42.3,
+   "proj_this_week": 10.34,
+   "status": null,
+   "team": "KC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "T.J. Hockenson",
+   "pos": "TE",
+   "proj_4wk": 41.7,
+   "proj_this_week": 10.78,
+   "status": null,
+   "team": "MIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Michael Penix Jr.",
+   "pos": "QB",
+   "proj_4wk": 41.6,
+   "proj_this_week": 17.0,
+   "status": null,
+   "team": "ATL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Josh Downs",
+   "pos": "WR",
+   "proj_4wk": 41.2,
+   "proj_this_week": 10.87,
+   "status": null,
+   "team": "IND"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Dalton Kincaid",
+   "pos": "TE",
+   "proj_4wk": 41.2,
+   "proj_this_week": 9.75,
+   "status": null,
+   "team": "BUF"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Jakobi Meyers",
+   "pos": "WR",
+   "proj_4wk": 40.9,
+   "proj_this_week": 8.07,
+   "status": "Questionable",
+   "team": "JAX"
+  },
+  {
+   "adds_24h": 134320,
+   "name": "Keenan Allen",
+   "pos": "WR",
+   "proj_4wk": 40.4,
+   "proj_this_week": 11.28,
+   "status": null,
+   "team": "IND"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Tanner McKee",
+   "pos": "QB",
+   "proj_4wk": 39.7,
+   "proj_this_week": 12.05,
+   "status": null,
+   "team": "PHI"
+  },
+  {
+   "adds_24h": 68940,
+   "name": "Khalil Shakir",
+   "pos": "WR",
+   "proj_4wk": 36.2,
+   "proj_this_week": 9.14,
+   "status": null,
+   "team": "BUF"
+  },
+  {
+   "adds_24h": 395000,
+   "name": "Mike Gesicki",
+   "pos": "TE",
+   "proj_4wk": 35.0,
+   "proj_this_week": 10.22,
+   "status": null,
+   "team": "CIN"
+  },
+  {
+   "adds_24h": 113298,
+   "name": "Ka'imi Fairbairn",
+   "pos": "K",
+   "proj_4wk": 34.8,
+   "proj_this_week": 8.85,
+   "status": null,
+   "team": "HOU"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Dalton Schultz",
+   "pos": "TE",
+   "proj_4wk": 33.7,
+   "proj_this_week": 8.43,
+   "status": null,
+   "team": "HOU"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Jordan Addison",
+   "pos": "WR",
+   "proj_4wk": 33.5,
+   "proj_this_week": 8.46,
+   "status": null,
+   "team": "MIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Eddy Pineiro",
+   "pos": "K",
+   "proj_4wk": 33.2,
+   "proj_this_week": 8.62,
+   "status": null,
+   "team": "SF"
+  },
+  {
+   "adds_24h": 125952,
+   "name": "Jake Bates",
+   "pos": "K",
+   "proj_4wk": 33.1,
+   "proj_this_week": 8.37,
+   "status": null,
+   "team": "DET"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chig Okonkwo",
+   "pos": "TE",
+   "proj_4wk": 32.2,
+   "proj_this_week": 8.22,
+   "status": null,
+   "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Drew Stevens",
+   "pos": "K",
+   "proj_4wk": 32.2,
+   "proj_this_week": 8.27,
+   "status": null,
+   "team": "WAS"
+  },
+  {
+   "adds_24h": 344696,
+   "name": "Ryan Flournoy",
+   "pos": "WR",
+   "proj_4wk": 31.9,
+   "proj_this_week": 8.69,
+   "status": null,
+   "team": "DAL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Harrison Butker",
+   "pos": "K",
+   "proj_4wk": 31.8,
+   "proj_this_week": 7.84,
+   "status": null,
+   "team": "KC"
+  },
+  {
+   "adds_24h": 733720,
+   "name": "HOU D/ST",
+   "pos": "DEF",
+   "proj_4wk": 31.6,
+   "proj_this_week": 8.52,
+   "status": null,
+   "team": "HOU"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Dominic Zvada",
+   "pos": "K",
+   "proj_4wk": 31.6,
+   "proj_this_week": 7.71,
+   "status": null,
+   "team": "NYG"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Dallas Goedert",
+   "pos": "TE",
+   "proj_4wk": 31.5,
+   "proj_this_week": 9.67,
+   "status": null,
+   "team": "PHI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Mark Andrews",
+   "pos": "TE",
+   "proj_4wk": 31.3,
+   "proj_this_week": 7.3,
+   "status": null,
+   "team": "BAL"
+  },
+  {
+   "adds_24h": 1079046,
+   "name": "Devin Singletary",
+   "pos": "RB",
+   "proj_4wk": 31.1,
+   "proj_this_week": 8.92,
+   "status": null,
+   "team": "NYG"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Deshaun Watson",
+   "pos": "QB",
+   "proj_4wk": 31.1,
+   "proj_this_week": 14.95,
+   "status": null,
+   "team": "CLE"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Mason Taylor",
+   "pos": "TE",
+   "proj_4wk": 31.0,
+   "proj_this_week": 7.69,
+   "status": null,
+   "team": "NYJ"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Antonio Williams",
+   "pos": "WR",
+   "proj_4wk": 30.9,
+   "proj_this_week": 7.38,
+   "status": null,
+   "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Ryan Fitzgerald",
+   "pos": "K",
+   "proj_4wk": 30.6,
+   "proj_this_week": 7.44,
+   "status": null,
+   "team": "CAR"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Darren Waller",
+   "pos": "TE",
+   "proj_4wk": 30.3,
+   "proj_this_week": 7.14,
+   "status": null,
+   "team": "CAR"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Greg Dulcich",
+   "pos": "TE",
+   "proj_4wk": 30.2,
+   "proj_this_week": 8.2,
+   "status": null,
+   "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Cameron Dicker",
+   "pos": "K",
+   "proj_4wk": 30.1,
+   "proj_this_week": 7.14,
+   "status": null,
+   "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "KC D/ST",
+   "pos": "DEF",
+   "proj_4wk": 29.6,
+   "proj_this_week": 9.25,
+   "status": null,
+   "team": "KC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Tyler Huntley",
+   "pos": "QB",
+   "proj_4wk": 29.4,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "BAL"
+  },
+  {
+   "adds_24h": 2046720,
+   "name": "Adonai Mitchell",
+   "pos": "WR",
+   "proj_4wk": 28.4,
+   "proj_this_week": 7.04,
+   "status": null,
+   "team": "NYJ"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Jason Sanders",
+   "pos": "K",
+   "proj_4wk": 28.1,
+   "proj_this_week": 6.66,
+   "status": null,
+   "team": "NYJ"
+  },
+  {
+   "adds_24h": 0,
+   "name": "BAL D/ST",
+   "pos": "DEF",
+   "proj_4wk": 27.9,
+   "proj_this_week": 5.45,
+   "status": null,
+   "team": "BAL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chad Ryland",
+   "pos": "K",
+   "proj_4wk": 27.8,
+   "proj_this_week": 6.17,
+   "status": null,
+   "team": "ARI"
+  },
+  {
+   "adds_24h": 540981,
+   "name": "DET D/ST",
+   "pos": "DEF",
+   "proj_4wk": 27.7,
+   "proj_this_week": 7.55,
+   "status": null,
+   "team": "DET"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Pat Freiermuth",
+   "pos": "TE",
+   "proj_4wk": 27.7,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Quentin Johnston",
+   "pos": "WR",
+   "proj_4wk": 27.2,
+   "proj_this_week": 7.5,
+   "status": null,
+   "team": "LAC"
+  },
+  {
+   "adds_24h": 228608,
+   "name": "NYG D/ST",
+   "pos": "DEF",
+   "proj_4wk": 27.1,
+   "proj_this_week": 7.87,
+   "status": null,
+   "team": "NYG"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Kimani Vidal",
+   "pos": "RB",
+   "proj_4wk": 26.8,
+   "proj_this_week": 7.54,
+   "status": null,
+   "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "BUF D/ST",
+   "pos": "DEF",
+   "proj_4wk": 26.3,
+   "proj_this_week": 6.61,
+   "status": null,
+   "team": "BUF"
+  },
+  {
+   "adds_24h": 184815,
+   "name": "SF D/ST",
+   "pos": "DEF",
+   "proj_4wk": 26.1,
+   "proj_this_week": 7.74,
+   "status": null,
+   "team": "SF"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Keaton Mitchell",
+   "pos": "RB",
+   "proj_4wk": 26.1,
+   "proj_this_week": 5.21,
+   "status": null,
+   "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "J.K. Dobbins",
+   "pos": "RB",
+   "proj_4wk": 26.0,
+   "proj_this_week": 9.86,
+   "status": null,
+   "team": "DEN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Tyler Higbee",
+   "pos": "TE",
+   "proj_4wk": 26.0,
+   "proj_this_week": 6.92,
+   "status": null,
+   "team": "LAR"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Jake Ferguson",
+   "pos": "TE",
+   "proj_4wk": 25.7,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "DAL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chris Bell",
+   "pos": "WR",
+   "proj_4wk": 25.4,
+   "proj_this_week": 6.97,
+   "status": null,
+   "team": "MIA"
+  },
+  {
+   "adds_24h": 156811,
+   "name": "Mike Washington Jr.",
+   "pos": "RB",
+   "proj_4wk": 25.3,
+   "proj_this_week": 8.18,
+   "status": null,
+   "team": "LV"
+  },
+  {
+   "adds_24h": 297030,
+   "name": "NO D/ST",
+   "pos": "DEF",
+   "proj_4wk": 25.1,
+   "proj_this_week": 8.05,
+   "status": null,
+   "team": "NO"
+  },
+  {
+   "adds_24h": 0,
+   "name": "DAL D/ST",
+   "pos": "DEF",
+   "proj_4wk": 25.0,
+   "proj_this_week": 6.81,
+   "status": null,
+   "team": "DAL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "CAR D/ST",
+   "pos": "DEF",
+   "proj_4wk": 24.8,
+   "proj_this_week": 6.2,
+   "status": null,
+   "team": "CAR"
+  },
+  {
+   "adds_24h": 64488,
+   "name": "Kendre Miller",
+   "pos": "RB",
+   "proj_4wk": 24.4,
+   "proj_this_week": 10.52,
+   "status": null,
+   "team": "NO"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Elijah Higgins",
+   "pos": "TE",
+   "proj_4wk": 24.2,
+   "proj_this_week": 5.44,
+   "status": null,
+   "team": "ARI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Trey Smack",
+   "pos": "K",
+   "proj_4wk": 24.1,
+   "proj_this_week": 7.62,
+   "status": null,
+   "team": "GB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "AJ Barner",
+   "pos": "TE",
+   "proj_4wk": 24.1,
+   "proj_this_week": 7.99,
+   "status": null,
+   "team": "SEA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Cade Otton",
+   "pos": "TE",
+   "proj_4wk": 24.1,
+   "proj_this_week": 7.68,
+   "status": null,
+   "team": "TB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Nick Folk",
+   "pos": "K",
+   "proj_4wk": 24.0,
+   "proj_this_week": 8.06,
+   "status": null,
+   "team": "ATL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chris Boswell",
+   "pos": "K",
+   "proj_4wk": 24.0,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Daniel Carlson",
+   "pos": "K",
+   "proj_4wk": 23.9,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "NO"
+  },
+  {
+   "adds_24h": 0,
+   "name": "IND D/ST",
+   "pos": "DEF",
+   "proj_4wk": 23.9,
+   "proj_this_week": 4.66,
+   "status": null,
+   "team": "IND"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Kalif Raymond",
+   "pos": "WR",
+   "proj_4wk": 23.6,
+   "proj_this_week": 7.6,
+   "status": null,
+   "team": "CHI"
+  },
+  {
+   "adds_24h": 297752,
+   "name": "Cairo Santos",
+   "pos": "K",
+   "proj_4wk": 23.6,
+   "proj_this_week": 8.05,
+   "status": null,
+   "team": "CHI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Noah Fant",
+   "pos": "TE",
+   "proj_4wk": 23.3,
+   "proj_this_week": 5.61,
+   "status": null,
+   "team": "NO"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Devaughn Vele",
+   "pos": "WR",
+   "proj_4wk": 23.2,
+   "proj_this_week": 8.14,
+   "status": null,
+   "team": "NO"
+  },
+  {
+   "adds_24h": 438822,
+   "name": "Chris Rodriguez Jr.",
+   "pos": "RB",
+   "proj_4wk": 21.2,
+   "proj_this_week": 4.67,
+   "status": "Questionable",
+   "team": "JAX"
+  },
+  {
+   "adds_24h": 284760,
+   "name": "Treylon Burks",
+   "pos": "WR",
+   "proj_4wk": 22.9,
+   "proj_this_week": 5.66,
+   "status": null,
+   "team": "WAS"
+  },
+  {
+   "adds_24h": 255765,
+   "name": "Dylan Sampson",
+   "pos": "RB",
+   "proj_4wk": 20.1,
+   "proj_this_week": 8.8,
+   "status": null,
+   "team": "CLE"
+  },
+  {
+   "adds_24h": 238126,
+   "name": "Sione Vaki",
+   "pos": "RB",
+   "proj_4wk": 17.4,
+   "proj_this_week": 4.43,
+   "status": null,
+   "team": "DET"
+  },
+  {
+   "adds_24h": 192216,
+   "name": "Kenny Gainwell",
+   "pos": "RB",
+   "proj_4wk": 21.0,
+   "proj_this_week": 7.17,
+   "status": null,
+   "team": "TB"
+  },
+  {
+   "adds_24h": 173916,
+   "name": "Elijah Mitchell",
+   "pos": "RB",
+   "proj_4wk": 8.1,
+   "proj_this_week": 6.88,
+   "status": null,
+   "team": "PHI"
+  },
+  {
+   "adds_24h": 138040,
+   "name": "Alvin Kamara",
+   "pos": "RB",
+   "proj_4wk": 17.5,
+   "proj_this_week": 9.37,
+   "status": null,
+   "team": "NO"
+  },
+  {
+   "adds_24h": 123435,
+   "name": "Chimere Dike",
+   "pos": "WR",
+   "proj_4wk": 5.8,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "TEN"
+  },
+  {
+   "adds_24h": 101984,
+   "name": "Terrance Ferguson",
+   "pos": "TE",
+   "proj_4wk": 0.0,
+   "proj_this_week": 0.0,
+   "status": "IR",
+   "team": "LAR"
+  },
+  {
+   "adds_24h": 82896,
+   "name": "Carson Wentz",
+   "pos": "QB",
+   "proj_4wk": 0.0,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "MIN"
+  }
+ ],
+ "generated_at": "2026-11-04T07:58:13Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -393,7 +1205,7 @@
    "status": null,
    "stream": true,
    "team": "HOU",
-   "trending_adds_24h": 112916
+   "trending_adds_24h": 113298
   }
  ],
  "team": {
@@ -438,7 +1250,7 @@
    "status": null,
    "stream": false,
    "team": "IND",
-   "trending_adds_24h": 133668
+   "trending_adds_24h": 134320
   },
   {
    "drop": "11628",
@@ -514,7 +1326,7 @@
    "status": null,
    "stream": false,
    "team": "NO",
-   "trending_adds_24h": 64218
+   "trending_adds_24h": 64488
   },
   {
    "drop": "11628",
@@ -571,7 +1383,7 @@
    "status": null,
    "stream": false,
    "team": "CIN",
-   "trending_adds_24h": 393424
+   "trending_adds_24h": 395000
   },
   {
    "drop": "11628",
@@ -590,7 +1402,7 @@
    "status": null,
    "stream": false,
    "team": "NYG",
-   "trending_adds_24h": 97296
+   "trending_adds_24h": 97566
   }
  ],
  "week": 9,
