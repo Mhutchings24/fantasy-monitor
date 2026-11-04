@@ -1,5 +1,5 @@
 {
- "content_hash": "12cb1ee4a819f0c64783e8724f1adb5422eef191",
+ "content_hash": "3316392d69d171ffc9c5d4b72abec869a57e52ee",
  "faab": {
   "budget": 100,
   "remaining": 110,
@@ -817,7 +817,7 @@
    "team": "MIN"
   }
  ],
- "generated_at": "2026-11-04T08:14:16Z",
+ "generated_at": "2026-11-04T08:15:10Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -926,6 +926,91 @@
   "week": 9
  },
  "overview": {
+  "last_week": {
+   "bench": [
+    {
+     "name": "Rico Dowdle",
+     "points": 11.6,
+     "pos": "RB"
+    },
+    {
+     "name": "Courtland Sutton",
+     "points": 9.3,
+     "pos": "WR"
+    },
+    {
+     "name": "Jordyn Tyson",
+     "points": 0.0,
+     "pos": "WR"
+    },
+    {
+     "name": "Davante Adams",
+     "points": 0.0,
+     "pos": "WR"
+    },
+    {
+     "name": "Mike Evans",
+     "points": 0.0,
+     "pos": "WR"
+    },
+    {
+     "name": "George Kittle",
+     "points": 0.0,
+     "pos": "TE"
+    }
+   ],
+   "my_points": 104.94,
+   "opp_points": 90.2,
+   "opponent": "Monangynecologist",
+   "starters": [
+    {
+     "name": "Jared Goff",
+     "points": 10.04,
+     "pos": "QB"
+    },
+    {
+     "name": "Josh Jacobs",
+     "points": 23.2,
+     "pos": "RB"
+    },
+    {
+     "name": "Quinshon Judkins",
+     "points": 6.9,
+     "pos": "RB"
+    },
+    {
+     "name": "DJ Moore",
+     "points": 16.6,
+     "pos": "WR"
+    },
+    {
+     "name": "Malik Washington",
+     "points": 15.0,
+     "pos": "WR"
+    },
+    {
+     "name": "Brenton Strange",
+     "points": 7.5,
+     "pos": "TE"
+    },
+    {
+     "name": "Omarion Hampton",
+     "points": 4.7,
+     "pos": "RB"
+    },
+    {
+     "name": "Matt Gay",
+     "points": 10.0,
+     "pos": "K"
+    },
+    {
+     "name": "LAR D/ST",
+     "points": 11.0,
+     "pos": "DEF"
+    }
+   ],
+   "week": 8
+  },
   "matchup": {
    "my_proj": 97.9,
    "opp_best_possible": 135.3,
