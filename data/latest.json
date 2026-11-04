@@ -1,5 +1,5 @@
 {
- "content_hash": "69fdfd24dae215752a68d95042d750e40fafb811",
+ "content_hash": "5ef574a744f1665899e9fb96574ac976b43f0a29",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -361,8 +361,8 @@
    "adds_24h": 0,
    "name": "KC D/ST",
    "pos": "DEF",
-   "proj_4wk": 29.6,
-   "proj_this_week": 9.25,
+   "proj_4wk": 29.7,
+   "proj_this_week": 9.29,
    "status": null,
    "team": "KC"
   },
@@ -395,21 +395,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Chad Ryland",
-   "pos": "K",
-   "proj_4wk": 27.8,
-   "proj_this_week": 6.17,
-   "status": null,
-   "team": "ARI"
-  },
-  {
-   "adds_24h": 0,
    "name": "BAL D/ST",
    "pos": "DEF",
    "proj_4wk": 27.8,
    "proj_this_week": 5.42,
    "status": null,
    "team": "BAL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chad Ryland",
+   "pos": "K",
+   "proj_4wk": 27.8,
+   "proj_this_week": 6.17,
+   "status": null,
+   "team": "ARI"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-04T17:34:24Z",
+ "generated_at": "2026-11-04T17:39:30Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1483,8 +1483,8 @@
   {
    "drop": "LAR",
    "drop_name": "LAR D/ST",
-   "gain_this_week": 1.82,
-   "gain_window": 1.82,
+   "gain_this_week": 1.86,
+   "gain_window": 1.86,
    "name": "KC D/ST",
    "pid": "KC",
    "pos": "DEF",
@@ -1492,7 +1492,7 @@
     "10": 6.52,
     "11": 6.94,
     "12": 6.94,
-    "9": 9.25
+    "9": 9.29
    },
    "status": null,
    "stream": true,
