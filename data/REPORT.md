@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-04T08:08:55Z UTC
+Week 9 · record 3-5 · updated 2026-11-04T08:14:16Z UTC
 
 ## Lineup check
 Current lineup projects **97.9**, best possible **109.0**.
@@ -16,19 +16,38 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | J.K. Dobbins | RB | DEN | Marvin Harrison Jr. | +1.7 | +0.0 | 0 |
-| Keenan Allen | WR | IND | Marvin Harrison Jr. | +1.4 | +1.4 | 134,872 |
+| Keenan Allen | WR | IND | Marvin Harrison Jr. | +1.4 | +1.4 | 135,696 |
 | Xavier Worthy | WR | KC | Marvin Harrison Jr. | +1.1 | +0.5 | 0 |
 | Josh Downs | WR | IND | Marvin Harrison Jr. | +1.0 | +1.0 | 0 |
 | T.J. Hockenson | TE | MIN | Marvin Harrison Jr. | +0.9 | +0.9 | 0 |
-| Kendre Miller | RB | NO | Marvin Harrison Jr. | +0.7 | +0.7 | 64,768 |
+| Kendre Miller | RB | NO | Marvin Harrison Jr. | +0.7 | +0.7 | 65,492 |
 | Juwan Johnson | TE | NO | Marvin Harrison Jr. | +0.6 | +0.3 | 0 |
 | Dalton Kincaid | TE | BUF | Marvin Harrison Jr. | +0.4 | +0.0 | 0 |
-| Mike Gesicki | TE | CIN | Marvin Harrison Jr. | +0.4 | +0.4 | 396,524 |
-| J.J. McCarthy | QB | NYG | Marvin Harrison Jr. | +0.2 | +0.0 | 97,836 |
+| Mike Gesicki | TE | CIN | Marvin Harrison Jr. | +0.4 | +0.4 | 398,592 |
+| J.J. McCarthy | QB | NYG | Marvin Harrison Jr. | +0.2 | +0.0 | 98,334 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.8 pts this week)
 
 **K stream this week:** add Ka'imi Fairbairn for Matt Gay (+0.6 pts this week)
+
+## This week's matchup
+vs **Touch of the Downs** (2-6): you **97.9** – 135.3 projected · win chance **14%**
+
+## League overview
+Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
+
+| # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
+|---|---|---|---|---|---|---|---|
+| 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 1 | 132.2 | 100% |
+| 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 7 | 114.3 | 93% |
+| 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 3 | 128.6 | 99% |
+| 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 5 | 123.0 | 95% |
+| 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 2 | 129.3 | 93% |
+| 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 10 | 105.2 | 10% |
+| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 109.5 | 18% |
+| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 116.5 | 28% |
+| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 8 | 112.8 | 24% |
+| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 125.0 | 40% |
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 9 | Wk 10 | Wk 11 | Wk 12 |
