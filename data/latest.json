@@ -1,5 +1,5 @@
 {
- "content_hash": "60a39a8a0e4fc5ece07e78d5b9ac5a228a14933d",
+ "content_hash": "0cc92729fe32492b26c46822c90281b4fa3ec42f",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -271,8 +271,8 @@
    "adds_24h": 0,
    "name": "Dominic Zvada",
    "pos": "K",
-   "proj_4wk": 31.5,
-   "proj_this_week": 7.64,
+   "proj_4wk": 31.7,
+   "proj_this_week": 7.77,
    "status": null,
    "team": "NYG"
   },
@@ -352,8 +352,8 @@
    "adds_24h": 0,
    "name": "Cameron Dicker",
    "pos": "K",
-   "proj_4wk": 30.1,
-   "proj_this_week": 7.14,
+   "proj_4wk": 29.8,
+   "proj_this_week": 6.83,
    "status": null,
    "team": "LAC"
   },
@@ -367,15 +367,6 @@
    "team": "KC"
   },
   {
-   "adds_24h": 0,
-   "name": "Tyler Huntley",
-   "pos": "QB",
-   "proj_4wk": 29.4,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "BAL"
-  },
-  {
    "adds_24h": 101736,
    "name": "Michael Mayer",
    "pos": "TE",
@@ -386,21 +377,30 @@
   },
   {
    "adds_24h": 0,
+   "name": "Tyler Huntley",
+   "pos": "QB",
+   "proj_4wk": 29.4,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "BAL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Jason Sanders",
+   "pos": "K",
+   "proj_4wk": 28.1,
+   "proj_this_week": 6.75,
+   "status": null,
+   "team": "NYJ"
+  },
+  {
+   "adds_24h": 0,
    "name": "Shedeur Sanders",
    "pos": "QB",
    "proj_4wk": 28.0,
    "proj_this_week": 13.62,
    "status": null,
    "team": "CLE"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Jason Sanders",
-   "pos": "K",
-   "proj_4wk": 28.0,
-   "proj_this_week": 6.63,
-   "status": null,
-   "team": "NYJ"
   },
   {
    "adds_24h": 0,
@@ -593,6 +593,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Zane Gonzalez",
+   "pos": "K",
+   "proj_4wk": 24.2,
+   "proj_this_week": 7.1,
+   "status": null,
+   "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
    "name": "AJ Barner",
    "pos": "TE",
    "proj_4wk": 24.1,
@@ -698,15 +707,6 @@
    "proj_this_week": 8.1,
    "status": null,
    "team": "NO"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Zane Gonzalez",
-   "pos": "K",
-   "proj_4wk": 23.1,
-   "proj_this_week": 5.98,
-   "status": null,
-   "team": "MIA"
   },
   {
    "adds_24h": 0,
@@ -817,7 +817,7 @@
    "team": "WAS"
   }
  ],
- "generated_at": "2026-11-04T18:17:53Z",
+ "generated_at": "2026-11-04T18:22:59Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1070,7 +1070,7 @@
      "10": 125.63,
      "11": 132.93,
      "12": 137.24,
-     "9": 129.48
+     "9": 129.47
     },
     "rank": 3,
     "roster_id": 4,
@@ -1091,7 +1091,7 @@
      "10": 129.63,
      "11": 119.25,
      "12": 128.7,
-     "9": 123.36
+     "9": 123.4
     },
     "rank": 4,
     "roster_id": 5,
