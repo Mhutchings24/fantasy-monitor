@@ -1,5 +1,5 @@
 {
- "content_hash": "101eb70be933f0af1943342561b24adb2bc62e38",
+ "content_hash": "f1c4e996a9fbbc50cd571a83eebf05091190df10",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -61,15 +61,6 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 0,
-   "name": "Baker Mayfield",
-   "pos": "QB",
-   "proj_4wk": 49.7,
-   "proj_this_week": 16.22,
-   "status": null,
-   "team": "TB"
-  },
-  {
    "adds_24h": 69932,
    "name": "Gardner Minshew II",
    "pos": "QB",
@@ -77,6 +68,15 @@
    "proj_this_week": 11.51,
    "status": null,
    "team": "ARI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Baker Mayfield",
+   "pos": "QB",
+   "proj_4wk": 49.7,
+   "proj_this_week": 16.22,
+   "status": null,
+   "team": "TB"
   },
   {
    "adds_24h": 0,
@@ -611,21 +611,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Trey Smack",
-   "pos": "K",
-   "proj_4wk": 24.1,
-   "proj_this_week": 7.55,
-   "status": null,
-   "team": "GB"
-  },
-  {
-   "adds_24h": 0,
    "name": "AJ Barner",
    "pos": "TE",
    "proj_4wk": 24.1,
    "proj_this_week": 7.92,
    "status": null,
    "team": "SEA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Trey Smack",
+   "pos": "K",
+   "proj_4wk": 24.1,
+   "proj_this_week": 7.55,
+   "status": null,
+   "team": "GB"
   },
   {
    "adds_24h": 0,
@@ -844,7 +844,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-05T22:06:28Z",
+ "generated_at": "2026-11-05T22:11:32Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
