@@ -1,5 +1,5 @@
 {
- "content_hash": "28c431ade9b1eb6bb4fe5c62998853a00a308cf3",
+ "content_hash": "35483f663ccf635df19b6808ed33533282cfc23e",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -79,15 +79,6 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 117548,
-   "name": "Gardner Minshew II",
-   "pos": "QB",
-   "proj_4wk": 49.7,
-   "proj_this_week": 11.51,
-   "status": null,
-   "team": "ARI"
-  },
-  {
    "adds_24h": 0,
    "name": "Baker Mayfield",
    "pos": "QB",
@@ -95,6 +86,15 @@
    "proj_this_week": 16.22,
    "status": null,
    "team": "TB"
+  },
+  {
+   "adds_24h": 117548,
+   "name": "Gardner Minshew II",
+   "pos": "QB",
+   "proj_4wk": 49.7,
+   "proj_this_week": 11.51,
+   "status": null,
+   "team": "ARI"
   },
   {
    "adds_24h": 0,
@@ -190,8 +190,8 @@
    "adds_24h": 0,
    "name": "Dalton Schultz",
    "pos": "TE",
-   "proj_4wk": 33.9,
-   "proj_this_week": 8.61,
+   "proj_4wk": 33.8,
+   "proj_this_week": 8.54,
    "status": null,
    "team": "HOU"
   },
@@ -611,21 +611,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "AJ Barner",
-   "pos": "TE",
-   "proj_4wk": 24.1,
-   "proj_this_week": 7.92,
-   "status": null,
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Trey Smack",
    "pos": "K",
    "proj_4wk": 24.1,
    "proj_this_week": 7.55,
    "status": null,
    "team": "GB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "AJ Barner",
+   "pos": "TE",
+   "proj_4wk": 24.1,
+   "proj_this_week": 7.92,
+   "status": null,
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -844,7 +844,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-05T17:46:32Z",
+ "generated_at": "2026-11-05T17:51:36Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -890,27 +890,27 @@
     "slot": "RB"
    },
    {
-    "name": "Mike Evans",
-    "pid": "2216",
-    "proj": 13.97,
-    "slot": "WR"
-   },
-   {
     "name": "Keenan Allen",
     "pid": "1479",
     "proj": 11.35,
     "slot": "WR"
    },
    {
-    "name": "George Kittle",
-    "pid": "4217",
-    "proj": 15.23,
-    "slot": "TE"
-   },
-   {
     "name": "DJ Moore",
     "pid": "4983",
     "proj": 11.01,
+    "slot": "WR"
+   },
+   {
+    "name": "George Kittle",
+    "pid": "4217",
+    "proj": 15.49,
+    "slot": "TE"
+   },
+   {
+    "name": "Josh Downs",
+    "pid": "9500",
+    "proj": 10.87,
     "slot": "FLEX"
    },
    {
@@ -926,12 +926,18 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 113.4,
-  "current_projected": 113.4,
-  "gain": 0.0,
+  "best_projected": 110.56,
+  "current_projected": 99.69,
+  "gain": 10.87,
   "problems": [],
   "source": "matchup week 9",
-  "swaps": [],
+  "swaps": [
+   {
+    "bench": "2216",
+    "start": "9500",
+    "text": "Start Josh Downs (WR, IND) (10.9) over Mike Evans (WR, SF) (0.0)"
+   }
+  ],
   "week": 9
  },
  "overview": {
@@ -1021,12 +1027,12 @@
    "week": 8
   },
   "matchup": {
-   "my_proj": 113.4,
+   "my_proj": 99.7,
    "opp_best_possible": 134.85,
    "opp_proj": 134.8,
    "opponent": "Touch of the Downs",
    "opponent_record": "2-6",
-   "win_prob": 0.272
+   "win_prob": 0.16
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1043,7 +1049,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.537,
+    "first_seed_odds": 0.539,
     "losses": 2,
     "mine": false,
     "pa": 1045.02,
@@ -1069,7 +1075,7 @@
     "mine": false,
     "pa": 913.82,
     "pf": 960.38,
-    "playoff_odds": 0.958,
+    "playoff_odds": 0.959,
     "power_rank": 7,
     "proj_avg": 120.4,
     "proj_by_week": {
@@ -1085,7 +1091,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.226,
+    "first_seed_odds": 0.224,
     "losses": 3,
     "mine": false,
     "pa": 990.54,
@@ -1111,7 +1117,7 @@
     "mine": false,
     "pa": 849.08,
     "pf": 967.6,
-    "playoff_odds": 0.943,
+    "playoff_odds": 0.944,
     "power_rank": 5,
     "proj_avg": 125.0,
     "proj_by_week": {
@@ -1127,19 +1133,19 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.06,
+    "first_seed_odds": 0.059,
     "losses": 4,
     "mine": false,
     "pa": 1104.36,
     "pf": 1110.86,
-    "playoff_odds": 0.918,
+    "playoff_odds": 0.919,
     "power_rank": 3,
-    "proj_avg": 130.0,
+    "proj_avg": 129.9,
     "proj_by_week": {
      "10": 132.47,
      "11": 110.4,
      "12": 135.99,
-     "9": 141.22
+     "9": 140.74
     },
     "rank": 5,
     "roster_id": 10,
@@ -1153,7 +1159,7 @@
     "mine": false,
     "pa": 1070.2,
     "pf": 967.14,
-    "playoff_odds": 0.129,
+    "playoff_odds": 0.13,
     "power_rank": 10,
     "proj_avg": 109.2,
     "proj_by_week": {
@@ -1174,14 +1180,14 @@
     "mine": false,
     "pa": 1009.1,
     "pf": 948.02,
-    "playoff_odds": 0.195,
+    "playoff_odds": 0.198,
     "power_rank": 9,
-    "proj_avg": 111.0,
+    "proj_avg": 111.2,
     "proj_by_week": {
      "10": 90.38,
      "11": 116.53,
      "12": 120.95,
-     "9": 115.97
+     "9": 117.06
     },
     "rank": 7,
     "roster_id": 6,
@@ -1195,7 +1201,7 @@
     "mine": false,
     "pa": 982.9,
     "pf": 937.8,
-    "playoff_odds": 0.343,
+    "playoff_odds": 0.346,
     "power_rank": 6,
     "proj_avg": 120.9,
     "proj_by_week": {
@@ -1216,14 +1222,14 @@
     "mine": true,
     "pa": 946.24,
     "pf": 906.7,
-    "playoff_odds": 0.221,
+    "playoff_odds": 0.208,
     "power_rank": 8,
-    "proj_avg": 113.9,
+    "proj_avg": 113.2,
     "proj_by_week": {
      "10": 118.86,
      "11": 104.75,
      "12": 118.56,
-     "9": 113.4
+     "9": 110.56
     },
     "rank": 9,
     "roster_id": 7,
@@ -1237,7 +1243,7 @@
     "mine": false,
     "pa": 1017.26,
     "pf": 942.36,
-    "playoff_odds": 0.306,
+    "playoff_odds": 0.311,
     "power_rank": 4,
     "proj_avg": 125.5,
     "proj_by_week": {
@@ -1340,25 +1346,10 @@
     "10": 16.97,
     "11": 14.72,
     "12": 15.07,
-    "9": 15.23
+    "9": 15.49
    },
    "slot": "starter",
    "status": null,
-   "team": "SF"
-  },
-  {
-   "bye_this_week": false,
-   "name": "Mike Evans",
-   "pid": "2216",
-   "pos": "WR",
-   "proj_by_week": {
-    "10": 19.92,
-    "11": 17.14,
-    "12": 17.59,
-    "9": 13.97
-   },
-   "slot": "starter",
-   "status": "Questionable",
    "team": "SF"
   },
   {
@@ -1390,6 +1381,21 @@
    "slot": "starter",
    "status": "Questionable",
    "team": "BUF"
+  },
+  {
+   "bye_this_week": false,
+   "name": "Mike Evans",
+   "pid": "2216",
+   "pos": "WR",
+   "proj_by_week": {
+    "10": 19.92,
+    "11": 17.14,
+    "12": 17.59,
+    "9": 0.0
+   },
+   "slot": "starter",
+   "status": "Questionable",
+   "team": "SF"
   },
   {
    "bye_this_week": false,
@@ -1648,6 +1654,43 @@
    ],
    "give": [
     {
+     "name": "Malik Washington",
+     "pid": "11610",
+     "pos": "WR",
+     "ros_per_week": 9.9,
+     "status": null,
+     "team": "MIA"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "Glizzy Globbler ",
+   "partner_roster_id": 2,
+   "summary": "Give Malik Washington, get Jonah Coleman from Glizzy Globbler : +1.3 pts/week for you, -0.3 for them.",
+   "their_gain_per_week": -0.3,
+   "value_ratio": 1.08,
+   "why_them": [
+    "Malik Washington would start 1 of 9 weeks for them",
+    "Jonah Coleman only starts 2 of 9 weeks on their roster"
+   ],
+   "why_you": [
+    "Jonah Coleman would start 6 of 9 weeks for you",
+    "Malik Washington starts only 0 of 9 weeks for you"
+   ],
+   "your_gain_per_week": 1.3
+  },
+  {
+   "get": [
+    {
+     "name": "Jonah Coleman",
+     "pid": "13345",
+     "pos": "RB",
+     "ros_per_week": 10.7,
+     "status": null,
+     "team": "DEN"
+    }
+   ],
+   "give": [
+    {
      "name": "Josh Downs",
      "pid": "9500",
      "pos": "WR",
@@ -1659,8 +1702,8 @@
    "likelihood": "Possible",
    "partner": "Glizzy Globbler ",
    "partner_roster_id": 2,
-   "summary": "Give Josh Downs, get Jonah Coleman from Glizzy Globbler : +1.3 pts/week for you, -0.5 for them.",
-   "their_gain_per_week": -0.5,
+   "summary": "Give Josh Downs, get Jonah Coleman from Glizzy Globbler : +1.3 pts/week for you, -0.2 for them.",
+   "their_gain_per_week": -0.2,
    "value_ratio": 1.21,
    "why_them": [
     "Josh Downs would start 1 of 9 weeks for them",
@@ -1668,7 +1711,7 @@
    ],
    "why_you": [
     "Jonah Coleman would start 6 of 9 weeks for you",
-    "Josh Downs starts only 0 of 9 weeks for you"
+    "Josh Downs starts only 1 of 9 weeks for you"
    ],
    "your_gain_per_week": 1.3
   },
@@ -1778,7 +1821,7 @@
    "likelihood": "Possible",
    "partner": "Bradsbaconisundercooked",
    "partner_roster_id": 1,
-   "summary": "Give Malik Washington, get Jaylen Waddle from Bradsbaconisundercooked: +1.1 pts/week for you, -0.5 for them.",
+   "summary": "Give Malik Washington, get Jaylen Waddle from Bradsbaconisundercooked: +1.2 pts/week for you, -0.5 for them.",
    "their_gain_per_week": -0.5,
    "value_ratio": 1.14,
    "why_them": [
@@ -1789,7 +1832,7 @@
     "Jaylen Waddle would start 8 of 9 weeks for you",
     "Malik Washington starts only 0 of 9 weeks for you"
    ],
-   "your_gain_per_week": 1.1
+   "your_gain_per_week": 1.2
   },
   {
    "get": [
@@ -1815,7 +1858,7 @@
    "likelihood": "Possible",
    "partner": "Bradsbaconisundercooked",
    "partner_roster_id": 1,
-   "summary": "Give Josh Downs, get Jaylen Waddle from Bradsbaconisundercooked: +1.1 pts/week for you, -0.5 for them.",
+   "summary": "Give Josh Downs, get Jaylen Waddle from Bradsbaconisundercooked: +1.2 pts/week for you, -0.5 for them.",
    "their_gain_per_week": -0.5,
    "value_ratio": 1.27,
    "why_them": [
@@ -1824,45 +1867,9 @@
    ],
    "why_you": [
     "Jaylen Waddle would start 8 of 9 weeks for you",
-    "Josh Downs starts only 0 of 9 weeks for you"
+    "Josh Downs starts only 1 of 9 weeks for you"
    ],
-   "your_gain_per_week": 1.1
-  },
-  {
-   "get": [
-    {
-     "name": "Patrick Mahomes",
-     "pid": "4046",
-     "pos": "QB",
-     "ros_per_week": 19.9,
-     "status": null,
-     "team": "KC"
-    }
-   ],
-   "give": [
-    {
-     "name": "Jared Goff",
-     "pid": "3163",
-     "pos": "QB",
-     "ros_per_week": 18.8,
-     "status": null,
-     "team": "DET"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "Bradsgay",
-   "partner_roster_id": 9,
-   "summary": "Give Jared Goff, get Patrick Mahomes from Bradsgay: +1.0 pts/week for you, -0.4 for them.",
-   "their_gain_per_week": -0.4,
-   "value_ratio": 1.06,
-   "why_them": [
-    "Jared Goff would start 4 of 9 weeks for them"
-   ],
-   "why_you": [
-    "Patrick Mahomes would start 9 of 9 weeks for you",
-    "Jared Goff starts 9 of 9 weeks for you"
-   ],
-   "your_gain_per_week": 1.0
+   "your_gain_per_week": 1.2
   }
  ],
  "waivers": [
