@@ -1,5 +1,5 @@
 {
- "content_hash": "edc4b4121bae855a3755684e34170ec090a87462",
+ "content_hash": "3b5cebc724933e98c22457c121d0349069d9203a",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -46,8 +46,8 @@
    "adds_24h": 0,
    "name": "Kyler Murray",
    "pos": "QB",
-   "proj_4wk": 60.2,
-   "proj_this_week": 14.59,
+   "proj_4wk": 60.1,
+   "proj_this_week": 14.52,
    "status": "Questionable",
    "team": "MIN"
   },
@@ -145,8 +145,8 @@
    "adds_24h": 0,
    "name": "T.J. Hockenson",
    "pos": "TE",
-   "proj_4wk": 41.7,
-   "proj_this_week": 10.78,
+   "proj_4wk": 41.6,
+   "proj_this_week": 10.7,
    "status": null,
    "team": "MIN"
   },
@@ -164,7 +164,7 @@
    "name": "Dalton Kincaid",
    "pos": "TE",
    "proj_4wk": 41.2,
-   "proj_this_week": 9.75,
+   "proj_this_week": 9.73,
    "status": null,
    "team": "BUF"
   },
@@ -182,7 +182,7 @@
    "name": "Khalil Shakir",
    "pos": "WR",
    "proj_4wk": 36.2,
-   "proj_this_week": 9.14,
+   "proj_this_week": 9.06,
    "status": null,
    "team": "BUF"
   },
@@ -200,7 +200,7 @@
    "name": "Jordan Addison",
    "pos": "WR",
    "proj_4wk": 33.5,
-   "proj_this_week": 8.46,
+   "proj_this_week": 8.44,
    "status": null,
    "team": "MIN"
   },
@@ -439,6 +439,15 @@
    "team": "PHI"
   },
   {
+   "adds_24h": 0,
+   "name": "BUF D/ST",
+   "pos": "DEF",
+   "proj_4wk": 27.3,
+   "proj_this_week": 7.59,
+   "status": null,
+   "team": "BUF"
+  },
+  {
    "adds_24h": 103448,
    "name": "NYG D/ST",
    "pos": "DEF",
@@ -455,15 +464,6 @@
    "proj_this_week": 7.54,
    "status": null,
    "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
-   "name": "BUF D/ST",
-   "pos": "DEF",
-   "proj_4wk": 26.3,
-   "proj_this_week": 6.61,
-   "status": null,
-   "team": "BUF"
   },
   {
    "adds_24h": 0,
@@ -611,21 +611,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "AJ Barner",
-   "pos": "TE",
-   "proj_4wk": 24.1,
-   "proj_this_week": 7.92,
-   "status": null,
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Trey Smack",
    "pos": "K",
    "proj_4wk": 24.1,
    "proj_this_week": 7.55,
    "status": null,
    "team": "GB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "AJ Barner",
+   "pos": "TE",
+   "proj_4wk": 24.1,
+   "proj_this_week": 7.92,
+   "status": null,
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -853,7 +853,7 @@
    "team": "SF"
   }
  ],
- "generated_at": "2026-11-05T18:54:31Z",
+ "generated_at": "2026-11-05T18:59:37Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -907,7 +907,7 @@
    {
     "name": "DJ Moore",
     "pid": "4983",
-    "proj": 11.01,
+    "proj": 10.94,
     "slot": "WR"
    },
    {
@@ -935,8 +935,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 110.59,
-  "current_projected": 99.72,
+  "best_projected": 110.52,
+  "current_projected": 99.65,
   "gain": 10.87,
   "problems": [],
   "source": "matchup week 9",
@@ -1058,7 +1058,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.538,
+    "first_seed_odds": 0.542,
     "losses": 2,
     "mine": false,
     "pa": 1045.02,
@@ -1070,7 +1070,7 @@
      "10": 132.2,
      "11": 124.98,
      "12": 138.59,
-     "9": 129.32
+     "9": 129.26
     },
     "rank": 1,
     "roster_id": 9,
@@ -1079,19 +1079,19 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.115,
+    "first_seed_odds": 0.117,
     "losses": 2,
     "mine": false,
     "pa": 913.82,
     "pf": 960.38,
-    "playoff_odds": 0.959,
+    "playoff_odds": 0.958,
     "power_rank": 7,
-    "proj_avg": 120.5,
+    "proj_avg": 120.4,
     "proj_by_week": {
      "10": 125.36,
      "11": 110.14,
      "12": 127.07,
-     "9": 119.27
+     "9": 119.12
     },
     "rank": 2,
     "roster_id": 8,
@@ -1100,19 +1100,19 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.224,
+    "first_seed_odds": 0.216,
     "losses": 3,
     "mine": false,
     "pa": 990.54,
     "pf": 1083.34,
-    "playoff_odds": 0.987,
+    "playoff_odds": 0.986,
     "power_rank": 2,
-    "proj_avg": 131.0,
+    "proj_avg": 130.4,
     "proj_by_week": {
      "10": 125.63,
      "11": 132.93,
      "12": 137.24,
-     "9": 128.15
+     "9": 125.79
     },
     "rank": 3,
     "roster_id": 4,
@@ -1121,7 +1121,7 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.062,
+    "first_seed_odds": 0.063,
     "losses": 3,
     "mine": false,
     "pa": 849.08,
@@ -1133,7 +1133,7 @@
      "10": 129.63,
      "11": 119.25,
      "12": 128.7,
-     "9": 122.38
+     "9": 122.28
     },
     "rank": 4,
     "roster_id": 5,
@@ -1142,19 +1142,19 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.059,
+    "first_seed_odds": 0.061,
     "losses": 4,
     "mine": false,
     "pa": 1104.36,
     "pf": 1110.86,
-    "playoff_odds": 0.919,
+    "playoff_odds": 0.918,
     "power_rank": 3,
     "proj_avg": 129.9,
     "proj_by_week": {
      "10": 132.47,
      "11": 110.4,
      "12": 135.99,
-     "9": 140.72
+     "9": 140.68
     },
     "rank": 5,
     "roster_id": 10,
@@ -1189,14 +1189,14 @@
     "mine": false,
     "pa": 1009.1,
     "pf": 948.02,
-    "playoff_odds": 0.198,
+    "playoff_odds": 0.203,
     "power_rank": 9,
     "proj_avg": 111.2,
     "proj_by_week": {
      "10": 90.38,
      "11": 116.53,
      "12": 120.95,
-     "9": 117.05
+     "9": 117.02
     },
     "rank": 7,
     "roster_id": 6,
@@ -1231,14 +1231,14 @@
     "mine": true,
     "pa": 946.24,
     "pf": 906.7,
-    "playoff_odds": 0.209,
+    "playoff_odds": 0.208,
     "power_rank": 8,
     "proj_avg": 113.2,
     "proj_by_week": {
      "10": 118.86,
      "11": 104.75,
      "12": 118.56,
-     "9": 110.59
+     "9": 110.52
     },
     "rank": 9,
     "roster_id": 7,
@@ -1252,7 +1252,7 @@
     "mine": false,
     "pa": 1017.26,
     "pf": 942.36,
-    "playoff_odds": 0.311,
+    "playoff_odds": 0.31,
     "power_rank": 4,
     "proj_avg": 125.5,
     "proj_by_week": {
@@ -1385,7 +1385,7 @@
     "10": 14.26,
     "11": 15.89,
     "12": 13.31,
-    "9": 11.01
+    "9": 10.94
    },
    "slot": "starter",
    "status": "Questionable",
@@ -1610,8 +1610,8 @@
      "name": "Malik Nabers",
      "pid": "11632",
      "pos": "WR",
-     "ros_per_week": 15.5,
-     "status": null,
+     "ros_per_week": 15.2,
+     "status": "Questionable",
      "team": "NYG"
     }
    ],
@@ -1636,9 +1636,9 @@
    "likelihood": "Possible",
    "partner": "Gibbs me Nabers 😵‍💫",
    "partner_roster_id": 4,
-   "summary": "Give Brenton Strange + Malik Washington, get Malik Nabers from Gibbs me Nabers 😵‍💫: +4.1 pts/week for you, -0.4 for them.",
-   "their_gain_per_week": -0.4,
-   "value_ratio": 0.73,
+   "summary": "Give Brenton Strange + Malik Washington, get Malik Nabers from Gibbs me Nabers 😵‍💫: +3.9 pts/week for you, -0.1 for them.",
+   "their_gain_per_week": -0.1,
+   "value_ratio": 0.72,
    "why_them": [
     "Brenton Strange would start 8 of 9 weeks for them",
     "Malik Washington would start 0 of 9 weeks for them"
@@ -1648,7 +1648,7 @@
     "Brenton Strange starts 8 of 9 weeks for you",
     "Malik Washington starts only 0 of 9 weeks for you"
    ],
-   "your_gain_per_week": 4.1
+   "your_gain_per_week": 3.9
   },
   {
    "get": [
@@ -1932,7 +1932,7 @@
     "10": 10.34,
     "11": 11.43,
     "12": 9.67,
-    "9": 9.75
+    "9": 9.73
    },
    "status": null,
    "stream": false,

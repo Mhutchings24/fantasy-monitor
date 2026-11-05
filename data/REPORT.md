@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-05T18:54:31Z UTC
+Week 9 · record 3-5 · updated 2026-11-05T18:59:37Z UTC
 
 ## Lineup check
-Current lineup projects **99.7**, best possible **110.6**.
+Current lineup projects **99.7**, best possible **110.5**.
 
 - 🔁 Start Josh Downs (WR, IND) (10.9) over Mike Evans (WR, SF) (0.0)
 
@@ -32,8 +32,8 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 1 | 131.3 | 100% |
-| 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 7 | 120.5 | 96% |
-| 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 131.0 | 99% |
+| 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 7 | 120.4 | 96% |
+| 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 130.4 | 99% |
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 5 | 125.0 | 94% |
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 129.9 | 92% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 10 | 109.1 | 13% |
@@ -46,7 +46,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
 - **Likely** · Give Brenton Strange + Malik Washington, get Tetairoa McMillan from Gibbs me Nabers 😵‍💫: +2.8 pts/week for you, +1.0 for them.
-- **Possible** · Give Brenton Strange + Malik Washington, get Malik Nabers from Gibbs me Nabers 😵‍💫: +4.1 pts/week for you, -0.4 for them.
+- **Possible** · Give Brenton Strange + Malik Washington, get Malik Nabers from Gibbs me Nabers 😵‍💫: +3.9 pts/week for you, -0.1 for them.
 - **Possible** · Give Malik Washington, get Jonah Coleman from Glizzy Globbler : +1.3 pts/week for you, -0.3 for them.
 - **Possible** · Give Josh Downs, get Jonah Coleman from Glizzy Globbler : +1.3 pts/week for you, -0.2 for them.
 - **Possible** · Give Josh Jacobs, get Parker Washington from Touch of the Downs: +1.2 pts/week for you, -0.3 for them.
@@ -64,7 +64,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Quinshon Judkins | RB | CLE | starter |  | 12.3 | 9.7 | 0.0 | 10.8 |
 | George Kittle | TE | SF | starter |  | 15.5 | 17.0 | 14.7 | 15.1 |
 | Keenan Allen | WR | IND | starter |  | 11.3 | 10.6 | 9.3 | 9.2 |
-| DJ Moore | WR | BUF | starter | Questionable | 11.0 | 14.3 | 15.9 | 13.3 |
+| DJ Moore | WR | BUF | starter | Questionable | 10.9 | 14.3 | 15.9 | 13.3 |
 | Mike Evans | WR | SF | starter | Questionable | 0.0 | 19.9 | 17.1 | 17.6 |
 | Omarion Hampton | RB | LAC | bench |  | 9.5 | 10.1 | 10.6 | 10.8 |
 | Rico Dowdle | RB | PIT | bench | BYE | 0.0 | 9.6 | 7.7 | 8.2 |
