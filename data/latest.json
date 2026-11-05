@@ -1,5 +1,5 @@
 {
- "content_hash": "5988533db1e912c3f9d48cd41793619d3242b3dc",
+ "content_hash": "fb2896761422e2be8a2fba312b926b0b8cc5f04f",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -70,15 +70,6 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 76396,
-   "name": "Gardner Minshew II",
-   "pos": "QB",
-   "proj_4wk": 49.7,
-   "proj_this_week": 11.51,
-   "status": null,
-   "team": "ARI"
-  },
-  {
    "adds_24h": 0,
    "name": "Baker Mayfield",
    "pos": "QB",
@@ -86,6 +77,15 @@
    "proj_this_week": 16.22,
    "status": null,
    "team": "TB"
+  },
+  {
+   "adds_24h": 76396,
+   "name": "Gardner Minshew II",
+   "pos": "QB",
+   "proj_4wk": 49.7,
+   "proj_this_week": 11.51,
+   "status": null,
+   "team": "ARI"
   },
   {
    "adds_24h": 0,
@@ -332,21 +332,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Cameron Dicker",
-   "pos": "K",
-   "proj_4wk": 29.8,
-   "proj_this_week": 6.83,
-   "status": null,
-   "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
    "name": "Mason Taylor",
    "pos": "TE",
    "proj_4wk": 29.8,
    "proj_this_week": 6.42,
    "status": "Questionable",
    "team": "NYJ"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Cameron Dicker",
+   "pos": "K",
+   "proj_4wk": 29.8,
+   "proj_this_week": 6.83,
+   "status": null,
+   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -853,7 +853,7 @@
    "team": "WAS"
   }
  ],
- "generated_at": "2026-11-05T20:44:58Z",
+ "generated_at": "2026-11-05T20:50:04Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
