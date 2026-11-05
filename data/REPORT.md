@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-05T09:57:32Z UTC
+Week 9 · record 3-5 · updated 2026-11-05T10:02:36Z UTC
 
 ## Lineup check
 Current lineup projects **113.5**, best possible **113.5**.
@@ -17,7 +17,7 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | Xavier Worthy | WR | KC | Malik Washington | +0.6 | +0.0 | 0 |
 | Dalton Kincaid | TE | BUF | Malik Washington | +0.4 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Malik Washington | +0.3 | +0.0 | 0 |
-| J.J. McCarthy | QB | NYG | Malik Washington | +0.2 | +0.0 | 66,609 |
+| J.J. McCarthy | QB | NYG | Malik Washington | +0.2 | +0.0 | 66,642 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.9 pts this week)
 
@@ -50,8 +50,8 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Possible** · Give Josh Downs, get Jonah Coleman from Glizzy Globbler : +1.3 pts/week for you, -0.5 for them.
 - **Possible** · Give Josh Jacobs, get Parker Washington from Touch of the Downs: +1.2 pts/week for you, -0.4 for them.
 - **Possible** · Give Josh Jacobs + Brenton Strange, get Parker Washington from Touch of the Downs: +1.2 pts/week for you, +0.2 for them.
-- **Possible** · Give Malik Washington, get Jaylen Waddle from Bradsbaconisundercooked: +1.2 pts/week for you, -0.5 for them.
-- **Possible** · Give Josh Downs, get Jaylen Waddle from Bradsbaconisundercooked: +1.2 pts/week for you, -0.5 for them.
+- **Possible** · Give Malik Washington, get Jaylen Waddle from Bradsbaconisundercooked: +1.1 pts/week for you, -0.5 for them.
+- **Possible** · Give Josh Downs, get Jaylen Waddle from Bradsbaconisundercooked: +1.1 pts/week for you, -0.5 for them.
 - **Possible** · Give Jared Goff, get Patrick Mahomes from Bradsgay: +1.0 pts/week for you, -0.4 for them.
 
 ## Roster
