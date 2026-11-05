@@ -1,5 +1,5 @@
 {
- "content_hash": "33c12a4d9001c129c0c6a24b80ed2d4bde6d2479",
+ "content_hash": "e993c35ca7edb7f3b8393d71828baa8df1683b69",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -7,7 +7,7 @@
  },
  "free_agents": [
   {
-   "adds_24h": 98768,
+   "adds_24h": 91440,
    "name": "Kirk Cousins",
    "pos": "QB",
    "proj_4wk": 65.5,
@@ -16,7 +16,7 @@
    "team": "LV"
   },
   {
-   "adds_24h": 334264,
+   "adds_24h": 313999,
    "name": "Malik Willis",
    "pos": "QB",
    "proj_4wk": 63.9,
@@ -25,7 +25,7 @@
    "team": "MIA"
   },
   {
-   "adds_24h": 56070,
+   "adds_24h": 51450,
    "name": "J.J. McCarthy",
    "pos": "QB",
    "proj_4wk": 63.5,
@@ -79,6 +79,15 @@
    "team": "DEN"
   },
   {
+   "adds_24h": 133220,
+   "name": "Gardner Minshew II",
+   "pos": "QB",
+   "proj_4wk": 49.7,
+   "proj_this_week": 11.51,
+   "status": null,
+   "team": "ARI"
+  },
+  {
    "adds_24h": 0,
    "name": "Baker Mayfield",
    "pos": "QB",
@@ -86,15 +95,6 @@
    "proj_this_week": 16.22,
    "status": null,
    "team": "TB"
-  },
-  {
-   "adds_24h": 148108,
-   "name": "Gardner Minshew II",
-   "pos": "QB",
-   "proj_4wk": 49.7,
-   "proj_this_week": 11.51,
-   "status": null,
-   "team": "ARI"
   },
   {
    "adds_24h": 0,
@@ -169,7 +169,7 @@
    "team": "BUF"
   },
   {
-   "adds_24h": 47552,
+   "adds_24h": 45448,
    "name": "Omar Cooper Jr.",
    "pos": "WR",
    "proj_4wk": 37.3,
@@ -178,7 +178,7 @@
    "team": "NYJ"
   },
   {
-   "adds_24h": 51138,
+   "adds_24h": 46980,
    "name": "Khalil Shakir",
    "pos": "WR",
    "proj_4wk": 36.2,
@@ -205,7 +205,7 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 53760,
+   "adds_24h": 48600,
    "name": "Eddy Pineiro",
    "pos": "K",
    "proj_4wk": 33.2,
@@ -214,7 +214,7 @@
    "team": "SF"
   },
   {
-   "adds_24h": 61800,
+   "adds_24h": 55024,
    "name": "Jake Bates",
    "pos": "K",
    "proj_4wk": 33.1,
@@ -233,19 +233,19 @@
   },
   {
    "adds_24h": 0,
-   "name": "Chig Okonkwo",
-   "pos": "TE",
+   "name": "Drew Stevens",
+   "pos": "K",
    "proj_4wk": 32.3,
-   "proj_this_week": 8.31,
+   "proj_this_week": 8.38,
    "status": null,
    "team": "WAS"
   },
   {
    "adds_24h": 0,
-   "name": "Drew Stevens",
-   "pos": "K",
+   "name": "Chig Okonkwo",
+   "pos": "TE",
    "proj_4wk": 32.3,
-   "proj_this_week": 8.38,
+   "proj_this_week": 8.31,
    "status": null,
    "team": "WAS"
   },
@@ -367,7 +367,7 @@
    "team": "BAL"
   },
   {
-   "adds_24h": 59364,
+   "adds_24h": 53982,
    "name": "Michael Mayer",
    "pos": "TE",
    "proj_4wk": 29.4,
@@ -394,7 +394,7 @@
    "team": "NYJ"
   },
   {
-   "adds_24h": 222688,
+   "adds_24h": 192008,
    "name": "Shedeur Sanders",
    "pos": "QB",
    "proj_4wk": 28.1,
@@ -439,7 +439,7 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 139652,
+   "adds_24h": 120092,
    "name": "NYG D/ST",
    "pos": "DEF",
    "proj_4wk": 27.0,
@@ -475,7 +475,7 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 67590,
+   "adds_24h": 60276,
    "name": "SF D/ST",
    "pos": "DEF",
    "proj_4wk": 26.1,
@@ -511,7 +511,7 @@
    "team": "MIA"
   },
   {
-   "adds_24h": 316985,
+   "adds_24h": 289490,
    "name": "NO D/ST",
    "pos": "DEF",
    "proj_4wk": 25.2,
@@ -556,7 +556,7 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 66792,
+   "adds_24h": 60946,
    "name": "Kendre Miller",
    "pos": "RB",
    "proj_4wk": 24.5,
@@ -611,21 +611,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Trey Smack",
-   "pos": "K",
-   "proj_4wk": 24.1,
-   "proj_this_week": 7.55,
-   "status": null,
-   "team": "GB"
-  },
-  {
-   "adds_24h": 0,
    "name": "AJ Barner",
    "pos": "TE",
    "proj_4wk": 24.1,
    "proj_this_week": 7.92,
    "status": null,
    "team": "SEA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Trey Smack",
+   "pos": "K",
+   "proj_4wk": 24.1,
+   "proj_this_week": 7.55,
+   "status": null,
+   "team": "GB"
   },
   {
    "adds_24h": 0,
@@ -691,7 +691,7 @@
    "team": "CHI"
   },
   {
-   "adds_24h": 269857,
+   "adds_24h": 244244,
    "name": "Cairo Santos",
    "pos": "K",
    "proj_4wk": 23.6,
@@ -727,7 +727,7 @@
    "team": "BAL"
   },
   {
-   "adds_24h": 484508,
+   "adds_24h": 485468,
    "name": "Joe Milton",
    "pos": "QB",
    "proj_4wk": 12.5,
@@ -736,7 +736,7 @@
    "team": "PHI"
   },
   {
-   "adds_24h": 176661,
+   "adds_24h": 164457,
    "name": "Elijah Mitchell",
    "pos": "RB",
    "proj_4wk": 8.1,
@@ -745,7 +745,7 @@
    "team": "PHI"
   },
   {
-   "adds_24h": 124060,
+   "adds_24h": 124389,
    "name": "Drew Lock",
    "pos": "QB",
    "proj_4wk": 14.6,
@@ -754,7 +754,7 @@
    "team": "SEA"
   },
   {
-   "adds_24h": 122445,
+   "adds_24h": 109840,
    "name": "Dylan Sampson",
    "pos": "RB",
    "proj_4wk": 20.0,
@@ -763,7 +763,7 @@
    "team": "CLE"
   },
   {
-   "adds_24h": 95976,
+   "adds_24h": 85488,
    "name": "Alvin Kamara",
    "pos": "RB",
    "proj_4wk": 16.1,
@@ -772,7 +772,7 @@
    "team": "NO"
   },
   {
-   "adds_24h": 91644,
+   "adds_24h": 83272,
    "name": "Sione Vaki",
    "pos": "RB",
    "proj_4wk": 17.4,
@@ -781,7 +781,7 @@
    "team": "DET"
   },
   {
-   "adds_24h": 85295,
+   "adds_24h": 74872,
    "name": "Treylon Burks",
    "pos": "WR",
    "proj_4wk": 22.1,
@@ -790,7 +790,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 73384,
+   "adds_24h": 67112,
    "name": "Terrance Ferguson",
    "pos": "TE",
    "proj_4wk": 0.0,
@@ -799,16 +799,7 @@
    "team": "LAR"
   },
   {
-   "adds_24h": 60832,
-   "name": "Kenny Gainwell",
-   "pos": "RB",
-   "proj_4wk": 19.9,
-   "proj_this_week": 6.09,
-   "status": "Questionable",
-   "team": "TB"
-  },
-  {
-   "adds_24h": 58740,
+   "adds_24h": 55476,
    "name": "Carson Wentz",
    "pos": "QB",
    "proj_4wk": 0.0,
@@ -817,7 +808,16 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 52020,
+   "adds_24h": 54920,
+   "name": "Kenny Gainwell",
+   "pos": "RB",
+   "proj_4wk": 19.9,
+   "proj_this_week": 6.09,
+   "status": "Questionable",
+   "team": "TB"
+  },
+  {
+   "adds_24h": 48024,
    "name": "Chimere Dike",
    "pos": "WR",
    "proj_4wk": 5.8,
@@ -826,7 +826,7 @@
    "team": "TEN"
   },
   {
-   "adds_24h": 51528,
+   "adds_24h": 47172,
    "name": "Austin Ekeler",
    "pos": "RB",
    "proj_4wk": 19.4,
@@ -835,7 +835,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 47640,
+   "adds_24h": 44510,
    "name": "TB D/ST",
    "pos": "DEF",
    "proj_4wk": 17.6,
@@ -844,7 +844,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-05T15:22:55Z",
+ "generated_at": "2026-11-05T15:33:03Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1534,7 +1534,7 @@
    "status": null,
    "stream": true,
    "team": "SF",
-   "trending_adds_24h": 53760
+   "trending_adds_24h": 48600
   }
  ],
  "team": {
@@ -1959,7 +1959,7 @@
    "status": null,
    "stream": false,
    "team": "NYG",
-   "trending_adds_24h": 56070
+   "trending_adds_24h": 51450
   }
  ],
  "week": 9,
