@@ -1,5 +1,5 @@
 {
- "content_hash": "c34cd2601468f055de712bcca3b0983a46838954",
+ "content_hash": "7dcdc247b1d68056775a205bd9faa4985a08bdd3",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -233,19 +233,19 @@
   },
   {
    "adds_24h": 0,
-   "name": "Chig Okonkwo",
-   "pos": "TE",
+   "name": "Drew Stevens",
+   "pos": "K",
    "proj_4wk": 32.3,
-   "proj_this_week": 8.31,
+   "proj_this_week": 8.38,
    "status": null,
    "team": "WAS"
   },
   {
    "adds_24h": 0,
-   "name": "Drew Stevens",
-   "pos": "K",
+   "name": "Chig Okonkwo",
+   "pos": "TE",
    "proj_4wk": 32.3,
-   "proj_this_week": 8.38,
+   "proj_this_week": 8.31,
    "status": null,
    "team": "WAS"
   },
@@ -601,15 +601,6 @@
    "team": "TB"
   },
   {
-   "adds_24h": 74504,
-   "name": "Joe Fagnano",
-   "pos": "QB",
-   "proj_4wk": 24.1,
-   "proj_this_week": 10.34,
-   "status": null,
-   "team": "BAL"
-  },
-  {
    "adds_24h": 0,
    "name": "AJ Barner",
    "pos": "TE",
@@ -617,6 +608,15 @@
    "proj_this_week": 7.96,
    "status": null,
    "team": "SEA"
+  },
+  {
+   "adds_24h": 74504,
+   "name": "Joe Fagnano",
+   "pos": "QB",
+   "proj_4wk": 24.1,
+   "proj_this_week": 10.34,
+   "status": null,
+   "team": "BAL"
   },
   {
    "adds_24h": 0,
@@ -757,9 +757,9 @@
    "adds_24h": 217462,
    "name": "Treylon Burks",
    "pos": "WR",
-   "proj_4wk": 22.9,
-   "proj_this_week": 5.73,
-   "status": null,
+   "proj_4wk": 22.1,
+   "proj_this_week": 4.87,
+   "status": "Questionable",
    "team": "WAS"
   },
   {
@@ -826,7 +826,7 @@
    "team": "MIN"
   }
  ],
- "generated_at": "2026-11-05T00:37:49Z",
+ "generated_at": "2026-11-05T00:42:54Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1025,7 +1025,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.537,
+    "first_seed_odds": 0.536,
     "losses": 2,
     "mine": false,
     "pa": 1045.02,
@@ -1109,19 +1109,19 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.059,
+    "first_seed_odds": 0.06,
     "losses": 4,
     "mine": false,
     "pa": 1104.36,
     "pf": 1110.86,
-    "playoff_odds": 0.918,
+    "playoff_odds": 0.919,
     "power_rank": 3,
-    "proj_avg": 129.9,
+    "proj_avg": 130.1,
     "proj_by_week": {
      "10": 132.47,
      "11": 110.4,
      "12": 135.99,
-     "9": 140.7
+     "9": 141.39
     },
     "rank": 5,
     "roster_id": 10,
@@ -1156,7 +1156,7 @@
     "mine": false,
     "pa": 1009.1,
     "pf": 948.02,
-    "playoff_odds": 0.196,
+    "playoff_odds": 0.195,
     "power_rank": 9,
     "proj_avg": 111.1,
     "proj_by_week": {

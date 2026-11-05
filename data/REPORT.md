@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-05T00:37:49Z UTC
+Week 9 · record 3-5 · updated 2026-11-05T00:42:54Z UTC
 
 ## Lineup check
 Current lineup projects **113.7**, best possible **113.7**.
@@ -35,7 +35,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 7 | 120.5 | 96% |
 | 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 131.0 | 99% |
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 5 | 125.0 | 94% |
-| 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 129.9 | 92% |
+| 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 130.1 | 92% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 10 | 109.2 | 13% |
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 111.1 | 20% |
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 120.9 | 34% |
