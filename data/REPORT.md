@@ -1,11 +1,10 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-05T16:49:01Z UTC
+Week 9 · record 3-5 · updated 2026-11-05T17:10:57Z UTC
 
 ## Lineup check
-Current lineup projects **103.7**, best possible **110.4**.
+Current lineup projects **113.6**, best possible **113.6**.
 
-- ⚠️ Mike Evans (WR, SF) is Doubtful
-- 🔁 Start Josh Downs (WR, IND) (10.9) over Mike Evans (WR, SF) (4.1)
+- ✅ Your lineup is already the best one available.
 
 ## Waiver targets
 FAAB left: **$100** (league starting budget $100)
@@ -15,17 +14,17 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | J.K. Dobbins | RB | DEN | Malik Washington | +1.6 | +0.0 | 0 |
-| Xavier Worthy | WR | KC | Malik Washington | +0.6 | +0.0 | 0 |
+| Xavier Worthy | WR | KC | Malik Washington | +0.6 | +0.0 | 34,317 |
 | Dalton Kincaid | TE | BUF | Malik Washington | +0.4 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Malik Washington | +0.3 | +0.0 | 0 |
-| J.J. McCarthy | QB | NYG | Malik Washington | +0.2 | +0.0 | 49,947 |
+| J.J. McCarthy | QB | NYG | Malik Washington | +0.2 | +0.0 | 50,589 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.9 pts this week)
 
 **K stream this week:** add Eddy Pineiro for Matt Gay (+0.3 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **103.7** – 134.8 projected · win chance **19%**
+vs **Touch of the Downs** (2-6): you **113.6** – 134.8 projected · win chance **27%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -39,9 +38,9 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 130.0 | 92% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 10 | 109.2 | 13% |
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 111.1 | 20% |
-| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 120.9 | 35% |
-| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 8 | 113.2 | 21% |
-| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 125.5 | 31% |
+| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 120.9 | 34% |
+| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 8 | 113.9 | 22% |
+| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 125.5 | 30% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -51,8 +50,8 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Possible** · Give Josh Downs, get Jonah Coleman from Glizzy Globbler : +1.3 pts/week for you, -0.5 for them.
 - **Possible** · Give Josh Jacobs, get Parker Washington from Touch of the Downs: +1.2 pts/week for you, -0.4 for them.
 - **Possible** · Give Josh Jacobs + Brenton Strange, get Parker Washington from Touch of the Downs: +1.2 pts/week for you, +0.2 for them.
-- **Possible** · Give Malik Washington, get Jaylen Waddle from Bradsbaconisundercooked: +1.2 pts/week for you, -0.5 for them.
-- **Possible** · Give Josh Downs, get Jaylen Waddle from Bradsbaconisundercooked: +1.2 pts/week for you, -0.5 for them.
+- **Possible** · Give Malik Washington, get Jaylen Waddle from Bradsbaconisundercooked: +1.1 pts/week for you, -0.5 for them.
+- **Possible** · Give Josh Downs, get Jaylen Waddle from Bradsbaconisundercooked: +1.1 pts/week for you, -0.5 for them.
 - **Possible** · Give Jared Goff, get Patrick Mahomes from Bradsgay: +1.0 pts/week for you, -0.4 for them.
 
 ## Roster
@@ -64,9 +63,9 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Josh Jacobs | RB | GB | starter |  | 14.0 | 12.6 | 0.0 | 13.1 |
 | Quinshon Judkins | RB | CLE | starter |  | 12.3 | 9.7 | 0.0 | 10.8 |
 | George Kittle | TE | SF | starter |  | 15.3 | 17.0 | 14.7 | 15.1 |
+| Mike Evans | WR | SF | starter | Questionable | 14.1 | 19.9 | 17.1 | 17.6 |
 | Keenan Allen | WR | IND | starter |  | 11.3 | 10.6 | 9.3 | 9.2 |
 | DJ Moore | WR | BUF | starter | Questionable | 11.0 | 14.3 | 15.9 | 13.3 |
-| Mike Evans | WR | SF | starter | Doubtful | 4.1 | 19.9 | 17.1 | 17.6 |
 | Omarion Hampton | RB | LAC | bench |  | 9.5 | 10.1 | 10.6 | 10.8 |
 | Rico Dowdle | RB | PIT | bench | BYE | 0.0 | 9.6 | 7.7 | 8.2 |
 | Brenton Strange | TE | JAX | bench |  | 9.8 | 11.5 | 11.0 | 11.5 |
