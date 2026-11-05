@@ -1,5 +1,5 @@
 {
- "content_hash": "1bec63e85fe617a085ec9b08a03d9cfc2ddcebb9",
+ "content_hash": "54f4900072048e64d7c22549ad07902648749a8d",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -20,7 +20,7 @@
    "name": "Malik Willis",
    "pos": "QB",
    "proj_4wk": 63.9,
-   "proj_this_week": 17.79,
+   "proj_this_week": 17.8,
    "status": null,
    "team": "MIA"
   },
@@ -233,19 +233,19 @@
   },
   {
    "adds_24h": 0,
-   "name": "Drew Stevens",
-   "pos": "K",
+   "name": "Chig Okonkwo",
+   "pos": "TE",
    "proj_4wk": 32.3,
-   "proj_this_week": 8.38,
+   "proj_this_week": 8.31,
    "status": null,
    "team": "WAS"
   },
   {
    "adds_24h": 0,
-   "name": "Chig Okonkwo",
-   "pos": "TE",
+   "name": "Drew Stevens",
+   "pos": "K",
    "proj_4wk": 32.3,
-   "proj_this_week": 8.31,
+   "proj_this_week": 8.38,
    "status": null,
    "team": "WAS"
   },
@@ -506,7 +506,7 @@
    "name": "Chris Bell",
    "pos": "WR",
    "proj_4wk": 25.4,
-   "proj_this_week": 6.96,
+   "proj_this_week": 6.97,
    "status": null,
    "team": "MIA"
   },
@@ -830,12 +830,12 @@
    "name": "Austin Ekeler",
    "pos": "RB",
    "proj_4wk": 19.4,
-   "proj_this_week": 7.35,
+   "proj_this_week": 7.34,
    "status": null,
    "team": "WAS"
   }
  ],
- "generated_at": "2026-11-05T04:21:31Z",
+ "generated_at": "2026-11-05T04:26:35Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -865,7 +865,7 @@
    {
     "name": "Jared Goff",
     "pid": "3163",
-    "proj": 19.93,
+    "proj": 19.94,
     "slot": "QB"
    },
    {
@@ -917,8 +917,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 113.43,
-  "current_projected": 113.43,
+  "best_projected": 113.44,
+  "current_projected": 113.44,
   "gain": 0.0,
   "problems": [],
   "source": "matchup week 9",
@@ -1013,7 +1013,7 @@
   },
   "matchup": {
    "my_proj": 113.4,
-   "opp_best_possible": 134.96,
+   "opp_best_possible": 134.98,
    "opp_proj": 135.0,
    "opponent": "Touch of the Downs",
    "opponent_record": "2-6",
@@ -1034,7 +1034,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.537,
+    "first_seed_odds": 0.536,
     "losses": 2,
     "mine": false,
     "pa": 1045.02,
@@ -1046,7 +1046,7 @@
      "10": 132.2,
      "11": 124.98,
      "12": 138.59,
-     "9": 129.36
+     "9": 129.35
     },
     "rank": 1,
     "roster_id": 9,
@@ -1088,7 +1088,7 @@
      "10": 125.63,
      "11": 132.93,
      "12": 137.24,
-     "9": 128.26
+     "9": 128.18
     },
     "rank": 3,
     "roster_id": 4,
@@ -1109,7 +1109,7 @@
      "10": 129.63,
      "11": 119.25,
      "12": 128.7,
-     "9": 122.48
+     "9": 122.49
     },
     "rank": 4,
     "roster_id": 5,
@@ -1118,7 +1118,7 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.059,
+    "first_seed_odds": 0.06,
     "losses": 4,
     "mine": false,
     "pa": 1104.36,
@@ -1130,7 +1130,7 @@
      "10": 132.47,
      "11": 110.4,
      "12": 135.99,
-     "9": 141.2
+     "9": 141.21
     },
     "rank": 5,
     "roster_id": 10,
@@ -1151,7 +1151,7 @@
      "10": 120.33,
      "11": 91.41,
      "12": 118.17,
-     "9": 106.99
+     "9": 106.98
     },
     "rank": 6,
     "roster_id": 1,
@@ -1193,7 +1193,7 @@
      "10": 113.75,
      "11": 107.3,
      "12": 132.23,
-     "9": 130.39
+     "9": 130.41
     },
     "rank": 8,
     "roster_id": 2,
@@ -1214,7 +1214,7 @@
      "10": 118.86,
      "11": 104.75,
      "12": 118.56,
-     "9": 113.43
+     "9": 113.44
     },
     "rank": 9,
     "roster_id": 7,
@@ -1235,7 +1235,7 @@
      "10": 131.31,
      "11": 102.46,
      "12": 133.19,
-     "9": 134.96
+     "9": 134.98
     },
     "rank": 10,
     "roster_id": 3,
@@ -1286,7 +1286,7 @@
     "10": 17.77,
     "11": 19.23,
     "12": 19.76,
-    "9": 19.93
+    "9": 19.94
    },
    "slot": "starter",
    "status": null,
