@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-05T18:27:20Z UTC
+Week 9 · record 3-5 · updated 2026-11-05T18:32:25Z UTC
 
 ## Lineup check
 Current lineup projects **99.7**, best possible **110.6**.
@@ -24,7 +24,7 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 **K stream this week:** add Eddy Pineiro for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **99.7** – 134.8 projected · win chance **16%**
+vs **Touch of the Downs** (2-6): you **99.7** – 134.9 projected · win chance **16%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -32,7 +32,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 1 | 131.3 | 100% |
-| 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 7 | 120.4 | 96% |
+| 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 7 | 120.5 | 96% |
 | 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 131.0 | 99% |
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 5 | 125.0 | 94% |
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 129.9 | 92% |
@@ -68,7 +68,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Mike Evans | WR | SF | starter | Questionable | 0.0 | 19.9 | 17.1 | 17.6 |
 | Omarion Hampton | RB | LAC | bench |  | 9.5 | 10.1 | 10.6 | 10.8 |
 | Rico Dowdle | RB | PIT | bench | BYE | 0.0 | 9.6 | 7.7 | 8.2 |
-| Brenton Strange | TE | JAX | bench |  | 9.8 | 11.5 | 11.0 | 11.5 |
+| Brenton Strange | TE | JAX | bench |  | 9.7 | 11.5 | 11.0 | 11.5 |
 | Josh Downs | WR | IND | bench |  | 10.9 | 11.1 | 9.7 | 9.6 |
 | Malik Washington | WR | MIA | bench |  | 10.8 | 10.0 | 9.5 | 9.9 |
 | Jordyn Tyson | WR | NO | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
