@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-05T17:56:41Z UTC
+Week 9 · record 3-5 · updated 2026-11-05T18:01:46Z UTC
 
 ## Lineup check
 Current lineup projects **99.7**, best possible **110.6**.
@@ -36,7 +36,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 131.0 | 99% |
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 5 | 125.0 | 94% |
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 129.9 | 92% |
-| 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 10 | 109.2 | 13% |
+| 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 10 | 109.1 | 13% |
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 111.2 | 20% |
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 120.9 | 35% |
 | 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 8 | 113.2 | 21% |
@@ -49,7 +49,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Possible** · Give Brenton Strange + Malik Washington, get Malik Nabers from Gibbs me Nabers 😵‍💫: +4.1 pts/week for you, -0.4 for them.
 - **Possible** · Give Malik Washington, get Jonah Coleman from Glizzy Globbler : +1.3 pts/week for you, -0.3 for them.
 - **Possible** · Give Josh Downs, get Jonah Coleman from Glizzy Globbler : +1.3 pts/week for you, -0.2 for them.
-- **Possible** · Give Josh Jacobs, get Parker Washington from Touch of the Downs: +1.2 pts/week for you, -0.4 for them.
+- **Possible** · Give Josh Jacobs, get Parker Washington from Touch of the Downs: +1.2 pts/week for you, -0.3 for them.
 - **Possible** · Give Josh Jacobs + Brenton Strange, get Parker Washington from Touch of the Downs: +1.2 pts/week for you, +0.2 for them.
 - **Possible** · Give Malik Washington, get Jaylen Waddle from Bradsbaconisundercooked: +1.2 pts/week for you, -0.5 for them.
 - **Possible** · Give Josh Downs, get Jaylen Waddle from Bradsbaconisundercooked: +1.2 pts/week for you, -0.5 for them.
