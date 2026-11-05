@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-05T21:25:45Z UTC
+Week 9 · record 3-5 · updated 2026-11-05T21:35:55Z UTC
 
 ## Lineup check
 Current lineup projects **99.6**, best possible **110.4**.
@@ -38,7 +38,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 5 | 125.4 | 92% |
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 129.9 | 92% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 8 | 117.4 | 27% |
-| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 10 | 111.2 | 17% |
+| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 10 | 111.2 | 16% |
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 120.8 | 32% |
 | 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 9 | 113.2 | 18% |
 | 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 125.4 | 30% |
@@ -67,7 +67,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Keenan Allen | WR | IND | starter |  | 11.3 | 10.6 | 9.3 | 9.2 |
 | DJ Moore | WR | BUF | starter | Questionable | 11.0 | 14.3 | 15.9 | 13.3 |
 | Mike Evans | WR | SF | starter | Questionable | 0.0 | 19.9 | 17.1 | 17.6 |
-| Omarion Hampton | RB | LAC | bench |  | 9.5 | 10.1 | 10.6 | 10.8 |
+| Omarion Hampton | RB | LAC | bench |  | 9.3 | 10.1 | 10.6 | 10.8 |
 | Rico Dowdle | RB | PIT | bench | BYE | 0.0 | 9.6 | 7.7 | 8.2 |
 | Brenton Strange | TE | JAX | bench |  | 9.7 | 11.5 | 11.0 | 11.5 |
 | Josh Downs | WR | IND | bench |  | 10.9 | 11.1 | 9.7 | 9.6 |
