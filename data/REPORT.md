@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-05T07:59:50Z UTC
+Week 9 · record 3-5 · updated 2026-11-05T08:27:26Z UTC
 
 ## Lineup check
-Current lineup projects **113.4**, best possible **113.4**.
+Current lineup projects **113.5**, best possible **113.5**.
 
 - ✅ Your lineup is already the best one available.
 
@@ -17,7 +17,7 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | Xavier Worthy | WR | KC | Malik Washington | +0.6 | +0.0 | 0 |
 | Dalton Kincaid | TE | BUF | Malik Washington | +0.4 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Malik Washington | +0.3 | +0.0 | 0 |
-| J.J. McCarthy | QB | NYG | Malik Washington | +0.2 | +0.0 | 71,364 |
+| J.J. McCarthy | QB | NYG | Malik Washington | +0.2 | +0.0 | 71,487 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.9 pts this week)
 
@@ -35,10 +35,10 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 7 | 120.5 | 96% |
 | 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 131.0 | 99% |
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 5 | 125.0 | 94% |
-| 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 130.1 | 92% |
+| 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 130.0 | 92% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 10 | 109.2 | 13% |
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 111.1 | 20% |
-| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 121.0 | 34% |
+| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 120.9 | 34% |
 | 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 8 | 113.9 | 22% |
 | 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 125.5 | 31% |
 
