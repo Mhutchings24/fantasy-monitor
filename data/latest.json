@@ -1,5 +1,5 @@
 {
- "content_hash": "b48724f2690406a8471e24101420df7b671239a2",
+ "content_hash": "627009d0ef73980dccef56a6d0b069b7bc71b87e",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -233,19 +233,19 @@
   },
   {
    "adds_24h": 0,
-   "name": "Drew Stevens",
-   "pos": "K",
+   "name": "Chig Okonkwo",
+   "pos": "TE",
    "proj_4wk": 32.3,
-   "proj_this_week": 8.38,
+   "proj_this_week": 8.31,
    "status": null,
    "team": "WAS"
   },
   {
    "adds_24h": 0,
-   "name": "Chig Okonkwo",
-   "pos": "TE",
+   "name": "Drew Stevens",
+   "pos": "K",
    "proj_4wk": 32.3,
-   "proj_this_week": 8.31,
+   "proj_this_week": 8.38,
    "status": null,
    "team": "WAS"
   },
@@ -358,15 +358,6 @@
    "team": "KC"
   },
   {
-   "adds_24h": 0,
-   "name": "Tyler Huntley",
-   "pos": "QB",
-   "proj_4wk": 29.4,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "BAL"
-  },
-  {
    "adds_24h": 70983,
    "name": "Michael Mayer",
    "pos": "TE",
@@ -374,6 +365,15 @@
    "proj_this_week": 8.08,
    "status": null,
    "team": "LV"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Tyler Huntley",
+   "pos": "QB",
+   "proj_4wk": 29.4,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "BAL"
   },
   {
    "adds_24h": 0,
@@ -533,7 +533,7 @@
    "name": "Hunter Henry",
    "pos": "TE",
    "proj_4wk": 25.0,
-   "proj_this_week": 6.04,
+   "proj_this_week": 6.03,
    "status": "Questionable",
    "team": "NE"
   },
@@ -623,7 +623,7 @@
    "name": "Trey Smack",
    "pos": "K",
    "proj_4wk": 24.1,
-   "proj_this_week": 7.58,
+   "proj_this_week": 7.55,
    "status": null,
    "team": "GB"
   },
@@ -844,7 +844,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-05T11:24:26Z",
+ "generated_at": "2026-11-05T11:29:33Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -880,7 +880,7 @@
    {
     "name": "Josh Jacobs",
     "pid": "5850",
-    "proj": 14.05,
+    "proj": 13.99,
     "slot": "RB"
    },
    {
@@ -926,8 +926,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 113.67,
-  "current_projected": 113.67,
+  "best_projected": 113.61,
+  "current_projected": 113.61,
   "gain": 0.0,
   "problems": [],
   "source": "matchup week 9",
@@ -1021,9 +1021,9 @@
    "week": 8
   },
   "matchup": {
-   "my_proj": 113.7,
-   "opp_best_possible": 134.95,
-   "opp_proj": 134.9,
+   "my_proj": 113.6,
+   "opp_best_possible": 134.82,
+   "opp_proj": 134.8,
    "opponent": "Touch of the Downs",
    "opponent_record": "2-6",
    "win_prob": 0.274
@@ -1043,7 +1043,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.536,
+    "first_seed_odds": 0.537,
     "losses": 2,
     "mine": false,
     "pa": 1045.02,
@@ -1055,7 +1055,7 @@
      "10": 132.2,
      "11": 124.98,
      "12": 138.59,
-     "9": 129.35
+     "9": 129.32
     },
     "rank": 1,
     "roster_id": 9,
@@ -1076,7 +1076,7 @@
      "10": 125.36,
      "11": 110.14,
      "12": 127.07,
-     "9": 119.36
+     "9": 119.29
     },
     "rank": 2,
     "roster_id": 8,
@@ -1139,7 +1139,7 @@
      "10": 132.47,
      "11": 110.4,
      "12": 135.99,
-     "9": 141.56
+     "9": 141.43
     },
     "rank": 5,
     "roster_id": 10,
@@ -1153,14 +1153,14 @@
     "mine": false,
     "pa": 1070.2,
     "pf": 967.14,
-    "playoff_odds": 0.129,
+    "playoff_odds": 0.13,
     "power_rank": 10,
     "proj_avg": 109.2,
     "proj_by_week": {
      "10": 120.33,
      "11": 91.41,
      "12": 118.17,
-     "9": 107.0
+     "9": 106.91
     },
     "rank": 6,
     "roster_id": 1,
@@ -1202,7 +1202,7 @@
      "10": 113.75,
      "11": 107.3,
      "12": 132.23,
-     "9": 130.5
+     "9": 130.3
     },
     "rank": 8,
     "roster_id": 2,
@@ -1218,12 +1218,12 @@
     "pf": 906.7,
     "playoff_odds": 0.222,
     "power_rank": 8,
-    "proj_avg": 114.0,
+    "proj_avg": 113.9,
     "proj_by_week": {
      "10": 118.86,
      "11": 104.75,
      "12": 118.56,
-     "9": 113.67
+     "9": 113.61
     },
     "rank": 9,
     "roster_id": 7,
@@ -1237,14 +1237,14 @@
     "mine": false,
     "pa": 1017.26,
     "pf": 942.36,
-    "playoff_odds": 0.305,
+    "playoff_odds": 0.304,
     "power_rank": 4,
-    "proj_avg": 125.5,
+    "proj_avg": 125.4,
     "proj_by_week": {
      "10": 131.31,
      "11": 102.46,
      "12": 133.19,
-     "9": 134.95
+     "9": 134.82
     },
     "rank": 10,
     "roster_id": 3,
@@ -1310,7 +1310,7 @@
     "10": 12.61,
     "11": 0.0,
     "12": 13.09,
-    "9": 14.05
+    "9": 13.99
    },
    "slot": "starter",
    "status": null,

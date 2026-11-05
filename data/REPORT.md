@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-05T11:24:26Z UTC
+Week 9 · record 3-5 · updated 2026-11-05T11:29:33Z UTC
 
 ## Lineup check
-Current lineup projects **113.7**, best possible **113.7**.
+Current lineup projects **113.6**, best possible **113.6**.
 
 - ✅ Your lineup is already the best one available.
 
@@ -24,7 +24,7 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 **K stream this week:** add Eddy Pineiro for Matt Gay (+0.3 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **113.7** – 134.9 projected · win chance **27%**
+vs **Touch of the Downs** (2-6): you **113.6** – 134.8 projected · win chance **27%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -39,8 +39,8 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 10 | 109.2 | 13% |
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 111.1 | 20% |
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 120.9 | 34% |
-| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 8 | 114.0 | 22% |
-| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 125.5 | 30% |
+| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 8 | 113.9 | 22% |
+| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 125.4 | 30% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -60,7 +60,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | LAR D/ST | DEF | LAR | starter |  | 7.4 | 7.2 | 0.0 | 8.9 |
 | Matt Gay | K | LV | starter |  | 8.3 | 8.5 | 8.5 | 8.5 |
 | Jared Goff | QB | DET | starter |  | 19.9 | 17.8 | 19.2 | 19.8 |
-| Josh Jacobs | RB | GB | starter |  | 14.1 | 12.6 | 0.0 | 13.1 |
+| Josh Jacobs | RB | GB | starter |  | 14.0 | 12.6 | 0.0 | 13.1 |
 | Quinshon Judkins | RB | CLE | starter |  | 12.3 | 9.7 | 0.0 | 10.8 |
 | George Kittle | TE | SF | starter |  | 15.3 | 17.0 | 14.7 | 15.1 |
 | Mike Evans | WR | SF | starter | Questionable | 14.1 | 19.9 | 17.1 | 17.6 |
