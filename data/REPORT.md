@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-05T21:05:22Z UTC
+Week 9 · record 3-5 · updated 2026-11-05T21:10:28Z UTC
 
 ## Lineup check
 Current lineup projects **99.6**, best possible **110.4**.
@@ -34,14 +34,14 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 1 | 131.2 | 100% |
 | 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 7 | 120.4 | 96% |
-| 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 130.5 | 99% |
-| 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 5 | 125.0 | 94% |
+| 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 130.5 | 98% |
+| 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 5 | 125.0 | 92% |
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 129.9 | 92% |
-| 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 10 | 109.1 | 13% |
-| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 111.2 | 20% |
-| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 120.8 | 35% |
-| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 8 | 113.2 | 21% |
-| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 125.4 | 31% |
+| 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 8 | 117.4 | 27% |
+| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 10 | 111.2 | 16% |
+| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 120.8 | 32% |
+| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 9 | 113.2 | 18% |
+| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 125.4 | 30% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
