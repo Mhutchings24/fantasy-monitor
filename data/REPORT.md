@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-05T17:26:12Z UTC
+Week 9 · record 3-5 · updated 2026-11-05T17:31:18Z UTC
 
 ## Lineup check
-Current lineup projects **113.6**, best possible **113.6**.
+Current lineup projects **113.4**, best possible **113.4**.
 
 - ✅ Your lineup is already the best one available.
 
@@ -21,10 +21,10 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.9 pts this week)
 
-**K stream this week:** add Eddy Pineiro for Matt Gay (+0.3 pts this week)
+**K stream this week:** add Eddy Pineiro for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **113.6** – 134.8 projected · win chance **27%**
+vs **Touch of the Downs** (2-6): you **113.4** – 134.8 projected · win chance **27%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -32,15 +32,15 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 1 | 131.3 | 100% |
-| 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 7 | 120.5 | 96% |
+| 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 7 | 120.4 | 96% |
 | 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 131.0 | 99% |
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 5 | 125.0 | 94% |
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 130.0 | 92% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 10 | 109.2 | 13% |
-| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 111.1 | 20% |
+| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 111.0 | 20% |
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 120.9 | 34% |
 | 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 8 | 113.9 | 22% |
-| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 125.5 | 30% |
+| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 125.5 | 31% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -58,12 +58,12 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Player | Pos | Team | Spot | Status | Wk 9 | Wk 10 | Wk 11 | Wk 12 |
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter |  | 7.4 | 7.2 | 0.0 | 8.9 |
-| Matt Gay | K | LV | starter |  | 8.3 | 8.5 | 8.5 | 8.5 |
+| Matt Gay | K | LV | starter |  | 8.2 | 8.5 | 8.5 | 8.5 |
 | Jared Goff | QB | DET | starter |  | 19.9 | 17.8 | 19.2 | 19.8 |
 | Josh Jacobs | RB | GB | starter |  | 14.0 | 12.6 | 0.0 | 13.1 |
 | Quinshon Judkins | RB | CLE | starter |  | 12.3 | 9.7 | 0.0 | 10.8 |
-| George Kittle | TE | SF | starter |  | 15.3 | 17.0 | 14.7 | 15.1 |
-| Mike Evans | WR | SF | starter | Questionable | 14.1 | 19.9 | 17.1 | 17.6 |
+| George Kittle | TE | SF | starter |  | 15.2 | 17.0 | 14.7 | 15.1 |
+| Mike Evans | WR | SF | starter | Questionable | 14.0 | 19.9 | 17.1 | 17.6 |
 | Keenan Allen | WR | IND | starter |  | 11.3 | 10.6 | 9.3 | 9.2 |
 | DJ Moore | WR | BUF | starter | Questionable | 11.0 | 14.3 | 15.9 | 13.3 |
 | Omarion Hampton | RB | LAC | bench |  | 9.5 | 10.1 | 10.6 | 10.8 |

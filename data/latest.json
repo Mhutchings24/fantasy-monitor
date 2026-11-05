@@ -1,5 +1,5 @@
 {
- "content_hash": "1f1fe9e1f4ed6e28dac0af056d2d7f3fb265964d",
+ "content_hash": "be09cb7dd8a685031472057ae83d5d4f1bce5793",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -10,8 +10,8 @@
    "adds_24h": 91096,
    "name": "Kirk Cousins",
    "pos": "QB",
-   "proj_4wk": 65.6,
-   "proj_this_week": 17.49,
+   "proj_4wk": 65.5,
+   "proj_this_week": 17.39,
    "status": null,
    "team": "LV"
   },
@@ -209,7 +209,7 @@
    "name": "Eddy Pineiro",
    "pos": "K",
    "proj_4wk": 33.2,
-   "proj_this_week": 8.62,
+   "proj_this_week": 8.59,
    "status": null,
    "team": "SF"
   },
@@ -233,19 +233,19 @@
   },
   {
    "adds_24h": 0,
-   "name": "Drew Stevens",
-   "pos": "K",
+   "name": "Chig Okonkwo",
+   "pos": "TE",
    "proj_4wk": 32.3,
-   "proj_this_week": 8.38,
+   "proj_this_week": 8.31,
    "status": null,
    "team": "WAS"
   },
   {
    "adds_24h": 0,
-   "name": "Chig Okonkwo",
-   "pos": "TE",
+   "name": "Drew Stevens",
+   "pos": "K",
    "proj_4wk": 32.3,
-   "proj_this_week": 8.31,
+   "proj_this_week": 8.38,
    "status": null,
    "team": "WAS"
   },
@@ -371,7 +371,7 @@
    "name": "Michael Mayer",
    "pos": "TE",
    "proj_4wk": 29.4,
-   "proj_this_week": 8.08,
+   "proj_this_week": 8.07,
    "status": null,
    "team": "LV"
   },
@@ -475,15 +475,6 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 60570,
-   "name": "SF D/ST",
-   "pos": "DEF",
-   "proj_4wk": 26.1,
-   "proj_this_week": 7.74,
-   "status": null,
-   "team": "SF"
-  },
-  {
    "adds_24h": 0,
    "name": "Keaton Mitchell",
    "pos": "RB",
@@ -491,6 +482,15 @@
    "proj_this_week": 5.21,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 60570,
+   "name": "SF D/ST",
+   "pos": "DEF",
+   "proj_4wk": 26.1,
+   "proj_this_week": 7.71,
+   "status": null,
+   "team": "SF"
   },
   {
    "adds_24h": 0,
@@ -611,21 +611,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "AJ Barner",
-   "pos": "TE",
-   "proj_4wk": 24.1,
-   "proj_this_week": 7.92,
-   "status": null,
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Trey Smack",
    "pos": "K",
    "proj_4wk": 24.1,
    "proj_this_week": 7.55,
    "status": null,
    "team": "GB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "AJ Barner",
+   "pos": "TE",
+   "proj_4wk": 24.1,
+   "proj_this_week": 7.92,
+   "status": null,
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -844,7 +844,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-05T17:26:12Z",
+ "generated_at": "2026-11-05T17:31:18Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -892,7 +892,7 @@
    {
     "name": "Mike Evans",
     "pid": "2216",
-    "proj": 14.06,
+    "proj": 13.97,
     "slot": "WR"
    },
    {
@@ -904,7 +904,7 @@
    {
     "name": "George Kittle",
     "pid": "4217",
-    "proj": 15.32,
+    "proj": 15.23,
     "slot": "TE"
    },
    {
@@ -916,7 +916,7 @@
    {
     "name": "Matt Gay",
     "pid": "6083",
-    "proj": 8.27,
+    "proj": 8.23,
     "slot": "K"
    },
    {
@@ -926,8 +926,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 113.62,
-  "current_projected": 113.62,
+  "best_projected": 113.4,
+  "current_projected": 113.4,
   "gain": 0.0,
   "problems": [],
   "source": "matchup week 9",
@@ -1021,12 +1021,12 @@
    "week": 8
   },
   "matchup": {
-   "my_proj": 113.6,
+   "my_proj": 113.4,
    "opp_best_possible": 134.85,
    "opp_proj": 134.8,
    "opponent": "Touch of the Downs",
    "opponent_record": "2-6",
-   "win_prob": 0.274
+   "win_prob": 0.272
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1071,12 +1071,12 @@
     "pf": 960.38,
     "playoff_odds": 0.958,
     "power_rank": 7,
-    "proj_avg": 120.5,
+    "proj_avg": 120.4,
     "proj_by_week": {
      "10": 125.36,
      "11": 110.14,
      "12": 127.07,
-     "9": 119.28
+     "9": 119.21
     },
     "rank": 2,
     "roster_id": 8,
@@ -1132,14 +1132,14 @@
     "mine": false,
     "pa": 1104.36,
     "pf": 1110.86,
-    "playoff_odds": 0.919,
+    "playoff_odds": 0.918,
     "power_rank": 3,
     "proj_avg": 130.0,
     "proj_by_week": {
      "10": 132.47,
      "11": 110.4,
      "12": 135.99,
-     "9": 141.3
+     "9": 141.22
     },
     "rank": 5,
     "roster_id": 10,
@@ -1176,12 +1176,12 @@
     "pf": 948.02,
     "playoff_odds": 0.195,
     "power_rank": 9,
-    "proj_avg": 111.1,
+    "proj_avg": 111.0,
     "proj_by_week": {
      "10": 90.38,
      "11": 116.53,
      "12": 120.95,
-     "9": 116.36
+     "9": 115.97
     },
     "rank": 7,
     "roster_id": 6,
@@ -1216,14 +1216,14 @@
     "mine": true,
     "pa": 946.24,
     "pf": 906.7,
-    "playoff_odds": 0.222,
+    "playoff_odds": 0.221,
     "power_rank": 8,
     "proj_avg": 113.9,
     "proj_by_week": {
      "10": 118.86,
      "11": 104.75,
      "12": 118.56,
-     "9": 113.62
+     "9": 113.4
     },
     "rank": 9,
     "roster_id": 7,
@@ -1237,7 +1237,7 @@
     "mine": false,
     "pa": 1017.26,
     "pf": 942.36,
-    "playoff_odds": 0.305,
+    "playoff_odds": 0.306,
     "power_rank": 4,
     "proj_avg": 125.5,
     "proj_by_week": {
@@ -1280,7 +1280,7 @@
     "10": 8.49,
     "11": 8.49,
     "12": 8.49,
-    "9": 8.27
+    "9": 8.23
    },
    "slot": "starter",
    "status": null,
@@ -1340,7 +1340,7 @@
     "10": 16.97,
     "11": 14.72,
     "12": 15.07,
-    "9": 15.32
+    "9": 15.23
    },
    "slot": "starter",
    "status": null,
@@ -1355,7 +1355,7 @@
     "10": 19.92,
     "11": 17.14,
     "12": 17.59,
-    "9": 14.06
+    "9": 13.97
    },
    "slot": "starter",
    "status": "Questionable",
@@ -1520,8 +1520,8 @@
   {
    "drop": "6083",
    "drop_name": "Matt Gay",
-   "gain_this_week": 0.35,
-   "gain_window": 0.35,
+   "gain_this_week": 0.36,
+   "gain_window": 0.36,
    "name": "Eddy Pineiro",
    "pid": "5189",
    "pos": "K",
@@ -1529,7 +1529,7 @@
     "10": 8.62,
     "11": 7.98,
     "12": 7.98,
-    "9": 8.62
+    "9": 8.59
    },
    "status": null,
    "stream": true,
