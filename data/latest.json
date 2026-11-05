@@ -1,5 +1,5 @@
 {
- "content_hash": "b6cd0bbe758e2ea843d0928a34ce2ed895cc5beb",
+ "content_hash": "3041d5bef474727b6168171580a3592fcb57c3d0",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -332,21 +332,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Mason Taylor",
-   "pos": "TE",
-   "proj_4wk": 29.8,
-   "proj_this_week": 6.42,
-   "status": "Questionable",
-   "team": "NYJ"
-  },
-  {
-   "adds_24h": 0,
    "name": "Cameron Dicker",
    "pos": "K",
    "proj_4wk": 29.8,
    "proj_this_week": 6.83,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Mason Taylor",
+   "pos": "TE",
+   "proj_4wk": 29.8,
+   "proj_this_week": 6.42,
+   "status": "Questionable",
+   "team": "NYJ"
   },
   {
    "adds_24h": 0,
@@ -853,7 +853,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-05T20:29:49Z",
+ "generated_at": "2026-11-05T20:34:54Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
