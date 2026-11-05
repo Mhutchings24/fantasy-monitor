@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-05T05:55:46Z UTC
+Week 9 · record 3-5 · updated 2026-11-05T06:00:51Z UTC
 
 ## Lineup check
 Current lineup projects **113.4**, best possible **113.4**.
@@ -17,7 +17,7 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | Xavier Worthy | WR | KC | Malik Washington | +0.6 | +0.0 | 0 |
 | Dalton Kincaid | TE | BUF | Malik Washington | +0.4 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Malik Washington | +0.3 | +0.0 | 0 |
-| J.J. McCarthy | QB | NYG | Malik Washington | +0.2 | +0.0 | 75,024 |
+| J.J. McCarthy | QB | NYG | Malik Washington | +0.2 | +0.0 | 75,105 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.9 pts this week)
 
