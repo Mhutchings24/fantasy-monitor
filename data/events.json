@@ -25,5 +25,32 @@
   "title": "Roster change",
   "type": "roster",
   "week": 9
+ },
+ {
+  "body": "Mike Evans (WR, SF) changed from Questionable to Doubtful.",
+  "id": "2026-11-05T16:49:00Z-0",
+  "severity": "high",
+  "time": "2026-11-05T16:49:00Z",
+  "title": "Mike Evans now Doubtful",
+  "type": "injury",
+  "week": 9
+ },
+ {
+  "body": "Mike Evans (WR, SF) is Doubtful. Suggested: Start Josh Downs (WR, IND) (10.9) over Mike Evans (WR, SF) (4.1)",
+  "id": "2026-11-05T16:49:00Z-1",
+  "severity": "high",
+  "time": "2026-11-05T16:49:00Z",
+  "title": "Lineup problem",
+  "type": "lineup",
+  "week": 9
+ },
+ {
+  "body": "Start Josh Downs (WR, IND) (10.9) over Mike Evans (WR, SF) (4.1)",
+  "id": "2026-11-05T16:49:00Z-2",
+  "severity": "default",
+  "time": "2026-11-05T16:49:00Z",
+  "title": "Lineup: +6.7 projected pts available",
+  "type": "lineup",
+  "week": 9
  }
 ]
