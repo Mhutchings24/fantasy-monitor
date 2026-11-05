@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-04T23:56:56Z UTC
+Week 9 · record 3-5 · updated 2026-11-05T00:02:00Z UTC
 
 ## Lineup check
-Current lineup projects **113.6**, best possible **113.6**.
+Current lineup projects **113.7**, best possible **113.7**.
 
 - ✅ Your lineup is already the best one available.
 
@@ -17,14 +17,14 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | Xavier Worthy | WR | KC | Malik Washington | +0.6 | +0.0 | 0 |
 | Dalton Kincaid | TE | BUF | Malik Washington | +0.4 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Malik Washington | +0.3 | +0.0 | 0 |
-| J.J. McCarthy | QB | NYG | Malik Washington | +0.2 | +0.0 | 89,529 |
+| J.J. McCarthy | QB | NYG | Malik Washington | +0.2 | +0.0 | 89,847 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.9 pts this week)
 
 **K stream this week:** add Eddy Pineiro for Matt Gay (+0.3 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **113.6** – 134.8 projected · win chance **27%**
+vs **Touch of the Downs** (2-6): you **113.7** – 134.9 projected · win chance **27%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -40,7 +40,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 111.1 | 20% |
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 120.9 | 34% |
 | 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 8 | 114.0 | 22% |
-| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 125.4 | 30% |
+| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 125.5 | 30% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
