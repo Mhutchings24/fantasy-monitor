@@ -1,5 +1,5 @@
 {
- "content_hash": "c3e64539aace77d5a8c54246b81fe11aeaba16cd",
+ "content_hash": "6db62b1084315b0561529486ac94b4770eb3731b",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -602,21 +602,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "AJ Barner",
-   "pos": "TE",
-   "proj_4wk": 24.1,
-   "proj_this_week": 7.96,
-   "status": null,
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Joe Fagnano",
    "pos": "QB",
    "proj_4wk": 24.1,
    "proj_this_week": 10.34,
    "status": null,
    "team": "BAL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "AJ Barner",
+   "pos": "TE",
+   "proj_4wk": 24.1,
+   "proj_this_week": 7.96,
+   "status": null,
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -835,7 +835,7 @@
    "team": "WAS"
   }
  ],
- "generated_at": "2026-11-05T02:01:19Z",
+ "generated_at": "2026-11-05T02:06:24Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
