@@ -1,5 +1,5 @@
 {
- "content_hash": "65848ee66e7c461c398a6eb925b34d736adfa133",
+ "content_hash": "034cd92265f96d2dc493918c924437582060208a",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -233,19 +233,19 @@
   },
   {
    "adds_24h": 0,
-   "name": "Chig Okonkwo",
-   "pos": "TE",
+   "name": "Drew Stevens",
+   "pos": "K",
    "proj_4wk": 32.3,
-   "proj_this_week": 8.31,
+   "proj_this_week": 8.38,
    "status": null,
    "team": "WAS"
   },
   {
    "adds_24h": 0,
-   "name": "Drew Stevens",
-   "pos": "K",
+   "name": "Chig Okonkwo",
+   "pos": "TE",
    "proj_4wk": 32.3,
-   "proj_this_week": 8.38,
+   "proj_this_week": 8.31,
    "status": null,
    "team": "WAS"
   },
@@ -358,15 +358,6 @@
    "team": "KC"
   },
   {
-   "adds_24h": 0,
-   "name": "Tyler Huntley",
-   "pos": "QB",
-   "proj_4wk": 29.4,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "BAL"
-  },
-  {
    "adds_24h": 95967,
    "name": "Michael Mayer",
    "pos": "TE",
@@ -374,6 +365,15 @@
    "proj_this_week": 8.08,
    "status": null,
    "team": "LV"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Tyler Huntley",
+   "pos": "QB",
+   "proj_4wk": 29.4,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "BAL"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "MIN"
   }
  ],
- "generated_at": "2026-11-05T00:58:10Z",
+ "generated_at": "2026-11-05T01:03:15Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
