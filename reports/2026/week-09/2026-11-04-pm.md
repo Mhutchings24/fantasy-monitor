@@ -3,8 +3,10 @@ _Conorrhea · No Fun League · record 3-5 · data as of Wed Nov 4, 5:32 PM MT_
 
 _The monitor run triggered at 5:36 PM MT succeeded. Data is fresh._
 
+_**Correction (7:00 PM MT):** DJ Moore is in one of your **WR** slots, not FLEX. The monitor reports who starts but not which slot, and I misread its suggested slot order as your actual lineup. The fix is the same: bench Moore and put Washington in his spot._
+
 ## Bottom line
-- **Fix your lineup now. Sleeper still starts DJ Moore at FLEX.** Bench Moore and start **Malik Washington** at FLEX. Moore is questionable, plays Monday at Minnesota, and you'd have no pivot after he kicks off.
+- **Fix your lineup now. Sleeper still starts DJ Moore (in a WR slot).** Bench Moore and put **Malik Washington** in his WR spot. Moore is questionable, plays Monday at Minnesota, and you'd have no pivot after he kicks off.
 - **Mike Evans missed Wednesday's practice** and is now listed with **ribs** as well as the Achilles. I've lowered his chance to play from ~65% to **~50%**. Keep him in for now.
 - **New Evans plan (replaces the Thursday rule):** you don't need to use Strange Thursday. If Evans is **Out or Doubtful on Friday's report**, start **Josh Downs** (Sun 1:00 ET). If he's still **Questionable on Sunday**, keep him in and check inactives (~2:55 ET). If he's inactive, swap in **Omarion Hampton** before his 4:05 ET kickoff.
 - **Jordyn Tyson's practice window is open** (limited Wednesday). He could debut Sunday, but on a reduced role. Don't start him. If the Saints activate him, Sleeper will block roster moves until he's off your IR slot. The drop then is **Hampton**, once Evans' status is settled.
@@ -17,9 +19,9 @@ _The monitor run triggered at 5:36 PM MT succeeded. Data is fresh._
 | RB | Josh Jacobs | GB @ NE, Sun 4:25 | 14.1 | ~97% | Medium | Not on Wednesday's Packers report. Lead back, tough matchup |
 | RB | Quinshon Judkins | CLE @ NO, Sun 1:00 | 12.3 | ~97% | High | No injury news. Saints are an easy RB matchup |
 | WR | Mike Evans | LV @ SF, Sun 4:25 | 14.1 | ~50% | Low | DNP Wed (ribs, Achilles). Highest ceiling; Hampton covers a late scratch |
-| WR | Keenan Allen | DAL @ IND, Sun 1:00 | 11.3 | ~95% | Medium-High | DNP Wed was a **rest day**, not an injury. Dallas defends WRs poorly |
+| WR/FLEX | Keenan Allen | DAL @ IND, Sun 1:00 | 11.3 | ~95% | Medium-High | DNP Wed was a **rest day**, not an injury. Dallas defends WRs poorly |
 | TE | George Kittle | LV @ SF, Sun 4:25 | 15.3 | ~97% | High | Not on SF's Wednesday report |
-| FLEX | Malik Washington | DET @ MIA, Sun 1:00 | 10.8 | ~98% | Medium | Detroit allows the 4th-most WR points; Miami should be throwing a lot |
+| WR/FLEX | Malik Washington | DET @ MIA, Sun 1:00 | 10.8 | ~98% | Medium | Detroit allows the 4th-most WR points; Miami should be throwing a lot |
 | K | Matt Gay | LV @ SF, Sun 4:25 | 8.3 | — | Medium | Pineiro is only +0.3 |
 | DEF | LAR D/ST | LAR @ WAS, Sun 1:00 | 7.4 | — | Medium | KC D/ST is +1.9, but you have no spare roster spot |
 
@@ -32,10 +34,10 @@ Projected **113.7**. Discounting Evans to ~50%, expect about **107–110**.
 - The monitor doesn't list the opponent's players, so I can't check their injury news. Their projection is at their best possible lineup (134.93), so don't expect them to leave points on the bench.
 
 ## Key decisions
-### FLEX: Washington, not Moore (do this now)
+### WR: Washington, not Moore (do this now)
 - **Moore:** hyperextended knee plus shoulder/AC sprain from Week 8 ([Democrat & Chronicle via Yahoo, Nov 3](https://sports.yahoo.com/articles/bills-vs-vikings-injury-buffalo-100632037.html)). Buffalo's first practice report isn't due until Thursday because they play Monday. He plays **Monday 8:15 ET at Minnesota**, the toughest WR matchup in the league. If he's ruled out late, every other player you have will already be locked.
 - **Washington:** healthy, 15.0 points last week, good matchup and a pass-heavy script expected.
-- **Call: Washington at FLEX, Moore on the bench. High confidence.** What would change it: nothing realistic this week. Even a full Moore practice still leaves the matchup and the Monday-night risk.
+- **Call: Washington in Moore's WR spot, Moore on the bench. High confidence.** What would change it: nothing realistic this week. Even a full Moore practice still leaves the matchup and the Monday-night risk.
 
 ### WR: Evans' status and the pivot plan
 - **News:** DNP Wednesday, listed with **ribs and Achilles** ([49ers Webzone, Nov 4](https://www.49erswebzone.com/articles/204780-raiders-injury-players-wednesdays-practice/); [NBC Sports, Nov 4](https://www.nbcsports.com/fantasy/football/player-news/2026-11-04/mike-evans-achilles-will-not-practice-on-wed)). The rib listing is new. Earlier this week Shanahan and most reports expected him back.
@@ -81,7 +83,7 @@ Stay with Gay and LAR D/ST. KC D/ST (+1.9 vs the Jets) isn't worth cutting a ben
 ## Changes since last report
 - **Evans: ~65% → ~50%.** DNP Wednesday, and ribs were added to his listing.
 - **Thursday Strange rule dropped.** The new pivots are Downs if Evans is out by Friday, and Hampton if he's a Sunday inactive.
-- **Lineup still wrong:** Sleeper moved Moore back to FLEX after the AM fix (see the 10:03 flash). The fix is still Washington in, Moore out.
+- **Lineup still wrong:** Moore is still starting, in a WR slot. The 10:03 flash also said FLEX; that was the same misread. The fix is still Washington in, Moore out.
 - **Allen:** DNP Wednesday was a rest day, so no downgrade.
 - **Tyson:** his practice window opened (limited Wednesday). He's a real chance to play Sunday, up from ~15%, but stays benched.
 - **Trades section added.** Endorse the McMillan offer.
