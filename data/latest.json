@@ -1,5 +1,5 @@
 {
- "content_hash": "664af60fd2d0083305209bf6bb4c3a45a16f338f",
+ "content_hash": "adee0f8696a3278ef2d98f39de17e85bacb76414",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -79,15 +79,6 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 437252,
-   "name": "Gardner Minshew II",
-   "pos": "QB",
-   "proj_4wk": 49.7,
-   "proj_this_week": 11.51,
-   "status": null,
-   "team": "ARI"
-  },
-  {
    "adds_24h": 0,
    "name": "Baker Mayfield",
    "pos": "QB",
@@ -95,6 +86,15 @@
    "proj_this_week": 16.22,
    "status": null,
    "team": "TB"
+  },
+  {
+   "adds_24h": 437252,
+   "name": "Gardner Minshew II",
+   "pos": "QB",
+   "proj_4wk": 49.7,
+   "proj_this_week": 11.51,
+   "status": null,
+   "team": "ARI"
   },
   {
    "adds_24h": 0,
@@ -835,7 +835,7 @@
    "team": "WAS"
   }
  ],
- "generated_at": "2026-11-05T03:22:03Z",
+ "generated_at": "2026-11-05T03:27:07Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
