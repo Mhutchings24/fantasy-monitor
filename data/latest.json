@@ -1,5 +1,5 @@
 {
- "content_hash": "82a3167a4970eec67d079b80abf9ea60c6b46d3a",
+ "content_hash": "4064deeb7002d5d17b5de4dce52d67f52025ee4e",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -61,15 +61,6 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 0,
-   "name": "Baker Mayfield",
-   "pos": "QB",
-   "proj_4wk": 49.7,
-   "proj_this_week": 16.22,
-   "status": null,
-   "team": "TB"
-  },
-  {
    "adds_24h": 69572,
    "name": "Gardner Minshew II",
    "pos": "QB",
@@ -77,6 +68,15 @@
    "proj_this_week": 11.51,
    "status": null,
    "team": "ARI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Baker Mayfield",
+   "pos": "QB",
+   "proj_4wk": 49.7,
+   "proj_this_week": 16.22,
+   "status": null,
+   "team": "TB"
   },
   {
    "adds_24h": 0,
@@ -127,8 +127,8 @@
    "adds_24h": 0,
    "name": "Jakobi Meyers",
    "pos": "WR",
-   "proj_4wk": 42.2,
-   "proj_this_week": 9.37,
+   "proj_4wk": 42.1,
+   "proj_this_week": 9.31,
    "status": null,
    "team": "JAX"
   },
@@ -844,7 +844,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-05T21:56:22Z",
+ "generated_at": "2026-11-05T22:01:25Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1049,7 +1049,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.554,
+    "first_seed_odds": 0.555,
     "losses": 2,
     "mine": false,
     "pa": 1045.02,
@@ -1070,19 +1070,19 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.12,
+    "first_seed_odds": 0.119,
     "losses": 2,
     "mine": false,
     "pa": 913.82,
     "pf": 960.38,
-    "playoff_odds": 0.957,
+    "playoff_odds": 0.956,
     "power_rank": 7,
-    "proj_avg": 120.6,
+    "proj_avg": 120.5,
     "proj_by_week": {
      "10": 125.36,
      "11": 110.14,
      "12": 127.07,
-     "9": 119.64
+     "9": 119.29
     },
     "rank": 2,
     "roster_id": 8,
@@ -1124,7 +1124,7 @@
      "10": 129.63,
      "11": 119.25,
      "12": 128.7,
-     "9": 124.09
+     "9": 124.05
     },
     "rank": 4,
     "roster_id": 5,
