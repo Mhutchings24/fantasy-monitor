@@ -1,5 +1,5 @@
 {
- "content_hash": "82d6d76e13e5f98257db6161e1182c57912d9e69",
+ "content_hash": "b6cd0bbe758e2ea843d0928a34ce2ed895cc5beb",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -10,8 +10,8 @@
    "adds_24h": 76312,
    "name": "Kirk Cousins",
    "pos": "QB",
-   "proj_4wk": 65.4,
-   "proj_this_week": 17.31,
+   "proj_4wk": 65.3,
+   "proj_this_week": 17.18,
    "status": null,
    "team": "LV"
   },
@@ -137,7 +137,7 @@
    "name": "Jakobi Meyers",
    "pos": "WR",
    "proj_4wk": 42.2,
-   "proj_this_week": 9.36,
+   "proj_this_week": 9.37,
    "status": null,
    "team": "JAX"
   },
@@ -173,7 +173,7 @@
    "name": "Omar Cooper Jr.",
    "pos": "WR",
    "proj_4wk": 37.3,
-   "proj_this_week": 9.79,
+   "proj_this_week": 9.8,
    "status": null,
    "team": "NYJ"
   },
@@ -281,7 +281,7 @@
    "name": "Mark Andrews",
    "pos": "TE",
    "proj_4wk": 31.3,
-   "proj_this_week": 7.32,
+   "proj_this_week": 7.36,
    "status": null,
    "team": "BAL"
   },
@@ -332,21 +332,21 @@
   },
   {
    "adds_24h": 0,
+   "name": "Mason Taylor",
+   "pos": "TE",
+   "proj_4wk": 29.8,
+   "proj_this_week": 6.42,
+   "status": "Questionable",
+   "team": "NYJ"
+  },
+  {
+   "adds_24h": 0,
    "name": "Cameron Dicker",
    "pos": "K",
    "proj_4wk": 29.8,
    "proj_this_week": 6.83,
    "status": null,
    "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Mason Taylor",
-   "pos": "TE",
-   "proj_4wk": 29.8,
-   "proj_this_week": 6.41,
-   "status": "Questionable",
-   "team": "NYJ"
   },
   {
    "adds_24h": 0,
@@ -370,8 +370,8 @@
    "adds_24h": 49005,
    "name": "Michael Mayer",
    "pos": "TE",
-   "proj_4wk": 29.4,
-   "proj_this_week": 8.07,
+   "proj_4wk": 29.3,
+   "proj_this_week": 7.99,
    "status": null,
    "team": "LV"
   },
@@ -407,7 +407,7 @@
    "name": "BAL D/ST",
    "pos": "DEF",
    "proj_4wk": 27.8,
-   "proj_this_week": 5.39,
+   "proj_this_week": 5.42,
    "status": null,
    "team": "BAL"
   },
@@ -532,8 +532,8 @@
    "adds_24h": 0,
    "name": "Hunter Henry",
    "pos": "TE",
-   "proj_4wk": 25.0,
-   "proj_this_week": 6.03,
+   "proj_4wk": 24.9,
+   "proj_this_week": 6.0,
    "status": "Questionable",
    "team": "NE"
   },
@@ -584,6 +584,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Joe Fagnano",
+   "pos": "QB",
+   "proj_4wk": 24.2,
+   "proj_this_week": 10.48,
+   "status": null,
+   "team": "BAL"
+  },
+  {
+   "adds_24h": 0,
    "name": "Zane Gonzalez",
    "pos": "K",
    "proj_4wk": 24.2,
@@ -599,15 +608,6 @@
    "proj_this_week": 7.68,
    "status": null,
    "team": "TB"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Joe Fagnano",
-   "pos": "QB",
-   "proj_4wk": 24.1,
-   "proj_this_week": 10.34,
-   "status": null,
-   "team": "BAL"
   },
   {
    "adds_24h": 0,
@@ -721,8 +721,8 @@
    "adds_24h": 0,
    "name": "Justice Hill",
    "pos": "RB",
-   "proj_4wk": 23.0,
-   "proj_this_week": 6.01,
+   "proj_4wk": 23.1,
+   "proj_this_week": 6.07,
    "status": null,
    "team": "BAL"
   },
@@ -853,7 +853,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-05T20:24:45Z",
+ "generated_at": "2026-11-05T20:29:49Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -889,7 +889,7 @@
    {
     "name": "Josh Jacobs",
     "pid": "5850",
-    "proj": 13.99,
+    "proj": 14.06,
     "slot": "RB"
    },
    {
@@ -913,7 +913,7 @@
    {
     "name": "George Kittle",
     "pid": "4217",
-    "proj": 15.49,
+    "proj": 15.31,
     "slot": "TE"
    },
    {
@@ -935,8 +935,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 110.54,
-  "current_projected": 99.67,
+  "best_projected": 110.43,
+  "current_projected": 99.56,
   "gain": 10.87,
   "problems": [],
   "source": "matchup week 9",
@@ -1036,9 +1036,9 @@
    "week": 8
   },
   "matchup": {
-   "my_proj": 99.7,
-   "opp_best_possible": 134.8,
-   "opp_proj": 134.8,
+   "my_proj": 99.6,
+   "opp_best_possible": 134.67,
+   "opp_proj": 134.7,
    "opponent": "Touch of the Downs",
    "opponent_record": "2-6",
    "win_prob": 0.16
@@ -1070,7 +1070,7 @@
      "10": 132.2,
      "11": 124.98,
      "12": 138.59,
-     "9": 129.2
+     "9": 129.17
     },
     "rank": 1,
     "roster_id": 9,
@@ -1091,7 +1091,7 @@
      "10": 125.36,
      "11": 110.14,
      "12": 127.07,
-     "9": 119.05
+     "9": 118.92
     },
     "rank": 2,
     "roster_id": 8,
@@ -1107,12 +1107,12 @@
     "pf": 1083.34,
     "playoff_odds": 0.987,
     "power_rank": 2,
-    "proj_avg": 130.4,
+    "proj_avg": 130.5,
     "proj_by_week": {
      "10": 125.63,
      "11": 132.93,
      "12": 137.24,
-     "9": 125.79
+     "9": 126.13
     },
     "rank": 3,
     "roster_id": 4,
@@ -1133,7 +1133,7 @@
      "10": 129.63,
      "11": 119.25,
      "12": 128.7,
-     "9": 122.57
+     "9": 122.5
     },
     "rank": 4,
     "roster_id": 5,
@@ -1154,7 +1154,7 @@
      "10": 132.47,
      "11": 110.4,
      "12": 135.99,
-     "9": 140.72
+     "9": 140.6
     },
     "rank": 5,
     "roster_id": 10,
@@ -1175,7 +1175,7 @@
      "10": 120.33,
      "11": 91.41,
      "12": 118.17,
-     "9": 106.39
+     "9": 106.33
     },
     "rank": 6,
     "roster_id": 1,
@@ -1196,7 +1196,7 @@
      "10": 90.38,
      "11": 116.53,
      "12": 120.95,
-     "9": 116.77
+     "9": 116.83
     },
     "rank": 7,
     "roster_id": 6,
@@ -1217,7 +1217,7 @@
      "10": 113.75,
      "11": 107.3,
      "12": 132.23,
-     "9": 130.1
+     "9": 129.96
     },
     "rank": 8,
     "roster_id": 2,
@@ -1238,7 +1238,7 @@
      "10": 118.86,
      "11": 104.75,
      "12": 118.56,
-     "9": 110.54
+     "9": 110.43
     },
     "rank": 9,
     "roster_id": 7,
@@ -1259,7 +1259,7 @@
      "10": 131.31,
      "11": 102.46,
      "12": 133.19,
-     "9": 134.8
+     "9": 134.67
     },
     "rank": 10,
     "roster_id": 3,
@@ -1325,7 +1325,7 @@
     "10": 12.61,
     "11": 0.0,
     "12": 13.09,
-    "9": 13.99
+    "9": 14.06
    },
    "slot": "starter",
    "status": null,
@@ -1355,7 +1355,7 @@
     "10": 16.97,
     "11": 14.72,
     "12": 15.07,
-    "9": 15.49
+    "9": 15.31
    },
    "slot": "starter",
    "status": null,
@@ -1445,7 +1445,7 @@
     "10": 11.54,
     "11": 11.02,
     "12": 11.51,
-    "9": 9.74
+    "9": 9.7
    },
    "slot": "bench",
    "status": null,

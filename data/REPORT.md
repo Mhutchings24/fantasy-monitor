@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-05T20:24:45Z UTC
+Week 9 · record 3-5 · updated 2026-11-05T20:29:49Z UTC
 
 ## Lineup check
-Current lineup projects **99.7**, best possible **110.5**.
+Current lineup projects **99.6**, best possible **110.4**.
 
 - 🔁 Start Josh Downs (WR, IND) (10.9) over Mike Evans (WR, SF) (0.0)
 
@@ -25,7 +25,7 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 **K stream this week:** add Eddy Pineiro for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **99.7** – 134.8 projected · win chance **16%**
+vs **Touch of the Downs** (2-6): you **99.6** – 134.7 projected · win chance **16%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -34,7 +34,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 1 | 131.2 | 100% |
 | 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 7 | 120.4 | 96% |
-| 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 130.4 | 99% |
+| 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 130.5 | 99% |
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 5 | 125.0 | 94% |
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 129.9 | 92% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 10 | 109.1 | 13% |
@@ -61,9 +61,9 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | LAR D/ST | DEF | LAR | starter |  | 7.4 | 7.2 | 0.0 | 8.9 |
 | Matt Gay | K | LV | starter |  | 8.2 | 8.5 | 8.5 | 8.5 |
 | Jared Goff | QB | DET | starter |  | 19.9 | 17.8 | 19.2 | 19.8 |
-| Josh Jacobs | RB | GB | starter |  | 14.0 | 12.6 | 0.0 | 13.1 |
+| Josh Jacobs | RB | GB | starter |  | 14.1 | 12.6 | 0.0 | 13.1 |
 | Quinshon Judkins | RB | CLE | starter |  | 12.3 | 9.7 | 0.0 | 10.8 |
-| George Kittle | TE | SF | starter |  | 15.5 | 17.0 | 14.7 | 15.1 |
+| George Kittle | TE | SF | starter |  | 15.3 | 17.0 | 14.7 | 15.1 |
 | Keenan Allen | WR | IND | starter |  | 11.3 | 10.6 | 9.3 | 9.2 |
 | DJ Moore | WR | BUF | starter | Questionable | 11.0 | 14.3 | 15.9 | 13.3 |
 | Mike Evans | WR | SF | starter | Questionable | 0.0 | 19.9 | 17.1 | 17.6 |
