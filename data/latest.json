@@ -1,5 +1,5 @@
 {
- "content_hash": "ddf5c750098e97ff3d1d6347aac63116828be9c7",
+ "content_hash": "2b38a72e1188c49caadfecdaa45353d7a04fea6f",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -79,15 +79,6 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 434776,
-   "name": "Gardner Minshew II",
-   "pos": "QB",
-   "proj_4wk": 49.7,
-   "proj_this_week": 11.51,
-   "status": null,
-   "team": "ARI"
-  },
-  {
    "adds_24h": 0,
    "name": "Baker Mayfield",
    "pos": "QB",
@@ -95,6 +86,15 @@
    "proj_this_week": 16.22,
    "status": null,
    "team": "TB"
+  },
+  {
+   "adds_24h": 434776,
+   "name": "Gardner Minshew II",
+   "pos": "QB",
+   "proj_4wk": 49.7,
+   "proj_this_week": 11.51,
+   "status": null,
+   "team": "ARI"
   },
   {
    "adds_24h": 0,
@@ -233,19 +233,19 @@
   },
   {
    "adds_24h": 0,
-   "name": "Chig Okonkwo",
-   "pos": "TE",
+   "name": "Drew Stevens",
+   "pos": "K",
    "proj_4wk": 32.3,
-   "proj_this_week": 8.31,
+   "proj_this_week": 8.38,
    "status": null,
    "team": "WAS"
   },
   {
    "adds_24h": 0,
-   "name": "Drew Stevens",
-   "pos": "K",
+   "name": "Chig Okonkwo",
+   "pos": "TE",
    "proj_4wk": 32.3,
-   "proj_this_week": 8.38,
+   "proj_this_week": 8.31,
    "status": null,
    "team": "WAS"
   },
@@ -835,7 +835,7 @@
    "team": "WAS"
   }
  ],
- "generated_at": "2026-11-05T02:51:34Z",
+ "generated_at": "2026-11-05T02:56:39Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
