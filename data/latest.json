@@ -1,5 +1,5 @@
 {
- "content_hash": "33d1492eb7b584326b00b5f32e55ffbf9b9e09ac",
+ "content_hash": "3ab34a389abb36e6a3cf97291ca41a75549d54bb",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -269,21 +269,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Sam Darnold",
-   "pos": "QB",
-   "proj_4wk": 32.2,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Drew Stevens",
    "pos": "K",
    "proj_4wk": 32.2,
    "proj_this_week": 8.42,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Sam Darnold",
+   "pos": "QB",
+   "proj_4wk": 32.2,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -574,6 +574,15 @@
    "team": "DEN"
   },
   {
+   "adds_24h": 0,
+   "name": "Elijah Higgins",
+   "pos": "TE",
+   "proj_4wk": 25.2,
+   "proj_this_week": 5.46,
+   "status": null,
+   "team": "ARI"
+  },
+  {
    "adds_24h": 274635,
    "name": "NO D/ST",
    "pos": "DEF",
@@ -584,12 +593,12 @@
   },
   {
    "adds_24h": 0,
-   "name": "Elijah Higgins",
-   "pos": "TE",
-   "proj_4wk": 25.2,
-   "proj_this_week": 5.46,
+   "name": "Samaje Perine",
+   "pos": "RB",
+   "proj_4wk": 25.1,
+   "proj_this_week": 6.51,
    "status": null,
-   "team": "ARI"
+   "team": "CIN"
   },
   {
    "adds_24h": 0,
@@ -599,15 +608,6 @@
    "proj_this_week": 4.69,
    "status": null,
    "team": "IND"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Samaje Perine",
-   "pos": "RB",
-   "proj_4wk": 25.1,
-   "proj_this_week": 6.51,
-   "status": null,
-   "team": "CIN"
   },
   {
    "adds_24h": 0,
@@ -817,7 +817,7 @@
    "team": "TEN"
   }
  ],
- "generated_at": "2026-11-06T01:37:53Z",
+ "generated_at": "2026-11-06T01:42:57Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
