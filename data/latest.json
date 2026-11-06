@@ -1,5 +1,5 @@
 {
- "content_hash": "ebe1dc411a882dd4ce8e62a5fc93c3db1438ca1b",
+ "content_hash": "a12599712e802e4e5f41314a33b08ee57fc3033c",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -11,7 +11,7 @@
    "name": "Bryce Young",
    "pos": "QB",
    "proj_4wk": 75.2,
-   "proj_this_week": 17.01,
+   "proj_this_week": 17.05,
    "status": null,
    "team": "CAR"
   },
@@ -127,8 +127,8 @@
    "adds_24h": 0,
    "name": "Dalton Kincaid",
    "pos": "TE",
-   "proj_4wk": 43.2,
-   "proj_this_week": 9.64,
+   "proj_4wk": 43.0,
+   "proj_this_week": 9.48,
    "status": null,
    "team": "BUF"
   },
@@ -305,21 +305,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Darren Waller",
-   "pos": "TE",
-   "proj_4wk": 31.5,
-   "proj_this_week": 7.17,
-   "status": null,
-   "team": "CAR"
-  },
-  {
-   "adds_24h": 0,
    "name": "Mark Andrews",
    "pos": "TE",
    "proj_4wk": 31.3,
    "proj_this_week": 7.35,
    "status": null,
    "team": "BAL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Darren Waller",
+   "pos": "TE",
+   "proj_4wk": 31.0,
+   "proj_this_week": 6.6,
+   "status": null,
+   "team": "CAR"
   },
   {
    "adds_24h": 0,
@@ -458,6 +458,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Tyler Higbee",
+   "pos": "TE",
+   "proj_4wk": 27.3,
+   "proj_this_week": 8.34,
+   "status": null,
+   "team": "LAR"
+  },
+  {
+   "adds_24h": 0,
    "name": "Zane Gonzalez",
    "pos": "K",
    "proj_4wk": 27.1,
@@ -521,12 +530,12 @@
   },
   {
    "adds_24h": 0,
-   "name": "Tyler Higbee",
+   "name": "Hunter Henry",
    "pos": "TE",
    "proj_4wk": 25.9,
-   "proj_this_week": 6.93,
-   "status": null,
-   "team": "LAR"
+   "proj_this_week": 6.48,
+   "status": "Questionable",
+   "team": "NE"
   },
   {
    "adds_24h": 0,
@@ -554,15 +563,6 @@
    "proj_this_week": 8.58,
    "status": null,
    "team": "CLE"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Hunter Henry",
-   "pos": "TE",
-   "proj_4wk": 25.3,
-   "proj_this_week": 5.93,
-   "status": "Questionable",
-   "team": "NE"
   },
   {
    "adds_24h": 0,
@@ -656,15 +656,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "AJ Barner",
-   "pos": "TE",
-   "proj_4wk": 23.9,
-   "proj_this_week": 8.0,
-   "status": null,
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "LAC D/ST",
    "pos": "DEF",
    "proj_4wk": 23.8,
@@ -683,12 +674,30 @@
   },
   {
    "adds_24h": 0,
+   "name": "AJ Barner",
+   "pos": "TE",
+   "proj_4wk": 23.8,
+   "proj_this_week": 7.94,
+   "status": null,
+   "team": "SEA"
+  },
+  {
+   "adds_24h": 0,
    "name": "Nick Folk",
    "pos": "K",
    "proj_4wk": 23.7,
    "proj_this_week": 8.06,
    "status": null,
    "team": "ATL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "DeMario Douglas",
+   "pos": "WR",
+   "proj_4wk": 23.7,
+   "proj_this_week": 8.76,
+   "status": null,
+   "team": "NE"
   },
   {
    "adds_24h": 0,
@@ -716,15 +725,6 @@
    "proj_this_week": 8.05,
    "status": null,
    "team": "CHI"
-  },
-  {
-   "adds_24h": 0,
-   "name": "DeMario Douglas",
-   "pos": "WR",
-   "proj_4wk": 23.4,
-   "proj_this_week": 8.47,
-   "status": null,
-   "team": "NE"
   },
   {
    "adds_24h": 293550,
@@ -757,8 +757,8 @@
    "adds_24h": 97386,
    "name": "Corey Kiner",
    "pos": "RB",
-   "proj_4wk": 18.1,
-   "proj_this_week": 7.98,
+   "proj_4wk": 16.7,
+   "proj_this_week": 6.61,
    "status": null,
    "team": "NE"
   },
@@ -793,8 +793,8 @@
    "adds_24h": 40520,
    "name": "Jordan Watkins",
    "pos": "WR",
-   "proj_4wk": 7.5,
-   "proj_this_week": 6.7,
+   "proj_4wk": 8.1,
+   "proj_this_week": 7.28,
    "status": null,
    "team": "SF"
   },
@@ -826,7 +826,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-06T22:53:13Z",
+ "generated_at": "2026-11-06T22:58:18Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -886,7 +886,7 @@
    {
     "name": "George Kittle",
     "pid": "4217",
-    "proj": 15.25,
+    "proj": 15.87,
     "slot": "TE"
    },
    {
@@ -908,8 +908,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 109.72,
-  "current_projected": 109.72,
+  "best_projected": 110.34,
+  "current_projected": 110.34,
   "gain": 0.0,
   "problems": [],
   "source": "matchup week 9",
@@ -1003,12 +1003,12 @@
    "week": 8
   },
   "matchup": {
-   "my_proj": 109.7,
-   "opp_best_possible": 137.94,
-   "opp_proj": 124.0,
+   "my_proj": 110.3,
+   "opp_best_possible": 138.38,
+   "opp_proj": 124.5,
    "opponent": "Touch of the Downs",
    "opponent_record": "2-6",
-   "win_prob": 0.343
+   "win_prob": 0.344
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1025,7 +1025,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.513,
+    "first_seed_odds": 0.512,
     "losses": 2,
     "mine": false,
     "pa": 1045.02,
@@ -1037,7 +1037,7 @@
      "10": 132.6,
      "11": 132.34,
      "12": 137.02,
-     "9": 133.5
+     "9": 133.56
     },
     "rank": 1,
     "roster_id": 9,
@@ -1046,7 +1046,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.202,
+    "first_seed_odds": 0.205,
     "losses": 2,
     "mine": false,
     "pa": 913.82,
@@ -1067,19 +1067,19 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.205,
+    "first_seed_odds": 0.207,
     "losses": 3,
     "mine": false,
     "pa": 990.54,
     "pf": 1083.34,
-    "playoff_odds": 0.984,
+    "playoff_odds": 0.985,
     "power_rank": 1,
     "proj_avg": 134.0,
     "proj_by_week": {
      "10": 128.53,
      "11": 137.67,
      "12": 141.89,
-     "9": 128.09
+     "9": 128.05
     },
     "rank": 3,
     "roster_id": 4,
@@ -1100,7 +1100,7 @@
      "10": 125.49,
      "11": 118.89,
      "12": 129.35,
-     "9": 122.2
+     "9": 122.16
     },
     "rank": 4,
     "roster_id": 5,
@@ -1109,19 +1109,19 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.054,
+    "first_seed_odds": 0.051,
     "losses": 4,
     "mine": false,
     "pa": 1104.36,
     "pf": 1110.86,
-    "playoff_odds": 0.904,
+    "playoff_odds": 0.901,
     "power_rank": 3,
-    "proj_avg": 131.3,
+    "proj_avg": 130.9,
     "proj_by_week": {
      "10": 130.95,
      "11": 113.1,
      "12": 137.8,
-     "9": 143.33
+     "9": 141.87
     },
     "rank": 5,
     "roster_id": 10,
@@ -1142,7 +1142,7 @@
      "10": 124.24,
      "11": 113.0,
      "12": 127.14,
-     "9": 132.99
+     "9": 132.85
     },
     "rank": 6,
     "roster_id": 1,
@@ -1158,12 +1158,12 @@
     "pf": 948.02,
     "playoff_odds": 0.172,
     "power_rank": 9,
-    "proj_avg": 114.6,
+    "proj_avg": 114.5,
     "proj_by_week": {
      "10": 88.18,
      "11": 121.26,
      "12": 126.98,
-     "9": 121.83
+     "9": 121.59
     },
     "rank": 7,
     "roster_id": 6,
@@ -1177,14 +1177,14 @@
     "mine": false,
     "pa": 982.9,
     "pf": 937.8,
-    "playoff_odds": 0.259,
+    "playoff_odds": 0.258,
     "power_rank": 8,
     "proj_avg": 121.3,
     "proj_by_week": {
      "10": 112.05,
      "11": 110.22,
      "12": 132.85,
-     "9": 130.04
+     "9": 130.1
     },
     "rank": 8,
     "roster_id": 2,
@@ -1198,14 +1198,14 @@
     "mine": true,
     "pa": 946.24,
     "pf": 906.7,
-    "playoff_odds": 0.145,
+    "playoff_odds": 0.147,
     "power_rank": 10,
-    "proj_avg": 114.3,
+    "proj_avg": 114.5,
     "proj_by_week": {
      "10": 121.98,
      "11": 104.15,
      "12": 121.53,
-     "9": 109.72
+     "9": 110.34
     },
     "rank": 9,
     "roster_id": 7,
@@ -1219,14 +1219,14 @@
     "mine": false,
     "pa": 1017.26,
     "pf": 942.36,
-    "playoff_odds": 0.319,
+    "playoff_odds": 0.32,
     "power_rank": 5,
-    "proj_avg": 128.9,
+    "proj_avg": 129.0,
     "proj_by_week": {
      "10": 134.41,
      "11": 105.91,
      "12": 137.47,
-     "9": 137.94
+     "9": 138.38
     },
     "rank": 10,
     "roster_id": 3,
@@ -1322,7 +1322,7 @@
     "10": 16.29,
     "11": 14.37,
     "12": 14.62,
-    "9": 15.25
+    "9": 15.87
    },
    "slot": "starter",
    "status": null,
@@ -1586,9 +1586,9 @@
    "likelihood": "Likely",
    "partner": "Gibbs me Nabers 😵‍💫",
    "partner_roster_id": 4,
-   "summary": "Give George Kittle, get Malik Nabers from Gibbs me Nabers 😵‍💫: +1.4 pts/week for you, +1.6 for them.",
+   "summary": "Give George Kittle, get Malik Nabers from Gibbs me Nabers 😵‍💫: +1.3 pts/week for you, +1.6 for them.",
    "their_gain_per_week": 1.6,
-   "value_ratio": 1.1,
+   "value_ratio": 1.09,
    "why_them": [
     "George Kittle would start 9 of 9 weeks for them"
    ],
@@ -1596,7 +1596,7 @@
     "Malik Nabers would start 9 of 9 weeks for you",
     "George Kittle starts 9 of 9 weeks for you"
    ],
-   "your_gain_per_week": 1.4
+   "your_gain_per_week": 1.3
   },
   {
    "get": [
@@ -1666,7 +1666,7 @@
    "likelihood": "Possible",
    "partner": "Never Going Go Scottsdale",
    "partner_roster_id": 6,
-   "summary": "Give Jared Goff + Malik Washington, get Brock Purdy from Never Going Go Scottsdale: +2.2 pts/week for you, -0.1 for them.",
+   "summary": "Give Jared Goff + Malik Washington, get Brock Purdy from Never Going Go Scottsdale: +2.1 pts/week for you, -0.1 for them.",
    "their_gain_per_week": -0.1,
    "value_ratio": 0.73,
    "why_them": [
@@ -1678,7 +1678,7 @@
     "Jared Goff starts 9 of 9 weeks for you",
     "Malik Washington starts only 1 of 9 weeks for you"
    ],
-   "your_gain_per_week": 2.2
+   "your_gain_per_week": 2.1
   },
   {
    "get": [
@@ -1823,8 +1823,8 @@
    "likelihood": "Possible",
    "partner": "Glizzy Globbler ",
    "partner_roster_id": 2,
-   "summary": "Give George Kittle + Malik Washington, get Chuba Hubbard from Glizzy Globbler : +1.7 pts/week for you, -0.3 for them.",
-   "their_gain_per_week": -0.3,
+   "summary": "Give George Kittle + Malik Washington, get Chuba Hubbard from Glizzy Globbler : +1.6 pts/week for you, -0.2 for them.",
+   "their_gain_per_week": -0.2,
    "value_ratio": 0.66,
    "why_them": [
     "George Kittle would start 9 of 9 weeks for them",
@@ -1835,7 +1835,7 @@
     "George Kittle starts 9 of 9 weeks for you",
     "Malik Washington starts only 1 of 9 weeks for you"
    ],
-   "your_gain_per_week": 1.7
+   "your_gain_per_week": 1.6
   }
  ],
  "waivers": [
@@ -1889,7 +1889,7 @@
     "10": 10.98,
     "11": 12.1,
     "12": 10.45,
-    "9": 9.64
+    "9": 9.48
    },
    "status": null,
    "stream": false,
@@ -1946,7 +1946,7 @@
     "10": 19.52,
     "11": 19.47,
     "12": 19.19,
-    "9": 17.01
+    "9": 17.05
    },
    "status": null,
    "stream": false,
