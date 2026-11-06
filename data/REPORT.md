@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-06T22:58:18Z UTC
+Week 9 · record 3-5 · updated 2026-11-06T23:03:21Z UTC
 
 ## Lineup check
 Current lineup projects **110.3**, best possible **110.3**.
@@ -13,15 +13,15 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Omar Cooper Jr. | WR | NYJ | Malik Washington | +3.2 | +3.2 | 148,208 |
+| Omar Cooper Jr. | WR | NYJ | Malik Washington | +3.2 | +3.2 | 149,952 |
 | J.K. Dobbins | RB | DEN | Malik Washington | +2.0 | +0.0 | 0 |
 | Dalton Kincaid | TE | BUF | Malik Washington | +1.6 | +0.0 | 0 |
 | Dallas Goedert | TE | PHI | Malik Washington | +1.1 | +0.0 | 0 |
-| Xavier Worthy | WR | KC | Malik Washington | +1.0 | +0.0 | 35,100 |
+| Xavier Worthy | WR | KC | Malik Washington | +1.0 | +0.0 | 35,361 |
 | Bryce Young | QB | CAR | Malik Washington | +0.9 | +0.0 | 0 |
-| Khalil Shakir | WR | BUF | Malik Washington | +0.9 | +0.0 | 46,746 |
+| Khalil Shakir | WR | BUF | Malik Washington | +0.9 | +0.0 | 47,088 |
 | Juwan Johnson | TE | NO | Malik Washington | +0.5 | +0.0 | 0 |
-| J.J. McCarthy | QB | NYG | Malik Washington | +0.1 | +0.0 | 26,610 |
+| J.J. McCarthy | QB | NYG | Malik Washington | +0.1 | +0.0 | 26,709 |
 | Kimani Vidal | RB | LAC | Malik Washington | +0.1 | +0.0 | 0 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.3 pts this week)
