@@ -1,5 +1,5 @@
 {
- "content_hash": "52f7192277af5cdb943332849b2527c2619f7a29",
+ "content_hash": "299cb4a108a65d625d91b294d32a2ea7f31130c8",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -565,15 +565,6 @@
    "team": "NE"
   },
   {
-   "adds_24h": 0,
-   "name": "Elijah Higgins",
-   "pos": "TE",
-   "proj_4wk": 25.2,
-   "proj_this_week": 5.46,
-   "status": null,
-   "team": "ARI"
-  },
-  {
    "adds_24h": 265470,
    "name": "NO D/ST",
    "pos": "DEF",
@@ -581,6 +572,15 @@
    "proj_this_week": 8.11,
    "status": null,
    "team": "NO"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Elijah Higgins",
+   "pos": "TE",
+   "proj_4wk": 25.2,
+   "proj_this_week": 5.46,
+   "status": null,
+   "team": "ARI"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "PHI"
   }
  ],
- "generated_at": "2026-11-06T04:54:12Z",
+ "generated_at": "2026-11-06T04:59:16Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
