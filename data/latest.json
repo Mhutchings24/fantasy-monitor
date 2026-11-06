@@ -1,5 +1,5 @@
 {
- "content_hash": "1e1575dc83f6c597ed556e1d5b18a139560b8daa",
+ "content_hash": "1fcb179adfb89173452efb05dc56243fc921b448",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -224,21 +224,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Dalton Schultz",
-   "pos": "TE",
-   "proj_4wk": 33.6,
-   "proj_this_week": 8.52,
-   "status": null,
-   "team": "HOU"
-  },
-  {
-   "adds_24h": 0,
    "name": "Jordan Addison",
    "pos": "WR",
    "proj_4wk": 33.6,
    "proj_this_week": 8.55,
    "status": null,
    "team": "MIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Dalton Schultz",
+   "pos": "TE",
+   "proj_4wk": 33.6,
+   "proj_this_week": 8.52,
+   "status": null,
+   "team": "HOU"
   },
   {
    "adds_24h": 57168,
@@ -574,15 +574,6 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 266310,
-   "name": "NO D/ST",
-   "pos": "DEF",
-   "proj_4wk": 25.2,
-   "proj_this_week": 8.11,
-   "status": null,
-   "team": "NO"
-  },
-  {
    "adds_24h": 0,
    "name": "Elijah Higgins",
    "pos": "TE",
@@ -590,6 +581,15 @@
    "proj_this_week": 5.46,
    "status": null,
    "team": "ARI"
+  },
+  {
+   "adds_24h": 266310,
+   "name": "NO D/ST",
+   "pos": "DEF",
+   "proj_4wk": 25.2,
+   "proj_this_week": 8.11,
+   "status": null,
+   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -817,7 +817,7 @@
    "team": "TEN"
   }
  ],
- "generated_at": "2026-11-06T00:49:54Z",
+ "generated_at": "2026-11-06T00:54:59Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
