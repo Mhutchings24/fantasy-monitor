@@ -1,5 +1,5 @@
 {
- "content_hash": "42c621eada96cc79136d4c59deda61b811640dc2",
+ "content_hash": "2a903a606b5cdaa5be7871b9e98d572e8d04f2ff",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -701,21 +701,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "DAL D/ST",
-   "pos": "DEF",
-   "proj_4wk": 23.6,
-   "proj_this_week": 6.44,
-   "status": null,
-   "team": "DAL"
-  },
-  {
-   "adds_24h": 0,
    "name": "Noah Fant",
    "pos": "TE",
    "proj_4wk": 23.6,
    "proj_this_week": 5.59,
    "status": null,
    "team": "NO"
+  },
+  {
+   "adds_24h": 0,
+   "name": "DAL D/ST",
+   "pos": "DEF",
+   "proj_4wk": 23.6,
+   "proj_this_week": 6.44,
+   "status": null,
+   "team": "DAL"
   },
   {
    "adds_24h": 244818,
@@ -775,9 +775,9 @@
    "adds_24h": 48568,
    "name": "Alvin Kamara",
    "pos": "RB",
-   "proj_4wk": 16.2,
-   "proj_this_week": 8.04,
-   "status": "Questionable",
+   "proj_4wk": 17.6,
+   "proj_this_week": 9.46,
+   "status": null,
    "team": "NO"
   },
   {
@@ -835,7 +835,7 @@
    "team": "SEA"
   }
  ],
- "generated_at": "2026-11-06T20:18:26Z",
+ "generated_at": "2026-11-06T20:23:32Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
