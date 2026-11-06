@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 9
+- [Fri Nov 6 · AM](2026/week-09/2026-11-06-am.md) — Still to fix: Downs for Evans (Maiocco: will miss), Washington for Moore (Mon night, limited Thu); no adds, hold $100; endorse Strange for Jonah Coleman.
 - [Thu Nov 5 · PM](2026/week-09/2026-11-05-pm.md) — Still to fix: Downs for Evans (DNP Thu, ~5%), Washington for Moore (Mon night); Strange benched tonight; no adds, hold $100; new idea Strange for Pollard after TNF.
 - [Thu Nov 5 · Game day 16:53](2026/week-09/2026-11-05-gameday-1653.md) — No changes for TNF (Strange stays benched); still to fix before Sun 11 AM MT: Downs for Evans, Washington for Moore (Moore limited Thu).
 - [Thu Nov 5 · Flash 11:04](2026/week-09/2026-11-05-flash-1104.md) — Evans back to Q on Sleeper but still projected 0 and "unlikely" per Lynch: start Downs and Washington, bench Evans and Moore; Strange stays benched tonight.
