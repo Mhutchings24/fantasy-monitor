@@ -1,5 +1,5 @@
 {
- "content_hash": "68ca69065411555bb43564147cfc8832d7e73c33",
+ "content_hash": "c74b7b51fdd5a1191afc24193d687647fb2f12a9",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -341,21 +341,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Harrison Butker",
-   "pos": "K",
-   "proj_4wk": 30.7,
-   "proj_this_week": 7.88,
-   "status": null,
-   "team": "KC"
-  },
-  {
-   "adds_24h": 0,
    "name": "Kimani Vidal",
    "pos": "RB",
    "proj_4wk": 30.7,
    "proj_this_week": 7.32,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Harrison Butker",
+   "pos": "K",
+   "proj_4wk": 30.7,
+   "proj_this_week": 7.88,
+   "status": null,
+   "team": "KC"
   },
   {
    "adds_24h": 52560,
@@ -574,15 +574,6 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 0,
-   "name": "Elijah Higgins",
-   "pos": "TE",
-   "proj_4wk": 25.2,
-   "proj_this_week": 5.46,
-   "status": null,
-   "team": "ARI"
-  },
-  {
    "adds_24h": 271030,
    "name": "NO D/ST",
    "pos": "DEF",
@@ -590,6 +581,15 @@
    "proj_this_week": 8.11,
    "status": null,
    "team": "NO"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Elijah Higgins",
+   "pos": "TE",
+   "proj_4wk": 25.2,
+   "proj_this_week": 5.46,
+   "status": null,
+   "team": "ARI"
   },
   {
    "adds_24h": 0,
@@ -817,7 +817,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-06T04:00:39Z",
+ "generated_at": "2026-11-06T04:05:43Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
