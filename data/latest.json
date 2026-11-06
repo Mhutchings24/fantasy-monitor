@@ -1,5 +1,5 @@
 {
- "content_hash": "fa1f132ab8dfa5a71f6247f2f7a7fe877b25a609",
+ "content_hash": "2988bd9b3cc42baca087a04e68522903e7808441",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -593,21 +593,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "IND D/ST",
-   "pos": "DEF",
-   "proj_4wk": 25.1,
-   "proj_this_week": 4.69,
-   "status": null,
-   "team": "IND"
-  },
-  {
-   "adds_24h": 0,
    "name": "Samaje Perine",
    "pos": "RB",
    "proj_4wk": 25.1,
    "proj_this_week": 6.51,
    "status": null,
    "team": "CIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "IND D/ST",
+   "pos": "DEF",
+   "proj_4wk": 25.1,
+   "proj_this_week": 4.69,
+   "status": null,
+   "team": "IND"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "SF"
   }
  ],
- "generated_at": "2026-11-06T17:21:20Z",
+ "generated_at": "2026-11-06T17:26:24Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1094,19 +1094,19 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.028,
+    "first_seed_odds": 0.027,
     "losses": 3,
     "mine": false,
     "pa": 849.08,
     "pf": 967.6,
-    "playoff_odds": 0.873,
+    "playoff_odds": 0.868,
     "power_rank": 6,
-    "proj_avg": 124.4,
+    "proj_avg": 124.0,
     "proj_by_week": {
      "10": 125.49,
      "11": 118.89,
      "12": 129.35,
-     "9": 123.78
+     "9": 122.21
     },
     "rank": 4,
     "roster_id": 5,
@@ -1141,7 +1141,7 @@
     "mine": false,
     "pa": 1070.2,
     "pf": 967.14,
-    "playoff_odds": 0.241,
+    "playoff_odds": 0.245,
     "power_rank": 8,
     "proj_avg": 117.8,
     "proj_by_week": {
@@ -1162,7 +1162,7 @@
     "mine": false,
     "pa": 1009.1,
     "pf": 948.02,
-    "playoff_odds": 0.169,
+    "playoff_odds": 0.171,
     "power_rank": 10,
     "proj_avg": 113.1,
     "proj_by_week": {
@@ -1183,7 +1183,7 @@
     "mine": false,
     "pa": 982.9,
     "pf": 937.8,
-    "playoff_odds": 0.332,
+    "playoff_odds": 0.331,
     "power_rank": 7,
     "proj_avg": 123.3,
     "proj_by_week": {
@@ -1204,7 +1204,7 @@
     "mine": true,
     "pa": 946.24,
     "pf": 906.7,
-    "playoff_odds": 0.171,
+    "playoff_odds": 0.17,
     "power_rank": 9,
     "proj_avg": 114.4,
     "proj_by_week": {
