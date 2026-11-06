@@ -1,5 +1,5 @@
 {
- "content_hash": "15674a9d0a4db0ad529470e8cabe75503e5ab014",
+ "content_hash": "f917cf8b5792d31c941a78808b23c9acaccf5d7a",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -593,21 +593,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "IND D/ST",
-   "pos": "DEF",
-   "proj_4wk": 25.1,
-   "proj_this_week": 4.69,
-   "status": null,
-   "team": "IND"
-  },
-  {
-   "adds_24h": 0,
    "name": "Samaje Perine",
    "pos": "RB",
    "proj_4wk": 25.1,
    "proj_this_week": 6.51,
    "status": null,
    "team": "CIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "IND D/ST",
+   "pos": "DEF",
+   "proj_4wk": 25.1,
+   "proj_this_week": 4.69,
+   "status": null,
+   "team": "IND"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "SF"
   }
  ],
- "generated_at": "2026-11-06T15:36:58Z",
+ "generated_at": "2026-11-06T15:42:03Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
