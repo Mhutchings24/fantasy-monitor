@@ -1,5 +1,5 @@
 {
- "content_hash": "5b6286b6f44fd0581983d68c3150d7a576181e54",
+ "content_hash": "87c21e82c256728bb723cc08383590a84db29296",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -55,8 +55,8 @@
    "adds_24h": 0,
    "name": "Gardner Minshew II",
    "pos": "QB",
-   "proj_4wk": 58.1,
-   "proj_this_week": 11.8,
+   "proj_4wk": 57.9,
+   "proj_this_week": 11.6,
    "status": null,
    "team": "ARI"
   },
@@ -223,6 +223,15 @@
    "team": "SF"
   },
   {
+   "adds_24h": 37125,
+   "name": "Jordan Addison",
+   "pos": "WR",
+   "proj_4wk": 33.8,
+   "proj_this_week": 8.87,
+   "status": null,
+   "team": "MIN"
+  },
+  {
    "adds_24h": 0,
    "name": "Jake Ferguson",
    "pos": "TE",
@@ -239,15 +248,6 @@
    "proj_this_week": 8.52,
    "status": null,
    "team": "HOU"
-  },
-  {
-   "adds_24h": 37125,
-   "name": "Jordan Addison",
-   "pos": "WR",
-   "proj_4wk": 33.5,
-   "proj_this_week": 8.54,
-   "status": null,
-   "team": "MIN"
   },
   {
    "adds_24h": 45912,
@@ -370,8 +370,8 @@
    "adds_24h": 0,
    "name": "KC D/ST",
    "pos": "DEF",
-   "proj_4wk": 30.3,
-   "proj_this_week": 9.25,
+   "proj_4wk": 29.7,
+   "proj_this_week": 8.64,
    "status": null,
    "team": "KC"
   },
@@ -493,6 +493,15 @@
    "team": "DEN"
   },
   {
+   "adds_24h": 83028,
+   "name": "NYG D/ST",
+   "pos": "DEF",
+   "proj_4wk": 26.4,
+   "proj_this_week": 8.05,
+   "status": null,
+   "team": "NYG"
+  },
+  {
    "adds_24h": 0,
    "name": "Kyle Pitts Sr.",
    "pos": "TE",
@@ -500,15 +509,6 @@
    "proj_this_week": 9.87,
    "status": null,
    "team": "ATL"
-  },
-  {
-   "adds_24h": 83028,
-   "name": "NYG D/ST",
-   "pos": "DEF",
-   "proj_4wk": 26.1,
-   "proj_this_week": 7.74,
-   "status": null,
-   "team": "NYG"
   },
   {
    "adds_24h": 0,
@@ -602,21 +602,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "IND D/ST",
-   "pos": "DEF",
-   "proj_4wk": 25.1,
-   "proj_this_week": 4.69,
-   "status": null,
-   "team": "IND"
-  },
-  {
-   "adds_24h": 0,
    "name": "Jake Moody",
    "pos": "K",
    "proj_4wk": 24.8,
    "proj_this_week": 6.05,
    "status": null,
    "team": "BAL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "IND D/ST",
+   "pos": "DEF",
+   "proj_4wk": 24.8,
+   "proj_this_week": 4.37,
+   "status": null,
+   "team": "IND"
   },
   {
    "adds_24h": 0,
@@ -650,18 +650,9 @@
    "name": "Kendre Miller",
    "pos": "RB",
    "proj_4wk": 24.1,
-   "proj_this_week": 10.71,
+   "proj_this_week": 10.65,
    "status": null,
    "team": "NO"
-  },
-  {
-   "adds_24h": 0,
-   "name": "DAL D/ST",
-   "pos": "DEF",
-   "proj_4wk": 24.0,
-   "proj_this_week": 6.79,
-   "status": null,
-   "team": "DAL"
   },
   {
    "adds_24h": 0,
@@ -686,7 +677,7 @@
    "name": "AJ Barner",
    "pos": "TE",
    "proj_4wk": 23.8,
-   "proj_this_week": 7.93,
+   "proj_this_week": 7.94,
    "status": null,
    "team": "SEA"
   },
@@ -703,8 +694,8 @@
    "adds_24h": 0,
    "name": "Devaughn Vele",
    "pos": "WR",
-   "proj_4wk": 23.7,
-   "proj_this_week": 8.16,
+   "proj_4wk": 23.6,
+   "proj_this_week": 8.1,
    "status": null,
    "team": "NO"
   },
@@ -712,10 +703,19 @@
    "adds_24h": 0,
    "name": "Noah Fant",
    "pos": "TE",
-   "proj_4wk": 23.7,
-   "proj_this_week": 5.65,
+   "proj_4wk": 23.6,
+   "proj_this_week": 5.59,
    "status": null,
    "team": "NO"
+  },
+  {
+   "adds_24h": 0,
+   "name": "DAL D/ST",
+   "pos": "DEF",
+   "proj_4wk": 23.6,
+   "proj_this_week": 6.44,
+   "status": null,
+   "team": "DAL"
   },
   {
    "adds_24h": 244405,
@@ -775,8 +775,8 @@
    "adds_24h": 48392,
    "name": "Alvin Kamara",
    "pos": "RB",
-   "proj_4wk": 16.1,
-   "proj_this_week": 8.02,
+   "proj_4wk": 16.2,
+   "proj_this_week": 8.04,
    "status": "Questionable",
    "team": "NO"
   },
@@ -811,8 +811,8 @@
    "adds_24h": 34540,
    "name": "TB D/ST",
    "pos": "DEF",
-   "proj_4wk": 17.6,
-   "proj_this_week": 5.31,
+   "proj_4wk": 17.9,
+   "proj_this_week": 5.61,
    "status": null,
    "team": "TB"
   },
@@ -829,13 +829,13 @@
    "adds_24h": 31932,
    "name": "Drew Lock",
    "pos": "QB",
-   "proj_4wk": 14.6,
-   "proj_this_week": 14.6,
+   "proj_4wk": 14.7,
+   "proj_this_week": 14.65,
    "status": "Questionable",
    "team": "SEA"
   }
  ],
- "generated_at": "2026-11-06T20:08:17Z",
+ "generated_at": "2026-11-06T20:13:22Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1040,19 +1040,19 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.526,
+    "first_seed_odds": 0.523,
     "losses": 2,
     "mine": false,
     "pa": 1045.02,
     "pf": 1104.32,
     "playoff_odds": 0.998,
     "power_rank": 1,
-    "proj_avg": 133.9,
+    "proj_avg": 133.8,
     "proj_by_week": {
      "10": 132.6,
      "11": 132.34,
      "12": 137.02,
-     "9": 133.81
+     "9": 133.39
     },
     "rank": 1,
     "roster_id": 9,
@@ -1061,7 +1061,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.183,
+    "first_seed_odds": 0.185,
     "losses": 2,
     "mine": false,
     "pa": 913.82,
@@ -1082,7 +1082,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.211,
+    "first_seed_odds": 0.212,
     "losses": 3,
     "mine": false,
     "pa": 990.54,
@@ -1110,12 +1110,12 @@
     "pf": 967.6,
     "playoff_odds": 0.873,
     "power_rank": 6,
-    "proj_avg": 124.0,
+    "proj_avg": 123.9,
     "proj_by_week": {
      "10": 125.49,
      "11": 118.89,
      "12": 129.35,
-     "9": 122.13
+     "9": 122.07
     },
     "rank": 4,
     "roster_id": 5,
@@ -1124,19 +1124,19 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.053,
+    "first_seed_odds": 0.052,
     "losses": 4,
     "mine": false,
     "pa": 1104.36,
     "pf": 1110.86,
-    "playoff_odds": 0.915,
+    "playoff_odds": 0.914,
     "power_rank": 3,
-    "proj_avg": 131.3,
+    "proj_avg": 131.2,
     "proj_by_week": {
      "10": 130.95,
      "11": 113.1,
      "12": 137.8,
-     "9": 143.54
+     "9": 143.09
     },
     "rank": 5,
     "roster_id": 10,
@@ -1150,7 +1150,7 @@
     "mine": false,
     "pa": 1070.2,
     "pf": 967.14,
-    "playoff_odds": 0.253,
+    "playoff_odds": 0.254,
     "power_rank": 8,
     "proj_avg": 118.1,
     "proj_by_week": {
@@ -1199,7 +1199,7 @@
      "10": 112.05,
      "11": 110.22,
      "12": 132.85,
-     "9": 130.27
+     "9": 130.12
     },
     "rank": 8,
     "roster_id": 2,
@@ -1498,8 +1498,8 @@
   {
    "drop": "LAR",
    "drop_name": "LAR D/ST",
-   "gain_this_week": 1.88,
-   "gain_window": 1.88,
+   "gain_this_week": 1.27,
+   "gain_window": 1.27,
    "name": "KC D/ST",
    "pid": "KC",
    "pos": "DEF",
@@ -1507,7 +1507,7 @@
     "10": 6.83,
     "11": 7.29,
     "12": 6.94,
-    "9": 9.25
+    "9": 8.64
    },
    "status": null,
    "stream": true,

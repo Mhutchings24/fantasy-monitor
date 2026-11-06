@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-06T20:08:17Z UTC
+Week 9 · record 3-5 · updated 2026-11-06T20:13:22Z UTC
 
 ## Lineup check
 Current lineup projects **99.0**, best possible **109.9**.
@@ -24,7 +24,7 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | J.J. McCarthy | QB | NYG | Malik Washington | +0.1 | +0.0 | 32,808 |
 | Kimani Vidal | RB | LAC | Malik Washington | +0.1 | +0.0 | 0 |
 
-**DEF stream this week:** add KC D/ST for LAR D/ST (+1.9 pts this week)
+**DEF stream this week:** add KC D/ST for LAR D/ST (+1.3 pts this week)
 
 **K stream this week:** add Eddy Pineiro for Matt Gay (+0.4 pts this week)
 
@@ -36,11 +36,11 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 1 | 133.9 | 100% |
+| 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 1 | 133.8 | 100% |
 | 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 5 | 128.7 | 98% |
 | 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 133.5 | 99% |
-| 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 6 | 124.0 | 87% |
-| 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 131.3 | 92% |
+| 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 6 | 123.9 | 87% |
+| 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 131.2 | 91% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 8 | 118.1 | 25% |
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 10 | 113.2 | 18% |
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 7 | 121.3 | 28% |
