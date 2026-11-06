@@ -1,5 +1,5 @@
 {
- "content_hash": "ec546778aa4817e032e654fc469983d7860f502a",
+ "content_hash": "9a2c5f06c06ecd4112cbc302022243aecf35acf1",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -269,21 +269,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Sam Darnold",
-   "pos": "QB",
-   "proj_4wk": 32.2,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Drew Stevens",
    "pos": "K",
    "proj_4wk": 32.2,
    "proj_this_week": 8.42,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Sam Darnold",
+   "pos": "QB",
+   "proj_4wk": 32.2,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -341,21 +341,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Harrison Butker",
-   "pos": "K",
-   "proj_4wk": 30.7,
-   "proj_this_week": 7.88,
-   "status": null,
-   "team": "KC"
-  },
-  {
-   "adds_24h": 0,
    "name": "Kimani Vidal",
    "pos": "RB",
    "proj_4wk": 30.7,
    "proj_this_week": 7.32,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Harrison Butker",
+   "pos": "K",
+   "proj_4wk": 30.7,
+   "proj_this_week": 7.88,
+   "status": null,
+   "team": "KC"
   },
   {
    "adds_24h": 54495,
@@ -574,15 +574,6 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 283410,
-   "name": "NO D/ST",
-   "pos": "DEF",
-   "proj_4wk": 25.2,
-   "proj_this_week": 8.11,
-   "status": null,
-   "team": "NO"
-  },
-  {
    "adds_24h": 0,
    "name": "Elijah Higgins",
    "pos": "TE",
@@ -590,6 +581,15 @@
    "proj_this_week": 5.46,
    "status": null,
    "team": "ARI"
+  },
+  {
+   "adds_24h": 283410,
+   "name": "NO D/ST",
+   "pos": "DEF",
+   "proj_4wk": 25.2,
+   "proj_this_week": 8.11,
+   "status": null,
+   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -817,7 +817,7 @@
    "team": "TEN"
   }
  ],
- "generated_at": "2026-11-06T02:27:55Z",
+ "generated_at": "2026-11-06T02:32:59Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -847,7 +847,7 @@
    {
     "name": "Jared Goff",
     "pid": "3163",
-    "proj": 19.94,
+    "proj": 19.93,
     "slot": "QB"
    },
    {
@@ -899,8 +899,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 110.11,
-  "current_projected": 99.24,
+  "best_projected": 110.1,
+  "current_projected": 99.23,
   "gain": 10.87,
   "problems": [],
   "source": "matchup week 9",
@@ -1001,7 +1001,7 @@
   },
   "matchup": {
    "my_proj": 99.2,
-   "opp_best_possible": 134.62,
+   "opp_best_possible": 134.61,
    "opp_proj": 134.6,
    "opponent": "Touch of the Downs",
    "opponent_record": "2-6",
@@ -1202,7 +1202,7 @@
      "10": 121.98,
      "11": 104.15,
      "12": 121.53,
-     "9": 110.11
+     "9": 110.1
     },
     "rank": 9,
     "roster_id": 7,
@@ -1223,7 +1223,7 @@
      "10": 134.41,
      "11": 105.91,
      "12": 137.47,
-     "9": 134.62
+     "9": 134.61
     },
     "rank": 10,
     "roster_id": 3,
@@ -1274,7 +1274,7 @@
     "10": 18.88,
     "11": 19.18,
     "12": 20.74,
-    "9": 19.94
+    "9": 19.93
    },
    "slot": "starter",
    "status": null,
