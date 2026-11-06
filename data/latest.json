@@ -1,5 +1,5 @@
 {
- "content_hash": "420e386746d7eec512385ffd3b8a02f61c244149",
+ "content_hash": "1658e3a8b361879adfc7b58e1b0ae34f9a9186c8",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -19,8 +19,8 @@
    "adds_24h": 244223,
    "name": "Malik Willis",
    "pos": "QB",
-   "proj_4wk": 67.9,
-   "proj_this_week": 17.89,
+   "proj_4wk": 67.8,
+   "proj_this_week": 17.79,
    "status": null,
    "team": "MIA"
   },
@@ -244,8 +244,8 @@
    "adds_24h": 50728,
    "name": "Jake Bates",
    "pos": "K",
-   "proj_4wk": 33.0,
-   "proj_this_week": 8.34,
+   "proj_4wk": 33.1,
+   "proj_this_week": 8.37,
    "status": null,
    "team": "DET"
   },
@@ -269,21 +269,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Sam Darnold",
-   "pos": "QB",
-   "proj_4wk": 32.2,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Drew Stevens",
    "pos": "K",
    "proj_4wk": 32.2,
    "proj_this_week": 8.42,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Sam Darnold",
+   "pos": "QB",
+   "proj_4wk": 32.2,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -461,7 +461,7 @@
    "name": "Zane Gonzalez",
    "pos": "K",
    "proj_4wk": 27.2,
-   "proj_this_week": 7.14,
+   "proj_this_week": 7.1,
    "status": null,
    "team": "MIA"
   },
@@ -515,7 +515,7 @@
    "name": "Chris Bell",
    "pos": "WR",
    "proj_4wk": 26.0,
-   "proj_this_week": 6.97,
+   "proj_this_week": 6.96,
    "status": null,
    "team": "MIA"
   },
@@ -826,7 +826,7 @@
    "team": "SF"
   }
  ],
- "generated_at": "2026-11-06T16:20:15Z",
+ "generated_at": "2026-11-06T16:25:19Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -856,7 +856,7 @@
    {
     "name": "Jared Goff",
     "pid": "3163",
-    "proj": 19.87,
+    "proj": 19.94,
     "slot": "QB"
    },
    {
@@ -908,8 +908,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 110.04,
-  "current_projected": 99.17,
+  "best_projected": 110.11,
+  "current_projected": 99.24,
   "gain": 10.87,
   "problems": [],
   "source": "matchup week 9",
@@ -1010,7 +1010,7 @@
   },
   "matchup": {
    "my_proj": 99.2,
-   "opp_best_possible": 134.72,
+   "opp_best_possible": 134.71,
    "opp_proj": 134.7,
    "opponent": "Touch of the Downs",
    "opponent_record": "2-6",
@@ -1037,7 +1037,7 @@
     "pa": 1045.02,
     "pf": 1104.32,
     "playoff_odds": 0.999,
-    "power_rank": 1,
+    "power_rank": 2,
     "proj_avg": 133.5,
     "proj_by_week": {
      "10": 132.6,
@@ -1073,19 +1073,19 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.219,
+    "first_seed_odds": 0.22,
     "losses": 3,
     "mine": false,
     "pa": 990.54,
     "pf": 1083.34,
     "playoff_odds": 0.988,
-    "power_rank": 2,
-    "proj_avg": 133.4,
+    "power_rank": 1,
+    "proj_avg": 133.5,
     "proj_by_week": {
      "10": 128.53,
      "11": 137.67,
      "12": 141.89,
-     "9": 125.64
+     "9": 125.77
     },
     "rank": 3,
     "roster_id": 4,
@@ -1115,7 +1115,7 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.051,
+    "first_seed_odds": 0.05,
     "losses": 4,
     "mine": false,
     "pa": 1104.36,
@@ -1148,7 +1148,7 @@
      "10": 118.11,
      "11": 107.53,
      "12": 121.67,
-     "9": 124.03
+     "9": 123.96
     },
     "rank": 6,
     "roster_id": 1,
@@ -1169,7 +1169,7 @@
      "10": 88.18,
      "11": 121.26,
      "12": 126.98,
-     "9": 115.94
+     "9": 115.97
     },
     "rank": 7,
     "roster_id": 6,
@@ -1190,7 +1190,7 @@
      "10": 117.26,
      "11": 110.22,
      "12": 135.75,
-     "9": 130.02
+     "9": 130.06
     },
     "rank": 8,
     "roster_id": 2,
@@ -1211,7 +1211,7 @@
      "10": 121.98,
      "11": 104.15,
      "12": 121.53,
-     "9": 110.04
+     "9": 110.11
     },
     "rank": 9,
     "roster_id": 7,
@@ -1232,7 +1232,7 @@
      "10": 134.41,
      "11": 105.91,
      "12": 137.47,
-     "9": 134.72
+     "9": 134.71
     },
     "rank": 10,
     "roster_id": 3,
@@ -1283,7 +1283,7 @@
     "10": 18.88,
     "11": 19.18,
     "12": 20.74,
-    "9": 19.87
+    "9": 19.94
    },
    "slot": "starter",
    "status": null,
@@ -1448,7 +1448,7 @@
     "10": 10.46,
     "11": 9.84,
     "12": 10.34,
-    "9": 10.82
+    "9": 10.81
    },
    "slot": "bench",
    "status": null,
