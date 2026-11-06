@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-06T12:48:48Z UTC
+Week 9 · record 3-5 · updated 2026-11-06T12:58:56Z UTC
 
 ## Lineup check
-Current lineup projects **99.2**, best possible **110.1**.
+Current lineup projects **99.2**, best possible **110.0**.
 
 - 🔁 Start Josh Downs (WR, IND) (10.9) over Mike Evans (WR, SF) (0.0)
 
@@ -16,11 +16,11 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | J.K. Dobbins | RB | DEN | Malik Washington | +2.0 | +0.0 | 0 |
 | Dalton Kincaid (Questionable) | TE | BUF | Malik Washington | +1.6 | +0.0 | 0 |
 | Dallas Goedert | TE | PHI | Malik Washington | +1.1 | +0.0 | 0 |
-| Xavier Worthy | WR | KC | Malik Washington | +1.0 | +0.0 | 37,323 |
+| Xavier Worthy | WR | KC | Malik Washington | +1.0 | +0.0 | 37,422 |
 | Bryce Young | QB | CAR | Malik Washington | +0.9 | +0.0 | 0 |
-| Khalil Shakir | WR | BUF | Malik Washington | +0.9 | +0.0 | 50,013 |
+| Khalil Shakir | WR | BUF | Malik Washington | +0.9 | +0.0 | 50,193 |
 | Juwan Johnson | TE | NO | Malik Washington | +0.5 | +0.0 | 0 |
-| J.J. McCarthy | QB | NYG | Malik Washington | +0.1 | +0.0 | 38,961 |
+| J.J. McCarthy | QB | NYG | Malik Washington | +0.1 | +0.0 | 39,054 |
 | Kimani Vidal | RB | LAC | Malik Washington | +0.1 | +0.0 | 0 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.9 pts this week)
@@ -35,10 +35,10 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 2 | 133.5 | 100% |
+| 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 1 | 133.5 | 100% |
 | 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 4 | 128.6 | 98% |
-| 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 1 | 133.5 | 99% |
-| 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 6 | 124.4 | 88% |
+| 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 133.4 | 99% |
+| 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 6 | 124.4 | 87% |
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 130.6 | 91% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 8 | 117.7 | 24% |
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 10 | 113.2 | 17% |
