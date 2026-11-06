@@ -1,5 +1,5 @@
 {
- "content_hash": "f4586c107f33d3e5b979e56e84d90d9926edca40",
+ "content_hash": "131a5171d8649b1355c081c88636fadf274eb527",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -269,21 +269,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Sam Darnold",
-   "pos": "QB",
-   "proj_4wk": 32.2,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Drew Stevens",
    "pos": "K",
    "proj_4wk": 32.2,
    "proj_this_week": 8.42,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Sam Darnold",
+   "pos": "QB",
+   "proj_4wk": 32.2,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -565,15 +565,6 @@
    "team": "NE"
   },
   {
-   "adds_24h": 264625,
-   "name": "NO D/ST",
-   "pos": "DEF",
-   "proj_4wk": 25.2,
-   "proj_this_week": 8.11,
-   "status": null,
-   "team": "NO"
-  },
-  {
    "adds_24h": 0,
    "name": "Elijah Higgins",
    "pos": "TE",
@@ -581,6 +572,15 @@
    "proj_this_week": 5.46,
    "status": null,
    "team": "ARI"
+  },
+  {
+   "adds_24h": 264625,
+   "name": "NO D/ST",
+   "pos": "DEF",
+   "proj_4wk": 25.2,
+   "proj_this_week": 8.11,
+   "status": null,
+   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "PHI"
   }
  ],
- "generated_at": "2026-11-06T04:38:59Z",
+ "generated_at": "2026-11-06T04:44:03Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
