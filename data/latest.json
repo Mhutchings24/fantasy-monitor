@@ -1,5 +1,5 @@
 {
- "content_hash": "c5a1bdcfd2a38ad0475a313e880c3c99d5d4fa5f",
+ "content_hash": "a5dc800557fcc230af360d57efe5aabcb7adbca8",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -106,15 +106,6 @@
    "team": "PIT"
   },
   {
-   "adds_24h": 0,
-   "name": "Michael Penix Jr.",
-   "pos": "QB",
-   "proj_4wk": 46.0,
-   "proj_this_week": 17.76,
-   "status": null,
-   "team": "ATL"
-  },
-  {
    "adds_24h": 48320,
    "name": "Omar Cooper Jr.",
    "pos": "WR",
@@ -122,6 +113,15 @@
    "proj_this_week": 14.1,
    "status": null,
    "team": "NYJ"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Michael Penix Jr.",
+   "pos": "QB",
+   "proj_4wk": 45.2,
+   "proj_this_week": 17.0,
+   "status": null,
+   "team": "ATL"
   },
   {
    "adds_24h": 0,
@@ -269,21 +269,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Sam Darnold",
-   "pos": "QB",
-   "proj_4wk": 32.2,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Drew Stevens",
    "pos": "K",
    "proj_4wk": 32.2,
    "proj_this_week": 8.42,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Sam Darnold",
+   "pos": "QB",
+   "proj_4wk": 32.2,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -496,8 +496,8 @@
    "adds_24h": 0,
    "name": "Kyle Pitts Sr.",
    "pos": "TE",
-   "proj_4wk": 26.4,
-   "proj_this_week": 10.17,
+   "proj_4wk": 26.1,
+   "proj_this_week": 9.87,
    "status": null,
    "team": "ATL"
   },
@@ -826,7 +826,7 @@
    "team": "SF"
   }
  ],
- "generated_at": "2026-11-06T16:10:06Z",
+ "generated_at": "2026-11-06T16:15:10Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1099,7 +1099,7 @@
     "mine": false,
     "pa": 849.08,
     "pf": 967.6,
-    "playoff_odds": 0.872,
+    "playoff_odds": 0.873,
     "power_rank": 6,
     "proj_avg": 124.4,
     "proj_by_week": {
@@ -1141,14 +1141,14 @@
     "mine": false,
     "pa": 1070.2,
     "pf": 967.14,
-    "playoff_odds": 0.244,
+    "playoff_odds": 0.241,
     "power_rank": 8,
-    "proj_avg": 117.9,
+    "proj_avg": 117.8,
     "proj_by_week": {
      "10": 118.11,
      "11": 107.53,
      "12": 121.67,
-     "9": 124.46
+     "9": 124.03
     },
     "rank": 6,
     "roster_id": 1,
@@ -1183,7 +1183,7 @@
     "mine": false,
     "pa": 982.9,
     "pf": 937.8,
-    "playoff_odds": 0.331,
+    "playoff_odds": 0.332,
     "power_rank": 7,
     "proj_avg": 123.3,
     "proj_by_week": {
@@ -1204,7 +1204,7 @@
     "mine": true,
     "pa": 946.24,
     "pf": 906.7,
-    "playoff_odds": 0.17,
+    "playoff_odds": 0.171,
     "power_rank": 9,
     "proj_avg": 114.4,
     "proj_by_week": {
@@ -1225,7 +1225,7 @@
     "mine": false,
     "pa": 1017.26,
     "pf": 942.36,
-    "playoff_odds": 0.339,
+    "playoff_odds": 0.34,
     "power_rank": 5,
     "proj_avg": 128.1,
     "proj_by_week": {
