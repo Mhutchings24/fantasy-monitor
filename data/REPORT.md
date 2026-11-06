@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-06T17:53:38Z UTC
+Week 9 · record 3-5 · updated 2026-11-06T17:58:43Z UTC
 
 ## Lineup check
-Current lineup projects **99.2**, best possible **110.1**.
+Current lineup projects **99.1**, best possible **110.0**.
 
 - 🔁 Start Josh Downs (WR, IND) (10.9) over Mike Evans (WR, SF) (0.0)
 
@@ -13,23 +13,23 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Omar Cooper Jr. | WR | NYJ | Malik Washington | +3.2 | +3.2 | 85,720 |
+| Omar Cooper Jr. | WR | NYJ | Malik Washington | +3.2 | +3.2 | 87,792 |
 | J.K. Dobbins | RB | DEN | Malik Washington | +2.0 | +0.0 | 0 |
 | Dalton Kincaid (Questionable) | TE | BUF | Malik Washington | +1.6 | +0.0 | 0 |
 | Dallas Goedert | TE | PHI | Malik Washington | +1.1 | +0.0 | 0 |
-| Xavier Worthy | WR | KC | Malik Washington | +1.0 | +0.0 | 36,927 |
+| Xavier Worthy | WR | KC | Malik Washington | +1.0 | +0.0 | 37,098 |
 | Bryce Young | QB | CAR | Malik Washington | +0.9 | +0.0 | 0 |
-| Khalil Shakir | WR | BUF | Malik Washington | +0.9 | +0.0 | 49,653 |
+| Khalil Shakir | WR | BUF | Malik Washington | +0.9 | +0.0 | 49,923 |
 | Juwan Johnson | TE | NO | Malik Washington | +0.5 | +0.0 | 0 |
-| J.J. McCarthy | QB | NYG | Malik Washington | +0.1 | +0.0 | 35,487 |
+| J.J. McCarthy | QB | NYG | Malik Washington | +0.1 | +0.0 | 35,583 |
 | Kimani Vidal | RB | LAC | Malik Washington | +0.1 | +0.0 | 0 |
 
-**DEF stream this week:** add KC D/ST for LAR D/ST (+1.8 pts this week)
+**DEF stream this week:** add KC D/ST for LAR D/ST (+1.9 pts this week)
 
 **K stream this week:** add Eddy Pineiro for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **99.2** – 124.6 projected · win chance **24%**
+vs **Touch of the Downs** (2-6): you **99.1** – 124.4 projected · win chance **24%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -43,14 +43,14 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 130.6 | 91% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 8 | 117.8 | 24% |
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 10 | 113.1 | 17% |
-| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 7 | 123.3 | 32% |
+| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 7 | 123.3 | 33% |
 | 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 9 | 114.4 | 16% |
-| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 129.3 | 36% |
+| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 129.0 | 35% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
-- **Likely** · Give Brenton Strange, get Stefon Diggs from Gibbs me Nabers 😵‍💫: +1.4 pts/week for you, +1.3 for them.
+- **Likely** · Give Brenton Strange, get Stefon Diggs from Gibbs me Nabers 😵‍💫: +1.5 pts/week for you, +1.3 for them.
 - **Likely** · Give George Kittle, get Malik Nabers from Gibbs me Nabers 😵‍💫: +1.1 pts/week for you, +1.7 for them.
 - **Likely** · Give Brenton Strange, get Jonah Coleman from Glizzy Globbler : +1.0 pts/week for you, +0.7 for them.
 - **Possible** · Give Jared Goff + Malik Washington, get Brock Purdy from Never Going Go Scottsdale: +2.1 pts/week for you, -0.1 for them.
