@@ -1,5 +1,5 @@
 {
- "content_hash": "c1ee3f37f0b00a682f557b6ceec07a6dec75666e",
+ "content_hash": "58b2e1010ca98d3beee3b17b2865da4c741443ca",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -19,8 +19,8 @@
    "adds_24h": 208341,
    "name": "Malik Willis",
    "pos": "QB",
-   "proj_4wk": 67.8,
-   "proj_this_week": 17.81,
+   "proj_4wk": 67.6,
+   "proj_this_week": 17.6,
    "status": null,
    "team": "MIA"
   },
@@ -56,7 +56,7 @@
    "name": "Gardner Minshew II",
    "pos": "QB",
    "proj_4wk": 57.9,
-   "proj_this_week": 11.6,
+   "proj_this_week": 11.56,
    "status": null,
    "team": "ARI"
   },
@@ -254,7 +254,7 @@
    "name": "Jake Bates",
    "pos": "K",
    "proj_4wk": 33.0,
-   "proj_this_week": 8.34,
+   "proj_this_week": 8.27,
    "status": null,
    "team": "DET"
   },
@@ -335,7 +335,7 @@
    "name": "Greg Dulcich",
    "pos": "TE",
    "proj_4wk": 30.9,
-   "proj_this_week": 8.2,
+   "proj_this_week": 8.12,
    "status": null,
    "team": "MIA"
   },
@@ -460,8 +460,8 @@
    "adds_24h": 0,
    "name": "Zane Gonzalez",
    "pos": "K",
-   "proj_4wk": 27.2,
-   "proj_this_week": 7.14,
+   "proj_4wk": 27.1,
+   "proj_this_week": 7.07,
    "status": null,
    "team": "MIA"
   },
@@ -514,8 +514,8 @@
    "adds_24h": 0,
    "name": "Chris Bell",
    "pos": "WR",
-   "proj_4wk": 26.0,
-   "proj_this_week": 6.97,
+   "proj_4wk": 25.9,
+   "proj_this_week": 6.89,
    "status": null,
    "team": "MIA"
   },
@@ -638,6 +638,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Devaughn Vele",
+   "pos": "WR",
+   "proj_4wk": 24.3,
+   "proj_this_week": 8.73,
+   "status": null,
+   "team": "NO"
+  },
+  {
+   "adds_24h": 0,
    "name": "Chris Boswell",
    "pos": "K",
    "proj_4wk": 24.2,
@@ -689,15 +698,6 @@
    "proj_this_week": 8.06,
    "status": null,
    "team": "ATL"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Devaughn Vele",
-   "pos": "WR",
-   "proj_4wk": 23.6,
-   "proj_this_week": 8.1,
-   "status": null,
-   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -776,7 +776,7 @@
    "name": "Alvin Kamara",
    "pos": "RB",
    "proj_4wk": 17.6,
-   "proj_this_week": 9.46,
+   "proj_this_week": 9.52,
    "status": null,
    "team": "NO"
   },
@@ -835,7 +835,7 @@
    "team": "SEA"
   }
  ],
- "generated_at": "2026-11-06T21:24:58Z",
+ "generated_at": "2026-11-06T21:30:03Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -865,7 +865,7 @@
    {
     "name": "Jared Goff",
     "pid": "3163",
-    "proj": 19.87,
+    "proj": 19.64,
     "slot": "QB"
    },
    {
@@ -917,8 +917,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 109.91,
-  "current_projected": 99.04,
+  "best_projected": 109.68,
+  "current_projected": 98.81,
   "gain": 10.87,
   "problems": [],
   "source": "matchup week 9",
@@ -1018,9 +1018,9 @@
    "week": 8
   },
   "matchup": {
-   "my_proj": 99.0,
-   "opp_best_possible": 138.09,
-   "opp_proj": 124.2,
+   "my_proj": 98.8,
+   "opp_best_possible": 137.95,
+   "opp_proj": 124.0,
    "opponent": "Touch of the Downs",
    "opponent_record": "2-6",
    "win_prob": 0.238
@@ -1082,7 +1082,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.209,
+    "first_seed_odds": 0.208,
     "losses": 3,
     "mine": false,
     "pa": 990.54,
@@ -1094,7 +1094,7 @@
      "10": 128.53,
      "11": 137.67,
      "12": 141.89,
-     "9": 125.84
+     "9": 125.72
     },
     "rank": 3,
     "roster_id": 4,
@@ -1103,7 +1103,7 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.025,
+    "first_seed_odds": 0.026,
     "losses": 3,
     "mine": false,
     "pa": 849.08,
@@ -1115,7 +1115,7 @@
      "10": 125.49,
      "11": 118.89,
      "12": 129.35,
-     "9": 122.25
+     "9": 122.23
     },
     "rank": 4,
     "roster_id": 5,
@@ -1152,12 +1152,12 @@
     "pf": 967.14,
     "playoff_odds": 0.253,
     "power_rank": 8,
-    "proj_avg": 118.1,
+    "proj_avg": 118.0,
     "proj_by_week": {
      "10": 118.11,
      "11": 107.53,
      "12": 121.67,
-     "9": 124.96
+     "9": 124.86
     },
     "rank": 6,
     "roster_id": 1,
@@ -1178,7 +1178,7 @@
      "10": 88.18,
      "11": 121.26,
      "12": 126.98,
-     "9": 118.32
+     "9": 118.2
     },
     "rank": 7,
     "roster_id": 6,
@@ -1199,7 +1199,7 @@
      "10": 112.05,
      "11": 110.22,
      "12": 132.85,
-     "9": 130.12
+     "9": 130.01
     },
     "rank": 8,
     "roster_id": 2,
@@ -1213,14 +1213,14 @@
     "mine": true,
     "pa": 946.24,
     "pf": 906.7,
-    "playoff_odds": 0.169,
+    "playoff_odds": 0.168,
     "power_rank": 9,
-    "proj_avg": 114.4,
+    "proj_avg": 114.3,
     "proj_by_week": {
      "10": 121.98,
      "11": 104.15,
      "12": 121.53,
-     "9": 109.91
+     "9": 109.68
     },
     "rank": 9,
     "roster_id": 7,
@@ -1236,12 +1236,12 @@
     "pf": 942.36,
     "playoff_odds": 0.364,
     "power_rank": 5,
-    "proj_avg": 129.0,
+    "proj_avg": 128.9,
     "proj_by_week": {
      "10": 134.41,
      "11": 105.91,
      "12": 137.47,
-     "9": 138.09
+     "9": 137.95
     },
     "rank": 10,
     "roster_id": 3,
@@ -1292,7 +1292,7 @@
     "10": 18.88,
     "11": 19.18,
     "12": 20.74,
-    "9": 19.87
+    "9": 19.64
    },
    "slot": "starter",
    "status": null,
@@ -1457,7 +1457,7 @@
     "10": 10.46,
     "11": 9.84,
     "12": 10.34,
-    "9": 10.82
+    "9": 10.73
    },
    "slot": "bench",
    "status": null,
@@ -1580,38 +1580,39 @@
   {
    "get": [
     {
-     "name": "Malik Nabers",
-     "pid": "11632",
+     "name": "Jameson Williams",
+     "pid": "8148",
      "pos": "WR",
-     "ros_per_week": 16.4,
-     "status": "Questionable",
-     "team": "NYG"
+     "ros_per_week": 12.3,
+     "status": null,
+     "team": "DET"
     }
    ],
    "give": [
     {
-     "name": "George Kittle",
-     "pid": "4217",
+     "name": "Brenton Strange",
+     "pid": "9480",
      "pos": "TE",
-     "ros_per_week": 15.2,
+     "ros_per_week": 10.9,
      "status": null,
-     "team": "SF"
+     "team": "JAX"
     }
    ],
    "likelihood": "Likely",
    "partner": "Gibbs me Nabers 😵‍💫",
    "partner_roster_id": 4,
-   "summary": "Give George Kittle, get Malik Nabers from Gibbs me Nabers 😵‍💫: +1.1 pts/week for you, +1.7 for them.",
-   "their_gain_per_week": 1.7,
-   "value_ratio": 1.08,
+   "summary": "Give Brenton Strange, get Jameson Williams from Gibbs me Nabers 😵‍💫: +1.2 pts/week for you, +1.4 for them.",
+   "their_gain_per_week": 1.4,
+   "value_ratio": 1.12,
    "why_them": [
-    "George Kittle would start 9 of 9 weeks for them"
+    "Brenton Strange would start 8 of 9 weeks for them",
+    "Jameson Williams only starts 0 of 9 weeks on their roster"
    ],
    "why_you": [
-    "Malik Nabers would start 9 of 9 weeks for you",
-    "George Kittle starts 9 of 9 weeks for you"
+    "Jameson Williams would start 9 of 9 weeks for you",
+    "Brenton Strange starts 6 of 9 weeks for you"
    ],
-   "your_gain_per_week": 1.1
+   "your_gain_per_week": 1.2
   },
   {
    "get": [
@@ -1681,9 +1682,9 @@
    "likelihood": "Possible",
    "partner": "Never Going Go Scottsdale",
    "partner_roster_id": 6,
-   "summary": "Give Jared Goff + Malik Washington, get Brock Purdy from Never Going Go Scottsdale: +2.1 pts/week for you, -0.1 for them.",
+   "summary": "Give Jared Goff + Malik Washington, get Brock Purdy from Never Going Go Scottsdale: +2.2 pts/week for you, -0.1 for them.",
    "their_gain_per_week": -0.1,
-   "value_ratio": 0.72,
+   "value_ratio": 0.73,
    "why_them": [
     "Jared Goff would start 4 of 9 weeks for them",
     "Malik Washington would start 2 of 9 weeks for them"
@@ -1693,7 +1694,7 @@
     "Jared Goff starts 9 of 9 weeks for you",
     "Malik Washington starts only 1 of 9 weeks for you"
    ],
-   "your_gain_per_week": 2.1
+   "your_gain_per_week": 2.2
   },
   {
    "get": [
@@ -1847,8 +1848,8 @@
    "likelihood": "Possible",
    "partner": "Never Going Go Scottsdale",
    "partner_roster_id": 6,
-   "summary": "Give Jared Goff + Brenton Strange, get Brock Purdy from Never Going Go Scottsdale: +1.4 pts/week for you, +0.1 for them.",
-   "their_gain_per_week": 0.1,
+   "summary": "Give Jared Goff + Brenton Strange, get Brock Purdy from Never Going Go Scottsdale: +1.4 pts/week for you, +0.0 for them.",
+   "their_gain_per_week": 0.0,
    "value_ratio": 0.71,
    "why_them": [
     "Jared Goff would start 4 of 9 weeks for them",
