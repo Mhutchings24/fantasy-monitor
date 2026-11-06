@@ -1,5 +1,5 @@
 {
- "content_hash": "4fdf2c980a63aeda840983adef773000c4c82d36",
+ "content_hash": "0d0502fece21c488cd90303d175c7db5bc7c2b70",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -341,21 +341,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Harrison Butker",
-   "pos": "K",
-   "proj_4wk": 30.7,
-   "proj_this_week": 7.88,
-   "status": null,
-   "team": "KC"
-  },
-  {
-   "adds_24h": 0,
    "name": "Kimani Vidal",
    "pos": "RB",
    "proj_4wk": 30.7,
    "proj_this_week": 7.32,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Harrison Butker",
+   "pos": "K",
+   "proj_4wk": 30.7,
+   "proj_this_week": 7.88,
+   "status": null,
+   "team": "KC"
   },
   {
    "adds_24h": 50283,
@@ -826,7 +826,7 @@
    "team": "TEN"
   }
  ],
- "generated_at": "2026-11-06T14:10:08Z",
+ "generated_at": "2026-11-06T14:15:15Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
