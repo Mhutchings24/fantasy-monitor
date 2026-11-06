@@ -1,5 +1,5 @@
 {
- "content_hash": "23cc9381621bf186bff0eccf5ad957e67c695597",
+ "content_hash": "5d2c2e7534202e975e22f614421d86792d0c7837",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -224,21 +224,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Dalton Schultz",
-   "pos": "TE",
-   "proj_4wk": 33.6,
-   "proj_this_week": 8.52,
-   "status": null,
-   "team": "HOU"
-  },
-  {
-   "adds_24h": 0,
    "name": "Jordan Addison",
    "pos": "WR",
    "proj_4wk": 33.6,
    "proj_this_week": 8.55,
    "status": null,
    "team": "MIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Dalton Schultz",
+   "pos": "TE",
+   "proj_4wk": 33.6,
+   "proj_this_week": 8.52,
+   "status": null,
+   "team": "HOU"
   },
   {
    "adds_24h": 49040,
@@ -817,7 +817,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-06T00:08:56Z",
+ "generated_at": "2026-11-06T00:09:13Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
