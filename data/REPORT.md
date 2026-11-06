@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-06T14:20:21Z UTC
+Week 9 · record 3-5 · updated 2026-11-06T14:25:28Z UTC
 
 ## Lineup check
 Current lineup projects **99.2**, best possible **110.0**.
@@ -23,12 +23,12 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | J.J. McCarthy | QB | NYG | Malik Washington | +0.1 | +0.0 | 38,685 |
 | Kimani Vidal | RB | LAC | Malik Washington | +0.1 | +0.0 | 0 |
 
-**DEF stream this week:** add KC D/ST for LAR D/ST (+1.9 pts this week)
+**DEF stream this week:** add KC D/ST for LAR D/ST (+1.8 pts this week)
 
 **K stream this week:** add Eddy Pineiro for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **99.2** – 134.6 projected · win chance **16%**
+vs **Touch of the Downs** (2-6): you **99.2** – 134.7 projected · win chance **16%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -41,7 +41,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 6 | 124.4 | 87% |
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 130.6 | 91% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 8 | 117.9 | 24% |
-| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 10 | 113.2 | 17% |
+| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 10 | 113.1 | 17% |
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 7 | 123.3 | 33% |
 | 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 9 | 114.4 | 17% |
 | 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 5 | 128.1 | 34% |
