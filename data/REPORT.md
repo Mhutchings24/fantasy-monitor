@@ -1,10 +1,10 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-06T22:00:30Z UTC
+Week 9 · record 3-5 · updated 2026-11-06T22:05:35Z UTC
 
 ## Lineup check
-Current lineup projects **98.8**, best possible **109.7**.
+Current lineup projects **109.7**, best possible **109.7**.
 
-- 🔁 Start Josh Downs (WR, IND) (10.9) over Mike Evans (WR, SF) (0.0)
+- ✅ Your lineup is already the best one available.
 
 ## Waiver targets
 FAAB left: **$100** (league starting budget $100)
@@ -29,7 +29,7 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 **K stream this week:** add Eddy Pineiro for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **98.8** – 124.0 projected · win chance **24%**
+vs **Touch of the Downs** (2-6): you **109.7** – 124.0 projected · win chance **34%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -69,12 +69,12 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Quinshon Judkins | RB | CLE | starter |  | 12.2 | 10.6 | 0.0 | 12.1 |
 | George Kittle | TE | SF | starter |  | 15.2 | 16.3 | 14.4 | 14.6 |
 | Keenan Allen | WR | IND | starter |  | 11.3 | 10.6 | 9.6 | 9.4 |
+| Josh Downs | WR | IND | starter |  | 10.9 | 10.8 | 9.7 | 9.6 |
 | DJ Moore | WR | BUF | starter | Questionable | 10.9 | 14.8 | 16.6 | 14.1 |
-| Mike Evans | WR | SF | starter | Questionable | 0.0 | 19.8 | 17.4 | 17.8 |
 | Omarion Hampton | RB | LAC | bench |  | 9.2 | 9.6 | 9.7 | 10.2 |
 | Rico Dowdle | RB | PIT | bench | BYE | 0.0 | 9.5 | 7.7 | 7.9 |
 | Brenton Strange | TE | JAX | bench |  | 9.7 | 10.8 | 10.7 | 11.3 |
-| Josh Downs | WR | IND | bench |  | 10.9 | 10.8 | 9.7 | 9.6 |
 | Malik Washington | WR | MIA | bench |  | 10.7 | 10.5 | 9.8 | 10.3 |
 | Jordyn Tyson | WR | NO | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
+| Mike Evans | WR | SF | bench | Questionable | 0.0 | 19.8 | 17.4 | 17.8 |

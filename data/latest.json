@@ -1,5 +1,5 @@
 {
- "content_hash": "c5f6437395d46f4295f3579dc12c975d086c8d3d",
+ "content_hash": "83d371a6516d7ba3fd47663084cc5762507356b1",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -835,7 +835,7 @@
    "team": "SEA"
   }
  ],
- "generated_at": "2026-11-06T22:00:30Z",
+ "generated_at": "2026-11-06T22:05:35Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -918,17 +918,11 @@
    }
   ],
   "best_projected": 109.67,
-  "current_projected": 98.8,
-  "gain": 10.87,
+  "current_projected": 109.67,
+  "gain": 0.0,
   "problems": [],
   "source": "matchup week 9",
-  "swaps": [
-   {
-    "bench": "2216",
-    "start": "9500",
-    "text": "Start Josh Downs (WR, IND) (10.9) over Mike Evans (WR, SF) (0.0)"
-   }
-  ],
+  "swaps": [],
   "week": 9
  },
  "overview": {
@@ -1018,12 +1012,12 @@
    "week": 8
   },
   "matchup": {
-   "my_proj": 98.8,
+   "my_proj": 109.7,
    "opp_best_possible": 137.95,
    "opp_proj": 124.0,
    "opponent": "Touch of the Downs",
    "opponent_record": "2-6",
-   "win_prob": 0.238
+   "win_prob": 0.343
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1360,6 +1354,21 @@
   },
   {
    "bye_this_week": false,
+   "name": "Josh Downs",
+   "pid": "9500",
+   "pos": "WR",
+   "proj_by_week": {
+    "10": 10.77,
+    "11": 9.67,
+    "12": 9.57,
+    "9": 10.87
+   },
+   "slot": "starter",
+   "status": null,
+   "team": "IND"
+  },
+  {
+   "bye_this_week": false,
    "name": "DJ Moore",
    "pid": "4983",
    "pos": "WR",
@@ -1372,21 +1381,6 @@
    "slot": "starter",
    "status": "Questionable",
    "team": "BUF"
-  },
-  {
-   "bye_this_week": false,
-   "name": "Mike Evans",
-   "pid": "2216",
-   "pos": "WR",
-   "proj_by_week": {
-    "10": 19.78,
-    "11": 17.36,
-    "12": 17.75,
-    "9": 0.0
-   },
-   "slot": "starter",
-   "status": "Questionable",
-   "team": "SF"
   },
   {
    "bye_this_week": false,
@@ -1435,21 +1429,6 @@
   },
   {
    "bye_this_week": false,
-   "name": "Josh Downs",
-   "pid": "9500",
-   "pos": "WR",
-   "proj_by_week": {
-    "10": 10.77,
-    "11": 9.67,
-    "12": 9.57,
-    "9": 10.87
-   },
-   "slot": "bench",
-   "status": null,
-   "team": "IND"
-  },
-  {
-   "bye_this_week": false,
    "name": "Malik Washington",
    "pid": "11610",
    "pos": "WR",
@@ -1492,6 +1471,21 @@
    "slot": "reserve",
    "status": "IR",
    "team": "LAR"
+  },
+  {
+   "bye_this_week": false,
+   "name": "Mike Evans",
+   "pid": "2216",
+   "pos": "WR",
+   "proj_by_week": {
+    "10": 19.78,
+    "11": 17.36,
+    "12": 17.75,
+    "9": 0.0
+   },
+   "slot": "bench",
+   "status": "Questionable",
+   "team": "SF"
   }
  ],
  "streams": [
