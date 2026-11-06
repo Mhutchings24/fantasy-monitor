@@ -1,5 +1,5 @@
 {
- "content_hash": "66dc9c62f3c0d1db8abbe8fad4ad3b2385b1dbe5",
+ "content_hash": "14ffa030b350a8a31f75d5b6c043037aaed40d1a",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -269,21 +269,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Drew Stevens",
-   "pos": "K",
-   "proj_4wk": 32.2,
-   "proj_this_week": 8.42,
-   "status": null,
-   "team": "WAS"
-  },
-  {
-   "adds_24h": 0,
    "name": "Sam Darnold",
    "pos": "QB",
    "proj_4wk": 32.2,
    "proj_this_week": 0.0,
    "status": "Out",
    "team": "SEA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Drew Stevens",
+   "pos": "K",
+   "proj_4wk": 32.2,
+   "proj_this_week": 8.42,
+   "status": null,
+   "team": "WAS"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "TEN"
   }
  ],
- "generated_at": "2026-11-06T13:19:14Z",
+ "generated_at": "2026-11-06T13:24:18Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
