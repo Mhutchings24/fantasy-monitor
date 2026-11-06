@@ -1,5 +1,5 @@
 {
- "content_hash": "c1ee3f37f0b00a682f557b6ceec07a6dec75666e",
+ "content_hash": "c2aeb5b0fa6daa16947d2f3216fcaa0c39aa753f",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -701,21 +701,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Noah Fant",
-   "pos": "TE",
-   "proj_4wk": 23.6,
-   "proj_this_week": 5.59,
-   "status": null,
-   "team": "NO"
-  },
-  {
-   "adds_24h": 0,
    "name": "DAL D/ST",
    "pos": "DEF",
    "proj_4wk": 23.6,
    "proj_this_week": 6.44,
    "status": null,
    "team": "DAL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Noah Fant",
+   "pos": "TE",
+   "proj_4wk": 23.6,
+   "proj_this_week": 5.59,
+   "status": null,
+   "team": "NO"
   },
   {
    "adds_24h": 238553,
@@ -835,7 +835,7 @@
    "team": "SEA"
   }
  ],
- "generated_at": "2026-11-06T21:19:37Z",
+ "generated_at": "2026-11-06T21:19:54Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
