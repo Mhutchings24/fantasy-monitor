@@ -1,5 +1,5 @@
 {
- "content_hash": "7c3aa309669f8647beac206e9671d6869166f562",
+ "content_hash": "0e2fc0f3189a58ded67a75af61edbd9b9104220a",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -20,7 +20,7 @@
    "name": "Malik Willis",
    "pos": "QB",
    "proj_4wk": 67.6,
-   "proj_this_week": 17.6,
+   "proj_this_week": 17.56,
    "status": null,
    "team": "MIA"
   },
@@ -335,7 +335,7 @@
    "name": "Greg Dulcich",
    "pos": "TE",
    "proj_4wk": 30.9,
-   "proj_this_week": 8.12,
+   "proj_this_week": 8.11,
    "status": null,
    "team": "MIA"
   },
@@ -515,7 +515,7 @@
    "name": "Chris Bell",
    "pos": "WR",
    "proj_4wk": 25.9,
-   "proj_this_week": 6.89,
+   "proj_this_week": 6.88,
    "status": null,
    "team": "MIA"
   },
@@ -835,7 +835,7 @@
    "team": "SEA"
   }
  ],
- "generated_at": "2026-11-06T22:22:47Z",
+ "generated_at": "2026-11-06T22:27:51Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -865,7 +865,7 @@
    {
     "name": "Jared Goff",
     "pid": "3163",
-    "proj": 19.64,
+    "proj": 19.63,
     "slot": "QB"
    },
    {
@@ -895,7 +895,7 @@
    {
     "name": "George Kittle",
     "pid": "4217",
-    "proj": 15.19,
+    "proj": 15.25,
     "slot": "TE"
    },
    {
@@ -917,8 +917,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 109.67,
-  "current_projected": 109.67,
+  "best_projected": 109.72,
+  "current_projected": 109.72,
   "gain": 0.0,
   "problems": [],
   "source": "matchup week 9",
@@ -1013,7 +1013,7 @@
   },
   "matchup": {
    "my_proj": 109.7,
-   "opp_best_possible": 137.95,
+   "opp_best_possible": 137.94,
    "opp_proj": 124.0,
    "opponent": "Touch of the Downs",
    "opponent_record": "2-6",
@@ -1055,7 +1055,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.19,
+    "first_seed_odds": 0.191,
     "losses": 2,
     "mine": false,
     "pa": 913.82,
@@ -1081,7 +1081,7 @@
     "mine": false,
     "pa": 990.54,
     "pf": 1083.34,
-    "playoff_odds": 0.988,
+    "playoff_odds": 0.987,
     "power_rank": 1,
     "proj_avg": 134.0,
     "proj_by_week": {
@@ -1151,7 +1151,7 @@
      "10": 118.11,
      "11": 107.53,
      "12": 121.67,
-     "9": 124.86
+     "9": 124.85
     },
     "rank": 6,
     "roster_id": 1,
@@ -1165,14 +1165,14 @@
     "mine": false,
     "pa": 1009.1,
     "pf": 948.02,
-    "playoff_odds": 0.192,
+    "playoff_odds": 0.193,
     "power_rank": 9,
-    "proj_avg": 114.5,
+    "proj_avg": 114.6,
     "proj_by_week": {
      "10": 88.18,
      "11": 121.26,
      "12": 126.98,
-     "9": 121.65
+     "9": 121.83
     },
     "rank": 7,
     "roster_id": 6,
@@ -1193,7 +1193,7 @@
      "10": 112.05,
      "11": 110.22,
      "12": 132.85,
-     "9": 130.01
+     "9": 130.04
     },
     "rank": 8,
     "roster_id": 2,
@@ -1214,7 +1214,7 @@
      "10": 121.98,
      "11": 104.15,
      "12": 121.53,
-     "9": 109.67
+     "9": 109.72
     },
     "rank": 9,
     "roster_id": 7,
@@ -1228,14 +1228,14 @@
     "mine": false,
     "pa": 1017.26,
     "pf": 942.36,
-    "playoff_odds": 0.363,
+    "playoff_odds": 0.362,
     "power_rank": 5,
     "proj_avg": 128.9,
     "proj_by_week": {
      "10": 134.41,
      "11": 105.91,
      "12": 137.47,
-     "9": 137.95
+     "9": 137.94
     },
     "rank": 10,
     "roster_id": 3,
@@ -1286,7 +1286,7 @@
     "10": 18.88,
     "11": 19.18,
     "12": 20.74,
-    "9": 19.64
+    "9": 19.63
    },
    "slot": "starter",
    "status": null,
@@ -1331,7 +1331,7 @@
     "10": 16.29,
     "11": 14.37,
     "12": 14.62,
-    "9": 15.19
+    "9": 15.25
    },
    "slot": "starter",
    "status": null,
@@ -1436,7 +1436,7 @@
     "10": 10.46,
     "11": 9.84,
     "12": 10.34,
-    "9": 10.73
+    "9": 10.72
    },
    "slot": "bench",
    "status": null,
@@ -1595,8 +1595,8 @@
    "likelihood": "Likely",
    "partner": "Gibbs me Nabers 😵‍💫",
    "partner_roster_id": 4,
-   "summary": "Give George Kittle, get Malik Nabers from Gibbs me Nabers 😵‍💫: +1.4 pts/week for you, +1.5 for them.",
-   "their_gain_per_week": 1.5,
+   "summary": "Give George Kittle, get Malik Nabers from Gibbs me Nabers 😵‍💫: +1.4 pts/week for you, +1.6 for them.",
+   "their_gain_per_week": 1.6,
    "value_ratio": 1.1,
    "why_them": [
     "George Kittle would start 9 of 9 weeks for them"

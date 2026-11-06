@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-06T22:22:47Z UTC
+Week 9 · record 3-5 · updated 2026-11-06T22:27:51Z UTC
 
 ## Lineup check
 Current lineup projects **109.7**, best possible **109.7**.
@@ -42,7 +42,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 6 | 124.0 | 87% |
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 131.3 | 91% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 8 | 118.0 | 25% |
-| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 114.5 | 19% |
+| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 114.6 | 19% |
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 7 | 121.3 | 28% |
 | 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 10 | 114.3 | 17% |
 | 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 5 | 128.9 | 36% |
@@ -51,7 +51,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
 - **Likely** · Give Brenton Strange, get Stefon Diggs from Gibbs me Nabers 😵‍💫: +1.5 pts/week for you, +1.3 for them.
-- **Likely** · Give George Kittle, get Malik Nabers from Gibbs me Nabers 😵‍💫: +1.4 pts/week for you, +1.5 for them.
+- **Likely** · Give George Kittle, get Malik Nabers from Gibbs me Nabers 😵‍💫: +1.4 pts/week for you, +1.6 for them.
 - **Likely** · Give Brenton Strange, get Jonah Coleman from Glizzy Globbler : +1.0 pts/week for you, +0.8 for them.
 - **Possible** · Give Jared Goff + Malik Washington, get Brock Purdy from Never Going Go Scottsdale: +2.2 pts/week for you, -0.1 for them.
 - **Possible** · Give Omarion Hampton, get Ollie Gordon II from Bradsbaconisundercooked: +2.0 pts/week for you, -0.5 for them.
