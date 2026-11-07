@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-07T18:55:51Z UTC
+Week 9 · record 3-5 · updated 2026-11-07T19:00:56Z UTC
 
 ## Lineup check
 Current lineup projects **110.3**, best possible **113.5**.
@@ -19,7 +19,7 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | Xavier Worthy | WR | KC | Brenton Strange | +0.9 | +0.0 | 19,224 |
 | Khalil Shakir | WR | BUF | Brenton Strange | +0.8 | +0.0 | 20,097 |
 | Bryce Young | QB | CAR | Josh Downs | +0.8 | +-0.1 | 0 |
-| Juwan Johnson | TE | NO | Brenton Strange | +0.5 | +0.0 | 0 |
+| Juwan Johnson | TE | NO | Josh Downs | +0.7 | +0.2 | 0 |
 | Kimani Vidal | RB | LAC | Rico Dowdle | +0.1 | +0.0 | 0 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.3 pts this week)
@@ -34,14 +34,14 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 2 | 133.9 | 100% |
+| 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 1 | 134.3 | 100% |
 | 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 4 | 129.4 | 98% |
-| 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 1 | 134.1 | 98% |
+| 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 134.1 | 98% |
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 7 | 124.0 | 85% |
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 130.9 | 90% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 6 | 124.3 | 39% |
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 10 | 114.3 | 17% |
-| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 8 | 121.3 | 26% |
+| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 8 | 121.3 | 25% |
 | 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 9 | 115.3 | 16% |
 | 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 5 | 129.1 | 32% |
 

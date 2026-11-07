@@ -1,5 +1,5 @@
 {
- "content_hash": "66fb94a2a381c6acccfc088d33e1a5c1be36177e",
+ "content_hash": "c6d88bcb209e843d9ea1860df612778149015607",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -116,21 +116,21 @@
   },
   {
    "adds_24h": 0,
+   "name": "Juwan Johnson",
+   "pos": "TE",
+   "proj_4wk": 43.8,
+   "proj_this_week": 11.16,
+   "status": null,
+   "team": "NO"
+  },
+  {
+   "adds_24h": 0,
    "name": "Dalton Kincaid",
    "pos": "TE",
    "proj_4wk": 43.0,
    "proj_this_week": 9.48,
    "status": null,
    "team": "BUF"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Juwan Johnson",
-   "pos": "TE",
-   "proj_4wk": 42.8,
-   "proj_this_week": 10.21,
-   "status": null,
-   "team": "NO"
   },
   {
    "adds_24h": 19224,
@@ -521,21 +521,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Hunter Henry",
-   "pos": "TE",
-   "proj_4wk": 25.9,
-   "proj_this_week": 6.51,
-   "status": "Questionable",
-   "team": "NE"
-  },
-  {
-   "adds_24h": 0,
    "name": "Chris Bell",
    "pos": "WR",
    "proj_4wk": 25.9,
    "proj_this_week": 6.89,
    "status": null,
    "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Hunter Henry",
+   "pos": "TE",
+   "proj_4wk": 25.9,
+   "proj_this_week": 6.51,
+   "status": "Questionable",
+   "team": "NE"
   },
   {
    "adds_24h": 0,
@@ -592,6 +592,15 @@
    "team": "DEN"
   },
   {
+   "adds_24h": 17836,
+   "name": "Devaughn Vele",
+   "pos": "WR",
+   "proj_4wk": 25.1,
+   "proj_this_week": 9.53,
+   "status": null,
+   "team": "NO"
+  },
+  {
    "adds_24h": 0,
    "name": "Jake Moody",
    "pos": "K",
@@ -628,11 +637,11 @@
    "team": "NYG"
   },
   {
-   "adds_24h": 17836,
-   "name": "Devaughn Vele",
-   "pos": "WR",
-   "proj_4wk": 24.3,
-   "proj_this_week": 8.77,
+   "adds_24h": 0,
+   "name": "Noah Fant",
+   "pos": "TE",
+   "proj_4wk": 24.2,
+   "proj_this_week": 6.2,
    "status": null,
    "team": "NO"
   },
@@ -680,15 +689,6 @@
    "proj_this_week": 8.81,
    "status": null,
    "team": "NE"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Noah Fant",
-   "pos": "TE",
-   "proj_4wk": 23.7,
-   "proj_this_week": 5.65,
-   "status": null,
-   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -802,8 +802,8 @@
    "adds_24h": 36624,
    "name": "Alvin Kamara",
    "pos": "RB",
-   "proj_4wk": 17.4,
-   "proj_this_week": 9.27,
+   "proj_4wk": 18.4,
+   "proj_this_week": 10.32,
    "status": null,
    "team": "NO"
   },
@@ -853,7 +853,7 @@
    "team": "DEN"
   }
  ],
- "generated_at": "2026-11-07T18:55:51Z",
+ "generated_at": "2026-11-07T19:00:56Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1058,19 +1058,19 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.51,
+    "first_seed_odds": 0.517,
     "losses": 2,
     "mine": false,
     "pa": 1045.02,
     "pf": 1104.32,
     "playoff_odds": 0.998,
-    "power_rank": 2,
-    "proj_avg": 133.9,
+    "power_rank": 1,
+    "proj_avg": 134.3,
     "proj_by_week": {
      "10": 132.6,
      "11": 132.34,
      "12": 137.02,
-     "9": 133.81
+     "9": 135.21
     },
     "rank": 1,
     "roster_id": 9,
@@ -1079,7 +1079,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.205,
+    "first_seed_odds": 0.203,
     "losses": 2,
     "mine": false,
     "pa": 913.82,
@@ -1091,7 +1091,7 @@
      "10": 129.6,
      "11": 128.43,
      "12": 134.34,
-     "9": 125.09
+     "9": 125.19
     },
     "rank": 2,
     "roster_id": 8,
@@ -1100,13 +1100,13 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.208,
+    "first_seed_odds": 0.206,
     "losses": 3,
     "mine": false,
     "pa": 990.54,
     "pf": 1083.34,
     "playoff_odds": 0.985,
-    "power_rank": 1,
+    "power_rank": 2,
     "proj_avg": 134.1,
     "proj_by_week": {
      "10": 128.53,
@@ -1121,12 +1121,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.025,
+    "first_seed_odds": 0.024,
     "losses": 3,
     "mine": false,
     "pa": 849.08,
     "pf": 967.6,
-    "playoff_odds": 0.849,
+    "playoff_odds": 0.85,
     "power_rank": 7,
     "proj_avg": 124.0,
     "proj_by_week": {
@@ -1142,7 +1142,7 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.051,
+    "first_seed_odds": 0.05,
     "losses": 4,
     "mine": false,
     "pa": 1104.36,
@@ -1210,7 +1210,7 @@
     "mine": false,
     "pa": 982.9,
     "pf": 937.8,
-    "playoff_odds": 0.256,
+    "playoff_odds": 0.254,
     "power_rank": 8,
     "proj_avg": 121.3,
     "proj_by_week": {
@@ -2006,10 +2006,10 @@
    "trending_adds_24h": 0
   },
   {
-   "drop": "9480",
-   "drop_name": "Brenton Strange",
-   "gain_this_week": 0.0,
-   "gain_window": 0.46,
+   "drop": "9500",
+   "drop_name": "Josh Downs",
+   "gain_this_week": 0.21,
+   "gain_window": 0.72,
    "name": "Juwan Johnson",
    "pid": "7002",
    "pos": "TE",
@@ -2017,7 +2017,7 @@
     "10": 10.21,
     "11": 11.22,
     "12": 11.19,
-    "9": 10.21
+    "9": 11.16
    },
    "status": null,
    "stream": false,
