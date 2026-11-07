@@ -1,5 +1,5 @@
 {
- "content_hash": "da76219564a0e527961a48d7ab9dfeea05b693e3",
+ "content_hash": "2216c843522f787fd511ba21a15da157dfedd461",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -56,7 +56,7 @@
    "name": "Gardner Minshew II",
    "pos": "QB",
    "proj_4wk": 57.9,
-   "proj_this_week": 11.56,
+   "proj_this_week": 11.57,
    "status": null,
    "team": "ARI"
   },
@@ -521,21 +521,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Hunter Henry",
-   "pos": "TE",
-   "proj_4wk": 25.9,
-   "proj_this_week": 6.51,
-   "status": "Questionable",
-   "team": "NE"
-  },
-  {
-   "adds_24h": 0,
    "name": "Chris Bell",
    "pos": "WR",
    "proj_4wk": 25.9,
    "proj_this_week": 6.89,
    "status": null,
    "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Hunter Henry",
+   "pos": "TE",
+   "proj_4wk": 25.9,
+   "proj_this_week": 6.48,
+   "status": "Questionable",
+   "team": "NE"
   },
   {
    "adds_24h": 0,
@@ -569,7 +569,7 @@
    "name": "Elijah Higgins",
    "pos": "TE",
    "proj_4wk": 25.2,
-   "proj_this_week": 5.52,
+   "proj_this_week": 5.53,
    "status": null,
    "team": "ARI"
   },
@@ -677,18 +677,9 @@
    "name": "AJ Barner",
    "pos": "TE",
    "proj_4wk": 23.8,
-   "proj_this_week": 7.92,
+   "proj_this_week": 7.94,
    "status": null,
    "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
-   "name": "DeMario Douglas",
-   "pos": "WR",
-   "proj_4wk": 23.8,
-   "proj_this_week": 8.81,
-   "status": null,
-   "team": "NE"
   },
   {
    "adds_24h": 0,
@@ -698,6 +689,15 @@
    "proj_this_week": 8.06,
    "status": null,
    "team": "ATL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "DeMario Douglas",
+   "pos": "WR",
+   "proj_4wk": 23.7,
+   "proj_this_week": 8.76,
+   "status": null,
+   "team": "NE"
   },
   {
    "adds_24h": 45297,
@@ -731,7 +731,7 @@
    "name": "Corey Kiner",
    "pos": "RB",
    "proj_4wk": 16.7,
-   "proj_this_week": 6.6,
+   "proj_this_week": 6.61,
    "status": null,
    "team": "NE"
   },
@@ -862,7 +862,7 @@
    "team": "DEN"
   }
  ],
- "generated_at": "2026-11-07T20:27:16Z",
+ "generated_at": "2026-11-07T20:32:20Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -898,7 +898,7 @@
    {
     "name": "Josh Jacobs",
     "pid": "5850",
-    "proj": 13.88,
+    "proj": 13.95,
     "slot": "RB"
    },
    {
@@ -944,9 +944,9 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 115.38,
-  "current_projected": 115.38,
-  "gain": 0.0,
+  "best_projected": 115.45,
+  "current_projected": 115.45,
+  "gain": -0.0,
   "problems": [],
   "source": "matchup week 9",
   "swaps": [],
@@ -1039,12 +1039,12 @@
    "week": 8
   },
   "matchup": {
-   "my_proj": 115.4,
-   "opp_best_possible": 138.48,
-   "opp_proj": 138.5,
+   "my_proj": 115.5,
+   "opp_best_possible": 138.4,
+   "opp_proj": 138.4,
    "opponent": "Touch of the Downs",
    "opponent_record": "2-6",
-   "win_prob": 0.257
+   "win_prob": 0.259
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1087,14 +1087,14 @@
     "mine": false,
     "pa": 913.82,
     "pf": 960.38,
-    "playoff_odds": 0.981,
+    "playoff_odds": 0.98,
     "power_rank": 4,
-    "proj_avg": 129.4,
+    "proj_avg": 129.3,
     "proj_by_week": {
      "10": 129.6,
      "11": 128.43,
      "12": 134.34,
-     "9": 125.07
+     "9": 124.99
     },
     "rank": 2,
     "roster_id": 8,
@@ -1108,7 +1108,7 @@
     "mine": false,
     "pa": 990.54,
     "pf": 1083.34,
-    "playoff_odds": 0.985,
+    "playoff_odds": 0.984,
     "power_rank": 2,
     "proj_avg": 134.0,
     "proj_by_week": {
@@ -1157,7 +1157,7 @@
      "10": 130.95,
      "11": 113.1,
      "12": 137.8,
-     "9": 141.7
+     "9": 141.77
     },
     "rank": 5,
     "roster_id": 10,
@@ -1220,7 +1220,7 @@
      "10": 112.05,
      "11": 110.22,
      "12": 132.85,
-     "9": 130.25
+     "9": 130.09
     },
     "rank": 8,
     "roster_id": 2,
@@ -1234,14 +1234,14 @@
     "mine": true,
     "pa": 946.24,
     "pf": 906.7,
-    "playoff_odds": 0.167,
+    "playoff_odds": 0.168,
     "power_rank": 9,
     "proj_avg": 115.8,
     "proj_by_week": {
      "10": 121.98,
      "11": 104.15,
      "12": 121.53,
-     "9": 115.38
+     "9": 115.45
     },
     "rank": 9,
     "roster_id": 7,
@@ -1255,14 +1255,14 @@
     "mine": false,
     "pa": 1017.26,
     "pf": 942.36,
-    "playoff_odds": 0.315,
+    "playoff_odds": 0.313,
     "power_rank": 5,
-    "proj_avg": 129.1,
+    "proj_avg": 129.0,
     "proj_by_week": {
      "10": 134.41,
      "11": 105.91,
      "12": 137.47,
-     "9": 138.48
+     "9": 138.4
     },
     "rank": 10,
     "roster_id": 3,
@@ -1328,7 +1328,7 @@
     "10": 14.54,
     "11": 0.0,
     "12": 13.53,
-    "9": 13.88
+    "9": 13.95
    },
    "slot": "starter",
    "status": null,
@@ -2035,6 +2035,25 @@
    "status": null,
    "stream": false,
    "team": "NO",
+   "trending_adds_24h": 0
+  },
+  {
+   "drop": "7021",
+   "drop_name": "Rico Dowdle",
+   "gain_this_week": 0.0,
+   "gain_window": 0.05,
+   "name": "Kimani Vidal",
+   "pid": "11647",
+   "pos": "RB",
+   "proj_by_week": {
+    "10": 7.61,
+    "11": 7.77,
+    "12": 8.0,
+    "9": 7.46
+   },
+   "status": null,
+   "stream": false,
+   "team": "LAC",
    "trending_adds_24h": 0
   }
  ],
