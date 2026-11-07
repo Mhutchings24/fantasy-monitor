@@ -1,5 +1,5 @@
 {
- "content_hash": "2361788b82c24bbafb56eed2fcc2e399c32564bd",
+ "content_hash": "cd4649368e22a56c88ed3b8fcdcba60c81a3f81d",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -862,7 +862,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-07T22:03:54Z",
+ "generated_at": "2026-11-07T22:14:13Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1061,12 +1061,12 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.511,
+    "first_seed_odds": 0.518,
     "losses": 2,
     "mine": false,
     "pa": 1045.02,
     "pf": 1104.32,
-    "playoff_odds": 0.998,
+    "playoff_odds": 0.999,
     "power_rank": 2,
     "proj_avg": 133.9,
     "proj_by_week": {
@@ -1082,7 +1082,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.205,
+    "first_seed_odds": 0.198,
     "losses": 2,
     "mine": false,
     "pa": 913.82,
@@ -1103,12 +1103,12 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.207,
+    "first_seed_odds": 0.211,
     "losses": 3,
     "mine": false,
     "pa": 990.54,
     "pf": 1083.34,
-    "playoff_odds": 0.985,
+    "playoff_odds": 0.987,
     "power_rank": 1,
     "proj_avg": 134.0,
     "proj_by_week": {
@@ -1124,12 +1124,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.025,
+    "first_seed_odds": 0.023,
     "losses": 3,
     "mine": false,
     "pa": 849.08,
     "pf": 967.6,
-    "playoff_odds": 0.85,
+    "playoff_odds": 0.851,
     "power_rank": 7,
     "proj_avg": 123.9,
     "proj_by_week": {
@@ -1145,7 +1145,7 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.051,
+    "first_seed_odds": 0.049,
     "losses": 4,
     "mine": false,
     "pa": 1104.36,
@@ -1171,7 +1171,7 @@
     "mine": false,
     "pa": 1070.2,
     "pf": 967.14,
-    "playoff_odds": 0.386,
+    "playoff_odds": 0.402,
     "power_rank": 6,
     "proj_avg": 124.3,
     "proj_by_week": {
@@ -1192,8 +1192,8 @@
     "mine": false,
     "pa": 1009.1,
     "pf": 948.02,
-    "playoff_odds": 0.168,
-    "power_rank": 10,
+    "playoff_odds": 0.19,
+    "power_rank": 9,
     "proj_avg": 114.3,
     "proj_by_week": {
      "10": 88.18,
@@ -1213,7 +1213,7 @@
     "mine": false,
     "pa": 982.9,
     "pf": 937.8,
-    "playoff_odds": 0.255,
+    "playoff_odds": 0.269,
     "power_rank": 8,
     "proj_avg": 121.3,
     "proj_by_week": {
@@ -1229,18 +1229,18 @@
     "wins": 3
    },
    {
-    "first_seed_odds": 0.001,
+    "first_seed_odds": 0.0,
     "losses": 5,
     "mine": true,
     "pa": 946.24,
     "pf": 906.7,
-    "playoff_odds": 0.163,
-    "power_rank": 9,
-    "proj_avg": 115.6,
+    "playoff_odds": 0.103,
+    "power_rank": 10,
+    "proj_avg": 110.1,
     "proj_by_week": {
-     "10": 121.98,
-     "11": 104.15,
-     "12": 121.53,
+     "10": 112.95,
+     "11": 97.78,
+     "12": 114.96,
      "9": 114.74
     },
     "rank": 9,
@@ -1255,7 +1255,7 @@
     "mine": false,
     "pa": 1017.26,
     "pf": 942.36,
-    "playoff_odds": 0.314,
+    "playoff_odds": 0.316,
     "power_rank": 5,
     "proj_avg": 129.0,
     "proj_by_week": {
@@ -1480,7 +1480,7 @@
     "12": 10.96,
     "9": 0.0
    },
-   "slot": "reserve",
+   "slot": "bench",
    "status": "Questionable",
    "team": "NO"
   },
@@ -1510,7 +1510,7 @@
     "12": 17.75,
     "9": 0.0
    },
-   "slot": "bench",
+   "slot": "reserve",
    "status": "Out",
    "team": "SF"
   }
@@ -1585,7 +1585,7 @@
    "likelihood": "Likely",
    "partner": "Gibbs me Nabers 😵‍💫",
    "partner_roster_id": 4,
-   "summary": "Give Brenton Strange, get Stefon Diggs from Gibbs me Nabers 😵‍💫: +1.4 pts/week for you, +1.3 for them.",
+   "summary": "Give Brenton Strange, get Stefon Diggs from Gibbs me Nabers 😵‍💫: +1.5 pts/week for you, +1.3 for them.",
    "their_gain_per_week": 1.3,
    "value_ratio": 1.16,
    "why_them": [
@@ -1594,9 +1594,9 @@
    ],
    "why_you": [
     "Stefon Diggs would start 9 of 9 weeks for you",
-    "Brenton Strange starts 6 of 9 weeks for you"
+    "Brenton Strange starts 8 of 9 weeks for you"
    ],
-   "your_gain_per_week": 1.4
+   "your_gain_per_week": 1.5
   },
   {
    "get": [
@@ -1622,7 +1622,7 @@
    "likelihood": "Likely",
    "partner": "Gibbs me Nabers 😵‍💫",
    "partner_roster_id": 4,
-   "summary": "Give George Kittle, get Malik Nabers from Gibbs me Nabers 😵‍💫: +1.3 pts/week for you, +1.6 for them.",
+   "summary": "Give George Kittle, get Malik Nabers from Gibbs me Nabers 😵‍💫: +1.4 pts/week for you, +1.6 for them.",
    "their_gain_per_week": 1.6,
    "value_ratio": 1.09,
    "why_them": [
@@ -1632,7 +1632,7 @@
     "Malik Nabers would start 9 of 9 weeks for you",
     "George Kittle starts 9 of 9 weeks for you"
    ],
-   "your_gain_per_week": 1.3
+   "your_gain_per_week": 1.4
   },
   {
    "get": [
@@ -1647,29 +1647,86 @@
    ],
    "give": [
     {
-     "name": "Brenton Strange",
-     "pid": "9480",
-     "pos": "TE",
-     "ros_per_week": 10.9,
+     "name": "Omarion Hampton",
+     "pid": "12507",
+     "pos": "RB",
+     "ros_per_week": 9.8,
      "status": null,
-     "team": "JAX"
+     "team": "LAC"
+    },
+    {
+     "name": "Jordyn Tyson",
+     "pid": "13281",
+     "pos": "WR",
+     "ros_per_week": 9.4,
+     "status": "Questionable",
+     "team": "NO"
+    }
+   ],
+   "likelihood": "Likely",
+   "partner": "Touch of the Downs",
+   "partner_roster_id": 3,
+   "summary": "Give Omarion Hampton + Jordyn Tyson, get Ladd McConkey from Touch of the Downs: +1.1 pts/week for you, +0.4 for them.",
+   "their_gain_per_week": 0.4,
+   "value_ratio": 0.68,
+   "why_them": [
+    "Omarion Hampton would start 5 of 9 weeks for them",
+    "Jordyn Tyson would start 1 of 9 weeks for them",
+    "Ladd McConkey only starts 1 of 9 weeks on their roster"
+   ],
+   "why_you": [
+    "Ladd McConkey would start 9 of 9 weeks for you",
+    "Omarion Hampton starts only 3 of 9 weeks for you",
+    "Jordyn Tyson starts 5 of 9 weeks for you"
+   ],
+   "your_gain_per_week": 1.1
+  },
+  {
+   "get": [
+    {
+     "name": "Ladd McConkey",
+     "pid": "11635",
+     "pos": "WR",
+     "ros_per_week": 13.0,
+     "status": null,
+     "team": "LAC"
+    }
+   ],
+   "give": [
+    {
+     "name": "Omar Cooper Jr.",
+     "pid": "13276",
+     "pos": "WR",
+     "ros_per_week": 9.4,
+     "status": null,
+     "team": "NYJ"
+    },
+    {
+     "name": "Jordyn Tyson",
+     "pid": "13281",
+     "pos": "WR",
+     "ros_per_week": 9.4,
+     "status": "Questionable",
+     "team": "NO"
     }
    ],
    "likelihood": "Possible",
    "partner": "Touch of the Downs",
    "partner_roster_id": 3,
-   "summary": "Give Brenton Strange, get Ladd McConkey from Touch of the Downs: +1.9 pts/week for you, -0.2 for them.",
+   "summary": "Give Omar Cooper Jr. + Jordyn Tyson, get Ladd McConkey from Touch of the Downs: +2.0 pts/week for you, -0.2 for them.",
    "their_gain_per_week": -0.2,
-   "value_ratio": 1.19,
+   "value_ratio": 0.69,
    "why_them": [
-    "Brenton Strange would start 1 of 9 weeks for them",
+    "Omar Cooper Jr. would start 0 of 9 weeks for them",
+    "Jordyn Tyson would start 1 of 9 weeks for them",
     "Ladd McConkey only starts 1 of 9 weeks on their roster"
    ],
    "why_you": [
     "Ladd McConkey would start 9 of 9 weeks for you",
-    "Brenton Strange starts 6 of 9 weeks for you"
+    "Omar Cooper Jr. starts only 3 of 9 weeks for you",
+    "Jordyn Tyson starts 5 of 9 weeks for you"
    ],
-   "your_gain_per_week": 1.9
+   "your_gain_per_week": 2.0
   },
   {
    "get": [
@@ -1713,7 +1770,7 @@
    "why_you": [
     "Brock Purdy would start 9 of 9 weeks for you",
     "Jared Goff starts 9 of 9 weeks for you",
-    "Omar Cooper Jr. starts only 2 of 9 weeks for you"
+    "Omar Cooper Jr. starts only 3 of 9 weeks for you"
    ],
    "your_gain_per_week": 1.8
   },
@@ -1749,7 +1806,7 @@
    "likelihood": "Possible",
    "partner": "Bradsbaconisundercooked",
    "partner_roster_id": 1,
-   "summary": "Give Omarion Hampton + Omar Cooper Jr., get Ollie Gordon II from Bradsbaconisundercooked: +1.8 pts/week for you, -0.5 for them.",
+   "summary": "Give Omarion Hampton + Omar Cooper Jr., get Ollie Gordon II from Bradsbaconisundercooked: +1.7 pts/week for you, -0.5 for them.",
    "their_gain_per_week": -0.5,
    "value_ratio": 0.67,
    "why_them": [
@@ -1760,9 +1817,46 @@
    "why_you": [
     "Ollie Gordon II would start 9 of 9 weeks for you",
     "Omarion Hampton starts only 3 of 9 weeks for you",
-    "Omar Cooper Jr. starts only 2 of 9 weeks for you"
+    "Omar Cooper Jr. starts only 3 of 9 weeks for you"
    ],
-   "your_gain_per_week": 1.8
+   "your_gain_per_week": 1.7
+  },
+  {
+   "get": [
+    {
+     "name": "Jaylen Waddle",
+     "pid": "7526",
+     "pos": "WR",
+     "ros_per_week": 11.2,
+     "status": null,
+     "team": "DEN"
+    }
+   ],
+   "give": [
+    {
+     "name": "Josh Downs",
+     "pid": "9500",
+     "pos": "WR",
+     "ros_per_week": 8.8,
+     "status": null,
+     "team": "IND"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "Bradsbaconisundercooked",
+   "partner_roster_id": 1,
+   "summary": "Give Josh Downs, get Jaylen Waddle from Bradsbaconisundercooked: +1.7 pts/week for you, -0.4 for them.",
+   "their_gain_per_week": -0.4,
+   "value_ratio": 1.27,
+   "why_them": [
+    "Josh Downs would start 1 of 9 weeks for them",
+    "Jaylen Waddle only starts 2 of 9 weeks on their roster"
+   ],
+   "why_you": [
+    "Jaylen Waddle would start 7 of 9 weeks for you",
+    "Josh Downs starts only 1 of 9 weeks for you"
+   ],
+   "your_gain_per_week": 1.7
   },
   {
    "get": [
@@ -1806,99 +1900,7 @@
    "why_you": [
     "Chuba Hubbard would start 9 of 9 weeks for you",
     "George Kittle starts 9 of 9 weeks for you",
-    "Omar Cooper Jr. starts only 2 of 9 weeks for you"
-   ],
-   "your_gain_per_week": 1.4
-  },
-  {
-   "get": [
-    {
-     "name": "Brock Purdy",
-     "pid": "8183",
-     "pos": "QB",
-     "ros_per_week": 21.5,
-     "status": null,
-     "team": "SF"
-    }
-   ],
-   "give": [
-    {
-     "name": "Jared Goff",
-     "pid": "3163",
-     "pos": "QB",
-     "ros_per_week": 19.4,
-     "status": null,
-     "team": "DET"
-    },
-    {
-     "name": "Brenton Strange",
-     "pid": "9480",
-     "pos": "TE",
-     "ros_per_week": 10.9,
-     "status": null,
-     "team": "JAX"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "Never Going Go Scottsdale",
-   "partner_roster_id": 6,
-   "summary": "Give Jared Goff + Brenton Strange, get Brock Purdy from Never Going Go Scottsdale: +1.4 pts/week for you, +0.1 for them.",
-   "their_gain_per_week": 0.1,
-   "value_ratio": 0.71,
-   "why_them": [
-    "Jared Goff would start 4 of 9 weeks for them",
-    "Brenton Strange would start 5 of 9 weeks for them"
-   ],
-   "why_you": [
-    "Brock Purdy would start 9 of 9 weeks for you",
-    "Jared Goff starts 9 of 9 weeks for you",
-    "Brenton Strange starts 6 of 9 weeks for you"
-   ],
-   "your_gain_per_week": 1.4
-  },
-  {
-   "get": [
-    {
-     "name": "Chuba Hubbard",
-     "pid": "7594",
-     "pos": "RB",
-     "ros_per_week": 16.8,
-     "status": null,
-     "team": "CAR"
-    }
-   ],
-   "give": [
-    {
-     "name": "George Kittle",
-     "pid": "4217",
-     "pos": "TE",
-     "ros_per_week": 15.2,
-     "status": null,
-     "team": "SF"
-    },
-    {
-     "name": "Omarion Hampton",
-     "pid": "12507",
-     "pos": "RB",
-     "ros_per_week": 9.8,
-     "status": null,
-     "team": "LAC"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "Glizzy Globbler ",
-   "partner_roster_id": 2,
-   "summary": "Give George Kittle + Omarion Hampton, get Chuba Hubbard from Glizzy Globbler : +1.4 pts/week for you, -0.4 for them.",
-   "their_gain_per_week": -0.4,
-   "value_ratio": 0.67,
-   "why_them": [
-    "George Kittle would start 9 of 9 weeks for them",
-    "Omarion Hampton would start 2 of 9 weeks for them"
-   ],
-   "why_you": [
-    "Chuba Hubbard would start 9 of 9 weeks for you",
-    "George Kittle starts 9 of 9 weeks for you",
-    "Omarion Hampton starts only 3 of 9 weeks for you"
+    "Omar Cooper Jr. starts only 3 of 9 weeks for you"
    ],
    "your_gain_per_week": 1.4
   }
@@ -1927,7 +1929,7 @@
    "drop": "9500",
    "drop_name": "Josh Downs",
    "gain_this_week": 0.0,
-   "gain_window": 1.62,
+   "gain_window": 1.49,
    "name": "Dalton Kincaid",
    "pid": "10236",
    "pos": "TE",
@@ -1965,7 +1967,7 @@
    "drop": "9480",
    "drop_name": "Brenton Strange",
    "gain_this_week": 0.0,
-   "gain_window": 1.09,
+   "gain_window": 0.96,
    "name": "Dallas Goedert",
    "pid": "5022",
    "pos": "TE",
@@ -1984,7 +1986,7 @@
    "drop": "9500",
    "drop_name": "Josh Downs",
    "gain_this_week": 0.0,
-   "gain_window": 0.98,
+   "gain_window": 0.85,
    "name": "Xavier Worthy",
    "pid": "11624",
    "pos": "WR",
@@ -2003,7 +2005,7 @@
    "drop": "9500",
    "drop_name": "Josh Downs",
    "gain_this_week": 0.0,
-   "gain_window": 0.91,
+   "gain_window": 0.78,
    "name": "Bryce Young",
    "pid": "9228",
    "pos": "QB",
@@ -2022,7 +2024,7 @@
    "drop": "9500",
    "drop_name": "Josh Downs",
    "gain_this_week": 0.0,
-   "gain_window": 0.88,
+   "gain_window": 0.75,
    "name": "Khalil Shakir",
    "pid": "8134",
    "pos": "WR",
@@ -2041,7 +2043,7 @@
    "drop": "9500",
    "drop_name": "Josh Downs",
    "gain_this_week": 0.0,
-   "gain_window": 0.51,
+   "gain_window": 0.38,
    "name": "Juwan Johnson",
    "pid": "7002",
    "pos": "TE",
