@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-07T10:08:26Z UTC
+Week 9 · record 3-5 · updated 2026-11-07T10:13:31Z UTC
 
 ## Lineup check
 Current lineup projects **110.5**, best possible **110.5**.
@@ -13,11 +13,11 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Omar Cooper Jr. | WR | NYJ | Malik Washington | +3.3 | +3.3 | 176,296 |
+| Omar Cooper Jr. | WR | NYJ | Malik Washington | +3.3 | +3.3 | 176,496 |
 | J.K. Dobbins | RB | DEN | Malik Washington | +2.0 | +0.0 | 0 |
 | Dalton Kincaid | TE | BUF | Malik Washington | +1.6 | +0.0 | 0 |
 | Dallas Goedert | TE | PHI | Malik Washington | +1.1 | +0.0 | 0 |
-| Xavier Worthy | WR | KC | Malik Washington | +1.0 | +0.0 | 23,274 |
+| Xavier Worthy | WR | KC | Malik Washington | +1.0 | +0.0 | 23,310 |
 | Bryce Young | QB | CAR | Malik Washington | +0.9 | +0.0 | 0 |
 | Khalil Shakir | WR | BUF | Malik Washington | +0.9 | +0.0 | 26,883 |
 | Juwan Johnson | TE | NO | Malik Washington | +0.5 | +0.0 | 0 |
