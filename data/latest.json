@@ -1,5 +1,5 @@
 {
- "content_hash": "db57860383e804de81201748fd31efd49615dea0",
+ "content_hash": "a09b243f2d2d23640fe495950ef3d86eeb8ed55c",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -106,15 +106,6 @@
    "team": "PIT"
   },
   {
-   "adds_24h": 186720,
-   "name": "Omar Cooper Jr.",
-   "pos": "WR",
-   "proj_4wk": 45.7,
-   "proj_this_week": 14.1,
-   "status": null,
-   "team": "NYJ"
-  },
-  {
    "adds_24h": 0,
    "name": "Michael Penix Jr.",
    "pos": "QB",
@@ -158,6 +149,15 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "TEN"
+  },
+  {
+   "adds_24h": 63136,
+   "name": "Malik Washington",
+   "pos": "WR",
+   "proj_4wk": 41.4,
+   "proj_this_week": 10.74,
+   "status": null,
+   "team": "MIA"
   },
   {
    "adds_24h": 24840,
@@ -853,7 +853,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-07T15:42:16Z",
+ "generated_at": "2026-11-07T15:47:21Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -899,15 +899,15 @@
     "slot": "RB"
    },
    {
-    "name": "Keenan Allen",
-    "pid": "1479",
-    "proj": 11.42,
+    "name": "Omar Cooper Jr.",
+    "pid": "13276",
+    "proj": 14.1,
     "slot": "WR"
    },
    {
-    "name": "Josh Downs",
-    "pid": "9500",
-    "proj": 10.95,
+    "name": "Keenan Allen",
+    "pid": "1479",
+    "proj": 11.42,
     "slot": "WR"
    },
    {
@@ -917,9 +917,9 @@
     "slot": "TE"
    },
    {
-    "name": "DJ Moore",
-    "pid": "4983",
-    "proj": 10.86,
+    "name": "Josh Downs",
+    "pid": "9500",
+    "proj": 10.95,
     "slot": "FLEX"
    },
    {
@@ -935,12 +935,18 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 110.3,
+  "best_projected": 113.54,
   "current_projected": 110.3,
-  "gain": -0.0,
+  "gain": 3.24,
   "problems": [],
   "source": "matchup week 9",
-  "swaps": [],
+  "swaps": [
+   {
+    "bench": "4983",
+    "start": "13276",
+    "text": "Start Omar Cooper Jr. (WR, NYJ) (14.1) over DJ Moore (WR, BUF) (10.9)"
+   }
+  ],
   "week": 9
  },
  "overview": {
@@ -1120,7 +1126,7 @@
     "mine": false,
     "pa": 849.08,
     "pf": 967.6,
-    "playoff_odds": 0.85,
+    "playoff_odds": 0.849,
     "power_rank": 7,
     "proj_avg": 124.0,
     "proj_by_week": {
@@ -1162,7 +1168,7 @@
     "mine": false,
     "pa": 1070.2,
     "pf": 967.14,
-    "playoff_odds": 0.389,
+    "playoff_odds": 0.387,
     "power_rank": 6,
     "proj_avg": 124.3,
     "proj_by_week": {
@@ -1183,7 +1189,7 @@
     "mine": false,
     "pa": 1009.1,
     "pf": 948.02,
-    "playoff_odds": 0.169,
+    "playoff_odds": 0.168,
     "power_rank": 10,
     "proj_avg": 114.3,
     "proj_by_week": {
@@ -1204,7 +1210,7 @@
     "mine": false,
     "pa": 982.9,
     "pf": 937.8,
-    "playoff_odds": 0.258,
+    "playoff_odds": 0.256,
     "power_rank": 8,
     "proj_avg": 121.3,
     "proj_by_week": {
@@ -1225,14 +1231,14 @@
     "mine": true,
     "pa": 946.24,
     "pf": 906.7,
-    "playoff_odds": 0.148,
+    "playoff_odds": 0.158,
     "power_rank": 9,
-    "proj_avg": 114.5,
+    "proj_avg": 115.3,
     "proj_by_week": {
      "10": 121.98,
      "11": 104.15,
      "12": 121.53,
-     "9": 110.3
+     "9": 113.54
     },
     "rank": 9,
     "roster_id": 7,
@@ -1246,7 +1252,7 @@
     "mine": false,
     "pa": 1017.26,
     "pf": 942.36,
-    "playoff_odds": 0.322,
+    "playoff_odds": 0.317,
     "power_rank": 5,
     "proj_avg": 129.1,
     "proj_by_week": {
@@ -1447,18 +1453,18 @@
   },
   {
    "bye_this_week": false,
-   "name": "Malik Washington",
-   "pid": "11610",
+   "name": "Omar Cooper Jr.",
+   "pid": "13276",
    "pos": "WR",
    "proj_by_week": {
-    "10": 10.46,
-    "11": 9.84,
-    "12": 10.34,
-    "9": 10.74
+    "10": 10.12,
+    "11": 10.29,
+    "12": 11.18,
+    "9": 14.1
    },
    "slot": "bench",
    "status": null,
-   "team": "MIA"
+   "team": "NYJ"
   },
   {
    "bye_this_week": false,
@@ -1656,56 +1662,10 @@
     "Brenton Strange would start 6 of 9 weeks for them"
    ],
    "why_you": [
-    "Jonah Coleman would start 7 of 9 weeks for you",
+    "Jonah Coleman would start 6 of 9 weeks for you",
     "Brenton Strange starts 6 of 9 weeks for you"
    ],
    "your_gain_per_week": 1.0
-  },
-  {
-   "get": [
-    {
-     "name": "Brock Purdy",
-     "pid": "8183",
-     "pos": "QB",
-     "ros_per_week": 21.5,
-     "status": null,
-     "team": "SF"
-    }
-   ],
-   "give": [
-    {
-     "name": "Jared Goff",
-     "pid": "3163",
-     "pos": "QB",
-     "ros_per_week": 19.4,
-     "status": null,
-     "team": "DET"
-    },
-    {
-     "name": "Malik Washington",
-     "pid": "11610",
-     "pos": "WR",
-     "ros_per_week": 10.3,
-     "status": null,
-     "team": "MIA"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "Never Going Go Scottsdale",
-   "partner_roster_id": 6,
-   "summary": "Give Jared Goff + Malik Washington, get Brock Purdy from Never Going Go Scottsdale: +2.1 pts/week for you, -0.1 for them.",
-   "their_gain_per_week": -0.1,
-   "value_ratio": 0.72,
-   "why_them": [
-    "Jared Goff would start 4 of 9 weeks for them",
-    "Malik Washington would start 2 of 9 weeks for them"
-   ],
-   "why_you": [
-    "Brock Purdy would start 9 of 9 weeks for you",
-    "Jared Goff starts 9 of 9 weeks for you",
-    "Malik Washington starts only 1 of 9 weeks for you"
-   ],
-   "your_gain_per_week": 2.1
   },
   {
    "get": [
@@ -1747,39 +1707,95 @@
   {
    "get": [
     {
-     "name": "Ladd McConkey",
-     "pid": "11635",
-     "pos": "WR",
-     "ros_per_week": 13.0,
+     "name": "Brock Purdy",
+     "pid": "8183",
+     "pos": "QB",
+     "ros_per_week": 21.5,
      "status": null,
-     "team": "LAC"
+     "team": "SF"
     }
    ],
    "give": [
     {
-     "name": "Malik Washington",
-     "pid": "11610",
+     "name": "Jared Goff",
+     "pid": "3163",
+     "pos": "QB",
+     "ros_per_week": 19.4,
+     "status": null,
+     "team": "DET"
+    },
+    {
+     "name": "Omar Cooper Jr.",
+     "pid": "13276",
      "pos": "WR",
-     "ros_per_week": 10.3,
+     "ros_per_week": 9.5,
+     "status": null,
+     "team": "NYJ"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "Never Going Go Scottsdale",
+   "partner_roster_id": 6,
+   "summary": "Give Jared Goff + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +1.8 pts/week for you, +0.0 for them.",
+   "their_gain_per_week": 0.0,
+   "value_ratio": 0.74,
+   "why_them": [
+    "Jared Goff would start 4 of 9 weeks for them",
+    "Omar Cooper Jr. would start 3 of 9 weeks for them"
+   ],
+   "why_you": [
+    "Brock Purdy would start 9 of 9 weeks for you",
+    "Jared Goff starts 9 of 9 weeks for you",
+    "Omar Cooper Jr. starts only 2 of 9 weeks for you"
+   ],
+   "your_gain_per_week": 1.8
+  },
+  {
+   "get": [
+    {
+     "name": "Ollie Gordon II",
+     "pid": "12495",
+     "pos": "RB",
+     "ros_per_week": 12.9,
      "status": null,
      "team": "MIA"
     }
    ],
+   "give": [
+    {
+     "name": "Omarion Hampton",
+     "pid": "12507",
+     "pos": "RB",
+     "ros_per_week": 9.8,
+     "status": null,
+     "team": "LAC"
+    },
+    {
+     "name": "Omar Cooper Jr.",
+     "pid": "13276",
+     "pos": "WR",
+     "ros_per_week": 9.5,
+     "status": null,
+     "team": "NYJ"
+    }
+   ],
    "likelihood": "Possible",
-   "partner": "Touch of the Downs",
-   "partner_roster_id": 3,
-   "summary": "Give Malik Washington, get Ladd McConkey from Touch of the Downs: +1.9 pts/week for you, -0.3 for them.",
-   "their_gain_per_week": -0.3,
-   "value_ratio": 1.27,
+   "partner": "Bradsbaconisundercooked",
+   "partner_roster_id": 1,
+   "summary": "Give Omarion Hampton + Omar Cooper Jr., get Ollie Gordon II from Bradsbaconisundercooked: +1.7 pts/week for you, -0.4 for them.",
+   "their_gain_per_week": -0.4,
+   "value_ratio": 0.67,
    "why_them": [
-    "Malik Washington would start 1 of 9 weeks for them",
-    "Ladd McConkey only starts 1 of 9 weeks on their roster"
+    "Omarion Hampton would start 1 of 9 weeks for them",
+    "Omar Cooper Jr. would start 1 of 9 weeks for them",
+    "Ollie Gordon II only starts 3 of 9 weeks on their roster"
    ],
    "why_you": [
-    "Ladd McConkey would start 9 of 9 weeks for you",
-    "Malik Washington starts only 1 of 9 weeks for you"
+    "Ollie Gordon II would start 9 of 9 weeks for you",
+    "Omarion Hampton starts only 3 of 9 weeks for you",
+    "Omar Cooper Jr. starts only 2 of 9 weeks for you"
    ],
-   "your_gain_per_week": 1.9
+   "your_gain_per_week": 1.7
   },
   {
    "get": [
@@ -1802,30 +1818,30 @@
      "team": "SF"
     },
     {
-     "name": "Malik Washington",
-     "pid": "11610",
-     "pos": "WR",
-     "ros_per_week": 10.3,
+     "name": "Omarion Hampton",
+     "pid": "12507",
+     "pos": "RB",
+     "ros_per_week": 9.8,
      "status": null,
-     "team": "MIA"
+     "team": "LAC"
     }
    ],
    "likelihood": "Possible",
    "partner": "Glizzy Globbler ",
    "partner_roster_id": 2,
-   "summary": "Give George Kittle + Malik Washington, get Chuba Hubbard from Glizzy Globbler : +1.7 pts/week for you, -0.2 for them.",
-   "their_gain_per_week": -0.2,
-   "value_ratio": 0.66,
+   "summary": "Give George Kittle + Omarion Hampton, get Chuba Hubbard from Glizzy Globbler : +1.4 pts/week for you, -0.4 for them.",
+   "their_gain_per_week": -0.4,
+   "value_ratio": 0.67,
    "why_them": [
     "George Kittle would start 9 of 9 weeks for them",
-    "Malik Washington would start 2 of 9 weeks for them"
+    "Omarion Hampton would start 2 of 9 weeks for them"
    ],
    "why_you": [
     "Chuba Hubbard would start 9 of 9 weeks for you",
     "George Kittle starts 9 of 9 weeks for you",
-    "Malik Washington starts only 1 of 9 weeks for you"
+    "Omarion Hampton starts only 3 of 9 weeks for you"
    ],
-   "your_gain_per_week": 1.7
+   "your_gain_per_week": 1.4
   },
   {
    "get": [
@@ -1876,27 +1892,8 @@
  ],
  "waivers": [
   {
-   "drop": "11610",
-   "drop_name": "Malik Washington",
-   "gain_this_week": 3.24,
-   "gain_window": 3.24,
-   "name": "Omar Cooper Jr.",
-   "pid": "13276",
-   "pos": "WR",
-   "proj_by_week": {
-    "10": 10.12,
-    "11": 10.29,
-    "12": 11.18,
-    "9": 14.1
-   },
-   "status": null,
-   "stream": false,
-   "team": "NYJ",
-   "trending_adds_24h": 186720
-  },
-  {
-   "drop": "11610",
-   "drop_name": "Malik Washington",
+   "drop": "7021",
+   "drop_name": "Rico Dowdle",
    "gain_this_week": 0.0,
    "gain_window": 2.03,
    "name": "J.K. Dobbins",
@@ -1914,10 +1911,10 @@
    "trending_adds_24h": 0
   },
   {
-   "drop": "11610",
-   "drop_name": "Malik Washington",
+   "drop": "9480",
+   "drop_name": "Brenton Strange",
    "gain_this_week": 0.0,
-   "gain_window": 1.62,
+   "gain_window": 1.54,
    "name": "Dalton Kincaid",
    "pid": "10236",
    "pos": "TE",
@@ -1933,8 +1930,8 @@
    "trending_adds_24h": 0
   },
   {
-   "drop": "11610",
-   "drop_name": "Malik Washington",
+   "drop": "9480",
+   "drop_name": "Brenton Strange",
    "gain_this_week": 0.0,
    "gain_window": 1.09,
    "name": "Dallas Goedert",
@@ -1952,10 +1949,10 @@
    "trending_adds_24h": 0
   },
   {
-   "drop": "11610",
-   "drop_name": "Malik Washington",
+   "drop": "9480",
+   "drop_name": "Brenton Strange",
    "gain_this_week": 0.0,
-   "gain_window": 1.0,
+   "gain_window": 0.92,
    "name": "Xavier Worthy",
    "pid": "11624",
    "pos": "WR",
@@ -1971,29 +1968,10 @@
    "trending_adds_24h": 22788
   },
   {
-   "drop": "11610",
-   "drop_name": "Malik Washington",
+   "drop": "9480",
+   "drop_name": "Brenton Strange",
    "gain_this_week": 0.0,
-   "gain_window": 0.93,
-   "name": "Bryce Young",
-   "pid": "9228",
-   "pos": "QB",
-   "proj_by_week": {
-    "10": 19.52,
-    "11": 19.47,
-    "12": 19.19,
-    "9": 17.05
-   },
-   "status": null,
-   "stream": false,
-   "team": "CAR",
-   "trending_adds_24h": 0
-  },
-  {
-   "drop": "11610",
-   "drop_name": "Malik Washington",
-   "gain_this_week": 0.0,
-   "gain_window": 0.9,
+   "gain_window": 0.82,
    "name": "Khalil Shakir",
    "pid": "8134",
    "pos": "WR",
@@ -2009,10 +1987,29 @@
    "trending_adds_24h": 24840
   },
   {
-   "drop": "11610",
-   "drop_name": "Malik Washington",
+   "drop": "9500",
+   "drop_name": "Josh Downs",
+   "gain_this_week": -0.09,
+   "gain_window": 0.82,
+   "name": "Bryce Young",
+   "pid": "9228",
+   "pos": "QB",
+   "proj_by_week": {
+    "10": 19.52,
+    "11": 19.47,
+    "12": 19.19,
+    "9": 17.05
+   },
+   "status": null,
+   "stream": false,
+   "team": "CAR",
+   "trending_adds_24h": 0
+  },
+  {
+   "drop": "9480",
+   "drop_name": "Brenton Strange",
    "gain_this_week": 0.0,
-   "gain_window": 0.53,
+   "gain_window": 0.46,
    "name": "Juwan Johnson",
    "pid": "7002",
    "pos": "TE",
@@ -2028,27 +2025,8 @@
    "trending_adds_24h": 0
   },
   {
-   "drop": "11610",
-   "drop_name": "Malik Washington",
-   "gain_this_week": 0.0,
-   "gain_window": 0.05,
-   "name": "J.J. McCarthy",
-   "pid": "11565",
-   "pos": "QB",
-   "proj_by_week": {
-    "10": 18.93,
-    "11": 14.06,
-    "12": 16.31,
-    "9": 15.87
-   },
-   "status": null,
-   "stream": false,
-   "team": "NYG",
-   "trending_adds_24h": 0
-  },
-  {
-   "drop": "11610",
-   "drop_name": "Malik Washington",
+   "drop": "7021",
+   "drop_name": "Rico Dowdle",
    "gain_this_week": 0.0,
    "gain_window": 0.05,
    "name": "Kimani Vidal",
