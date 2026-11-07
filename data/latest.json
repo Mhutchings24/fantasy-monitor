@@ -1,5 +1,5 @@
 {
- "content_hash": "ead13b512796a06d4dc87e56e3d592d5759b8573",
+ "content_hash": "b9c47d54a36ff8ecdf51320deaf7532ed9d7e450",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -20,7 +20,7 @@
    "name": "Malik Willis",
    "pos": "QB",
    "proj_4wk": 67.6,
-   "proj_this_week": 17.61,
+   "proj_this_week": 17.57,
    "status": null,
    "team": "MIA"
   },
@@ -56,7 +56,7 @@
    "name": "Gardner Minshew II",
    "pos": "QB",
    "proj_4wk": 57.9,
-   "proj_this_week": 11.57,
+   "proj_this_week": 11.56,
    "status": null,
    "team": "ARI"
   },
@@ -155,7 +155,7 @@
    "name": "Malik Washington",
    "pos": "WR",
    "proj_4wk": 41.4,
-   "proj_this_week": 10.74,
+   "proj_this_week": 10.73,
    "status": null,
    "team": "MIA"
   },
@@ -569,7 +569,7 @@
    "name": "Elijah Higgins",
    "pos": "TE",
    "proj_4wk": 25.2,
-   "proj_this_week": 5.53,
+   "proj_this_week": 5.52,
    "status": null,
    "team": "ARI"
   },
@@ -677,7 +677,7 @@
    "name": "AJ Barner",
    "pos": "TE",
    "proj_4wk": 23.8,
-   "proj_this_week": 7.94,
+   "proj_this_week": 7.92,
    "status": null,
    "team": "SEA"
   },
@@ -766,8 +766,8 @@
    "adds_24h": 69752,
    "name": "Alvin Kamara",
    "pos": "RB",
-   "proj_4wk": 20.8,
-   "proj_this_week": 12.64,
+   "proj_4wk": 20.4,
+   "proj_this_week": 12.32,
    "status": null,
    "team": "NO"
   },
@@ -862,7 +862,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-07T22:29:26Z",
+ "generated_at": "2026-11-07T22:34:30Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -892,7 +892,7 @@
    {
     "name": "Jared Goff",
     "pid": "3163",
-    "proj": 19.7,
+    "proj": 19.69,
     "slot": "QB"
    },
    {
@@ -944,8 +944,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 114.74,
-  "current_projected": 114.74,
+  "best_projected": 114.73,
+  "current_projected": 114.73,
   "gain": -0.0,
   "problems": [],
   "source": "matchup week 9",
@@ -1061,7 +1061,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.518,
+    "first_seed_odds": 0.517,
     "losses": 2,
     "mine": false,
     "pa": 1045.02,
@@ -1073,7 +1073,7 @@
      "10": 132.6,
      "11": 132.34,
      "12": 137.02,
-     "9": 133.68
+     "9": 133.47
     },
     "rank": 1,
     "roster_id": 9,
@@ -1129,14 +1129,14 @@
     "mine": false,
     "pa": 849.08,
     "pf": 967.6,
-    "playoff_odds": 0.851,
+    "playoff_odds": 0.848,
     "power_rank": 7,
     "proj_avg": 123.9,
     "proj_by_week": {
      "10": 125.49,
      "11": 118.89,
      "12": 129.35,
-     "9": 121.97
+     "9": 122.03
     },
     "rank": 4,
     "roster_id": 5,
@@ -1157,7 +1157,7 @@
      "10": 130.95,
      "11": 113.1,
      "12": 137.8,
-     "9": 141.77
+     "9": 141.74
     },
     "rank": 5,
     "roster_id": 10,
@@ -1171,14 +1171,14 @@
     "mine": false,
     "pa": 1070.2,
     "pf": 967.14,
-    "playoff_odds": 0.402,
+    "playoff_odds": 0.407,
     "power_rank": 6,
-    "proj_avg": 124.3,
+    "proj_avg": 124.4,
     "proj_by_week": {
      "10": 124.24,
      "11": 113.0,
      "12": 127.14,
-     "9": 132.73
+     "9": 133.28
     },
     "rank": 6,
     "roster_id": 1,
@@ -1192,7 +1192,7 @@
     "mine": false,
     "pa": 1009.1,
     "pf": 948.02,
-    "playoff_odds": 0.19,
+    "playoff_odds": 0.189,
     "power_rank": 9,
     "proj_avg": 114.3,
     "proj_by_week": {
@@ -1220,7 +1220,7 @@
      "10": 112.05,
      "11": 110.22,
      "12": 132.85,
-     "9": 130.09
+     "9": 130.07
     },
     "rank": 8,
     "roster_id": 2,
@@ -1241,7 +1241,7 @@
      "10": 112.95,
      "11": 97.78,
      "12": 114.96,
-     "9": 114.74
+     "9": 114.73
     },
     "rank": 9,
     "roster_id": 7,
@@ -1313,7 +1313,7 @@
     "10": 18.88,
     "11": 19.18,
     "12": 20.74,
-    "9": 19.7
+    "9": 19.69
    },
    "slot": "starter",
    "status": null,
@@ -1777,53 +1777,6 @@
   {
    "get": [
     {
-     "name": "Ollie Gordon II",
-     "pid": "12495",
-     "pos": "RB",
-     "ros_per_week": 12.9,
-     "status": null,
-     "team": "MIA"
-    }
-   ],
-   "give": [
-    {
-     "name": "Omarion Hampton",
-     "pid": "12507",
-     "pos": "RB",
-     "ros_per_week": 9.8,
-     "status": null,
-     "team": "LAC"
-    },
-    {
-     "name": "Omar Cooper Jr.",
-     "pid": "13276",
-     "pos": "WR",
-     "ros_per_week": 9.4,
-     "status": null,
-     "team": "NYJ"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "Bradsbaconisundercooked",
-   "partner_roster_id": 1,
-   "summary": "Give Omarion Hampton + Omar Cooper Jr., get Ollie Gordon II from Bradsbaconisundercooked: +1.7 pts/week for you, -0.5 for them.",
-   "their_gain_per_week": -0.5,
-   "value_ratio": 0.67,
-   "why_them": [
-    "Omarion Hampton would start 1 of 9 weeks for them",
-    "Omar Cooper Jr. would start 1 of 9 weeks for them",
-    "Ollie Gordon II only starts 3 of 9 weeks on their roster"
-   ],
-   "why_you": [
-    "Ollie Gordon II would start 9 of 9 weeks for you",
-    "Omarion Hampton starts only 3 of 9 weeks for you",
-    "Omar Cooper Jr. starts only 3 of 9 weeks for you"
-   ],
-   "your_gain_per_week": 1.7
-  },
-  {
-   "get": [
-    {
      "name": "Jaylen Waddle",
      "pid": "7526",
      "pos": "WR",
@@ -1855,6 +1808,43 @@
    "why_you": [
     "Jaylen Waddle would start 7 of 9 weeks for you",
     "Josh Downs starts only 1 of 9 weeks for you"
+   ],
+   "your_gain_per_week": 1.7
+  },
+  {
+   "get": [
+    {
+     "name": "Jaylen Waddle",
+     "pid": "7526",
+     "pos": "WR",
+     "ros_per_week": 11.2,
+     "status": null,
+     "team": "DEN"
+    }
+   ],
+   "give": [
+    {
+     "name": "Keenan Allen",
+     "pid": "1479",
+     "pos": "WR",
+     "ros_per_week": 8.8,
+     "status": null,
+     "team": "IND"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "Bradsbaconisundercooked",
+   "partner_roster_id": 1,
+   "summary": "Give Keenan Allen, get Jaylen Waddle from Bradsbaconisundercooked: +1.7 pts/week for you, -0.4 for them.",
+   "their_gain_per_week": -0.4,
+   "value_ratio": 1.28,
+   "why_them": [
+    "Keenan Allen would start 1 of 9 weeks for them",
+    "Jaylen Waddle only starts 2 of 9 weeks on their roster"
+   ],
+   "why_you": [
+    "Jaylen Waddle would start 8 of 9 weeks for you",
+    "Keenan Allen starts only 1 of 9 weeks for you"
    ],
    "your_gain_per_week": 1.7
   },
@@ -1945,25 +1935,6 @@
    "trending_adds_24h": 0
   },
   {
-   "drop": "1479",
-   "drop_name": "Keenan Allen",
-   "gain_this_week": 1.22,
-   "gain_window": 1.22,
-   "name": "Alvin Kamara",
-   "pid": "4035",
-   "pos": "RB",
-   "proj_by_week": {
-    "10": 2.62,
-    "11": 2.73,
-    "12": 2.77,
-    "9": 12.64
-   },
-   "status": null,
-   "stream": false,
-   "team": "NO",
-   "trending_adds_24h": 69752
-  },
-  {
    "drop": "9480",
    "drop_name": "Brenton Strange",
    "gain_this_week": 0.0,
@@ -1981,6 +1952,25 @@
    "stream": false,
    "team": "PHI",
    "trending_adds_24h": 0
+  },
+  {
+   "drop": "1479",
+   "drop_name": "Keenan Allen",
+   "gain_this_week": 0.9,
+   "gain_window": 0.9,
+   "name": "Alvin Kamara",
+   "pid": "4035",
+   "pos": "RB",
+   "proj_by_week": {
+    "10": 2.62,
+    "11": 2.73,
+    "12": 2.77,
+    "9": 12.32
+   },
+   "status": null,
+   "stream": false,
+   "team": "NO",
+   "trending_adds_24h": 69752
   },
   {
    "drop": "9500",

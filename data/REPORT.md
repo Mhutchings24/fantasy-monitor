@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-07T22:29:26Z UTC
+Week 9 · record 3-5 · updated 2026-11-07T22:34:30Z UTC
 
 ## Lineup check
 Current lineup projects **114.7**, best possible **114.7**.
@@ -15,8 +15,8 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 |---|---|---|---|---|---|---|
 | J.K. Dobbins | RB | DEN | Rico Dowdle | +2.0 | +0.0 | 0 |
 | Dalton Kincaid | TE | BUF | Josh Downs | +1.5 | +0.0 | 0 |
-| Alvin Kamara | RB | NO | Keenan Allen | +1.2 | +1.2 | 69,752 |
 | Dallas Goedert | TE | PHI | Brenton Strange | +1.0 | +0.0 | 0 |
+| Alvin Kamara | RB | NO | Keenan Allen | +0.9 | +0.9 | 69,752 |
 | Xavier Worthy | WR | KC | Josh Downs | +0.8 | +0.0 | 18,306 |
 | Bryce Young | QB | CAR | Josh Downs | +0.8 | +0.0 | 0 |
 | Khalil Shakir | WR | BUF | Josh Downs | +0.8 | +0.0 | 17,964 |
@@ -40,7 +40,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 1 | 134.0 | 99% |
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 7 | 123.9 | 85% |
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 130.9 | 90% |
-| 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 6 | 124.3 | 40% |
+| 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 6 | 124.4 | 41% |
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 114.3 | 19% |
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 8 | 121.3 | 27% |
 | 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 10 | 110.1 | 10% |
@@ -54,8 +54,8 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Likely** · Give Omarion Hampton + Jordyn Tyson, get Ladd McConkey from Touch of the Downs: +1.1 pts/week for you, +0.4 for them.
 - **Possible** · Give Omar Cooper Jr. + Jordyn Tyson, get Ladd McConkey from Touch of the Downs: +2.0 pts/week for you, -0.2 for them.
 - **Possible** · Give Jared Goff + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +1.8 pts/week for you, -0.0 for them.
-- **Possible** · Give Omarion Hampton + Omar Cooper Jr., get Ollie Gordon II from Bradsbaconisundercooked: +1.7 pts/week for you, -0.5 for them.
 - **Possible** · Give Josh Downs, get Jaylen Waddle from Bradsbaconisundercooked: +1.7 pts/week for you, -0.4 for them.
+- **Possible** · Give Keenan Allen, get Jaylen Waddle from Bradsbaconisundercooked: +1.7 pts/week for you, -0.4 for them.
 - **Possible** · Give George Kittle + Omar Cooper Jr., get Chuba Hubbard from Glizzy Globbler : +1.4 pts/week for you, -0.3 for them.
 
 ## Roster
