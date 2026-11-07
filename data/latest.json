@@ -1,5 +1,5 @@
 {
- "content_hash": "6e2febf5f384549403a3c644d8c6c5e625409a37",
+ "content_hash": "19cf4f0df8b040a67ab2ead2b2e83a0e4e011013",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -56,7 +56,7 @@
    "name": "Gardner Minshew II",
    "pos": "QB",
    "proj_4wk": 57.9,
-   "proj_this_week": 11.56,
+   "proj_this_week": 11.55,
    "status": null,
    "team": "ARI"
   },
@@ -335,7 +335,7 @@
    "name": "Greg Dulcich",
    "pos": "TE",
    "proj_4wk": 30.9,
-   "proj_this_week": 8.11,
+   "proj_this_week": 8.12,
    "status": null,
    "team": "MIA"
   },
@@ -533,7 +533,7 @@
    "name": "Hunter Henry",
    "pos": "TE",
    "proj_4wk": 25.9,
-   "proj_this_week": 6.48,
+   "proj_this_week": 6.51,
    "status": "Questionable",
    "team": "NE"
   },
@@ -569,7 +569,7 @@
    "name": "Elijah Higgins",
    "pos": "TE",
    "proj_4wk": 25.2,
-   "proj_this_week": 5.52,
+   "proj_this_week": 5.51,
    "status": null,
    "team": "ARI"
   },
@@ -668,9 +668,18 @@
    "name": "AJ Barner",
    "pos": "TE",
    "proj_4wk": 23.8,
-   "proj_this_week": 7.92,
+   "proj_this_week": 7.91,
    "status": null,
    "team": "SEA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "DeMario Douglas",
+   "pos": "WR",
+   "proj_4wk": 23.8,
+   "proj_this_week": 8.81,
+   "status": null,
+   "team": "NE"
   },
   {
    "adds_24h": 0,
@@ -680,15 +689,6 @@
    "proj_this_week": 8.06,
    "status": null,
    "team": "ATL"
-  },
-  {
-   "adds_24h": 0,
-   "name": "DeMario Douglas",
-   "pos": "WR",
-   "proj_4wk": 23.7,
-   "proj_this_week": 8.76,
-   "status": null,
-   "team": "NE"
   },
   {
    "adds_24h": 0,
@@ -731,7 +731,7 @@
    "name": "Corey Kiner",
    "pos": "RB",
    "proj_4wk": 16.7,
-   "proj_this_week": 6.61,
+   "proj_this_week": 6.6,
    "status": null,
    "team": "NE"
   },
@@ -853,7 +853,7 @@
    "team": "DEN"
   }
  ],
- "generated_at": "2026-11-07T08:30:18Z",
+ "generated_at": "2026-11-07T08:35:23Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -883,13 +883,13 @@
    {
     "name": "Jared Goff",
     "pid": "3163",
-    "proj": 19.68,
+    "proj": 19.69,
     "slot": "QB"
    },
    {
     "name": "Josh Jacobs",
     "pid": "5850",
-    "proj": 13.95,
+    "proj": 13.88,
     "slot": "RB"
    },
    {
@@ -935,9 +935,9 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 110.54,
-  "current_projected": 110.54,
-  "gain": 0.0,
+  "best_projected": 110.48,
+  "current_projected": 110.48,
+  "gain": -0.0,
   "problems": [],
   "source": "matchup week 9",
   "swaps": [],
@@ -1031,11 +1031,11 @@
   },
   "matchup": {
    "my_proj": 110.5,
-   "opp_best_possible": 138.4,
-   "opp_proj": 138.4,
+   "opp_best_possible": 138.46,
+   "opp_proj": 138.5,
    "opponent": "Touch of the Downs",
    "opponent_record": "2-6",
-   "win_prob": 0.215
+   "win_prob": 0.214
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1052,7 +1052,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.511,
+    "first_seed_odds": 0.51,
     "losses": 2,
     "mine": false,
     "pa": 1045.02,
@@ -1073,19 +1073,19 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.205,
+    "first_seed_odds": 0.206,
     "losses": 2,
     "mine": false,
     "pa": 913.82,
     "pf": 960.38,
     "playoff_odds": 0.981,
     "power_rank": 4,
-    "proj_avg": 129.3,
+    "proj_avg": 129.4,
     "proj_by_week": {
      "10": 129.6,
      "11": 128.43,
      "12": 134.34,
-     "9": 124.97
+     "9": 125.05
     },
     "rank": 2,
     "roster_id": 8,
@@ -1148,7 +1148,7 @@
      "10": 130.95,
      "11": 113.1,
      "12": 137.8,
-     "9": 142.09
+     "9": 142.0
     },
     "rank": 5,
     "roster_id": 10,
@@ -1169,7 +1169,7 @@
      "10": 124.24,
      "11": 113.0,
      "12": 127.14,
-     "9": 132.78
+     "9": 132.77
     },
     "rank": 6,
     "roster_id": 1,
@@ -1184,7 +1184,7 @@
     "pa": 1009.1,
     "pf": 948.02,
     "playoff_odds": 0.172,
-    "power_rank": 10,
+    "power_rank": 9,
     "proj_avg": 114.5,
     "proj_by_week": {
      "10": 88.18,
@@ -1211,7 +1211,7 @@
      "10": 112.05,
      "11": 110.22,
      "12": 132.85,
-     "9": 130.07
+     "9": 130.2
     },
     "rank": 8,
     "roster_id": 2,
@@ -1226,13 +1226,13 @@
     "pa": 946.24,
     "pf": 906.7,
     "playoff_odds": 0.148,
-    "power_rank": 9,
-    "proj_avg": 114.6,
+    "power_rank": 10,
+    "proj_avg": 114.5,
     "proj_by_week": {
      "10": 121.98,
      "11": 104.15,
      "12": 121.53,
-     "9": 110.54
+     "9": 110.48
     },
     "rank": 9,
     "roster_id": 7,
@@ -1246,14 +1246,14 @@
     "mine": false,
     "pa": 1017.26,
     "pf": 942.36,
-    "playoff_odds": 0.32,
+    "playoff_odds": 0.321,
     "power_rank": 5,
-    "proj_avg": 129.0,
+    "proj_avg": 129.1,
     "proj_by_week": {
      "10": 134.41,
      "11": 105.91,
      "12": 137.47,
-     "9": 138.4
+     "9": 138.46
     },
     "rank": 10,
     "roster_id": 3,
@@ -1304,7 +1304,7 @@
     "10": 18.88,
     "11": 19.18,
     "12": 20.74,
-    "9": 19.68
+    "9": 19.69
    },
    "slot": "starter",
    "status": null,
@@ -1319,7 +1319,7 @@
     "10": 14.54,
     "11": 0.0,
     "12": 13.53,
-    "9": 13.95
+    "9": 13.88
    },
    "slot": "starter",
    "status": null,
@@ -1859,8 +1859,8 @@
    "likelihood": "Possible",
    "partner": "Never Going Go Scottsdale",
    "partner_roster_id": 6,
-   "summary": "Give Jared Goff + Brenton Strange, get Brock Purdy from Never Going Go Scottsdale: +1.4 pts/week for you, +0.0 for them.",
-   "their_gain_per_week": 0.0,
+   "summary": "Give Jared Goff + Brenton Strange, get Brock Purdy from Never Going Go Scottsdale: +1.4 pts/week for you, +0.1 for them.",
+   "their_gain_per_week": 0.1,
    "value_ratio": 0.71,
    "why_them": [
     "Jared Goff would start 4 of 9 weeks for them",

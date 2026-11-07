@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-07T08:30:18Z UTC
+Week 9 · record 3-5 · updated 2026-11-07T08:35:23Z UTC
 
 ## Lineup check
 Current lineup projects **110.5**, best possible **110.5**.
@@ -29,7 +29,7 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 **K stream this week:** add Eddy Pineiro for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **110.5** – 138.4 projected · win chance **22%**
+vs **Touch of the Downs** (2-6): you **110.5** – 138.5 projected · win chance **21%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -37,15 +37,15 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 2 | 133.9 | 100% |
-| 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 4 | 129.3 | 98% |
+| 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 4 | 129.4 | 98% |
 | 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 1 | 134.0 | 98% |
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 7 | 124.0 | 85% |
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 131.0 | 90% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 6 | 124.3 | 39% |
-| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 10 | 114.5 | 17% |
+| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 114.5 | 17% |
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 8 | 121.3 | 26% |
-| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 9 | 114.6 | 15% |
-| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 5 | 129.0 | 32% |
+| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 10 | 114.5 | 15% |
+| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 5 | 129.1 | 32% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -57,7 +57,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Possible** · Give Brenton Strange, get Ladd McConkey from Touch of the Downs: +1.9 pts/week for you, -0.2 for them.
 - **Possible** · Give Malik Washington, get Ladd McConkey from Touch of the Downs: +1.9 pts/week for you, -0.3 for them.
 - **Possible** · Give George Kittle + Malik Washington, get Chuba Hubbard from Glizzy Globbler : +1.6 pts/week for you, -0.2 for them.
-- **Possible** · Give Jared Goff + Brenton Strange, get Brock Purdy from Never Going Go Scottsdale: +1.4 pts/week for you, +0.0 for them.
+- **Possible** · Give Jared Goff + Brenton Strange, get Brock Purdy from Never Going Go Scottsdale: +1.4 pts/week for you, +0.1 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 9 | Wk 10 | Wk 11 | Wk 12 |
