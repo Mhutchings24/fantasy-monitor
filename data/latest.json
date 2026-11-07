@@ -1,5 +1,5 @@
 {
- "content_hash": "42567e0b2cc4a7c706ce15639c050dcec244e0fa",
+ "content_hash": "6a89f529d1fc55ca80e363fe752d6db6cabdab59",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -109,8 +109,8 @@
    "adds_24h": 0,
    "name": "Michael Penix Jr.",
    "pos": "QB",
-   "proj_4wk": 45.2,
-   "proj_this_week": 16.95,
+   "proj_4wk": 45.3,
+   "proj_this_week": 17.04,
    "status": null,
    "team": "ATL"
   },
@@ -118,8 +118,8 @@
    "adds_24h": 0,
    "name": "Juwan Johnson",
    "pos": "TE",
-   "proj_4wk": 43.8,
-   "proj_this_week": 11.16,
+   "proj_4wk": 43.6,
+   "proj_this_week": 11.03,
    "status": null,
    "team": "NO"
   },
@@ -388,8 +388,8 @@
    "adds_24h": 36944,
    "name": "Shedeur Sanders",
    "pos": "QB",
-   "proj_4wk": 28.9,
-   "proj_this_week": 13.57,
+   "proj_4wk": 29.0,
+   "proj_this_week": 13.62,
    "status": null,
    "team": "CLE"
   },
@@ -515,18 +515,9 @@
    "name": "Kyle Pitts Sr.",
    "pos": "TE",
    "proj_4wk": 26.1,
-   "proj_this_week": 9.86,
+   "proj_this_week": 9.87,
    "status": null,
    "team": "ATL"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Chris Bell",
-   "pos": "WR",
-   "proj_4wk": 25.9,
-   "proj_this_week": 6.89,
-   "status": null,
-   "team": "MIA"
   },
   {
    "adds_24h": 0,
@@ -539,12 +530,30 @@
   },
   {
    "adds_24h": 0,
+   "name": "Chris Bell",
+   "pos": "WR",
+   "proj_4wk": 25.9,
+   "proj_this_week": 6.89,
+   "status": null,
+   "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
    "name": "Charlie Smyth",
    "pos": "K",
    "proj_4wk": 25.7,
-   "proj_this_week": 7.31,
+   "proj_this_week": 7.28,
    "status": null,
    "team": "NO"
+  },
+  {
+   "adds_24h": 39505,
+   "name": "Dylan Sampson",
+   "pos": "RB",
+   "proj_4wk": 25.5,
+   "proj_this_week": 8.65,
+   "status": null,
+   "team": "CLE"
   },
   {
    "adds_24h": 0,
@@ -554,15 +563,6 @@
    "proj_this_week": 6.28,
    "status": null,
    "team": "CAR"
-  },
-  {
-   "adds_24h": 39505,
-   "name": "Dylan Sampson",
-   "pos": "RB",
-   "proj_4wk": 25.4,
-   "proj_this_week": 8.58,
-   "status": null,
-   "team": "CLE"
   },
   {
    "adds_24h": 0,
@@ -575,15 +575,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Samaje Perine",
-   "pos": "RB",
-   "proj_4wk": 25.2,
-   "proj_this_week": 6.63,
-   "status": null,
-   "team": "CIN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Courtland Sutton",
    "pos": "WR",
    "proj_4wk": 25.2,
@@ -592,11 +583,20 @@
    "team": "DEN"
   },
   {
+   "adds_24h": 0,
+   "name": "Samaje Perine",
+   "pos": "RB",
+   "proj_4wk": 25.1,
+   "proj_this_week": 6.58,
+   "status": null,
+   "team": "CIN"
+  },
+  {
    "adds_24h": 18375,
    "name": "Devaughn Vele",
    "pos": "WR",
-   "proj_4wk": 25.1,
-   "proj_this_week": 9.53,
+   "proj_4wk": 25.0,
+   "proj_this_week": 9.42,
    "status": null,
    "team": "NO"
   },
@@ -622,8 +622,8 @@
    "adds_24h": 0,
    "name": "CIN D/ST",
    "pos": "DEF",
-   "proj_4wk": 24.7,
-   "proj_this_week": 6.84,
+   "proj_4wk": 24.6,
+   "proj_this_week": 6.81,
    "status": null,
    "team": "CIN"
   },
@@ -641,7 +641,7 @@
    "name": "Noah Fant",
    "pos": "TE",
    "proj_4wk": 24.2,
-   "proj_this_week": 6.2,
+   "proj_this_week": 6.16,
    "status": null,
    "team": "NO"
   },
@@ -695,7 +695,7 @@
    "name": "Nick Folk",
    "pos": "K",
    "proj_4wk": 23.7,
-   "proj_this_week": 8.02,
+   "proj_this_week": 8.06,
    "status": null,
    "team": "ATL"
   },
@@ -784,8 +784,8 @@
    "adds_24h": 44840,
    "name": "Alvin Kamara",
    "pos": "RB",
-   "proj_4wk": 18.4,
-   "proj_this_week": 10.32,
+   "proj_4wk": 18.3,
+   "proj_this_week": 10.18,
    "status": null,
    "team": "NO"
   },
@@ -853,7 +853,7 @@
    "team": "DEN"
   }
  ],
- "generated_at": "2026-11-07T19:56:53Z",
+ "generated_at": "2026-11-07T20:01:57Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -895,7 +895,7 @@
    {
     "name": "Quinshon Judkins",
     "pid": "12512",
-    "proj": 12.21,
+    "proj": 12.22,
     "slot": "RB"
    },
    {
@@ -935,18 +935,12 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 115.37,
-  "current_projected": 112.22,
-  "gain": 3.15,
+  "best_projected": 115.38,
+  "current_projected": 115.38,
+  "gain": 0.0,
   "problems": [],
   "source": "matchup week 9",
-  "swaps": [
-   {
-    "bench": "9500",
-    "start": "13276",
-    "text": "Start Omar Cooper Jr. (WR, NYJ) (14.1) over Josh Downs (WR, IND) (10.9)"
-   }
-  ],
+  "swaps": [],
   "week": 9
  },
  "overview": {
@@ -1036,12 +1030,12 @@
    "week": 8
   },
   "matchup": {
-   "my_proj": 112.2,
-   "opp_best_possible": 138.69,
-   "opp_proj": 138.7,
+   "my_proj": 115.4,
+   "opp_best_possible": 138.48,
+   "opp_proj": 138.5,
    "opponent": "Touch of the Downs",
    "opponent_record": "2-6",
-   "win_prob": 0.227
+   "win_prob": 0.257
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1058,19 +1052,19 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.517,
+    "first_seed_odds": 0.516,
     "losses": 2,
     "mine": false,
     "pa": 1045.02,
     "pf": 1104.32,
     "playoff_odds": 0.998,
     "power_rank": 1,
-    "proj_avg": 134.3,
+    "proj_avg": 134.2,
     "proj_by_week": {
      "10": 132.6,
      "11": 132.34,
      "12": 137.02,
-     "9": 135.21
+     "9": 134.75
     },
     "rank": 1,
     "roster_id": 9,
@@ -1091,7 +1085,7 @@
      "10": 129.6,
      "11": 128.43,
      "12": 134.34,
-     "9": 125.19
+     "9": 125.07
     },
     "rank": 2,
     "roster_id": 8,
@@ -1100,19 +1094,19 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.206,
+    "first_seed_odds": 0.205,
     "losses": 3,
     "mine": false,
     "pa": 990.54,
     "pf": 1083.34,
     "playoff_odds": 0.985,
     "power_rank": 2,
-    "proj_avg": 134.1,
+    "proj_avg": 134.0,
     "proj_by_week": {
      "10": 128.53,
      "11": 137.67,
      "12": 141.89,
-     "9": 128.11
+     "9": 127.99
     },
     "rank": 3,
     "roster_id": 4,
@@ -1133,7 +1127,7 @@
      "10": 125.49,
      "11": 118.89,
      "12": 129.35,
-     "9": 121.86
+     "9": 121.89
     },
     "rank": 4,
     "roster_id": 5,
@@ -1231,14 +1225,14 @@
     "mine": true,
     "pa": 946.24,
     "pf": 906.7,
-    "playoff_odds": 0.166,
+    "playoff_odds": 0.167,
     "power_rank": 9,
     "proj_avg": 115.8,
     "proj_by_week": {
      "10": 121.98,
      "11": 104.15,
      "12": 121.53,
-     "9": 115.37
+     "9": 115.38
     },
     "rank": 9,
     "roster_id": 7,
@@ -1259,7 +1253,7 @@
      "10": 134.41,
      "11": 105.91,
      "12": 137.47,
-     "9": 138.69
+     "9": 138.48
     },
     "rank": 10,
     "roster_id": 3,
@@ -1340,7 +1334,7 @@
     "10": 10.61,
     "11": 0.0,
     "12": 12.08,
-    "9": 12.21
+    "9": 12.22
    },
    "slot": "starter",
    "status": null,
@@ -1360,6 +1354,21 @@
    "slot": "starter",
    "status": null,
    "team": "SF"
+  },
+  {
+   "bye_this_week": false,
+   "name": "Omar Cooper Jr.",
+   "pid": "13276",
+   "pos": "WR",
+   "proj_by_week": {
+    "10": 10.12,
+    "11": 10.29,
+    "12": 11.18,
+    "9": 14.1
+   },
+   "slot": "starter",
+   "status": null,
+   "team": "NYJ"
   },
   {
    "bye_this_week": false,
@@ -1386,21 +1395,6 @@
     "11": 9.61,
     "12": 9.45,
     "9": 11.42
-   },
-   "slot": "starter",
-   "status": null,
-   "team": "IND"
-  },
-  {
-   "bye_this_week": false,
-   "name": "Josh Downs",
-   "pid": "9500",
-   "pos": "WR",
-   "proj_by_week": {
-    "10": 10.77,
-    "11": 9.67,
-    "12": 9.57,
-    "9": 10.95
    },
    "slot": "starter",
    "status": null,
@@ -1453,18 +1447,18 @@
   },
   {
    "bye_this_week": false,
-   "name": "Omar Cooper Jr.",
-   "pid": "13276",
+   "name": "Josh Downs",
+   "pid": "9500",
    "pos": "WR",
    "proj_by_week": {
-    "10": 10.12,
-    "11": 10.29,
-    "12": 11.18,
-    "9": 14.1
+    "10": 10.77,
+    "11": 9.67,
+    "12": 9.57,
+    "9": 10.95
    },
    "slot": "bench",
    "status": null,
-   "team": "NYJ"
+   "team": "IND"
   },
   {
    "bye_this_week": false,
@@ -2027,30 +2021,11 @@
     "10": 10.21,
     "11": 11.22,
     "12": 11.19,
-    "9": 11.16
+    "9": 11.03
    },
    "status": null,
    "stream": false,
    "team": "NO",
-   "trending_adds_24h": 0
-  },
-  {
-   "drop": "7021",
-   "drop_name": "Rico Dowdle",
-   "gain_this_week": 0.0,
-   "gain_window": 0.05,
-   "name": "Kimani Vidal",
-   "pid": "11647",
-   "pos": "RB",
-   "proj_by_week": {
-    "10": 7.61,
-    "11": 7.77,
-    "12": 8.0,
-    "9": 7.46
-   },
-   "status": null,
-   "stream": false,
-   "team": "LAC",
    "trending_adds_24h": 0
   }
  ],
