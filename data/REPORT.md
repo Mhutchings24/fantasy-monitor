@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-07T00:09:46Z UTC
+Week 9 · record 3-5 · updated 2026-11-07T00:19:52Z UTC
 
 ## Lineup check
 Current lineup projects **110.3**, best possible **110.3**.
@@ -29,7 +29,7 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 **K stream this week:** add Eddy Pineiro for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **110.3** – 124.5 projected · win chance **34%**
+vs **Touch of the Downs** (2-6): you **110.3** – 138.4 projected · win chance **21%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
