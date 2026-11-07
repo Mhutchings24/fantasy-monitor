@@ -1,5 +1,5 @@
 {
- "content_hash": "6f76cdbd24f5aa0bce962fd7cf45a1b6b67db7d2",
+ "content_hash": "3e658bd00c0f2c204c58b1c80681bc644818cf38",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -521,21 +521,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Chris Bell",
-   "pos": "WR",
-   "proj_4wk": 25.9,
-   "proj_this_week": 6.89,
-   "status": null,
-   "team": "MIA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Hunter Henry",
    "pos": "TE",
    "proj_4wk": 25.9,
    "proj_this_week": 6.51,
    "status": "Questionable",
    "team": "NE"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chris Bell",
+   "pos": "WR",
+   "proj_4wk": 25.9,
+   "proj_this_week": 6.89,
+   "status": null,
+   "team": "MIA"
   },
   {
    "adds_24h": 0,
@@ -853,7 +853,7 @@
    "team": "DEN"
   }
  ],
- "generated_at": "2026-11-07T18:25:12Z",
+ "generated_at": "2026-11-07T18:30:17Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
