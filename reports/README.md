@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 9
+- [Sat Nov 7 · Flash 22:04](2026/week-09/2026-11-07-flash-2204.md) — Tyson off IR (Q): drop Strange, move Tyson to bench (Sleeper blocks moves until he leaves the IR slot); bench him this week, lineup unchanged; hold $100.
 - [Sat Nov 7 · Flash 20:04](2026/week-09/2026-11-07-flash-2004.md) — Moore cleared; lineup already optimal (115.4), no changes. Tyson reportedly activated: when off IR, drop Strange and bench Tyson.
 - [Sat Nov 7 · Flash 16:03](2026/week-09/2026-11-07-flash-1603.md) — Cooper added (Washington dropped) but still benched: start Cooper over Moore before Sun 11 AM MT; Tyson activation by ~2 PM MT → drop Strange.
 - [Sat Nov 7 · AM](2026/week-09/2026-11-07-am.md) — Still to do: add Omar Cooper Jr. ($0 FA), drop Washington, start Cooper at FLEX, bench Moore; watch Tyson activation by ~2 PM MT (drop Strange if so); hold $100; Coleman trade endorsed.
