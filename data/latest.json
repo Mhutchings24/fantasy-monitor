@@ -1,5 +1,5 @@
 {
- "content_hash": "0faaab9952b3b46bcedb69e7282195bbba5f9295",
+ "content_hash": "0b9b7837148197cc25800ba1c6d195d1fec13719",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -628,6 +628,15 @@
    "team": "NYG"
   },
   {
+   "adds_24h": 15936,
+   "name": "Pat Bryant",
+   "pos": "WR",
+   "proj_4wk": 24.3,
+   "proj_this_week": 5.7,
+   "status": "Questionable",
+   "team": "DEN"
+  },
+  {
    "adds_24h": 18914,
    "name": "Devaughn Vele",
    "pos": "WR",
@@ -716,15 +725,6 @@
    "proj_this_week": 6.38,
    "status": null,
    "team": "DAL"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Kalif Raymond",
-   "pos": "WR",
-   "proj_4wk": 23.3,
-   "proj_this_week": 7.5,
-   "status": null,
-   "team": "CHI"
   },
   {
    "adds_24h": 118248,
@@ -853,15 +853,6 @@
    "team": "ATL"
   },
   {
-   "adds_24h": 15936,
-   "name": "Pat Bryant",
-   "pos": "WR",
-   "proj_4wk": 0.0,
-   "proj_this_week": 0.0,
-   "status": "IR",
-   "team": "DEN"
-  },
-  {
    "adds_24h": 15025,
    "name": "TB D/ST",
    "pos": "DEF",
@@ -871,7 +862,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-07T21:33:32Z",
+ "generated_at": "2026-11-07T21:43:39Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
