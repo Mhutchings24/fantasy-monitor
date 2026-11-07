@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 9
+- [Fri Nov 6 · PM](2026/week-09/2026-11-06-pm.md) — Wilson out: add Omar Cooper Jr. ($0 FA), drop Washington, start Cooper at FLEX; Moore stays benched; watch Tyson activation Sat; hold $100; Coleman trade still endorsed.
 - [Fri Nov 6 · Flash 16:05](2026/week-09/2026-11-06-flash-1605.md) — Evans officially out (Downs already in); last fix: bench Moore (limited Fri, Mon night), start Washington before Sun 11 AM MT.
 - [Fri Nov 6 · AM](2026/week-09/2026-11-06-am.md) — Still to fix: Downs for Evans (Maiocco: will miss), Washington for Moore (Mon night, limited Thu); no adds, hold $100; endorse Strange for Jonah Coleman.
 - [Thu Nov 5 · PM](2026/week-09/2026-11-05-pm.md) — Still to fix: Downs for Evans (DNP Thu, ~5%), Washington for Moore (Mon night); Strange benched tonight; no adds, hold $100; new idea Strange for Pollard after TNF.
