@@ -1,5 +1,5 @@
 {
- "content_hash": "5de1dc43f6c7ec525c1de63999ce790d249ca101",
+ "content_hash": "0447ffa98d0fa6a363e182e6e5a2d046b57c3d2f",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -340,15 +340,6 @@
    "team": "CAR"
   },
   {
-   "adds_24h": 24675,
-   "name": "Kimani Vidal",
-   "pos": "RB",
-   "proj_4wk": 30.7,
-   "proj_this_week": 7.55,
-   "status": null,
-   "team": "LAC"
-  },
-  {
    "adds_24h": 0,
    "name": "Kyler Murray",
    "pos": "QB",
@@ -356,6 +347,15 @@
    "proj_this_week": 0.0,
    "status": "Out",
    "team": "MIN"
+  },
+  {
+   "adds_24h": 24675,
+   "name": "Kimani Vidal",
+   "pos": "RB",
+   "proj_4wk": 30.7,
+   "proj_this_week": 7.55,
+   "status": null,
+   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -665,21 +665,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "AJ Barner",
-   "pos": "TE",
-   "proj_4wk": 23.8,
-   "proj_this_week": 7.95,
-   "status": null,
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Trey Smack",
    "pos": "K",
    "proj_4wk": 23.8,
    "proj_this_week": 7.48,
    "status": null,
    "team": "GB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "AJ Barner",
+   "pos": "TE",
+   "proj_4wk": 23.8,
+   "proj_this_week": 7.95,
+   "status": null,
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -835,7 +835,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-08T17:03:21Z",
+ "generated_at": "2026-11-08T17:04:34Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
