@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-08T22:31:26Z UTC
+Week 9 · record 3-5 · updated 2026-11-08T22:41:34Z UTC
 
 ## Lineup check
 Current lineup projects **113.0**, best possible **113.0**.
@@ -16,20 +16,20 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | Bryce Young | QB | CAR | Josh Downs | +2.3 | +0.0 | 0 |
 | J.K. Dobbins | RB | DEN | Rico Dowdle | +2.0 | +0.0 | 0 |
 | Dalton Kincaid | TE | BUF | Josh Downs | +1.5 | +0.0 | 0 |
-| Alvin Kamara | RB | NO | Josh Downs | +1.2 | +1.2 | 191,304 |
+| Alvin Kamara | RB | NO | Josh Downs | +1.2 | +1.2 | 179,952 |
 | Dallas Goedert | TE | PHI | Josh Downs | +1.1 | +0.0 | 0 |
-| Xavier Worthy (Out) | WR | KC | Josh Downs | +1.0 | +0.0 | 33,480 |
-| Khalil Shakir | WR | BUF | Josh Downs | +0.9 | +0.0 | 35,487 |
+| Xavier Worthy (Out) | WR | KC | Josh Downs | +1.0 | +0.0 | 32,643 |
+| Khalil Shakir | WR | BUF | Josh Downs | +0.9 | +0.0 | 35,208 |
 | J.J. McCarthy (Questionable) | QB | NYG | Josh Downs | +0.8 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Josh Downs | +0.5 | +0.0 | 0 |
-| Kimani Vidal | RB | LAC | Rico Dowdle | +0.1 | +0.0 | 40,765 |
+| Kimani Vidal | RB | LAC | Rico Dowdle | +0.1 | +0.0 | 39,980 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.8 pts this week)
 
 **K stream this week:** add Eddy Pineiro for Matt Gay (+0.1 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **113.0** – 141.1 projected · win chance **21%**
+vs **Touch of the Downs** (2-6): you **113.0** – 137.6 projected · win chance **24%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -40,12 +40,12 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 5 | 128.8 | 98% |
 | 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 1 | 133.2 | 99% |
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 7 | 124.5 | 86% |
-| 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 130.8 | 90% |
+| 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 130.8 | 91% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 6 | 124.8 | 42% |
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 112.7 | 16% |
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 8 | 121.8 | 28% |
 | 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 10 | 108.7 | 9% |
-| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 129.7 | 32% |
+| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 128.8 | 31% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
