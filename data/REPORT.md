@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-08T20:59:44Z UTC
+Week 9 · record 3-5 · updated 2026-11-08T21:09:55Z UTC
 
 ## Lineup check
 Current lineup projects **115.3**, best possible **115.3**.
@@ -18,7 +18,7 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | Dalton Kincaid | TE | BUF | Josh Downs | +1.5 | +0.0 | 0 |
 | Alvin Kamara | RB | NO | Josh Downs | +1.2 | +1.2 | 197,640 |
 | Dallas Goedert | TE | PHI | Josh Downs | +1.1 | +0.0 | 0 |
-| Xavier Worthy | WR | KC | Josh Downs | +1.0 | +0.0 | 34,128 |
+| Xavier Worthy (Out) | WR | KC | Josh Downs | +1.0 | +0.0 | 34,128 |
 | Khalil Shakir | WR | BUF | Josh Downs | +0.9 | +0.0 | 32,283 |
 | J.J. McCarthy (Questionable) | QB | NYG | Josh Downs | +0.8 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Josh Downs | +0.5 | +0.0 | 0 |

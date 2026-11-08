@@ -1,5 +1,5 @@
 {
- "content_hash": "5792ffd548980e8ca6f51434ad253eb09db6bcdf",
+ "content_hash": "ed23cd76a8a69850c1c13348f9cf9496422b5d49",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -122,15 +122,6 @@
    "proj_this_week": 9.48,
    "status": null,
    "team": "BUF"
-  },
-  {
-   "adds_24h": 34128,
-   "name": "Xavier Worthy",
-   "pos": "WR",
-   "proj_4wk": 42.5,
-   "proj_this_week": 10.25,
-   "status": null,
-   "team": "KC"
   },
   {
    "adds_24h": 0,
@@ -284,6 +275,15 @@
    "proj_this_week": 0.0,
    "status": "Out",
    "team": "SEA"
+  },
+  {
+   "adds_24h": 34128,
+   "name": "Xavier Worthy",
+   "pos": "WR",
+   "proj_4wk": 32.2,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "KC"
   },
   {
    "adds_24h": 0,
@@ -835,7 +835,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-08T20:59:44Z",
+ "generated_at": "2026-11-08T21:09:55Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1957,9 +1957,9 @@
     "10": 10.39,
     "11": 11.69,
     "12": 10.13,
-    "9": 10.25
+    "9": 0.0
    },
-   "status": null,
+   "status": "Out",
    "stream": false,
    "team": "KC",
    "trending_adds_24h": 34128
