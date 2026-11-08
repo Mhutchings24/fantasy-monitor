@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-08T16:39:12Z UTC
+Week 9 · record 3-5 · updated 2026-11-08T16:42:17Z UTC
 
 ## Lineup check
 Current lineup projects **114.2**, best possible **114.2**.
@@ -38,11 +38,11 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 1 | 133.9 | 100% |
 | 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 5 | 128.7 | 98% |
-| 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 132.6 | 98% |
+| 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 132.6 | 99% |
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 7 | 123.7 | 85% |
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 130.9 | 91% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 6 | 123.9 | 41% |
-| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 113.8 | 19% |
+| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 112.9 | 17% |
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 8 | 120.9 | 27% |
 | 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 10 | 109.0 | 9% |
 | 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 129.5 | 33% |
@@ -50,12 +50,12 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
+- **Likely** · Give Jared Goff + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +2.0 pts/week for you, +0.3 for them.
 - **Likely** · Give Brenton Strange, get Stefon Diggs from Gibbs me Nabers 😵‍💫: +1.5 pts/week for you, +1.3 for them.
 - **Likely** · Give George Kittle, get Malik Nabers from Gibbs me Nabers 😵‍💫: +1.3 pts/week for you, +1.7 for them.
 - **Likely** · Give Jordyn Tyson + Omarion Hampton, get Ladd McConkey from Touch of the Downs: +1.1 pts/week for you, +0.4 for them.
-- **Likely** · Give Brenton Strange + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +1.0 pts/week for you, +0.4 for them.
+- **Likely** · Give Brenton Strange + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +1.0 pts/week for you, +0.8 for them.
 - **Possible** · Give Jordyn Tyson, get Ladd McConkey from Touch of the Downs: +2.2 pts/week for you, -0.2 for them.
-- **Possible** · Give Jared Goff + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +2.0 pts/week for you, -0.0 for them.
 - **Possible** · Give Josh Downs, get Tony Pollard from I’m stuck Step Burrow: +1.8 pts/week for you, -0.5 for them.
 - **Possible** · Give Keenan Allen, get Tony Pollard from I’m stuck Step Burrow: +1.7 pts/week for you, -0.5 for them.
 

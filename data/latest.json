@@ -1,5 +1,5 @@
 {
- "content_hash": "88091b5a60fe1fcde7929a903db1fb4d2985d5b6",
+ "content_hash": "9565f839dac451665afacf216b27f6be36ade906",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -484,15 +484,6 @@
    "team": "BAL"
   },
   {
-   "adds_24h": 0,
-   "name": "BAL D/ST",
-   "pos": "DEF",
-   "proj_4wk": 26.5,
-   "proj_this_week": 5.42,
-   "status": null,
-   "team": "BAL"
-  },
-  {
    "adds_24h": 90376,
    "name": "NYG D/ST",
    "pos": "DEF",
@@ -500,6 +491,15 @@
    "proj_this_week": 7.98,
    "status": null,
    "team": "NYG"
+  },
+  {
+   "adds_24h": 0,
+   "name": "BAL D/ST",
+   "pos": "DEF",
+   "proj_4wk": 26.5,
+   "proj_this_week": 5.42,
+   "status": null,
+   "team": "BAL"
   },
   {
    "adds_24h": 0,
@@ -647,15 +647,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "AJ Barner",
-   "pos": "TE",
-   "proj_4wk": 23.8,
-   "proj_this_week": 7.95,
-   "status": null,
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Trey Smack",
    "pos": "K",
    "proj_4wk": 23.8,
@@ -671,6 +662,15 @@
    "proj_this_week": 5.45,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "AJ Barner",
+   "pos": "TE",
+   "proj_4wk": 23.8,
+   "proj_this_week": 7.95,
+   "status": null,
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -853,7 +853,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-08T16:39:12Z",
+ "generated_at": "2026-11-08T16:42:17Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1052,7 +1052,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.538,
+    "first_seed_odds": 0.534,
     "losses": 2,
     "mine": false,
     "pa": 1045.02,
@@ -1073,7 +1073,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.196,
+    "first_seed_odds": 0.195,
     "losses": 2,
     "mine": false,
     "pa": 913.82,
@@ -1094,12 +1094,12 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.19,
+    "first_seed_odds": 0.196,
     "losses": 3,
     "mine": false,
     "pa": 990.54,
     "pf": 1083.34,
-    "playoff_odds": 0.985,
+    "playoff_odds": 0.986,
     "power_rank": 2,
     "proj_avg": 132.6,
     "proj_by_week": {
@@ -1120,7 +1120,7 @@
     "mine": false,
     "pa": 849.08,
     "pf": 967.6,
-    "playoff_odds": 0.848,
+    "playoff_odds": 0.851,
     "power_rank": 7,
     "proj_avg": 123.7,
     "proj_by_week": {
@@ -1141,7 +1141,7 @@
     "mine": false,
     "pa": 1104.36,
     "pf": 1110.86,
-    "playoff_odds": 0.907,
+    "playoff_odds": 0.909,
     "power_rank": 3,
     "proj_avg": 130.9,
     "proj_by_week": {
@@ -1162,7 +1162,7 @@
     "mine": false,
     "pa": 1070.2,
     "pf": 967.14,
-    "playoff_odds": 0.406,
+    "playoff_odds": 0.409,
     "power_rank": 6,
     "proj_avg": 123.9,
     "proj_by_week": {
@@ -1183,14 +1183,14 @@
     "mine": false,
     "pa": 1009.1,
     "pf": 948.02,
-    "playoff_odds": 0.187,
+    "playoff_odds": 0.174,
     "power_rank": 9,
-    "proj_avg": 113.8,
+    "proj_avg": 112.9,
     "proj_by_week": {
      "10": 88.3,
      "11": 121.11,
      "12": 125.55,
-     "9": 120.36
+     "9": 116.76
     },
     "rank": 7,
     "roster_id": 6,
@@ -1204,7 +1204,7 @@
     "mine": false,
     "pa": 982.9,
     "pf": 937.8,
-    "playoff_odds": 0.266,
+    "playoff_odds": 0.267,
     "power_rank": 8,
     "proj_avg": 120.9,
     "proj_by_week": {
@@ -1225,7 +1225,7 @@
     "mine": true,
     "pa": 946.24,
     "pf": 906.7,
-    "playoff_odds": 0.091,
+    "playoff_odds": 0.092,
     "power_rank": 10,
     "proj_avg": 109.0,
     "proj_by_week": {
@@ -1246,7 +1246,7 @@
     "mine": false,
     "pa": 1017.26,
     "pf": 942.36,
-    "playoff_odds": 0.33,
+    "playoff_odds": 0.332,
     "power_rank": 4,
     "proj_avg": 129.5,
     "proj_by_week": {
@@ -1555,6 +1555,52 @@
   {
    "get": [
     {
+     "name": "Brock Purdy",
+     "pid": "8183",
+     "pos": "QB",
+     "ros_per_week": 21.5,
+     "status": null,
+     "team": "SF"
+    }
+   ],
+   "give": [
+    {
+     "name": "Jared Goff",
+     "pid": "3163",
+     "pos": "QB",
+     "ros_per_week": 19.2,
+     "status": null,
+     "team": "DET"
+    },
+    {
+     "name": "Omar Cooper Jr.",
+     "pid": "13276",
+     "pos": "WR",
+     "ros_per_week": 9.4,
+     "status": null,
+     "team": "NYJ"
+    }
+   ],
+   "likelihood": "Likely",
+   "partner": "Never Going Go Scottsdale",
+   "partner_roster_id": 6,
+   "summary": "Give Jared Goff + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +2.0 pts/week for you, +0.3 for them.",
+   "their_gain_per_week": 0.3,
+   "value_ratio": 0.75,
+   "why_them": [
+    "Jared Goff would start 4 of 9 weeks for them",
+    "Omar Cooper Jr. would start 3 of 9 weeks for them"
+   ],
+   "why_you": [
+    "Brock Purdy would start 9 of 9 weeks for you",
+    "Jared Goff starts 9 of 9 weeks for you",
+    "Omar Cooper Jr. starts only 3 of 9 weeks for you"
+   ],
+   "your_gain_per_week": 2.0
+  },
+  {
+   "get": [
+    {
      "name": "Stefon Diggs",
      "pid": "2449",
      "pos": "WR",
@@ -1704,8 +1750,8 @@
    "likelihood": "Likely",
    "partner": "Never Going Go Scottsdale",
    "partner_roster_id": 6,
-   "summary": "Give Brenton Strange + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +1.0 pts/week for you, +0.4 for them.",
-   "their_gain_per_week": 0.4,
+   "summary": "Give Brenton Strange + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +1.0 pts/week for you, +0.8 for them.",
+   "their_gain_per_week": 0.8,
    "value_ratio": 1.06,
    "why_them": [
     "Brenton Strange would start 5 of 9 weeks for them",
@@ -1754,52 +1800,6 @@
     "Jordyn Tyson starts 5 of 9 weeks for you"
    ],
    "your_gain_per_week": 2.2
-  },
-  {
-   "get": [
-    {
-     "name": "Brock Purdy",
-     "pid": "8183",
-     "pos": "QB",
-     "ros_per_week": 21.5,
-     "status": null,
-     "team": "SF"
-    }
-   ],
-   "give": [
-    {
-     "name": "Jared Goff",
-     "pid": "3163",
-     "pos": "QB",
-     "ros_per_week": 19.2,
-     "status": null,
-     "team": "DET"
-    },
-    {
-     "name": "Omar Cooper Jr.",
-     "pid": "13276",
-     "pos": "WR",
-     "ros_per_week": 9.4,
-     "status": null,
-     "team": "NYJ"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "Never Going Go Scottsdale",
-   "partner_roster_id": 6,
-   "summary": "Give Jared Goff + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +2.0 pts/week for you, -0.0 for them.",
-   "their_gain_per_week": -0.0,
-   "value_ratio": 0.75,
-   "why_them": [
-    "Jared Goff would start 4 of 9 weeks for them",
-    "Omar Cooper Jr. would start 3 of 9 weeks for them"
-   ],
-   "why_you": [
-    "Brock Purdy would start 9 of 9 weeks for you",
-    "Jared Goff starts 9 of 9 weeks for you",
-    "Omar Cooper Jr. starts only 3 of 9 weeks for you"
-   ],
-   "your_gain_per_week": 2.0
   },
   {
    "get": [
