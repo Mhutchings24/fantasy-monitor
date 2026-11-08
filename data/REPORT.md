@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-08T05:27:05Z UTC
+Week 9 · record 3-5 · updated 2026-11-08T05:32:10Z UTC
 
 ## Lineup check
 Current lineup projects **114.1**, best possible **114.1**.
@@ -52,7 +52,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Likely** · Give Brenton Strange, get Stefon Diggs from Gibbs me Nabers 😵‍💫: +1.5 pts/week for you, +1.3 for them.
 - **Likely** · Give George Kittle, get Malik Nabers from Gibbs me Nabers 😵‍💫: +1.4 pts/week for you, +1.6 for them.
 - **Likely** · Give Jordyn Tyson + Omarion Hampton, get Ladd McConkey from Touch of the Downs: +1.1 pts/week for you, +0.4 for them.
-- **Possible** · Give Jordyn Tyson, get Ladd McConkey from Touch of the Downs: +2.3 pts/week for you, -0.2 for them.
+- **Possible** · Give Jordyn Tyson, get Ladd McConkey from Touch of the Downs: +2.2 pts/week for you, -0.2 for them.
 - **Possible** · Give Jared Goff + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +1.8 pts/week for you, -0.0 for them.
 - **Possible** · Give Omarion Hampton + Omar Cooper Jr., get Ollie Gordon II from Bradsbaconisundercooked: +1.8 pts/week for you, -0.5 for them.
 - **Possible** · Give Josh Downs, get Jaylen Waddle from Bradsbaconisundercooked: +1.7 pts/week for you, -0.4 for them.

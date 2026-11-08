@@ -1,5 +1,5 @@
 {
- "content_hash": "403fd0b596ae39a01d2ad4921a5556240a327b88",
+ "content_hash": "76ba11dde2ae5de58de91a81e02caaf2258838ea",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -46,8 +46,8 @@
    "adds_24h": 0,
    "name": "Justin Herbert",
    "pos": "QB",
-   "proj_4wk": 58.5,
-   "proj_this_week": 13.7,
+   "proj_4wk": 58.3,
+   "proj_this_week": 13.52,
    "status": null,
    "team": "LAC"
   },
@@ -245,7 +245,7 @@
    "name": "Dalton Schultz",
    "pos": "TE",
    "proj_4wk": 33.5,
-   "proj_this_week": 8.46,
+   "proj_this_week": 8.52,
    "status": null,
    "team": "HOU"
   },
@@ -331,15 +331,6 @@
    "team": "CAR"
   },
   {
-   "adds_24h": 13385,
-   "name": "Kimani Vidal",
-   "pos": "RB",
-   "proj_4wk": 30.9,
-   "proj_this_week": 7.55,
-   "status": null,
-   "team": "LAC"
-  },
-  {
    "adds_24h": 0,
    "name": "Greg Dulcich",
    "pos": "TE",
@@ -347,6 +338,15 @@
    "proj_this_week": 8.12,
    "status": null,
    "team": "MIA"
+  },
+  {
+   "adds_24h": 13385,
+   "name": "Kimani Vidal",
+   "pos": "RB",
+   "proj_4wk": 30.8,
+   "proj_this_week": 7.46,
+   "status": null,
+   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -395,21 +395,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Quentin Johnston",
-   "pos": "WR",
-   "proj_4wk": 28.8,
-   "proj_this_week": 7.82,
-   "status": null,
-   "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
    "name": "BUF D/ST",
    "pos": "DEF",
    "proj_4wk": 28.8,
    "proj_this_week": 7.95,
    "status": null,
    "team": "BUF"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Quentin Johnston",
+   "pos": "WR",
+   "proj_4wk": 28.7,
+   "proj_this_week": 7.78,
+   "status": null,
+   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -424,8 +424,8 @@
    "adds_24h": 0,
    "name": "Cameron Dicker",
    "pos": "K",
-   "proj_4wk": 28.2,
-   "proj_this_week": 6.77,
+   "proj_4wk": 28.1,
+   "proj_this_week": 6.73,
    "status": null,
    "team": "LAC"
   },
@@ -649,8 +649,8 @@
    "adds_24h": 0,
    "name": "LAC D/ST",
    "pos": "DEF",
-   "proj_4wk": 23.9,
-   "proj_this_week": 5.45,
+   "proj_4wk": 23.8,
+   "proj_this_week": 5.42,
    "status": null,
    "team": "LAC"
   },
@@ -871,7 +871,7 @@
    "team": "LAR"
   }
  ],
- "generated_at": "2026-11-08T05:27:05Z",
+ "generated_at": "2026-11-08T05:32:10Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1103,7 +1103,7 @@
      "10": 129.6,
      "11": 128.43,
      "12": 134.34,
-     "9": 124.97
+     "9": 125.01
     },
     "rank": 2,
     "roster_id": 8,
@@ -1166,7 +1166,7 @@
      "10": 130.95,
      "11": 113.1,
      "12": 137.8,
-     "9": 141.8
+     "9": 141.84
     },
     "rank": 5,
     "roster_id": 10,
@@ -1229,7 +1229,7 @@
      "10": 112.05,
      "11": 110.22,
      "12": 132.85,
-     "9": 130.22
+     "9": 130.26
     },
     "rank": 8,
     "roster_id": 2,
@@ -1427,7 +1427,7 @@
     "10": 9.56,
     "11": 9.73,
     "12": 10.18,
-    "9": 9.25
+    "9": 9.2
    },
    "slot": "bench",
    "status": null,
@@ -1714,7 +1714,7 @@
    "likelihood": "Possible",
    "partner": "Touch of the Downs",
    "partner_roster_id": 3,
-   "summary": "Give Jordyn Tyson, get Ladd McConkey from Touch of the Downs: +2.3 pts/week for you, -0.2 for them.",
+   "summary": "Give Jordyn Tyson, get Ladd McConkey from Touch of the Downs: +2.2 pts/week for you, -0.2 for them.",
    "their_gain_per_week": -0.2,
    "value_ratio": 1.31,
    "why_them": [
@@ -1725,7 +1725,7 @@
     "Ladd McConkey would start 9 of 9 weeks for you",
     "Jordyn Tyson starts 5 of 9 weeks for you"
    ],
-   "your_gain_per_week": 2.3
+   "your_gain_per_week": 2.2
   },
   {
    "get": [
@@ -2069,7 +2069,7 @@
     "10": 7.61,
     "11": 7.77,
     "12": 8.0,
-    "9": 7.55
+    "9": 7.46
    },
    "status": null,
    "stream": false,
