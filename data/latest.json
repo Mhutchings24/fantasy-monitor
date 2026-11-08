@@ -1,5 +1,5 @@
 {
- "content_hash": "c5b01dd55206d4911094e94b5e470260044d2573",
+ "content_hash": "eed24ae817e6b6cdcc0777600cec02ffab1b1d26",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -44,21 +44,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Justin Herbert",
-   "pos": "QB",
-   "proj_4wk": 58.0,
-   "proj_this_week": 13.7,
-   "status": null,
-   "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
    "name": "Gardner Minshew II",
    "pos": "QB",
    "proj_4wk": 58.0,
    "proj_this_week": 11.56,
    "status": null,
    "team": "ARI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Justin Herbert",
+   "pos": "QB",
+   "proj_4wk": 58.0,
+   "proj_this_week": 13.7,
+   "status": null,
+   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -340,15 +340,6 @@
    "team": "CAR"
   },
   {
-   "adds_24h": 25455,
-   "name": "Kimani Vidal",
-   "pos": "RB",
-   "proj_4wk": 30.7,
-   "proj_this_week": 7.55,
-   "status": null,
-   "team": "LAC"
-  },
-  {
    "adds_24h": 0,
    "name": "Kyler Murray",
    "pos": "QB",
@@ -356,6 +347,15 @@
    "proj_this_week": 0.0,
    "status": "Out",
    "team": "MIN"
+  },
+  {
+   "adds_24h": 25455,
+   "name": "Kimani Vidal",
+   "pos": "RB",
+   "proj_4wk": 30.7,
+   "proj_this_week": 7.55,
+   "status": null,
+   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -835,7 +835,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-08T17:09:39Z",
+ "generated_at": "2026-11-08T17:09:55Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
