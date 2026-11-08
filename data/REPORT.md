@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-08T17:15:02Z UTC
+Week 9 · record 3-5 · updated 2026-11-08T17:20:08Z UTC
 
 ## Lineup check
-Current lineup projects **114.2**, best possible **114.2**.
+Current lineup projects **114.0**, best possible **114.0**.
 
 - ✅ Your lineup is already the best one available.
 
@@ -17,34 +17,34 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | Bryce Young | QB | CAR | Josh Downs | +2.0 | +0.0 | 0 |
 | Dalton Kincaid | TE | BUF | Josh Downs | +1.5 | +0.0 | 0 |
 | Dallas Goedert | TE | PHI | Josh Downs | +1.1 | +0.0 | 0 |
-| Xavier Worthy | WR | KC | Josh Downs | +1.0 | +0.0 | 30,915 |
-| Alvin Kamara | RB | NO | Josh Downs | +0.9 | +0.9 | 198,840 |
-| Khalil Shakir | WR | BUF | Josh Downs | +0.9 | +0.0 | 24,426 |
+| Xavier Worthy | WR | KC | Josh Downs | +1.0 | +0.0 | 32,040 |
+| Alvin Kamara | RB | NO | Josh Downs | +1.0 | +1.0 | 202,960 |
+| Khalil Shakir | WR | BUF | Josh Downs | +0.9 | +0.0 | 25,308 |
 | J.J. McCarthy | QB | NYG | Josh Downs | +0.8 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Josh Downs | +0.5 | +0.0 | 0 |
 
-**DEF stream this week:** add KC D/ST for LAR D/ST (+1.9 pts this week)
+**DEF stream this week:** add KC D/ST for LAR D/ST (+1.8 pts this week)
 
 **K stream this week:** add Eddy Pineiro for Matt Gay (+0.3 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **114.2** – 141.0 projected · win chance **22%**
+vs **Touch of the Downs** (2-6): you **114.0** – 141.1 projected · win chance **22%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 2 | 132.7 | 100% |
-| 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 5 | 128.9 | 98% |
-| 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 1 | 132.8 | 99% |
+| 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 2 | 132.8 | 100% |
+| 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 5 | 128.8 | 98% |
+| 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 1 | 133.1 | 99% |
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 7 | 124.4 | 86% |
-| 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 130.8 | 91% |
+| 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 130.9 | 91% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 6 | 124.7 | 41% |
-| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 112.8 | 17% |
+| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 112.8 | 16% |
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 8 | 121.8 | 28% |
-| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 10 | 109.0 | 9% |
-| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 129.7 | 32% |
+| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 10 | 108.9 | 9% |
+| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 129.8 | 32% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -61,9 +61,9 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 9 | Wk 10 | Wk 11 | Wk 12 |
 |---|---|---|---|---|---|---|---|---|
-| LAR D/ST | DEF | LAR | starter |  | 6.6 | 8.1 | 0.0 | 7.2 |
+| LAR D/ST | DEF | LAR | starter |  | 6.7 | 8.1 | 0.0 | 7.2 |
 | Matt Gay | K | LV | starter |  | 8.2 | 8.0 | 8.5 | 8.5 |
-| Jared Goff | QB | DET | starter |  | 19.9 | 17.4 | 19.2 | 20.7 |
+| Jared Goff | QB | DET | starter |  | 19.8 | 17.4 | 19.2 | 20.7 |
 | Josh Jacobs | RB | GB | starter |  | 13.9 | 14.5 | 0.0 | 13.5 |
 | Quinshon Judkins | RB | CLE | starter |  | 12.2 | 10.5 | 0.0 | 12.1 |
 | George Kittle | TE | SF | starter |  | 15.7 | 16.1 | 14.4 | 14.6 |
