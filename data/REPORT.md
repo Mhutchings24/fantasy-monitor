@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-08T17:40:34Z UTC
+Week 9 · record 3-5 · updated 2026-11-08T17:50:46Z UTC
 
 ## Lineup check
-Current lineup projects **114.0**, best possible **114.0**.
+Current lineup projects **114.1**, best possible **114.1**.
 
 - ✅ Your lineup is already the best one available.
 
@@ -16,19 +16,20 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | J.K. Dobbins | RB | DEN | Rico Dowdle | +2.0 | +0.0 | 0 |
 | Bryce Young | QB | CAR | Josh Downs | +2.0 | +0.0 | 0 |
 | Dalton Kincaid | TE | BUF | Josh Downs | +1.5 | +0.0 | 0 |
+| Alvin Kamara | RB | NO | Josh Downs | +1.2 | +1.2 | 213,344 |
 | Dallas Goedert | TE | PHI | Josh Downs | +1.1 | +0.0 | 0 |
-| Xavier Worthy | WR | KC | Josh Downs | +1.0 | +0.0 | 32,985 |
-| Alvin Kamara | RB | NO | Josh Downs | +1.0 | +1.0 | 208,944 |
-| Khalil Shakir | WR | BUF | Josh Downs | +0.9 | +0.0 | 25,731 |
+| Xavier Worthy | WR | KC | Josh Downs | +1.0 | +0.0 | 33,831 |
+| Khalil Shakir | WR | BUF | Josh Downs | +0.9 | +0.0 | 26,550 |
 | J.J. McCarthy | QB | NYG | Josh Downs | +0.8 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Josh Downs | +0.5 | +0.0 | 0 |
+| Kimani Vidal | RB | LAC | Rico Dowdle | +0.1 | +0.0 | 27,350 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.8 pts this week)
 
 **K stream this week:** add Eddy Pineiro for Matt Gay (+0.3 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **114.0** – 141.1 projected · win chance **22%**
+vs **Touch of the Downs** (2-6): you **114.1** – 141.1 projected · win chance **22%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -63,9 +64,9 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter |  | 6.7 | 8.1 | 0.0 | 7.2 |
 | Matt Gay | K | LV | starter |  | 8.2 | 8.0 | 8.5 | 8.5 |
-| Jared Goff | QB | DET | starter |  | 19.8 | 17.4 | 19.2 | 20.7 |
+| Jared Goff | QB | DET | starter |  | 19.9 | 17.4 | 19.2 | 20.7 |
 | Josh Jacobs | RB | GB | starter |  | 13.9 | 14.5 | 0.0 | 13.5 |
-| Quinshon Judkins | RB | CLE | starter |  | 12.2 | 10.5 | 0.0 | 12.1 |
+| Quinshon Judkins | RB | CLE | starter |  | 12.1 | 10.5 | 0.0 | 12.1 |
 | George Kittle | TE | SF | starter |  | 15.7 | 16.1 | 14.4 | 14.6 |
 | Omar Cooper Jr. | WR | NYJ | starter |  | 13.4 | 10.0 | 10.3 | 11.2 |
 | DJ Moore | WR | BUF | starter |  | 12.8 | 14.7 | 16.6 | 14.1 |
@@ -74,6 +75,6 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Rico Dowdle | RB | PIT | bench | BYE | 0.0 | 9.5 | 7.7 | 7.9 |
 | Brenton Strange | TE | JAX | bench |  | 9.7 | 10.8 | 10.7 | 11.3 |
 | Josh Downs | WR | IND | bench |  | 10.9 | 10.3 | 9.3 | 9.2 |
-| Jordyn Tyson | WR | NO | bench |  | 6.3 | 9.8 | 11.0 | 11.0 |
+| Jordyn Tyson | WR | NO | bench |  | 4.8 | 9.8 | 11.0 | 11.0 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
 | Mike Evans | WR | SF | reserve | Out | 0.0 | 15.7 | 17.4 | 17.8 |
