@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-08T22:21:18Z UTC
+Week 9 · record 3-5 · updated 2026-11-08T22:31:26Z UTC
 
 ## Lineup check
 Current lineup projects **113.0**, best possible **113.0**.
@@ -16,13 +16,13 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | Bryce Young | QB | CAR | Josh Downs | +2.3 | +0.0 | 0 |
 | J.K. Dobbins | RB | DEN | Rico Dowdle | +2.0 | +0.0 | 0 |
 | Dalton Kincaid | TE | BUF | Josh Downs | +1.5 | +0.0 | 0 |
-| Alvin Kamara | RB | NO | Josh Downs | +1.2 | +1.2 | 191,040 |
+| Alvin Kamara | RB | NO | Josh Downs | +1.2 | +1.2 | 191,304 |
 | Dallas Goedert | TE | PHI | Josh Downs | +1.1 | +0.0 | 0 |
-| Xavier Worthy (Out) | WR | KC | Josh Downs | +1.0 | +0.0 | 33,462 |
-| Khalil Shakir | WR | BUF | Josh Downs | +0.9 | +0.0 | 35,055 |
+| Xavier Worthy (Out) | WR | KC | Josh Downs | +1.0 | +0.0 | 33,480 |
+| Khalil Shakir | WR | BUF | Josh Downs | +0.9 | +0.0 | 35,487 |
 | J.J. McCarthy (Questionable) | QB | NYG | Josh Downs | +0.8 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Josh Downs | +0.5 | +0.0 | 0 |
-| Kimani Vidal | RB | LAC | Rico Dowdle | +0.1 | +0.0 | 40,740 |
+| Kimani Vidal | RB | LAC | Rico Dowdle | +0.1 | +0.0 | 40,765 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.8 pts this week)
 
