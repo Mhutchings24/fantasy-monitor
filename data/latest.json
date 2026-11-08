@@ -1,5 +1,5 @@
 {
- "content_hash": "6d3c0d6758afc66cddf05376b8fe8e59481a9280",
+ "content_hash": "a8d79a974c8835d9a6d785b40d5b85cd2de789b0",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -647,21 +647,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "LAC D/ST",
-   "pos": "DEF",
-   "proj_4wk": 23.8,
-   "proj_this_week": 5.45,
-   "status": null,
-   "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
    "name": "Trey Smack",
    "pos": "K",
    "proj_4wk": 23.8,
    "proj_this_week": 7.48,
    "status": null,
    "team": "GB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "LAC D/ST",
+   "pos": "DEF",
+   "proj_4wk": 23.8,
+   "proj_this_week": 5.45,
+   "status": null,
+   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -862,7 +862,7 @@
    "team": "SEA"
   }
  ],
- "generated_at": "2026-11-08T15:48:11Z",
+ "generated_at": "2026-11-08T15:53:16Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
