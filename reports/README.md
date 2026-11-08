@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 9
+- [Sun Nov 8 · AM](2026/week-09/2026-11-08-am.md) — Kamara still unadded: optional $0 add (drop Downs) and FLEX over Allen before 11 AM MT, now Low confidence (3-man NO backfield); no other changes; hold $100.
 - [Sat Nov 7 · PM](2026/week-09/2026-11-07-pm.md) — Miller cut: add Alvin Kamara ($0 FA), drop Downs, start Kamara at FLEX over Allen; Moore cleared, stays in; Tyson benched; hold $100.
 - [Sat Nov 7 · Flash 22:04](2026/week-09/2026-11-07-flash-2204.md) — Tyson off IR (Q): drop Strange, move Tyson to bench (Sleeper blocks moves until he leaves the IR slot); bench him this week, lineup unchanged; hold $100.
 - [Sat Nov 7 · Flash 20:04](2026/week-09/2026-11-07-flash-2004.md) — Moore cleared; lineup already optimal (115.4), no changes. Tyson reportedly activated: when off IR, drop Strange and bench Tyson.
