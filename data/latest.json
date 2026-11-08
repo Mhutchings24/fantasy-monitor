@@ -1,5 +1,5 @@
 {
- "content_hash": "0dd068372bfaa8e70e3652bbd323a5eb7f225534",
+ "content_hash": "d43ba96590808285d9d6a44aab7190b3c9582c48",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -340,15 +340,6 @@
    "team": "CAR"
   },
   {
-   "adds_24h": 0,
-   "name": "Kyler Murray",
-   "pos": "QB",
-   "proj_4wk": 30.7,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "MIN"
-  },
-  {
    "adds_24h": 33980,
    "name": "Kimani Vidal",
    "pos": "RB",
@@ -356,6 +347,15 @@
    "proj_this_week": 7.55,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Kyler Murray",
+   "pos": "QB",
+   "proj_4wk": 30.7,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "MIN"
   },
   {
    "adds_24h": 0,
@@ -835,7 +835,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-08T19:07:22Z",
+ "generated_at": "2026-11-08T19:12:26Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
