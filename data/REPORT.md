@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-08T16:29:03Z UTC
+Week 9 · record 3-5 · updated 2026-11-08T16:34:07Z UTC
 
 ## Lineup check
-Current lineup projects **114.1**, best possible **114.1**.
+Current lineup projects **114.2**, best possible **114.2**.
 
 - ✅ Your lineup is already the best one available.
 
@@ -29,7 +29,7 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 **K stream this week:** add Eddy Pineiro for Matt Gay (+0.3 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **114.1** – 140.9 projected · win chance **22%**
+vs **Touch of the Downs** (2-6): you **114.2** – 141.0 projected · win chance **22%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -43,9 +43,9 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 130.9 | 91% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 6 | 123.9 | 41% |
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 113.8 | 19% |
-| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 8 | 120.8 | 26% |
+| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 8 | 120.9 | 27% |
 | 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 10 | 109.0 | 9% |
-| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 129.4 | 33% |
+| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 129.5 | 33% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -64,7 +64,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter |  | 6.6 | 8.1 | 0.0 | 7.2 |
 | Matt Gay | K | LV | starter |  | 8.2 | 8.0 | 8.5 | 8.5 |
-| Jared Goff | QB | DET | starter |  | 19.8 | 17.3 | 19.2 | 20.7 |
+| Jared Goff | QB | DET | starter |  | 19.9 | 17.3 | 19.2 | 20.7 |
 | Josh Jacobs | RB | GB | starter |  | 13.9 | 14.5 | 0.0 | 13.5 |
 | Quinshon Judkins | RB | CLE | starter |  | 12.2 | 10.4 | 0.0 | 12.1 |
 | George Kittle | TE | SF | starter |  | 15.7 | 16.3 | 14.4 | 14.6 |

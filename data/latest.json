@@ -1,5 +1,5 @@
 {
- "content_hash": "10913c9bac9d32c404357c39bdb27453ae8a62fa",
+ "content_hash": "474c82a716daa18600b758e280a6ba0831dd5198",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -19,8 +19,8 @@
    "adds_24h": 90447,
    "name": "Malik Willis",
    "pos": "QB",
-   "proj_4wk": 67.7,
-   "proj_this_week": 17.66,
+   "proj_4wk": 67.8,
+   "proj_this_week": 17.82,
    "status": null,
    "team": "MIA"
   },
@@ -37,8 +37,8 @@
    "adds_24h": 0,
    "name": "J.J. McCarthy",
    "pos": "QB",
-   "proj_4wk": 64.5,
-   "proj_this_week": 15.48,
+   "proj_4wk": 64.3,
+   "proj_this_week": 15.31,
    "status": null,
    "team": "NYG"
   },
@@ -155,7 +155,7 @@
    "name": "Malik Washington",
    "pos": "WR",
    "proj_4wk": 41.5,
-   "proj_this_week": 10.81,
+   "proj_this_week": 10.83,
    "status": null,
    "team": "MIA"
   },
@@ -181,8 +181,8 @@
    "adds_24h": 22420,
    "name": "Joe Milton",
    "pos": "QB",
-   "proj_4wk": 40.2,
-   "proj_this_week": 12.42,
+   "proj_4wk": 40.1,
+   "proj_this_week": 12.26,
    "status": null,
    "team": "PHI"
   },
@@ -254,7 +254,7 @@
    "name": "Jake Bates",
    "pos": "K",
    "proj_4wk": 33.2,
-   "proj_this_week": 8.3,
+   "proj_this_week": 8.34,
    "status": null,
    "team": "DET"
   },
@@ -263,7 +263,7 @@
    "name": "Dallas Goedert",
    "pos": "TE",
    "proj_4wk": 32.8,
-   "proj_this_week": 9.78,
+   "proj_this_week": 9.74,
    "status": null,
    "team": "PHI"
   },
@@ -299,7 +299,7 @@
    "name": "Dominic Zvada",
    "pos": "K",
    "proj_4wk": 32.0,
-   "proj_this_week": 7.66,
+   "proj_this_week": 7.63,
    "status": null,
    "team": "NYG"
   },
@@ -314,21 +314,21 @@
   },
   {
    "adds_24h": 0,
+   "name": "Greg Dulcich",
+   "pos": "TE",
+   "proj_4wk": 31.0,
+   "proj_this_week": 8.22,
+   "status": null,
+   "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
    "name": "Ryan Fitzgerald",
    "pos": "K",
    "proj_4wk": 30.9,
    "proj_this_week": 7.54,
    "status": null,
    "team": "CAR"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Greg Dulcich",
-   "pos": "TE",
-   "proj_4wk": 30.9,
-   "proj_this_week": 8.2,
-   "status": null,
-   "team": "MIA"
   },
   {
    "adds_24h": 22965,
@@ -461,7 +461,7 @@
    "name": "Zane Gonzalez",
    "pos": "K",
    "proj_4wk": 27.2,
-   "proj_this_week": 7.1,
+   "proj_this_week": 7.14,
    "status": null,
    "team": "MIA"
   },
@@ -488,7 +488,7 @@
    "name": "NYG D/ST",
    "pos": "DEF",
    "proj_4wk": 26.5,
-   "proj_this_week": 8.02,
+   "proj_this_week": 7.98,
    "status": null,
    "team": "NYG"
   },
@@ -524,7 +524,7 @@
    "name": "Chris Bell",
    "pos": "WR",
    "proj_4wk": 26.0,
-   "proj_this_week": 6.97,
+   "proj_this_week": 6.99,
    "status": null,
    "team": "MIA"
   },
@@ -569,18 +569,9 @@
    "name": "Elijah Higgins",
    "pos": "TE",
    "proj_4wk": 25.2,
-   "proj_this_week": 5.53,
+   "proj_this_week": 5.54,
    "status": null,
    "team": "ARI"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Courtland Sutton",
-   "pos": "WR",
-   "proj_4wk": 25.1,
-   "proj_this_week": 7.27,
-   "status": null,
-   "team": "DEN"
   },
   {
    "adds_24h": 0,
@@ -590,6 +581,15 @@
    "proj_this_week": 6.48,
    "status": null,
    "team": "CIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Courtland Sutton",
+   "pos": "WR",
+   "proj_4wk": 25.1,
+   "proj_this_week": 7.27,
+   "status": null,
+   "team": "DEN"
   },
   {
    "adds_24h": 0,
@@ -629,21 +629,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Malachi Fields",
-   "pos": "WR",
-   "proj_4wk": 24.2,
-   "proj_this_week": 6.42,
-   "status": null,
-   "team": "NYG"
-  },
-  {
-   "adds_24h": 0,
    "name": "Chris Boswell",
    "pos": "K",
    "proj_4wk": 24.1,
    "proj_this_week": 0.0,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Malachi Fields",
+   "pos": "WR",
+   "proj_4wk": 24.1,
+   "proj_this_week": 6.35,
+   "status": null,
+   "team": "NYG"
   },
   {
    "adds_24h": 0,
@@ -656,21 +656,21 @@
   },
   {
    "adds_24h": 0,
+   "name": "AJ Barner",
+   "pos": "TE",
+   "proj_4wk": 23.8,
+   "proj_this_week": 7.95,
+   "status": null,
+   "team": "SEA"
+  },
+  {
+   "adds_24h": 0,
    "name": "LAC D/ST",
    "pos": "DEF",
    "proj_4wk": 23.8,
    "proj_this_week": 5.45,
    "status": null,
    "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
-   "name": "AJ Barner",
-   "pos": "TE",
-   "proj_4wk": 23.8,
-   "proj_this_week": 7.94,
-   "status": null,
-   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -748,8 +748,8 @@
    "adds_24h": 130472,
    "name": "Gregory Desrosiers",
    "pos": "RB",
-   "proj_4wk": 4.1,
-   "proj_this_week": 4.07,
+   "proj_4wk": 4.0,
+   "proj_this_week": 4.01,
    "status": null,
    "team": "NYG"
   },
@@ -775,8 +775,8 @@
    "adds_24h": 96649,
    "name": "Darius Cooper",
    "pos": "WR",
-   "proj_4wk": 14.8,
-   "proj_this_week": 8.71,
+   "proj_4wk": 14.7,
+   "proj_this_week": 8.6,
    "status": null,
    "team": "PHI"
   },
@@ -793,8 +793,8 @@
    "adds_24h": 59022,
    "name": "Elijah Mitchell",
    "pos": "RB",
-   "proj_4wk": 7.9,
-   "proj_this_week": 6.84,
+   "proj_4wk": 7.8,
+   "proj_this_week": 6.75,
    "status": null,
    "team": "PHI"
   },
@@ -853,7 +853,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-08T16:29:03Z",
+ "generated_at": "2026-11-08T16:34:07Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -883,7 +883,7 @@
    {
     "name": "Jared Goff",
     "pid": "3163",
-    "proj": 19.78,
+    "proj": 19.93,
     "slot": "QB"
    },
    {
@@ -935,8 +935,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 114.06,
-  "current_projected": 114.06,
+  "best_projected": 114.21,
+  "current_projected": 114.21,
   "gain": -0.0,
   "problems": [],
   "source": "matchup week 9",
@@ -1030,9 +1030,9 @@
    "week": 8
   },
   "matchup": {
-   "my_proj": 114.1,
-   "opp_best_possible": 140.92,
-   "opp_proj": 140.9,
+   "my_proj": 114.2,
+   "opp_best_possible": 141.01,
+   "opp_proj": 141.0,
    "opponent": "Touch of the Downs",
    "opponent_record": "2-6",
    "win_prob": 0.224
@@ -1073,7 +1073,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.197,
+    "first_seed_odds": 0.196,
     "losses": 2,
     "mine": false,
     "pa": 913.82,
@@ -1106,7 +1106,7 @@
      "10": 125.34,
      "11": 137.07,
      "12": 140.53,
-     "9": 127.47
+     "9": 127.54
     },
     "rank": 3,
     "roster_id": 4,
@@ -1120,7 +1120,7 @@
     "mine": false,
     "pa": 849.08,
     "pf": 967.6,
-    "playoff_odds": 0.849,
+    "playoff_odds": 0.848,
     "power_rank": 7,
     "proj_avg": 123.7,
     "proj_by_week": {
@@ -1148,7 +1148,7 @@
      "10": 131.24,
      "11": 113.29,
      "12": 137.61,
-     "9": 141.55
+     "9": 141.58
     },
     "rank": 5,
     "roster_id": 10,
@@ -1169,7 +1169,7 @@
      "10": 123.64,
      "11": 112.45,
      "12": 126.59,
-     "9": 132.99
+     "9": 133.06
     },
     "rank": 6,
     "roster_id": 1,
@@ -1183,14 +1183,14 @@
     "mine": false,
     "pa": 1009.1,
     "pf": 948.02,
-    "playoff_odds": 0.188,
+    "playoff_odds": 0.187,
     "power_rank": 9,
     "proj_avg": 113.8,
     "proj_by_week": {
      "10": 88.3,
      "11": 121.11,
      "12": 125.55,
-     "9": 120.39
+     "9": 120.36
     },
     "rank": 7,
     "roster_id": 6,
@@ -1204,14 +1204,14 @@
     "mine": false,
     "pa": 982.9,
     "pf": 937.8,
-    "playoff_odds": 0.265,
+    "playoff_odds": 0.266,
     "power_rank": 8,
-    "proj_avg": 120.8,
+    "proj_avg": 120.9,
     "proj_by_week": {
      "10": 110.88,
      "11": 110.22,
      "12": 131.97,
-     "9": 130.31
+     "9": 130.36
     },
     "rank": 8,
     "roster_id": 2,
@@ -1232,7 +1232,7 @@
      "10": 111.02,
      "11": 97.78,
      "12": 113.17,
-     "9": 114.06
+     "9": 114.21
     },
     "rank": 9,
     "roster_id": 7,
@@ -1248,12 +1248,12 @@
     "pf": 942.36,
     "playoff_odds": 0.33,
     "power_rank": 4,
-    "proj_avg": 129.4,
+    "proj_avg": 129.5,
     "proj_by_week": {
      "10": 132.82,
      "11": 105.69,
      "12": 138.33,
-     "9": 140.92
+     "9": 141.01
     },
     "rank": 10,
     "roster_id": 3,
@@ -1304,7 +1304,7 @@
     "10": 17.31,
     "11": 19.18,
     "12": 20.74,
-    "9": 19.78
+    "9": 19.93
    },
    "slot": "starter",
    "status": null,
@@ -1946,7 +1946,7 @@
     "10": 18.62,
     "11": 14.06,
     "12": 16.31,
-    "9": 15.48
+    "9": 15.31
    },
    "status": null,
    "stream": false,
@@ -1965,7 +1965,7 @@
     "10": 0.0,
     "11": 11.21,
     "12": 11.83,
-    "9": 9.78
+    "9": 9.74
    },
    "status": null,
    "stream": false,
