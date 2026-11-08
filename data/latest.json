@@ -1,5 +1,5 @@
 {
- "content_hash": "4a72214b0956f5e42631714d789cae6a60b806d4",
+ "content_hash": "43bccce973d722c66b1ef716355b7fab4c0acf20",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -611,21 +611,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "CIN D/ST",
-   "pos": "DEF",
-   "proj_4wk": 24.3,
-   "proj_this_week": 6.51,
-   "status": null,
-   "team": "CIN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Malachi Fields",
    "pos": "WR",
    "proj_4wk": 24.3,
    "proj_this_week": 6.44,
    "status": null,
    "team": "NYG"
+  },
+  {
+   "adds_24h": 0,
+   "name": "CIN D/ST",
+   "pos": "DEF",
+   "proj_4wk": 24.3,
+   "proj_this_week": 6.51,
+   "status": null,
+   "team": "CIN"
   },
   {
    "adds_24h": 16768,
@@ -871,7 +871,7 @@
    "team": "LAR"
   }
  ],
- "generated_at": "2026-11-08T00:37:02Z",
+ "generated_at": "2026-11-08T00:41:46Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
