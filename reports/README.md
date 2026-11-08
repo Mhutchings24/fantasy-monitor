@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 9
+- [Sun Nov 8 · Flash 23:06](2026/week-09/2026-11-08-flash-2306.md) — Jacobs (hand) left GB @ NE, questionable to return: no pivot left today (Hampton locked); watch his Week 10 practice status, Dowdle/Hampton are the fallbacks.
 - [Sun Nov 8 · Game day 12:55](2026/week-09/2026-11-08-gameday-1255.md) — No changes: Jacobs, Kittle, Gay have no designation; Hampton active but stays benched. If Jacobs is inactive, start Hampton before 2:05 PM MT. Moore (Mon) has no pivot.
 - [Sun Nov 8 · Flash 17:05](2026/week-09/2026-11-08-flash-1705.md) — Tyson's designation cleared (active, already on bench): no changes, keep him benched (6.3 proj vs Allen 11.4); lock 11 AM MT; hold $100.
 - [Sun Nov 8 · Game day 09:46](2026/week-09/2026-11-08-gameday-0946.md) — 1 PM starters all active; no changes, keep Allen at FLEX and skip Kamara (Estime lead role); Jacobs/Kittle inactives ~12:55 PM MT, Hampton pivot by 2:05 PM MT.
