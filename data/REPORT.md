@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-08T14:16:17Z UTC
+Week 9 · record 3-5 · updated 2026-11-08T14:26:25Z UTC
 
 ## Lineup check
-Current lineup projects **114.3**, best possible **114.3**.
+Current lineup projects **114.2**, best possible **114.2**.
 
 - ✅ Your lineup is already the best one available.
 
@@ -18,18 +18,18 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | Dalton Kincaid | TE | BUF | Josh Downs | +1.4 | +0.0 | 0 |
 | J.J. McCarthy | QB | NYG | Josh Downs | +1.2 | +0.0 | 0 |
 | Dallas Goedert | TE | PHI | Josh Downs | +0.9 | +0.0 | 0 |
-| Alvin Kamara | RB | NO | Keenan Allen | +0.9 | +0.9 | 142,440 |
-| Xavier Worthy | WR | KC | Josh Downs | +0.8 | +0.0 | 20,151 |
-| Khalil Shakir | WR | BUF | Josh Downs | +0.8 | +0.0 | 17,100 |
+| Alvin Kamara | RB | NO | Keenan Allen | +0.9 | +0.9 | 145,832 |
+| Xavier Worthy | WR | KC | Josh Downs | +0.8 | +0.0 | 20,664 |
+| Khalil Shakir | WR | BUF | Josh Downs | +0.8 | +0.0 | 17,424 |
 | Juwan Johnson | TE | NO | Josh Downs | +0.4 | +0.0 | 0 |
-| Kimani Vidal | RB | LAC | Rico Dowdle | +0.1 | +0.0 | 17,525 |
+| Kimani Vidal | RB | LAC | Rico Dowdle | +0.1 | +0.0 | 18,070 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.9 pts this week)
 
 **K stream this week:** add Eddy Pineiro for Matt Gay (+0.3 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **114.3** – 138.7 projected · win chance **24%**
+vs **Touch of the Downs** (2-6): you **114.2** – 140.6 projected · win chance **23%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -38,14 +38,14 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 1 | 134.0 | 100% |
 | 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 5 | 128.8 | 98% |
-| 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 132.7 | 98% |
-| 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 7 | 123.7 | 85% |
+| 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 132.6 | 98% |
+| 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 7 | 123.8 | 85% |
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 131.0 | 91% |
-| 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 6 | 123.9 | 41% |
-| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 113.8 | 19% |
-| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 8 | 120.9 | 27% |
-| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 10 | 109.1 | 10% |
-| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 128.9 | 32% |
+| 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 6 | 124.0 | 41% |
+| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 114.0 | 19% |
+| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 8 | 120.8 | 27% |
+| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 10 | 109.0 | 9% |
+| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 129.4 | 33% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -55,7 +55,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Likely** · Give Jordyn Tyson + Omarion Hampton, get Ladd McConkey from Touch of the Downs: +1.1 pts/week for you, +0.4 for them.
 - **Likely** · Give Brenton Strange + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +1.0 pts/week for you, +0.5 for them.
 - **Possible** · Give Jordyn Tyson, get Ladd McConkey from Touch of the Downs: +2.2 pts/week for you, -0.2 for them.
-- **Possible** · Give Jared Goff + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +1.9 pts/week for you, -0.0 for them.
+- **Possible** · Give Jared Goff + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +2.0 pts/week for you, -0.0 for them.
 - **Possible** · Give Josh Downs, get Tony Pollard from I’m stuck Step Burrow: +1.8 pts/week for you, -0.5 for them.
 - **Possible** · Give Keenan Allen, get Tony Pollard from I’m stuck Step Burrow: +1.7 pts/week for you, -0.5 for them.
 
@@ -64,7 +64,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter |  | 6.6 | 8.1 | 0.0 | 7.2 |
 | Matt Gay | K | LV | starter |  | 8.2 | 8.0 | 8.5 | 8.5 |
-| Jared Goff | QB | DET | starter |  | 19.9 | 17.3 | 19.2 | 20.7 |
+| Jared Goff | QB | DET | starter |  | 19.8 | 17.3 | 19.2 | 20.7 |
 | Josh Jacobs | RB | GB | starter |  | 13.9 | 14.5 | 0.0 | 13.5 |
 | Quinshon Judkins | RB | CLE | starter |  | 12.2 | 10.4 | 0.0 | 12.1 |
 | George Kittle | TE | SF | starter |  | 15.7 | 16.3 | 14.4 | 14.6 |
