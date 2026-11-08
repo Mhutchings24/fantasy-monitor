@@ -1,5 +1,5 @@
 {
- "content_hash": "b5a13212ca2572b76b02980c8fee4475f7bcbbdf",
+ "content_hash": "4cd2f02ad4b9edfd540cfd6d324d31e29712176c",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -340,15 +340,6 @@
    "team": "CAR"
   },
   {
-   "adds_24h": 36165,
-   "name": "Kimani Vidal",
-   "pos": "RB",
-   "proj_4wk": 30.7,
-   "proj_this_week": 7.55,
-   "status": null,
-   "team": "LAC"
-  },
-  {
    "adds_24h": 0,
    "name": "Kyler Murray",
    "pos": "QB",
@@ -356,6 +347,15 @@
    "proj_this_week": 0.0,
    "status": "Out",
    "team": "MIN"
+  },
+  {
+   "adds_24h": 36165,
+   "name": "Kimani Vidal",
+   "pos": "RB",
+   "proj_4wk": 30.7,
+   "proj_this_week": 7.55,
+   "status": null,
+   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -674,21 +674,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "AJ Barner",
-   "pos": "TE",
-   "proj_4wk": 23.8,
-   "proj_this_week": 7.95,
-   "status": null,
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Trey Smack",
    "pos": "K",
    "proj_4wk": 23.8,
    "proj_this_week": 7.48,
    "status": null,
    "team": "GB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "AJ Barner",
+   "pos": "TE",
+   "proj_4wk": 23.8,
+   "proj_this_week": 7.95,
+   "status": null,
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -835,7 +835,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-08T19:58:19Z",
+ "generated_at": "2026-11-08T20:03:24Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1780,8 +1780,8 @@
      "name": "Jaylen Waddle",
      "pid": "7526",
      "pos": "WR",
-     "ros_per_week": 11.0,
-     "status": "Questionable",
+     "ros_per_week": 10.0,
+     "status": "Out",
      "team": "DEN"
     }
    ],
@@ -1800,7 +1800,7 @@
    "partner_roster_id": 1,
    "summary": "Give Josh Downs, get Jaylen Waddle from Bradsbaconisundercooked: +1.7 pts/week for you, -0.4 for them.",
    "their_gain_per_week": -0.4,
-   "value_ratio": 1.29,
+   "value_ratio": 1.17,
    "why_them": [
     "Josh Downs would start 1 of 9 weeks for them",
     "Jaylen Waddle only starts 2 of 9 weeks on their roster"
