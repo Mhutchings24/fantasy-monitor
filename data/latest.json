@@ -1,5 +1,5 @@
 {
- "content_hash": "eb4c1f98997d237d3fc85bdb5dc0804acf7e47cb",
+ "content_hash": "b3e16313027fb8a5c63687fd2ffb40ee464b33af",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -611,21 +611,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Malachi Fields",
-   "pos": "WR",
-   "proj_4wk": 24.3,
-   "proj_this_week": 6.44,
-   "status": null,
-   "team": "NYG"
-  },
-  {
-   "adds_24h": 0,
    "name": "CIN D/ST",
    "pos": "DEF",
    "proj_4wk": 24.3,
    "proj_this_week": 6.51,
    "status": null,
    "team": "CIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Malachi Fields",
+   "pos": "WR",
+   "proj_4wk": 24.3,
+   "proj_this_week": 6.44,
+   "status": null,
+   "team": "NYG"
   },
   {
    "adds_24h": 20120,
@@ -862,7 +862,7 @@
    "team": "NO"
   }
  ],
- "generated_at": "2026-11-08T10:26:21Z",
+ "generated_at": "2026-11-08T10:31:25Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1157,7 +1157,7 @@
      "10": 130.95,
      "11": 113.1,
      "12": 137.8,
-     "9": 141.86
+     "9": 141.84
     },
     "rank": 5,
     "roster_id": 10,
@@ -1213,14 +1213,14 @@
     "mine": false,
     "pa": 982.9,
     "pf": 937.8,
-    "playoff_odds": 0.27,
+    "playoff_odds": 0.269,
     "power_rank": 8,
-    "proj_avg": 121.4,
+    "proj_avg": 121.3,
     "proj_by_week": {
      "10": 112.05,
      "11": 110.22,
      "12": 132.85,
-     "9": 130.3
+     "9": 130.28
     },
     "rank": 8,
     "roster_id": 2,
@@ -1234,7 +1234,7 @@
     "mine": true,
     "pa": 946.24,
     "pf": 906.7,
-    "playoff_odds": 0.101,
+    "playoff_odds": 0.102,
     "power_rank": 10,
     "proj_avg": 109.9,
     "proj_by_week": {
@@ -1255,7 +1255,7 @@
     "mine": false,
     "pa": 1017.26,
     "pf": 942.36,
-    "playoff_odds": 0.318,
+    "playoff_odds": 0.319,
     "power_rank": 5,
     "proj_avg": 129.1,
     "proj_by_week": {
