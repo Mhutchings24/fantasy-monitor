@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-08T15:58:21Z UTC
+Week 9 · record 3-5 · updated 2026-11-08T16:03:25Z UTC
 
 ## Lineup check
-Current lineup projects **114.2**, best possible **114.2**.
+Current lineup projects **114.1**, best possible **114.1**.
 
 - ✅ Your lineup is already the best one available.
 
@@ -29,31 +29,31 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 **K stream this week:** add Eddy Pineiro for Matt Gay (+0.3 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **114.2** – 141.0 projected · win chance **22%**
+vs **Touch of the Downs** (2-6): you **114.1** – 140.9 projected · win chance **22%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 1 | 134.0 | 100% |
-| 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 5 | 128.8 | 98% |
+| 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 1 | 133.9 | 100% |
+| 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 5 | 128.7 | 98% |
 | 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 2 | 132.6 | 98% |
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 7 | 123.7 | 85% |
-| 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 131.0 | 91% |
+| 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 130.9 | 91% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 6 | 123.9 | 41% |
-| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 113.9 | 19% |
+| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 113.8 | 19% |
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 8 | 120.8 | 26% |
 | 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 10 | 109.0 | 9% |
-| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 129.5 | 33% |
+| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 129.4 | 33% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
 - **Likely** · Give Brenton Strange, get Stefon Diggs from Gibbs me Nabers 😵‍💫: +1.5 pts/week for you, +1.3 for them.
-- **Likely** · Give George Kittle, get Malik Nabers from Gibbs me Nabers 😵‍💫: +1.3 pts/week for you, +1.6 for them.
+- **Likely** · Give George Kittle, get Malik Nabers from Gibbs me Nabers 😵‍💫: +1.3 pts/week for you, +1.7 for them.
 - **Likely** · Give Jordyn Tyson + Omarion Hampton, get Ladd McConkey from Touch of the Downs: +1.1 pts/week for you, +0.4 for them.
-- **Likely** · Give Brenton Strange + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +1.0 pts/week for you, +0.5 for them.
+- **Likely** · Give Brenton Strange + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +1.0 pts/week for you, +0.4 for them.
 - **Possible** · Give Jordyn Tyson, get Ladd McConkey from Touch of the Downs: +2.2 pts/week for you, -0.2 for them.
 - **Possible** · Give Jared Goff + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +2.0 pts/week for you, -0.0 for them.
 - **Possible** · Give Josh Downs, get Tony Pollard from I’m stuck Step Burrow: +1.8 pts/week for you, -0.5 for them.
@@ -68,7 +68,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Josh Jacobs | RB | GB | starter |  | 13.9 | 14.5 | 0.0 | 13.5 |
 | Quinshon Judkins | RB | CLE | starter |  | 12.2 | 10.4 | 0.0 | 12.1 |
 | George Kittle | TE | SF | starter |  | 15.7 | 16.3 | 14.4 | 14.6 |
-| Omar Cooper Jr. | WR | NYJ | starter |  | 13.5 | 10.1 | 10.3 | 11.2 |
+| Omar Cooper Jr. | WR | NYJ | starter |  | 13.4 | 10.1 | 10.3 | 11.2 |
 | DJ Moore | WR | BUF | starter |  | 12.8 | 14.8 | 16.6 | 14.1 |
 | Keenan Allen | WR | IND | starter |  | 11.4 | 10.6 | 9.6 | 9.4 |
 | Omarion Hampton | RB | LAC | bench |  | 9.2 | 9.5 | 9.7 | 10.2 |
