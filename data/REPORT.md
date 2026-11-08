@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-08T20:44:25Z UTC
+Week 9 · record 3-5 · updated 2026-11-08T20:49:31Z UTC
 
 ## Lineup check
-Current lineup projects **115.2**, best possible **115.2**.
+Current lineup projects **115.3**, best possible **115.3**.
 
 - ✅ Your lineup is already the best one available.
 
@@ -26,10 +26,10 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.8 pts this week)
 
-**K stream this week:** add Eddy Pineiro for Matt Gay (+0.3 pts this week)
+**K stream this week:** add Eddy Pineiro for Matt Gay (+0.2 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **115.2** – 141.1 projected · win chance **23%**
+vs **Touch of the Downs** (2-6): you **115.3** – 141.1 projected · win chance **23%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -44,7 +44,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 6 | 124.8 | 41% |
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 112.8 | 16% |
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 8 | 121.8 | 28% |
-| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 10 | 109.2 | 9% |
+| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 10 | 109.3 | 9% |
 | 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 129.7 | 32% |
 
 ## Trade ideas
@@ -63,7 +63,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Player | Pos | Team | Spot | Status | Wk 9 | Wk 10 | Wk 11 | Wk 12 |
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter |  | 6.7 | 8.1 | 0.0 | 7.2 |
-| Matt Gay | K | LV | starter |  | 8.2 | 8.0 | 8.5 | 8.5 |
+| Matt Gay | K | LV | starter |  | 8.3 | 8.0 | 8.5 | 8.5 |
 | Jared Goff | QB | DET | starter |  | 19.9 | 17.4 | 19.2 | 20.7 |
 | Josh Jacobs | RB | GB | starter |  | 15.0 | 14.5 | 0.0 | 13.5 |
 | Quinshon Judkins | RB | CLE | starter |  | 12.1 | 10.5 | 0.0 | 12.1 |
