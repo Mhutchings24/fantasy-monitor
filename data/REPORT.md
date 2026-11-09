@@ -1,10 +1,11 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-09T21:29:34Z UTC
+Week 9 · record 3-5 · updated 2026-11-09T21:39:43Z UTC
 
 ## Lineup check
-Current lineup projects **113.0**, best possible **113.0**.
+Current lineup projects **100.2**, best possible **109.5**.
 
-- ✅ Your lineup is already the best one available.
+- ⚠️ Josh Jacobs (RB, GB) is Out
+- 🔁 Start Omarion Hampton (RB, LAC) (9.2) over Josh Jacobs (RB, GB) (0.0)
 
 ## Waiver targets
 FAAB left: **$100** (league starting budget $100)
@@ -13,13 +14,13 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| J.K. Dobbins | RB | DEN | Rico Dowdle | +2.0 | +0.0 | 0 |
-| Bryce Young | QB | CAR | Josh Downs | +1.8 | +0.0 | 30,296 |
+| Alvin Kamara | RB | NO | Josh Downs | +3.3 | +3.3 | 20,904 |
+| J.K. Dobbins | RB | DEN | Rico Dowdle | +2.4 | +0.4 | 0 |
+| Bryce Young | QB | CAR | Josh Downs | +1.8 | +0.0 | 28,580 |
 | Dalton Kincaid | TE | BUF | Josh Downs | +1.6 | +0.0 | 0 |
-| Alvin Kamara | RB | NO | Josh Downs | +1.2 | +1.2 | 22,232 |
 | Dallas Goedert | TE | PHI | Josh Downs | +1.1 | +0.0 | 0 |
 | Xavier Worthy (Out) | WR | KC | Josh Downs | +1.0 | +0.0 | 0 |
-| Khalil Shakir | WR | BUF | Josh Downs | +0.9 | +0.0 | 29,376 |
+| Khalil Shakir | WR | BUF | Josh Downs | +0.9 | +0.0 | 26,865 |
 | Juwan Johnson | TE | NO | Josh Downs | +0.5 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Rico Dowdle | +0.1 | +0.0 | 0 |
 
@@ -28,7 +29,7 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 **K stream this week:** add Eddy Pineiro for Matt Gay (+0.1 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **113.0** – 137.9 projected · win chance **24%**
+vs **Touch of the Downs** (2-6): you **100.2** – 137.9 projected · win chance **14%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -43,7 +44,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 6 | 124.8 | 41% |
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 112.6 | 16% |
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 8 | 123.9 | 32% |
-| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 10 | 109.0 | 9% |
+| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 10 | 108.1 | 8% |
 | 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 5 | 128.9 | 31% |
 
 ## Trade ideas
@@ -51,12 +52,12 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 
 - **Likely** · Give Brenton Strange, get Stefon Diggs from Gibbs me Nabers 😵‍💫: +1.5 pts/week for you, +1.3 for them.
 - **Likely** · Give George Kittle, get Malik Nabers from Gibbs me Nabers 😵‍💫: +1.3 pts/week for you, +1.7 for them.
+- **Likely** · Give Brenton Strange, get Jonah Coleman from Glizzy Globbler : +1.2 pts/week for you, +0.7 for them.
 - **Possible** · Give Jordyn Tyson, get Ladd McConkey from Touch of the Downs: +2.1 pts/week for you, -0.2 for them.
 - **Possible** · Give Jared Goff + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +1.9 pts/week for you, +0.2 for them.
 - **Possible** · Give Brenton Strange, get Ladd McConkey from Touch of the Downs: +1.8 pts/week for you, -0.2 for them.
 - **Possible** · Give Josh Downs, get Tony Pollard from I’m stuck Step Burrow: +1.8 pts/week for you, -0.5 for them.
 - **Possible** · Give Keenan Allen, get Tony Pollard from I’m stuck Step Burrow: +1.7 pts/week for you, -0.5 for them.
-- **Possible** · Give Josh Downs, get Jaylen Waddle from Bradsbaconisundercooked: +1.7 pts/week for you, -0.4 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 9 | Wk 10 | Wk 11 | Wk 12 |
@@ -64,8 +65,8 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | LAR D/ST | DEF | LAR | starter |  | 6.7 | 8.1 | 0.0 | 7.2 |
 | Matt Gay | K | LV | starter |  | 8.3 | 8.1 | 8.5 | 8.5 |
 | Jared Goff | QB | DET | starter |  | 19.9 | 17.9 | 19.2 | 20.7 |
-| Josh Jacobs | RB | GB | starter | Questionable | 12.8 | 14.7 | 0.0 | 13.5 |
 | Quinshon Judkins | RB | CLE | starter |  | 12.1 | 10.4 | 0.0 | 12.1 |
+| Josh Jacobs | RB | GB | starter | Out | 0.0 | 14.7 | 0.0 | 13.5 |
 | George Kittle | TE | SF | starter |  | 15.7 | 16.5 | 14.4 | 14.6 |
 | Omar Cooper Jr. | WR | NYJ | starter |  | 13.4 | 10.1 | 10.3 | 11.2 |
 | DJ Moore | WR | BUF | starter |  | 12.8 | 14.9 | 16.6 | 14.1 |
