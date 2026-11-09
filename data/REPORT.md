@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-09T13:18:16Z UTC
+Week 9 · record 3-5 · updated 2026-11-09T13:23:21Z UTC
 
 ## Lineup check
-Current lineup projects **113.0**, best possible **113.0**.
+Current lineup projects **113.1**, best possible **113.1**.
 
 - ✅ Your lineup is already the best one available.
 
@@ -28,7 +28,7 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 **K stream this week:** add Eddy Pineiro for Matt Gay (+0.1 pts this week)
 
 ## This week's matchup
-vs **Touch of the Downs** (2-6): you **113.0** – 137.9 projected · win chance **24%**
+vs **Touch of the Downs** (2-6): you **113.1** – 137.9 projected · win chance **24%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -36,15 +36,15 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 2 | 132.9 | 100% |
-| 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 5 | 128.9 | 98% |
+| 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 4 | 129.0 | 98% |
 | 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 1 | 133.4 | 99% |
 | 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 7 | 124.6 | 85% |
-| 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 129.9 | 90% |
+| 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 130.0 | 90% |
 | 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 6 | 124.8 | 41% |
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 112.6 | 16% |
 | 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 8 | 123.9 | 32% |
 | 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 10 | 109.0 | 9% |
-| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 4 | 128.9 | 31% |
+| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 5 | 128.9 | 31% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -68,7 +68,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Quinshon Judkins | RB | CLE | starter |  | 12.1 | 10.4 | 0.0 | 12.1 |
 | George Kittle | TE | SF | starter |  | 15.7 | 16.5 | 14.4 | 14.6 |
 | Omar Cooper Jr. | WR | NYJ | starter |  | 13.4 | 10.1 | 10.3 | 11.2 |
-| DJ Moore | WR | BUF | starter |  | 12.8 | 14.9 | 16.6 | 14.1 |
+| DJ Moore | WR | BUF | starter |  | 12.9 | 14.9 | 16.6 | 14.1 |
 | Keenan Allen | WR | IND | starter |  | 11.4 | 10.6 | 9.6 | 9.4 |
 | Omarion Hampton | RB | LAC | bench |  | 9.2 | 9.4 | 9.7 | 10.2 |
 | Rico Dowdle | RB | PIT | bench | BYE | 0.0 | 9.6 | 7.7 | 7.9 |
