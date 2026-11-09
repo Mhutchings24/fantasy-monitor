@@ -1,126 +1,120 @@
-# Week 9 · Sun Nov 8 PM report
-_Conorrhea · No Fun League · record 3-5 · data as of Sun Nov 8, 5:48 PM MT (monitor run 2026-11-09T00:48Z, fresh)_
+# Week 9 · Mon Nov 9 AM report
+_Conorrhea · No Fun League · record 3-5 · data as of Mon Nov 9, 7:36 AM MT (monitor run 2026-11-09T14:36Z, fresh)_
 
-_The monitor run triggered at 5:36 PM MT succeeded, so the data is fresh. One limitation: the monitor reports pregame projections, not live scores. Week 9 points below are my estimates from published stat lines._
+_The monitor run triggered at 7:36 AM MT succeeded. As before, the monitor shows pregame projections, not live scores, so Week 9 points are my estimates from published stat lines._
 
 ## Bottom line
-- **No lineup moves are possible this week.** Everyone has played except DJ Moore (BUF @ MIN, Mon 6:15 PM MT), and no bench player is still unlocked. Leave it alone.
-- **Week 9 is very likely a loss.** Goff (17/25, 170 yards, 0 TD, 1 INT), Jacobs (hurt in the 1st quarter, 4 carries for 5 yards) and Judkins (15 carries for 43 yards) all flopped. My estimate is about **57 points so far, ~70 after Moore**, against a 137.6 projection for Touch of the Downs.
-- **Waivers: claim Audric Estime (NO RB), bid $6–12, drop Josh Downs.** Estime led the Saints with 15 carries for 72 yards and a TD. He's needed for Week 11, when Jacobs and Judkins are both on bye, and as cover if Jacobs' hand costs him Week 10. Medium confidence.
-- **Watch Jacobs' hand.** There was no postgame update as of ~5:45 PM MT. The key news is GB's Monday/Wednesday report and whether there's a fracture.
-- **Week 10 early warning:** DET vs NE is in **Munich at 9:30 AM ET (7:30 AM MT) on Sunday.** Goff locks hours before everyone else. Mike Evans is "questionable at best" for Week 10, per Garafolo.
+- **Week 9: no moves possible.** Only DJ Moore is left (BUF @ MIN, **tonight 6:15 PM MT**), and every bench player has played. Moore has no injury designation and is expected to play. Leave the lineup alone.
+- **Jacobs has a fractured right ring finger**, per LaFleur ("He fractured a finger"). No surgery has been reported. Reporters expect him to play Week 10 vs MIN with protection. **My estimate: ~75% to play.** Plan to start him unless he misses practice Wednesday and Thursday.
+- **Waivers (still the top move): claim Audric Estime (NO RB) for $6–12, and drop Josh Downs.** He's still unrostered in your league. He covers Week 11, when Jacobs, Judkins and LAR D/ST are all on bye. Medium confidence.
+- **New option: Corey Kiner (NE RB), $1–3 as a second claim, only if you're willing to drop Hampton.** Stevenson (knee) left Sunday's game, and Henderson (illness) is out. But NE is on bye in Week 11, so Kiner only helps in Week 10. Low confidence. Skip him if you'd rather keep Hampton.
+- **Tuesday's trade deadline (4 PM ET)** could move Downs, Kamara or Jonathan Taylor. If Downs lands somewhere as a starter before the waiver run, drop Hampton for Estime instead.
 
 ## Recommended lineup
-Week 9 is locked apart from Moore. This is the lineup as played.
+Week 9 is locked apart from Moore. The lineup is unchanged from last night's report.
 
 | Slot | Player | Game (ET) | Proj | Plays? | Confidence | Why |
 |---|---|---|---|---|---|---|
-| QB | Jared Goff | DET 19 @ MIA 9 (final) | 19.9 | Played | — | 170 yds, 0 TD, 1 INT. Est. ~5 pts |
-| RB | Josh Jacobs | GB 45 @ NE 27 (final) | 12.8 | Left 1st qtr | — | Hand injury, did not return. Est. ~0.5 |
-| RB | Quinshon Judkins | CLE 22 @ NO 23 OT (final) | 12.1 | Played | — | 15-43, stuffed on 4th-and-goal at the 1. Est. ~5 |
-| WR | Omar Cooper Jr. | NYJ 12 vs KC 35 (final) | 13.4 | Played | — | 8 catches on 11 targets, 58 yds. Est. ~14 PPR |
-| WR | DJ Moore | BUF @ MIN, **Mon 8:15** | 12.8 | ~95% | Medium-High | No designation, limited all week (shoulder). No pivot exists. |
-| TE | George Kittle | LV 17 @ SF 38 (final) | 15.7 | Played | — | Full line not yet posted (catches of 37 and 12 found). Est. ~10 |
-| FLEX | Keenan Allen | DAL 27 @ IND 23 (final) | 11.4 | Played | — | 4 catches on 8 targets, 26 yds. Est. ~6.6 |
-| K | Matt Gay | LV @ SF (final) | 8.3 | Played | — | One 50-yd FG plus about 2 XPs. Est. ~7 |
-| DEF | LAR D/ST | LAR 20 @ WAS 13 (final) | 6.7 | Played | — | Allowed 13; Garrett 3 sacks, one a strip-sack. Est. ~8 |
-
-**Kamara call (AM report) in hindsight:** skipping him was right. Estime ran the offense, and Kamara got almost nothing until overtime.
+| QB | Jared Goff | DET @ MIA (final) | 19.9 | Played | — | Est. ~5 |
+| RB | Josh Jacobs | GB @ NE (final) | 12.8 | Left 1st qtr | — | Fractured finger. Est. ~0.5 |
+| RB | Quinshon Judkins | CLE @ NO (final) | 12.1 | Played | — | Est. ~5 |
+| WR | Omar Cooper Jr. | NYJ vs KC (final) | 13.4 | Played | — | Est. ~14 |
+| WR | DJ Moore | BUF @ MIN, **Mon 8:15** | 12.9 | ~95% | High | Limited Thu–Sat (shoulder), no designation. No pivot exists. |
+| TE | George Kittle | LV @ SF (final) | 15.7 | Played | — | Est. ~10 |
+| FLEX | Keenan Allen | DAL @ IND (final) | 11.4 | Played | — | Est. ~6.6 |
+| K | Matt Gay | LV @ SF (final) | 8.3 | Played | — | Est. ~7 |
+| DEF | LAR D/ST | LAR @ WAS (final) | 6.7 | Played | — | Est. ~8 |
 
 ## This week's matchup
-- **Touch of the Downs (2-6)** was projected at **137.6**. Pregame you were at **113.0** with a **24%** win chance (monitor).
-- After Sunday's results, my estimate is **~57 so far**, with Moore (12.8 proj) left. To win you'd need the opponent to finish below roughly 70–75. **Estimated win chance: under 5%.** That's a rough number, because the monitor doesn't show the opponent's live points.
-- The monitor doesn't list the opponent's players, so I can't check their injuries.
+- **Touch of the Downs (2-6)** was projected at **137.9** pregame. You were at **113.1**, with a **24%** win chance per the monitor.
+- My estimate is **~57 points so far**. Moore (12.9 proj) is your last player. BUF is about a 3-point favorite with a 44.5 total ([Covers, Nov 7](https://www.covers.com/nfl/bills-vs-vikings-prediction-picks-nov-9-2026)). That's a neutral script for Moore. Joshua Palmer (hamstring) is out, which should mean a few more targets for Moore.
+- **Estimated win chance: under 5%.** The monitor doesn't list the opponent's players or live scores, so I can't check whether they have anyone playing tonight.
 
 ## Key decisions
-### Week 9: nothing left to decide
-- Moore is your only player still to play, and no bench player is unlocked (Hampton, Allen, Downs and Tyson played today; Strange played Thursday; Dowdle was on bye). BUF inactives come out ~4:45 PM MT Monday. **No action. High confidence.**
+### Week 9: nothing to decide
+- Moore is the only player left, and no bench player is still unlocked. BUF inactives come out ~4:45 PM MT. Even if Moore were a surprise scratch, you'd have no move. **No action. High confidence.**
+
+### Josh Jacobs: Week 10 vs MIN (Sun 1:00 ET)
+- **News (Nov 8–9):** LaFleur: "He fractured a finger … he was just having a hard time gripping the ball." He also said "Hopefully we can do something to allow him to go out there" ([Heavy via Yahoo, Nov 9](https://sports.yahoo.com/articles/packers-coach-provides-tough-josh-043156361.html)). Jacobs told reporters it's his **right ring finger**, and the swelling had gone down ([AtoZ via Yahoo, Nov 9](https://sports.yahoo.com/articles/josh-jacobs-injury-packers-could-014732600.html); [SB Nation via Yahoo, Nov 9](https://sports.yahoo.com/articles/packers-rb-josh-jacobs-fractured-011511447.html)). No surgery has been reported. The expectation is that he plays Week 10 with protection.
+- **Chance to play: ~75% (estimate).** RBs often play through finger fractures with a club or wrap. Ball security is the risk: a fumble, or GB easing his workload.
+- **Role risk even if he plays:** Kaleb Johnson ran 14 times for 68 yards and a TD in his place. Jacobs has averaged only 2.2 yards per carry since his return ([ClutchPoints, Nov 8](https://clutchpoints.com/nfl/green-bay-packers/packers-news-matt-lafleur-reveals-tricky-josh-jacobs-injury-patriots-clash)). Expect a lower median, around 11 points instead of his 14.7 projection, and a real committee floor (~5).
+- **Call: start Jacobs in Week 10 if he practices (even limited) by Thursday. Medium confidence.** If he's DNP Wed–Fri, or listed Doubtful, start Dowdle (PIT @ CIN, SNF) or Estime if you get him. Dowdle's Sunday night game also makes him a late pivot.
+- **Kaleb Johnson** isn't in the monitor's free-agent list (he's likely rostered or on waivers), and GB is on bye in Week 11. Don't chase him.
 
 ### Waiver claim: Audric Estime (NO RB)
-- **News:** Estime had **15 carries for 72 yards and the go-ahead 2-yard TD** in a 23-22 OT win over CLE. Kamara barely played in regulation and got 6 carries for 32 yards in overtime ([Saints.com, Nov 8](https://www.neworleanssaints.com/news/cleveland-browns-new-orleans-saints-2026-nfl-week-9-game-recap); [Heavy, Nov 8](https://heavy.com/sports/nfl/new-orleans-saints/is-alvin-kamara-playing-today-why-saints-rb-isnt-getting-touches-trade-rumors/)). Donaldson and Etienne are hurt, and Kendre Miller was released.
-- **Why you need him:** in **Week 11, Jacobs, Judkins and LAR D/ST are all on bye.** Your only RBs that week would be Dowdle and Hampton, and Hampton is in a three-way committee ([DraftSharks, Nov 2](https://www.draftsharks.com/fantasy-football-news/83894/omarion-hamptons-still-right-where-we-left-him-buried-in-committee)). Estime also covers Week 10 if Jacobs sits.
-- **Matchup:** Week 10 is vs CAR at home. Sleeper still projects him low (11.8 over 4 weeks), which predates today's lead role.
-- **Demand:** 353k Sleeper adds in 24 hours. Others in your league will want him.
-- **Bid: $6–12 of your $100.** He's a volume back on a weak offense, not a league-winner, so keep most of your budget.
-- **Risk:** Kamara trade rumors before Tuesday's deadline. A Kamara trade would raise Estime's value. A new back signed by NO would lower it.
-- **Drop: Josh Downs.** He's your 6th WR once Evans is back, had 3 catches for 24 yards today, and Allen plays the same role. He has **requested a trade** (IND reportedly has a 4th-round offer, per Schefter via [Rotoworld](https://www.nbcsports.com/fantasy/football/player-news/2026-11-08/keenan-allen-goes-4-26-on-eight-looks-in-loss)). A trade could help or hurt his value. If he's moved to a team that needs a WR before waivers run, drop Hampton instead.
-- **Call: claim Estime, Medium confidence.** If he's still a free agent when you read this, add him now for $0.
+- **Still unrostered** in your league (275k Sleeper adds in 24h). Week 9: 48.6% of snaps, 15 carries for 72 yards and a TD, sharing the backfield with Kamara. Travis Etienne Jr. is eligible to return from IR, with no date set ([RotoBaller rankings, Nov 9](https://www.rotoballer.com/waiver-wire-rankings-fantasy-football-week-10-2026/1988192); [RotoBaller RB waivers, Nov 9](https://www.rotoballer.com/running-back-waiver-wire-pickups-fantasy-football-week-10-2026/1983153)).
+- **Why you need him:** in Week 11, Jacobs and Judkins are both on bye. He's also Week 10 insurance for Jacobs (vs CAR, a good matchup).
+- **Bid: $6–12** of your $100. **Drop: Josh Downs** (WR6 once Evans is back, and he has a trade request). **Confidence: Medium.**
+- **What changes it:** an Etienne activation this week lowers the bid to $3–5. A Kamara trade by Tuesday raises it to $12–18.
 
-### Josh Jacobs: plan for Week 10 (vs MIN, Sun 1:00 ET)
-- His hand was bent back in a facemask in the 1st quarter. He came back to the sideline with his fingers wrapped, went back inside, and did not re-enter ([Yahoo, Nov 8](https://sports.yahoo.com/nfl/breaking-news/article/packers-rb-josh-jacobs-leaves-patriots-game-with-hand-injury-221931293.html); [Heavy, Nov 8](https://heavy.com/sports/nfl/green-bay-packers/josh-jacobs-hand-injury/)). **No postgame update yet.**
-- Kaleb Johnson (11 carries, 59 yards, TD) and Pierre Strong handled the work. MarShawn Lloyd (knee) was inactive ([PFT, Nov 8](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-watson-matthew-golden-go-wild-in-45-27-packers-win)).
-- **Early estimate: ~65% to play Week 10.** Finger/hand injuries for RBs are often played through with a wrap, but a fracture is possible. GB is on bye in Week 11, so a short absence could cover two weeks.
-- **What flips it:** a fracture or surgery report → Estime, Dowdle and Hampton become your Week 10 RB2 options. A "day-to-day" or "just a sprain" → start Jacobs.
-- **Kaleb Johnson** is only a one-week handcuff (Week 10), because GB is off in Week 11. Don't spend FAAB on him unless Jacobs is ruled out.
+### Second claim: Corey Kiner (NE RB)?
+- **News:** Stevenson (knee) left late in the 3rd quarter and didn't return. Vrabel: "I'm not sure the extent of what it is … I don't want to speculate" ([MassLive via Yahoo, Nov 9](https://sports.yahoo.com/articles/rhamondre-stevenson-injury-163049052.html)). Henderson missed the game with an illness. Rotoworld says Kiner could be NE's top back in Week 10 ([NBC, Nov 8–9](https://www.nbcsports.com/nfl/rhamondre-stevenson/7069/news)). RotoBaller ranks him #6 overall this week.
+- **The catch:** Week 10 is NE vs DET in Munich at 9:30 AM ET, against a strong Lions team, so the game script could run away from him. **NE is on bye in Week 11**, the exact week you need RBs. And the roles depend on Stevenson's MRI.
+- **Call: optional, $1–3, drop Hampton.** Hampton has been buried in LAC's committee and projects only 9–10. **Low confidence.** If Stevenson's MRI shows only a minor injury, skip it.
 
 ## Injury watch
 | Player | Status | Latest news (date) | Chance to play | Next update |
 |---|---|---|---|---|
-| Josh Jacobs | Questionable (Sleeper) | Left with hand/finger injury, did not return; no postgame update (Nov 8) | ~65% Wk 10 (est.) | GB Mon presser, Wed practice |
-| DJ Moore | No designation | LP Thu–Sat (shoulder AC joint), cleared ([CBS, Nov 7](https://www.cbssports.com/fantasy/football/news/bills-dj-moore-in-clear-for-week-9/)) | ~95% | Mon inactives ~4:45 PM MT |
-| Mike Evans | Out (IR slot) | "Questionable at best" for Wk 10 @ DAL, Achilles tendinitis ([Rotoworld/Garafolo, Nov 8](https://www.nbcsports.com/fantasy/football/player-news/2026-11-08/garafolo-evans-questionable-at-best-for-week-10)) | ~35% Wk 10 (est.) | Wed practice |
-| Davante Adams | IR | Hamstring surgery; "shorter end" of 6–10 weeks, return around LAR's Wk 11 bye ([B/R, Oct 28](https://bleacherreport.com/articles/25524713-davante-adams-injury-return-timeline-updated-rams-sean-mcvay-after-hamstring-surgery)) | 0% until ~Wk 12 | IR activation news |
-| Jordyn Tyson | Active | Debuted: 4 catches, 30 yds, lost a fumble (Nov 8) | Healthy | — |
+| Josh Jacobs | Questionable (Sleeper) | Fractured right ring finger, no surgery reported, expected to play with protection (Nov 9) | ~75% Wk 10 (est.) | GB practice Wed |
+| DJ Moore | No designation | LP Thu–Sat (shoulder), expected to play ([Yahoo/D&C, Nov 9](https://sports.yahoo.com/articles/d-j-moore-playing-today-103053760.html)) | ~95% tonight | Inactives ~4:45 PM MT |
+| Mike Evans | Out (IR slot) | Achilles tendinitis, "questionable at best" for Wk 10 @ DAL (Garafolo) ([Athlon, Nov 8](https://athlonsports.com/nfl/trending/49ers-mike-evans-achilles-injury-wide-receiver-trade-deadline)) | ~35% Wk 10 (est.) | SF practice Wed |
+| Davante Adams | IR | Hamstring surgery, return around LAR's Wk 11 bye ([B/R, Oct 28](https://bleacherreport.com/articles/25524713-davante-adams-injury-return-timeline-updated-rams-sean-mcvay-after-hamstring-surgery)) | 0% until ~Wk 12 | IR activation |
+| Josh Downs | Healthy | Trade request; publicly says he's focused on IND ([ClutchPoints, Nov 5](https://clutchpoints.com/nfl/indianapolis-colts/colts-news-josh-downs-awkward-trade-situation)) | — | Deadline Tue 4 PM ET |
 
 ## Waivers & FAAB
 | Add | Drop | Bid | Why |
 |---|---|---|---|
-| **Audric Estime** (RB, NO) | Josh Downs | **$6–12** | Lead back now. Covers Week 11's double RB bye and a possible Jacobs absence. |
+| **Audric Estime** (RB, NO) | Josh Downs | **$6–12** | Lead/co-lead back. Covers the Wk 11 RB byes and Jacobs' finger. |
+| Corey Kiner (RB, NE), optional | Omarion Hampton | $1–3 | Possible Wk 10 starter if Stevenson sits. Bye in Wk 11. |
 
-- **Bryce Young** (3 TD today, vs NO in Week 10): good matchup, but Goff is your QB. Pass.
-- **J.K. Dobbins:** rookie Jonah Coleman took over (21 touches vs 5), and DEN is on bye in Week 10 ([Gazette, Nov 8](https://gazette.com/2026/11/08/broncos-jonah-coleman-not-jk-dobbins-panthers-wins/)). Pass.
-- **Kincaid, Goedert, Juwan Johnson:** none beat Kittle, and Strange is already your TE2. Goedert is on bye in Week 10. Pass.
-- **Xavier Worthy:** hamstring injury today, MRI pending ([SI, Nov 8](https://www.si.com/nfl/chiefs/onsi/chiefs-get-important-xavier-worthy-injury-update-after-win-over-jets)). Pass.
-- **Shakir:** steady 11–13 PPR, but no better than Allen or Tyson for you. Pass.
-- **Keep about $85+** after the Estime claim.
+- **Tank Dell (HOU WR):** 4 catches for 105 yards and a TD, 456k adds. But you have six WRs once Evans is back. Pass.
+- **Kenny Gainwell (TB):** TB is on bye in Week 10. Pass.
+- **Bryce Young, Kincaid, Goedert, Juwan Johnson, Shakir, Dobbins, Worthy:** same as last night. None helps your lineup. Pass.
+- **Keep about $85+.**
 
 ## Trades
-- **Goff + Cooper for Purdy (Never Going Go Scottsdale): reject.** Cooper is a starter while Garrett Wilson is out (8 catches on 11 targets today), and giving two players for one makes the Week 11 bye crunch worse. I didn't check Purdy's news this run.
-- **Strange for Diggs (Gibbs me Nabers): hold off.** Same as before. You don't need a WR once Evans returns, and Strange is your only Kittle insurance.
-- **Kittle for Nabers: reject.** You'd have no TE.
-- **The NFL trade deadline is Tuesday, Nov 10.** Downs (trade request), Kamara and possibly Jonathan Taylor could move. Recheck roles Wednesday.
+- **Goff + Cooper for Purdy: reject.** Two-for-one makes the Week 11 bye crunch worse, and Cooper is a starter.
+- **Strange for Diggs / Kittle for Nabers: reject or hold.** Strange is your only TE backup, and trading Kittle leaves you with no TE.
+- **Tyson for Ladd McConkey (Touch of the Downs): worth asking about.** It's +2.1/wk for you, but the engine says it's slightly negative for them, so expect a no. I didn't check McConkey's news this run. RotoBaller lists Tyson as an add in all leagues, so his value is rising. Low priority.
 
 ## Kicker & defense
-- **Week 10:** keep LAR D/ST (@ ARI). Better streams are GB vs MIN and NO vs CAR ([RotoBaller, Nov 4](https://www.rotoballer.com/defenses-def-to-start-in-week-10-2026-best-fantasy-football-streaming-options/1983423)), but you'd have to drop someone. Keep Gay (vs SEA).
-- **Week 11 (LAR bye):** plan to stream **BUF D/ST vs MIA**. It's a free agent now ([RotoBaller, Nov 7](https://www.rotoballer.com/fantasy-football-defense-d-st-rankings-streamers-for-weeks-9-10-11-12-2026/1983014)).
+- **Week 10:** keep LAR D/ST (@ ARI) and Gay (vs SEA).
+- **Week 11 (LAR bye):** stream **BUF D/ST vs MIA**, still a free agent. Claim it next week, not now, to save the roster spot.
 
 ## Looking ahead
-- **Week 10 kickoffs (ET):**
-  - Goff: DET vs NE in **Munich, 9:30 AM** (locks 7:30 AM MT).
-  - 1:00 PM: Jacobs (vs MIN), Judkins (vs HOU), Cooper and Moore (BUF @ NYJ, same game), Allen and Tyson (Allen IND vs MIA, Tyson NO vs CAR), Estime if added (NO vs CAR).
-  - Later: Gay (vs SEA, 4:05), LAR D/ST (@ ARI, 4:05), Kittle and Evans (@ DAL, 4:25), Dowdle (@ CIN, SNF), Hampton (@ BAL, MNF).
-  - Late games give you pivots: Dowdle Sunday night, Hampton Monday night.
-- **Week 11 byes:** GB (Jacobs), CLE (Judkins), LAR (D/ST). Your RBs that week would be Dowdle, Hampton and Estime if added. Stream BUF D/ST.
-- **Roster crunch around Week 12:** when Adams returns, Allen, Tyson or Hampton is the next cut.
-- **Playoff odds are 9%** (monitor, 3-5, 9th of 10). A Week 9 loss makes it roughly 3-6, and you'd likely need 5–6 wins in the last 5 games. Ceiling plays matter from here on.
+- **Week 10 lock times (ET):**
+  - **Goff: DET vs NE, Munich, 9:30 AM (7:30 AM MT).**
+  - 1:00: Jacobs, Judkins, Cooper and Moore (same game), Allen, Tyson, Estime if added.
+  - 4:05: Gay, LAR D/ST.
+  - 4:25: Kittle, Evans.
+  - Late: Dowdle (SNF), Hampton (MNF).
+- **Week 11:** GB, CLE, LAR and NE are on bye. Your RBs that week would be Dowdle, Hampton and Estime if added.
+- **Week 12:** Adams returns, and Allen, Tyson or Hampton becomes the next cut.
+- **Playoff odds: 9%** (monitor). At 3-6 you'll likely need 5 wins in the last 5 games, so start ceiling plays.
 
 ## Changes since last report
-- **Since the 4:06 PM flash:** Jacobs did not return. GB won 45-27, with Kaleb Johnson scoring a TD in Jacobs' place. Still no postgame word on the hand.
-- **Since the AM report:** all Sunday games are final. Estimated score ~57 + Moore vs a 137.6 projection, so win chance fell from 23% to under 5% (estimate). Skipping Kamara was correct: Estime led the backfield.
-- **New:** Estime is a waiver priority for Week 11. Evans is "questionable at best" for Week 10. Downs requested a trade. The deadline is Tuesday.
-- **Monitor:** projection unchanged at 113.0 vs 137.6 (24%), because it uses pregame projections.
+- **Jacobs:** confirmed fractured right ring finger, with no surgery reported. Reporters expect him to play Week 10. My estimate rose from ~65% to ~75%.
+- **New option:** Corey Kiner, after Stevenson's knee injury and Henderson's illness. He's an optional cheap claim with Hampton as the drop.
+- **Moore:** still no designation, and the Monday morning reports expect him to play.
+- **Estime:** still unrostered. The recommendation and bid are unchanged.
+- **Monitor:** 113.1 vs 137.9 (24%), basically the same as before (113.0 vs 137.6).
 
 ## Sources
-- Sleeper league data, monitor run 2026-11-09T00:48Z (`data/latest.json`): 113.0 vs 137.6, 24%; Estime free agent (353k adds)
-- [Yahoo: Jacobs leaves Patriots game with hand injury (Nov 8)](https://sports.yahoo.com/nfl/breaking-news/article/packers-rb-josh-jacobs-leaves-patriots-game-with-hand-injury-221931293.html): did not re-enter
-- [Heavy: Josh Jacobs hand injury (Nov 8)](https://heavy.com/sports/nfl/green-bay-packers/josh-jacobs-hand-injury/)
-- [CBS/RotoWire: Jacobs exits with hand injury (Nov 8)](https://www.cbssports.com/fantasy/football/news/packers-josh-jacobs-exits-game-with-hand-injury/): 4 carries, 5 yards
-- [PFT: Watson, Golden go wild in 45-27 Packers win (Nov 8)](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-watson-matthew-golden-go-wild-in-45-27-packers-win): Kaleb Johnson 11-59-1
-- [Rotoworld: Goff held without a score (Nov 8)](https://www.nbcsports.com/fantasy/football/player-news/2026-11-08/goff-held-without-a-score-in-week-9-win)
-- [Yahoo: Judkins totals 43 rushing yards (Nov 8)](https://sports.yahoo.com/articles/quinshon-judkins-totals-43-rushing-233636410.html)
-- [FantasyPros: Cooper hauls eight passes (Nov 8)](https://www.fantasypros.com/nfl/news/618551/omar-cooper-jr-hauls-eight-passes-week-9.php)
-- [Rotoworld: Allen goes 4-26 on eight looks (Nov 8)](https://www.nbcsports.com/fantasy/football/player-news/2026-11-08/keenan-allen-goes-4-26-on-eight-looks-in-loss): Downs trade request
-- [PFT: Cowboys rally past Colts 27-23 (Nov 8)](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-rally-for-27-23-win-over-colts): Downs 3-24
-- [49ers Webzone: 49ers 38, Raiders 17 recap (Nov 8)](https://www.49erswebzone.com/articles/204917-recap-49ers-raiders-entertaining-38-17/): Kittle, Gay
-- [ESPN: Rams 20, Commanders 13 recap (Nov 8)](https://www.espn.com/nfl/recap/_/gameId/401873043)
-- [Saints.com: Browns-Saints recap (Nov 8)](https://www.neworleanssaints.com/news/cleveland-browns-new-orleans-saints-2026-nfl-week-9-game-recap): Estime 15-72-1, Tyson 4-30, Kamara OT carries
-- [Heavy: Why Kamara isn't getting touches (Nov 8)](https://heavy.com/sports/nfl/new-orleans-saints/is-alvin-kamara-playing-today-why-saints-rb-isnt-getting-touches-trade-rumors/)
-- [Rotoworld/Garafolo: Evans questionable at best for Week 10 (Nov 8)](https://www.nbcsports.com/fantasy/football/player-news/2026-11-08/garafolo-evans-questionable-at-best-for-week-10)
-- [CBS/RotoWire: DJ Moore in the clear for Week 9 (Nov 7)](https://www.cbssports.com/fantasy/football/news/bills-dj-moore-in-clear-for-week-9/)
+- Sleeper league data, monitor run 2026-11-09T14:36Z (`data/latest.json`): projections, free agents (Estime, Kiner), 24% win chance
+- [Heavy via Yahoo: Packers coach provides tough Jacobs update (Nov 9)](https://sports.yahoo.com/articles/packers-coach-provides-tough-josh-043156361.html): "He fractured a finger"
+- [SB Nation via Yahoo: Jacobs fractured his finger (Nov 9)](https://sports.yahoo.com/articles/packers-rb-josh-jacobs-fractured-011511447.html): right ring finger, per Schneidman
+- [AtoZ via Yahoo: Jacobs update could shape plans (Nov 9)](https://sports.yahoo.com/articles/josh-jacobs-injury-packers-could-014732600.html): expected to play Wk 10 with protection
+- [ClutchPoints: LaFleur reveals Jacobs injury (Nov 8)](https://clutchpoints.com/nfl/green-bay-packers/packers-news-matt-lafleur-reveals-tricky-josh-jacobs-injury-patriots-clash)
+- [Yahoo/Democrat & Chronicle: Is DJ Moore playing today? (Nov 9)](https://sports.yahoo.com/articles/d-j-moore-playing-today-103053760.html)
+- [SI: DJ Moore injury update (Nov 9)](https://www.si.com/betting/dj-moore-injury-update-betting-impact-for-bills-vs-vikings-in-nfl-week-9-2026)
+- [Covers: Bills vs Vikings odds (updated Nov 7)](https://www.covers.com/nfl/bills-vs-vikings-prediction-picks-nov-9-2026)
+- [Athlon: 49ers WR decision after Evans update (Nov 8)](https://athlonsports.com/nfl/trending/49ers-mike-evans-achilles-injury-wide-receiver-trade-deadline)
+- [MassLive via Yahoo: Rhamondre Stevenson injury update (Nov 9)](https://sports.yahoo.com/articles/rhamondre-stevenson-injury-163049052.html)
+- [MassLive via Yahoo: Patriots injuries pile up (Nov 9)](https://sports.yahoo.com/articles/patriots-ready-move-embarrassing-loss-101552746.html)
+- [NBC/Rotoworld: Stevenson news](https://www.nbcsports.com/nfl/rhamondre-stevenson/7069/news): Kiner could lead NE in Wk 10
+- [RotoBaller: Corey Kiner worth stashing (Nov 4)](https://www.rotoballer.com/player-news/corey-kiner-worth-stashing-amid-patriots-backfield-uncertainty/1983546)
+- [RotoBaller: Week 10 waiver rankings (Nov 9)](https://www.rotoballer.com/waiver-wire-rankings-fantasy-football-week-10-2026/1988192)
+- [RotoBaller: Week 10 RB waiver pickups (Nov 9)](https://www.rotoballer.com/running-back-waiver-wire-pickups-fantasy-football-week-10-2026/1983153)
+- [DraftKings Network: Week 10 waiver pickups (Nov 8)](https://dknetwork.draftkings.com/2026/11/08/best-fantasy-football-waiver-wire-pickups-for-week-10-2/)
+- [ClutchPoints: Josh Downs' awkward trade situation (Nov 5)](https://clutchpoints.com/nfl/indianapolis-colts/colts-news-josh-downs-awkward-trade-situation)
 - [Bleacher Report: Adams return timeline (Oct 28)](https://bleacherreport.com/articles/25524713-davante-adams-injury-return-timeline-updated-rams-sean-mcvay-after-hamstring-surgery)
-- [Gazette: Broncos lean on Jonah Coleman over Dobbins (Nov 8)](https://gazette.com/2026/11/08/broncos-jonah-coleman-not-jk-dobbins-panthers-wins/)
-- [SI: Xavier Worthy injury update (Nov 8)](https://www.si.com/nfl/chiefs/onsi/chiefs-get-important-xavier-worthy-injury-update-after-win-over-jets)
-- [DraftSharks: Hampton buried in committee (Nov 2)](https://www.draftsharks.com/fantasy-football-news/83894/omarion-hamptons-still-right-where-we-left-him-buried-in-committee)
-- [RotoBaller: Week 10 DEF streamers (Nov 4)](https://www.rotoballer.com/defenses-def-to-start-in-week-10-2026-best-fantasy-football-streaming-options/1983423) · [RotoBaller: DEF streamers Weeks 9–12 (Nov 7)](https://www.rotoballer.com/fantasy-football-defense-d-st-rankings-streamers-for-weeks-9-10-11-12-2026/1983014)
-- [ESPN: Week 10 schedule](https://www.espn.com/nfl/schedule/_/week/10/year/2026/seasontype/2) · [NBC: 2026 bye weeks](https://www.nbcsports.com/fantasy/football/news/nfl-bye-weeks-2026-complete-list-of-bye-weeks-for-all-32-teams)
-- [Heavy: Packers, Breece Hall and the trade deadline (Nov 8)](https://heavy.com/sports/nfl/green-bay-packers/breece-hall-jets-trade-josh-jacobs-injury/): deadline Tue Nov 10

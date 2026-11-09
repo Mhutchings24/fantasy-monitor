@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 9
+- [Mon Nov 9 · AM](2026/week-09/2026-11-09-am.md) — No Week 9 moves (only Moore tonight, cleared). Jacobs fractured ring finger, ~75% for Wk 10. Claim Estime $6–12 (drop Downs); optional Kiner $1–3 (drop Hampton).
 - [Sun Nov 8 · PM](2026/week-09/2026-11-08-pm.md) — No moves left (only Moore Mon); Week 9 likely a loss (~57 + Moore). Claim Audric Estime $6–12, drop Downs, for Week 11 RB byes/Jacobs hand; Goff locks 7:30 AM MT in Wk 10 (Munich).
 - [Sun Nov 8 · Flash 23:06](2026/week-09/2026-11-08-flash-2306.md) — Jacobs (hand) left GB @ NE, questionable to return: no pivot left today (Hampton locked); watch his Week 10 practice status, Dowdle/Hampton are the fallbacks.
 - [Sun Nov 8 · Game day 12:55](2026/week-09/2026-11-08-gameday-1255.md) — No changes: Jacobs, Kittle, Gay have no designation; Hampton active but stays benched. If Jacobs is inactive, start Hampton before 2:05 PM MT. Moore (Mon) has no pivot.
