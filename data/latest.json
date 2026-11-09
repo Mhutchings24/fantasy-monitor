@@ -1,5 +1,5 @@
 {
- "content_hash": "116a4e9677fbd5bf2fa61afe7f66ece06eb6378f",
+ "content_hash": "bd3f5d9d8dc6c1f643af62e0e5b80b9c948e3eb3",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -77,6 +77,15 @@
    "proj_this_week": 15.5,
    "status": null,
    "team": "DEN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Baker Mayfield",
+   "pos": "QB",
+   "proj_4wk": 48.0,
+   "proj_this_week": 16.14,
+   "status": null,
+   "team": "TB"
   },
   {
    "adds_24h": 0,
@@ -718,15 +727,6 @@
    "team": "CHI"
   },
   {
-   "adds_24h": 0,
-   "name": "DAL D/ST",
-   "pos": "DEF",
-   "proj_4wk": 23.4,
-   "proj_this_week": 6.18,
-   "status": null,
-   "team": "DAL"
-  },
-  {
    "adds_24h": 343980,
    "name": "Audric Estime",
    "pos": "RB",
@@ -835,7 +835,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-09T00:43:28Z",
+ "generated_at": "2026-11-09T00:48:33Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1034,7 +1034,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.505,
+    "first_seed_odds": 0.491,
     "losses": 2,
     "mine": false,
     "pa": 1045.02,
@@ -1055,12 +1055,12 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.22,
+    "first_seed_odds": 0.21,
     "losses": 2,
     "mine": false,
     "pa": 913.82,
     "pf": 960.38,
-    "playoff_odds": 0.979,
+    "playoff_odds": 0.981,
     "power_rank": 5,
     "proj_avg": 128.8,
     "proj_by_week": {
@@ -1076,12 +1076,12 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.193,
+    "first_seed_odds": 0.22,
     "losses": 3,
     "mine": false,
     "pa": 990.54,
     "pf": 1083.34,
-    "playoff_odds": 0.981,
+    "playoff_odds": 0.987,
     "power_rank": 1,
     "proj_avg": 133.2,
     "proj_by_week": {
@@ -1097,13 +1097,13 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.029,
+    "first_seed_odds": 0.028,
     "losses": 3,
     "mine": false,
     "pa": 849.08,
     "pf": 967.6,
-    "playoff_odds": 0.852,
-    "power_rank": 8,
+    "playoff_odds": 0.859,
+    "power_rank": 7,
     "proj_avg": 124.5,
     "proj_by_week": {
      "10": 125.28,
@@ -1118,12 +1118,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.052,
+    "first_seed_odds": 0.05,
     "losses": 4,
     "mine": false,
     "pa": 1104.36,
     "pf": 1110.86,
-    "playoff_odds": 0.896,
+    "playoff_odds": 0.901,
     "power_rank": 3,
     "proj_avg": 130.0,
     "proj_by_week": {
@@ -1144,8 +1144,8 @@
     "mine": false,
     "pa": 1070.2,
     "pf": 967.14,
-    "playoff_odds": 0.395,
-    "power_rank": 7,
+    "playoff_odds": 0.417,
+    "power_rank": 6,
     "proj_avg": 124.8,
     "proj_by_week": {
      "10": 125.14,
@@ -1165,7 +1165,7 @@
     "mine": false,
     "pa": 1009.1,
     "pf": 948.02,
-    "playoff_odds": 0.154,
+    "playoff_odds": 0.165,
     "power_rank": 9,
     "proj_avg": 112.7,
     "proj_by_week": {
@@ -1181,17 +1181,17 @@
     "wins": 3
    },
    {
-    "first_seed_odds": 0.001,
+    "first_seed_odds": 0.0,
     "losses": 5,
     "mine": false,
     "pa": 982.9,
     "pf": 937.8,
-    "playoff_odds": 0.376,
-    "power_rank": 6,
-    "proj_avg": 126.2,
+    "playoff_odds": 0.284,
+    "power_rank": 8,
+    "proj_avg": 121.8,
     "proj_by_week": {
      "10": 111.58,
-     "11": 127.83,
+     "11": 110.22,
      "12": 131.97,
      "9": 133.62
     },
@@ -1207,7 +1207,7 @@
     "mine": true,
     "pa": 946.24,
     "pf": 906.7,
-    "playoff_odds": 0.083,
+    "playoff_odds": 0.092,
     "power_rank": 10,
     "proj_avg": 108.7,
     "proj_by_week": {
@@ -1228,7 +1228,7 @@
     "mine": false,
     "pa": 1017.26,
     "pf": 942.36,
-    "playoff_odds": 0.288,
+    "playoff_odds": 0.315,
     "power_rank": 4,
     "proj_avg": 128.8,
     "proj_by_week": {
