@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 9
+- [Mon Nov 9 · Flash 22:05](2026/week-09/2026-11-09-flash-2205.md) — Jacobs needs finger surgery, out 1–3 wks (~10% Wk 10, likely back Wk 12): raise Estime claim to $10–16 (drop Downs); Wk 10 start Judkins + Dowdle (Hampton pivot); keep Jacobs.
 - [Mon Nov 9 · AM](2026/week-09/2026-11-09-am.md) — No Week 9 moves (only Moore tonight, cleared). Jacobs fractured ring finger, ~75% for Wk 10. Claim Estime $6–12 (drop Downs); optional Kiner $1–3 (drop Hampton).
 - [Sun Nov 8 · PM](2026/week-09/2026-11-08-pm.md) — No moves left (only Moore Mon); Week 9 likely a loss (~57 + Moore). Claim Audric Estime $6–12, drop Downs, for Week 11 RB byes/Jacobs hand; Goff locks 7:30 AM MT in Wk 10 (Munich).
 - [Sun Nov 8 · Flash 23:06](2026/week-09/2026-11-08-flash-2306.md) — Jacobs (hand) left GB @ NE, questionable to return: no pivot left today (Hampton locked); watch his Week 10 practice status, Dowdle/Hampton are the fallbacks.
