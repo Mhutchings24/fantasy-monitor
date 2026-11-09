@@ -1,24 +1,25 @@
-# Flash: Josh Jacobs needs finger surgery, out 1–3 weeks
-_Conorrhea · No Fun League · Week 9 · Mon Nov 9, 3:05 PM MT · monitor data as of 21:58Z (refresh run at 22:02Z succeeded, no new data)_
+# Week 9 game-day check · Mon 4:53 PM MT
+_Conorrhea · No Fun League · record 3-5 · monitor data as of Mon Nov 9, 4:51 PM MT (refresh run at 23:51Z succeeded)_
 
-## What changed
-- **Josh Jacobs (RB, GB) will have surgery this week on his fractured right ring finger.** LaFleur announced it Monday. He said the return timeline is "to be determined" and, when asked about IR, said "everything's on the table" ([NFL.com, Nov 9](https://www.nfl.com/news/packers-rb-josh-jacobs-to-undergo-surgery-on-finger-this-week)).
-- CBS's Matt Zenitz reports he'll miss **1–3 weeks** ([NBC/Rotoworld, Nov 9](https://www.nbcsports.com/fantasy/football/player-news/2026-11-09/jacobs-finger-to-have-surgery-out-1-3-weeks)). Pelissero calls him "out indefinitely" ([RotoWire, Nov 9](https://www.rotowire.com/football/headlines/josh-jacobs-injury-finger-surgery-on-tap-ir-a-possibility-646836)). Sleeper now lists him **Out**.
-- This replaces this morning's estimate that he had a ~75% chance to play in Week 10. **New estimate: ~10% for Week 10 vs MIN.** GB is on bye in Week 11, so his likely return is **Week 12**, or later if he goes on IR (minimum four games).
-- **Kaleb Johnson** (rostered in your league) is GB's top healthy back. Pierre Strong is behind him, and Lloyd (knee) is out.
-- The monitor's "start Hampton over Jacobs" alert is about Week 9 and can be ignored. Both games are final, and only DJ Moore (tonight) is still to play.
+## Make these moves now
+- **No changes needed.** DJ Moore is **active** for BUF @ MIN (**6:15 PM MT / 8:15 PM ET**, locks at kickoff). He isn't on Buffalo's official inactive list. Every other player on your roster has already played, so you have no other move.
+- The monitor's "start Hampton over Jacobs" alert is stale. Hampton and Jacobs both played Sunday and are locked. Ignore it.
 
-## What to do
-1. **Week 9: nothing to change.** Moore plays tonight at 6:15 PM MT. No one else is unlocked.
-2. **Raise the Audric Estime (NO RB) claim to $10–16 of your $100, and drop Josh Downs.** He's now a likely Week 10 starter for you, not just Week 11 cover. Place the claim before the next waiver run. **Confidence: Medium.**
-3. **Week 10 RBs, if you don't get Estime:** start Judkins (10.4), plus **Rico Dowdle (PIT @ CIN, SNF, 9.6)** over Hampton (9.4). Dowdle's Sunday-night game leaves Hampton available as a pivot. If you do get Estime (vs CAR), start Judkins and Estime, with Dowdle at FLEX only if he projects above Allen.
-4. **Optional second claim: Corey Kiner (NE) for $1–3, dropping Hampton.** This one is a bit stronger than it was this morning, but it's still Week 10 only (NE is on bye in Week 11), and it's the Munich game vs DET. **Low confidence.** Skip Pierre Strong.
-5. **Keep Jacobs.** Don't drop him: he's the RB1 once he's back. Both reserve slots are full (Adams, Evans), so he stays on your bench. If Evans comes off IR, move Jacobs into that slot to free a bench spot.
-6. **Watch for:** an IR placement (that would mean no Jacobs until Week 14 or later and would make Estime more important), and Kamara or Etienne news by Tuesday's 4 PM ET trade deadline.
+## Inactives and late news
+| Player | Game (ET) | Status | Source (time) |
+|---|---|---|---|
+| DJ Moore (WR, BUF) | BUF @ MIN, Mon 8:15 | **Active**. He isn't on the official list: WR Skyler Bell, LT Dion Dawkins, LG Alec Anderson, DL Greg Gaines, OLB Mike Danna, S Jalon Kilgore. | [NBC/Rotoworld, Nov 9 6:47 PM ET](https://www.nbcsports.com/fantasy/football/player-news/2026-11-09/bills-down-two-ol-in-mnf-showdown-with-vikings) |
+| DJ Moore | — | ESPN reported him inactive earlier today. That was a mix-up with his Oct 12 MNF scratch at LAR. A league source says he's "fine and expected to play." | [SI/OnSI, Nov 9 6:00 PM ET](https://www.si.com/nfl/bills/onsi/dj-moore-playing-tonight-update-espn-miscommunication) |
+
+- **Context:** Dawkins (LT) is out, and Wentz starts for MIN because Kyler Murray (hamstring) is out ([ESPN, Nov 8](https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50357331/fantasy-football-injuries-nfl-week-9-inactive-active)). Moore projects 12.8. Week 9 is still very likely a loss (monitor win chance: 14%).
+
+## Still to decide
+- **Waivers:** the Estime claim from this afternoon's flash still stands ($10–16, drop Downs). Place it before the next waiver run.
+- **Trade deadline:** Tue 4 PM ET (2 PM MT).
+- **Jacobs:** he's having finger surgery. Watch for an IR placement this week.
 
 ## Sources
-- Sleeper league data via monitor (`data/latest.json`, 2026-11-09T21:58Z): Jacobs Out; Week 10 projections for Judkins 10.4, Dowdle 9.6, Hampton 9.4; Estime and Kiner free agents; $100 FAAB
-- [NFL.com: Packers RB Josh Jacobs to undergo surgery on finger this week; timeline to return TBD (Nov 9)](https://www.nfl.com/news/packers-rb-josh-jacobs-to-undergo-surgery-on-finger-this-week)
-- [NBC Sports/Rotoworld: Jacobs (finger) to have surgery, out 1–3 weeks (Nov 9, 20:08Z)](https://www.nbcsports.com/fantasy/football/player-news/2026-11-09/jacobs-finger-to-have-surgery-out-1-3-weeks)
-- [RotoWire: Finger surgery on tap, IR a possibility (Nov 9, 1:27 PM)](https://www.rotowire.com/football/headlines/josh-jacobs-injury-finger-surgery-on-tap-ir-a-possibility-646836)
-- [Yahoo Sports: Josh Jacobs to have surgery on fractured finger, out indefinitely](https://sports.yahoo.com/articles/josh-jacobs-surgery-fractured-finger-212432321.html)
+- Sleeper league data via monitor (`data/latest.json`, 2026-11-09T23:51Z)
+- [NBC Sports/Rotoworld: Bills down two OL in MNF showdown with Vikings (Nov 9, 6:47 PM ET)](https://www.nbcsports.com/fantasy/football/player-news/2026-11-09/bills-down-two-ol-in-mnf-showdown-with-vikings) — official BUF inactives
+- [SI/OnSI: Is DJ Moore playing tonight? (Nov 9, 6:00 PM ET)](https://www.si.com/nfl/bills/onsi/dj-moore-playing-tonight-update-espn-miscommunication) — ESPN report was a miscommunication
+- [ESPN: Inactives watch, Week 9 (Nov 8, 7:18 PM ET)](https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50357331/fantasy-football-injuries-nfl-week-9-inactive-active) — Moore likely to play; Murray out
