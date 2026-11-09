@@ -1,5 +1,5 @@
 {
- "content_hash": "5384dd9970490a664ea36e131af8a3997782e3f3",
+ "content_hash": "dc6e70868178581ed245f54d03f1caebb31be9cc",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -214,15 +214,6 @@
    "team": "SF"
   },
   {
-   "adds_24h": 63054,
-   "name": "Jordan Addison",
-   "pos": "WR",
-   "proj_4wk": 33.7,
-   "proj_this_week": 9.24,
-   "status": null,
-   "team": "MIN"
-  },
-  {
    "adds_24h": 0,
    "name": "Jake Ferguson",
    "pos": "TE",
@@ -230,6 +221,15 @@
    "proj_this_week": 7.06,
    "status": "Questionable",
    "team": "DAL"
+  },
+  {
+   "adds_24h": 63054,
+   "name": "Jordan Addison",
+   "pos": "WR",
+   "proj_4wk": 33.7,
+   "proj_this_week": 9.24,
+   "status": null,
+   "team": "MIN"
   },
   {
    "adds_24h": 0,
@@ -835,7 +835,7 @@
    "team": "WAS"
   }
  ],
- "generated_at": "2026-11-09T15:26:18Z",
+ "generated_at": "2026-11-09T15:31:23Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
