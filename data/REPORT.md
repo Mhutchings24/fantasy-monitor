@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-09T22:08:37Z UTC
+Week 9 · record 3-5 · updated 2026-11-09T22:13:42Z UTC
 
 ## Lineup check
 Current lineup projects **100.2**, best possible **109.5**.
@@ -17,7 +17,6 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 | Alvin Kamara | RB | NO | Josh Downs | +3.3 | +3.3 | 22,256 |
 | J.K. Dobbins | RB | DEN | Rico Dowdle | +2.4 | +0.4 | 0 |
 | Bryce Young | QB | CAR | Josh Downs | +1.8 | +0.0 | 29,956 |
-| Dalton Kincaid | TE | BUF | Josh Downs | +1.6 | +0.0 | 0 |
 | Dallas Goedert | TE | PHI | Josh Downs | +1.1 | +0.0 | 0 |
 | Xavier Worthy (Out) | WR | KC | Josh Downs | +1.0 | +0.0 | 0 |
 | Khalil Shakir | WR | BUF | Josh Downs | +0.9 | +0.0 | 30,843 |
@@ -53,9 +52,9 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Likely** · Give Brenton Strange, get Stefon Diggs from Gibbs me Nabers 😵‍💫: +1.5 pts/week for you, +1.3 for them.
 - **Likely** · Give George Kittle, get Malik Nabers from Gibbs me Nabers 😵‍💫: +1.3 pts/week for you, +1.7 for them.
 - **Likely** · Give Brenton Strange, get Jonah Coleman from Glizzy Globbler : +1.2 pts/week for you, +0.7 for them.
-- **Possible** · Give Jordyn Tyson, get Ladd McConkey from Touch of the Downs: +2.1 pts/week for you, -0.2 for them.
+- **Possible** · Give Jordyn Tyson, get Ladd McConkey from Touch of the Downs: +2.1 pts/week for you, -0.1 for them.
 - **Possible** · Give Jared Goff + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +1.9 pts/week for you, +0.2 for them.
-- **Possible** · Give Brenton Strange, get Ladd McConkey from Touch of the Downs: +1.8 pts/week for you, -0.2 for them.
+- **Possible** · Give Brenton Strange, get Ladd McConkey from Touch of the Downs: +1.8 pts/week for you, -0.1 for them.
 - **Possible** · Give Josh Downs, get Tony Pollard from I’m stuck Step Burrow: +1.8 pts/week for you, -0.5 for them.
 - **Possible** · Give Keenan Allen, get Tony Pollard from I’m stuck Step Burrow: +1.7 pts/week for you, -0.5 for them.
 

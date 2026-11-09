@@ -1,5 +1,5 @@
 {
- "content_hash": "2ffc0920e2e3475b992e25fd49c919a0dc47b93d",
+ "content_hash": "6cea1a55dc77880d3bec77ea0f26aaf0578d0e80",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -113,15 +113,6 @@
    "proj_this_week": 10.43,
    "status": null,
    "team": "NO"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Dalton Kincaid",
-   "pos": "TE",
-   "proj_4wk": 43.1,
-   "proj_this_week": 9.56,
-   "status": null,
-   "team": "BUF"
   },
   {
    "adds_24h": 0,
@@ -419,6 +410,15 @@
    "proj_this_week": 6.77,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 20424,
+   "name": "Demarcus Robinson",
+   "pos": "WR",
+   "proj_4wk": 28.0,
+   "proj_this_week": 7.91,
+   "status": null,
+   "team": "SF"
   },
   {
    "adds_24h": 0,
@@ -853,7 +853,7 @@
    "team": "NE"
   }
  ],
- "generated_at": "2026-11-09T22:08:37Z",
+ "generated_at": "2026-11-09T22:13:42Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1699,11 +1699,11 @@
    "likelihood": "Possible",
    "partner": "Touch of the Downs",
    "partner_roster_id": 3,
-   "summary": "Give Jordyn Tyson, get Ladd McConkey from Touch of the Downs: +2.1 pts/week for you, -0.2 for them.",
-   "their_gain_per_week": -0.2,
+   "summary": "Give Jordyn Tyson, get Ladd McConkey from Touch of the Downs: +2.1 pts/week for you, -0.1 for them.",
+   "their_gain_per_week": -0.1,
    "value_ratio": 1.29,
    "why_them": [
-    "Jordyn Tyson would start 1 of 9 weeks for them",
+    "Jordyn Tyson would start 0 of 9 weeks for them",
     "Ladd McConkey only starts 1 of 9 weeks on their roster"
    ],
    "why_you": [
@@ -1782,11 +1782,11 @@
    "likelihood": "Possible",
    "partner": "Touch of the Downs",
    "partner_roster_id": 3,
-   "summary": "Give Brenton Strange, get Ladd McConkey from Touch of the Downs: +1.8 pts/week for you, -0.2 for them.",
-   "their_gain_per_week": -0.2,
+   "summary": "Give Brenton Strange, get Ladd McConkey from Touch of the Downs: +1.8 pts/week for you, -0.1 for them.",
+   "their_gain_per_week": -0.1,
    "value_ratio": 1.17,
    "why_them": [
-    "Brenton Strange would start 1 of 9 weeks for them",
+    "Brenton Strange would start 0 of 9 weeks for them",
     "Ladd McConkey only starts 1 of 9 weeks on their roster"
    ],
    "why_you": [
@@ -1927,25 +1927,6 @@
    "stream": false,
    "team": "CAR",
    "trending_adds_24h": 29956
-  },
-  {
-   "drop": "9500",
-   "drop_name": "Josh Downs",
-   "gain_this_week": 0.0,
-   "gain_window": 1.58,
-   "name": "Dalton Kincaid",
-   "pid": "10236",
-   "pos": "TE",
-   "proj_by_week": {
-    "10": 10.99,
-    "11": 12.1,
-    "12": 10.45,
-    "9": 9.56
-   },
-   "status": null,
-   "stream": false,
-   "team": "BUF",
-   "trending_adds_24h": 0
   },
   {
    "drop": "9500",
