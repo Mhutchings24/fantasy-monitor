@@ -1,5 +1,5 @@
 {
- "content_hash": "e5425107de0ea04e68435f5ff169340b45018f0a",
+ "content_hash": "a8f0cb3adbc86298327c086a0c83f65c3d5b718c",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -44,21 +44,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Justin Herbert",
-   "pos": "QB",
-   "proj_4wk": 58.2,
-   "proj_this_week": 13.7,
-   "status": null,
-   "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
    "name": "Gardner Minshew II",
    "pos": "QB",
    "proj_4wk": 57.9,
    "proj_this_week": 11.57,
    "status": null,
    "team": "ARI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Justin Herbert",
+   "pos": "QB",
+   "proj_4wk": 56.2,
+   "proj_this_week": 11.64,
+   "status": "Questionable",
+   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -835,7 +835,7 @@
    "team": "NE"
   }
  ],
- "generated_at": "2026-11-09T01:19:13Z",
+ "generated_at": "2026-11-09T01:24:17Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
