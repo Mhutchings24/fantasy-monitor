@@ -1,5 +1,5 @@
 {
- "content_hash": "e4fb6d95b7f5dfc870570cc3d5472e97fae474ae",
+ "content_hash": "1a6a7395cc29b22063689effc29c979f148397c8",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -349,15 +349,6 @@
    "team": "CLE"
   },
   {
-   "adds_24h": 27616,
-   "name": "Alvin Kamara",
-   "pos": "RB",
-   "proj_4wk": 29.8,
-   "proj_this_week": 8.07,
-   "status": null,
-   "team": "NO"
-  },
-  {
    "adds_24h": 120440,
    "name": "Pat Bryant",
    "pos": "WR",
@@ -365,6 +356,15 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "DEN"
+  },
+  {
+   "adds_24h": 27616,
+   "name": "Alvin Kamara",
+   "pos": "RB",
+   "proj_4wk": 29.8,
+   "proj_this_week": 8.07,
+   "status": null,
+   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -898,7 +898,7 @@
    "team": "BUF"
   }
  ],
- "generated_at": "2026-11-10T12:12:51Z",
+ "generated_at": "2026-11-10T12:17:55Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
