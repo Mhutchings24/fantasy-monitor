@@ -1,11 +1,12 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-10T19:19:05Z UTC
+Week 10 · record 3-6 · updated 2026-11-10T19:29:14Z UTC
 
 ## Lineup check
-Current lineup projects **94.6**, best possible **106.1**.
+Current lineup projects **84.3**, best possible **105.9**.
 
 - ⚠️ Josh Jacobs (RB, GB) is Out
 - 🔁 Start Brenton Strange (TE, JAX) (11.0) over Josh Jacobs (RB, GB) (0.0)
+- 🔁 Start Josh Downs (WR, IND) (10.1) over Keenan Allen (WR, SF) (0.0)
 - 🔁 Start Rico Dowdle (RB, PIT) (9.7) over Omar Cooper Jr. (WR, NYJ) (9.2)
 
 ## Waiver targets
@@ -15,21 +16,22 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Bryce Young | QB | CAR | Omar Cooper Jr. | +2.6 | +1.0 | 110,900 |
+| Bryce Young | QB | CAR | Omar Cooper Jr. | +2.6 | +1.0 | 111,980 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +1.0 | +0.0 | 93,897 |
+| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +1.1 | +0.1 | 94,896 |
 | Xavier Worthy (Out) | WR | KC | Omar Cooper Jr. | +1.0 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Omar Cooper Jr. | +0.7 | +0.0 | 0 |
 | Zonovan Knight (Out) | RB | ARI | Omar Cooper Jr. | +0.4 | +0.0 | 0 |
 | Dallas Goedert | TE | PHI | Omar Cooper Jr. | +0.3 | +0.0 | 0 |
-| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.3 | +0.0 | 88,008 |
+| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.3 | +0.0 | 88,812 |
+| Malik Washington | WR | MIA | Omar Cooper Jr. | +0.1 | +0.1 | 0 |
 
 **DEF stream this week:** add BAL D/ST for LAR D/ST (+0.3 pts this week)
 
 **K stream this week:** add Jake Bates for Matt Gay (+0.9 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **94.6** – 71.2 projected · win chance **75%**
+vs **Never Going Go Scottsdale** (4-5): you **84.3** – 71.2 projected · win chance **64%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -40,7 +42,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 130.9 | 98% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.0 | 91% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 129.7 | 96% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.2 | 74% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.3 | 74% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 121.4 | 54% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 112.9 | 30% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 113.7 | 34% |
@@ -53,8 +55,8 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Likely** · Give George Kittle, get Malik Nabers from Gibbs me Nabers 😵‍💫: +2.0 pts/week for you, +1.2 for them.
 - **Likely** · Give Brenton Strange, get Stefon Diggs from Gibbs me Nabers 😵‍💫: +1.6 pts/week for you, +1.1 for them.
 - **Likely** · Give Jared Goff + Brenton Strange, get Brock Purdy from Never Going Go Scottsdale: +1.1 pts/week for you, +0.5 for them.
-- **Possible** · Give George Kittle + Omar Cooper Jr., get Bucky Irving from Glizzy Globbler : +2.1 pts/week for you, -0.4 for them.
 - **Possible** · Give Jared Goff + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +2.0 pts/week for you, +0.0 for them.
+- **Possible** · Give George Kittle + Omar Cooper Jr., get Bucky Irving from Glizzy Globbler : +2.0 pts/week for you, -0.4 for them.
 - **Possible** · Give George Kittle, get Chuba Hubbard from Glizzy Globbler : +1.9 pts/week for you, -0.5 for them.
 - **Possible** · Give Quinshon Judkins, get Tony Pollard from I’m stuck Step Burrow: +1.7 pts/week for you, -0.4 for them.
 - **Possible** · Give George Kittle, get Javonte Williams from Monangynecologist: +1.6 pts/week for you, -0.1 for them.
@@ -69,12 +71,12 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Josh Jacobs | RB | GB | starter | Out | 0.0 | 0.0 | 12.6 | 16.3 |
 | George Kittle | TE | SF | starter |  | 16.2 | 14.0 | 14.2 | 15.1 |
 | DJ Moore | WR | BUF | starter |  | 13.2 | 16.5 | 13.9 | 14.9 |
-| Keenan Allen | WR | IND | starter |  | 10.3 | 9.4 | 9.3 | 0.0 |
 | Omar Cooper Jr. | WR | NYJ | starter |  | 9.2 | 10.5 | 11.2 | 0.0 |
+| Keenan Allen | WR | SF | starter |  | 0.0 | 9.4 | 9.3 | 0.0 |
 | Rico Dowdle | RB | PIT | bench |  | 9.7 | 7.7 | 7.8 | 8.2 |
 | Omarion Hampton | RB | LAC | bench |  | 8.7 | 9.5 | 10.1 | 8.9 |
 | Brenton Strange | TE | JAX | bench |  | 11.0 | 10.6 | 11.2 | 11.1 |
-| Josh Downs | WR | IND | bench |  | 10.0 | 9.0 | 8.9 | 0.0 |
+| Josh Downs | WR | IND | bench |  | 10.1 | 9.0 | 8.9 | 0.0 |
 | Jordyn Tyson | WR | NO | bench |  | 6.8 | 11.3 | 11.2 | 10.5 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
 | Mike Evans | WR | SF | reserve | Out | 0.0 | 17.6 | 17.8 | 18.9 |
