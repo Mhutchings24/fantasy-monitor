@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-10T21:06:05Z UTC
+Week 10 · record 3-6 · updated 2026-11-10T21:11:08Z UTC
 
 ## Lineup check
 Current lineup projects **90.0**, best possible **104.6**.
@@ -80,4 +80,4 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Jordyn Tyson | WR | NO | bench |  | 6.8 | 11.3 | 11.2 | 10.5 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
 | Mike Evans | WR | SF | reserve | Out | 0.0 | 17.6 | 17.8 | 18.9 |
-| Josh Downs | WR | IND | bench |  | 0.0 | 9.0 | 8.9 | 0.0 |
+| Josh Downs | WR | KC | bench |  | 0.0 | 9.0 | 8.9 | 0.0 |
