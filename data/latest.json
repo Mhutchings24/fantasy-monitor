@@ -1,5 +1,5 @@
 {
- "content_hash": "04f5598dc426f272654ecbef506872a6d06bd60e",
+ "content_hash": "cc11ed8c9521a017a7bf64b5216dcfcb21836012",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -413,19 +413,19 @@
   },
   {
    "adds_24h": 0,
-   "name": "Chad Ryland",
-   "pos": "K",
+   "name": "Elijah Higgins",
+   "pos": "TE",
    "proj_4wk": 28.6,
-   "proj_this_week": 6.92,
+   "proj_this_week": 6.57,
    "status": null,
    "team": "ARI"
   },
   {
    "adds_24h": 0,
-   "name": "Elijah Higgins",
-   "pos": "TE",
+   "name": "Chad Ryland",
+   "pos": "K",
    "proj_4wk": 28.6,
-   "proj_this_week": 6.57,
+   "proj_this_week": 6.92,
    "status": null,
    "team": "ARI"
   },
@@ -566,21 +566,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Kyle Pitts Sr.",
-   "pos": "TE",
-   "proj_4wk": 25.0,
-   "proj_this_week": 8.4,
-   "status": null,
-   "team": "ATL"
-  },
-  {
-   "adds_24h": 0,
    "name": "Dylan Sampson",
    "pos": "RB",
    "proj_4wk": 25.0,
    "proj_this_week": 7.27,
    "status": null,
    "team": "CLE"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Kyle Pitts Sr.",
+   "pos": "TE",
+   "proj_4wk": 25.0,
+   "proj_this_week": 8.4,
+   "status": null,
+   "team": "ATL"
   },
   {
    "adds_24h": 0,
@@ -880,7 +880,7 @@
    "team": "WAS"
   }
  ],
- "generated_at": "2026-11-10T19:29:14Z",
+ "generated_at": "2026-11-10T19:34:20Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -976,14 +976,14 @@
   "source": "matchup week 10",
   "swaps": [
    {
-    "bench": "5850",
+    "bench": "1479",
     "start": "9480",
-    "text": "Start Brenton Strange (TE, JAX) (11.0) over Josh Jacobs (RB, GB) (0.0)"
+    "text": "Start Brenton Strange (TE, JAX) (11.0) over Keenan Allen (WR, SF) (0.0)"
    },
    {
-    "bench": "1479",
+    "bench": "5850",
     "start": "9500",
-    "text": "Start Josh Downs (WR, IND) (10.1) over Keenan Allen (WR, SF) (0.0)"
+    "text": "Start Josh Downs (WR, IND) (10.1) over Josh Jacobs (RB, GB) (0.0)"
    },
    {
     "bench": "13276",

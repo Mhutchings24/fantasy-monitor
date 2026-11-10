@@ -1,12 +1,12 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-10T19:29:14Z UTC
+Week 10 · record 3-6 · updated 2026-11-10T19:34:20Z UTC
 
 ## Lineup check
 Current lineup projects **84.3**, best possible **105.9**.
 
 - ⚠️ Josh Jacobs (RB, GB) is Out
-- 🔁 Start Brenton Strange (TE, JAX) (11.0) over Josh Jacobs (RB, GB) (0.0)
-- 🔁 Start Josh Downs (WR, IND) (10.1) over Keenan Allen (WR, SF) (0.0)
+- 🔁 Start Brenton Strange (TE, JAX) (11.0) over Keenan Allen (WR, SF) (0.0)
+- 🔁 Start Josh Downs (WR, IND) (10.1) over Josh Jacobs (RB, GB) (0.0)
 - 🔁 Start Rico Dowdle (RB, PIT) (9.7) over Omar Cooper Jr. (WR, NYJ) (9.2)
 
 ## Waiver targets
