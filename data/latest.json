@@ -1,5 +1,5 @@
 {
- "content_hash": "1773ea44e3db83ee300b4a6d1e3b42fce1d909d8",
+ "content_hash": "966a9a82099302eefd5c0b221c1af27e0b9fec71",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -619,15 +619,6 @@
    "team": "BAL"
   },
   {
-   "adds_24h": 14425,
-   "name": "Dylan Sampson",
-   "pos": "RB",
-   "proj_4wk": 24.8,
-   "proj_this_week": 8.58,
-   "status": null,
-   "team": "CLE"
-  },
-  {
    "adds_24h": 0,
    "name": "Zonovan Knight",
    "pos": "RB",
@@ -635,6 +626,15 @@
    "proj_this_week": 0.0,
    "status": "Out",
    "team": "ARI"
+  },
+  {
+   "adds_24h": 14425,
+   "name": "Dylan Sampson",
+   "pos": "RB",
+   "proj_4wk": 24.8,
+   "proj_this_week": 8.58,
+   "status": null,
+   "team": "CLE"
   },
   {
    "adds_24h": 0,
@@ -871,7 +871,7 @@
    "team": "NE"
   }
  ],
- "generated_at": "2026-11-10T04:50:07Z",
+ "generated_at": "2026-11-10T04:55:12Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
