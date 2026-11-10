@@ -1,5 +1,5 @@
 {
- "content_hash": "060e538c7a6c1b29f61a4307858b2e6f61b71642",
+ "content_hash": "c2a1a3f579f764c1acf39a46e46eea7157c1a88d",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -287,21 +287,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Xavier Worthy",
-   "pos": "WR",
-   "proj_4wk": 31.5,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "KC"
-  },
-  {
-   "adds_24h": 0,
    "name": "Drew Stevens",
    "pos": "K",
    "proj_4wk": 31.5,
    "proj_this_week": 7.55,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Xavier Worthy",
+   "pos": "WR",
+   "proj_4wk": 31.5,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "KC"
   },
   {
    "adds_24h": 0,
@@ -565,15 +565,6 @@
    "team": "NYJ"
   },
   {
-   "adds_24h": 15590,
-   "name": "Dylan Sampson",
-   "pos": "RB",
-   "proj_4wk": 25.0,
-   "proj_this_week": 7.27,
-   "status": null,
-   "team": "CLE"
-  },
-  {
    "adds_24h": 0,
    "name": "Kyle Pitts Sr.",
    "pos": "TE",
@@ -581,6 +572,15 @@
    "proj_this_week": 8.4,
    "status": null,
    "team": "ATL"
+  },
+  {
+   "adds_24h": 15590,
+   "name": "Dylan Sampson",
+   "pos": "RB",
+   "proj_4wk": 25.0,
+   "proj_this_week": 7.27,
+   "status": null,
+   "team": "CLE"
   },
   {
    "adds_24h": 0,
@@ -898,7 +898,7 @@
    "team": "NE"
   }
  ],
- "generated_at": "2026-11-10T05:30:59Z",
+ "generated_at": "2026-11-10T05:36:03Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
