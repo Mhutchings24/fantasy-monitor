@@ -1,5 +1,5 @@
 {
- "content_hash": "f7551df16bf55f684e03155766a59e89b1ae2968",
+ "content_hash": "44474b2a1cefef26e556d4e519d2b85f84e7c17c",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -223,15 +223,6 @@
    "team": "HOU"
   },
   {
-   "adds_24h": 26640,
-   "name": "Jordan Addison",
-   "pos": "WR",
-   "proj_4wk": 33.2,
-   "proj_this_week": 8.2,
-   "status": null,
-   "team": "MIN"
-  },
-  {
    "adds_24h": 0,
    "name": "Dallas Goedert",
    "pos": "TE",
@@ -239,6 +230,15 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "PHI"
+  },
+  {
+   "adds_24h": 26640,
+   "name": "Jordan Addison",
+   "pos": "WR",
+   "proj_4wk": 33.2,
+   "proj_this_week": 8.2,
+   "status": null,
+   "team": "MIN"
   },
   {
    "adds_24h": 0,
@@ -898,7 +898,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-10T10:22:11Z",
+ "generated_at": "2026-11-10T10:27:16Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
