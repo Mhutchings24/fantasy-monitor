@@ -1,12 +1,12 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-10T18:53:39Z UTC
+Week 10 · record 3-6 · updated 2026-11-10T18:58:44Z UTC
 
 ## Lineup check
-Current lineup projects **94.8**, best possible **106.2**.
+Current lineup projects **94.6**, best possible **106.1**.
 
 - ⚠️ Josh Jacobs (RB, GB) is Out
 - 🔁 Start Brenton Strange (TE, JAX) (11.0) over Josh Jacobs (RB, GB) (0.0)
-- 🔁 Start Rico Dowdle (RB, PIT) (9.6) over Omar Cooper Jr. (WR, NYJ) (9.2)
+- 🔁 Start Rico Dowdle (RB, PIT) (9.7) over Omar Cooper Jr. (WR, NYJ) (9.2)
 
 ## Waiver targets
 FAAB left: **$100** (league starting budget $100)
@@ -15,43 +15,43 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Bryce Young | QB | CAR | Omar Cooper Jr. | +2.6 | +1.0 | 107,144 |
+| Bryce Young | QB | CAR | Omar Cooper Jr. | +2.6 | +1.0 | 108,572 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +1.0 | +0.0 | 90,621 |
+| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +1.0 | +0.0 | 91,827 |
 | Xavier Worthy (Out) | WR | KC | Omar Cooper Jr. | +1.0 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Omar Cooper Jr. | +0.7 | +0.0 | 0 |
 | Zonovan Knight (Out) | RB | ARI | Omar Cooper Jr. | +0.4 | +0.0 | 0 |
 | Dallas Goedert | TE | PHI | Omar Cooper Jr. | +0.3 | +0.0 | 0 |
-| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.3 | +0.0 | 85,416 |
+| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.3 | +0.0 | 86,364 |
 
 **DEF stream this week:** add BAL D/ST for LAR D/ST (+0.3 pts this week)
 
-**K stream this week:** add Jake Bates for Matt Gay (+0.8 pts this week)
+**K stream this week:** add Jake Bates for Matt Gay (+0.9 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **94.8** – 71.2 projected · win chance **75%**
+vs **Never Going Go Scottsdale** (4-5): you **94.6** – 71.2 projected · win chance **75%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.8 | 100% |
+| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.9 | 100% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 130.9 | 98% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.1 | 91% |
-| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 129.7 | 97% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.1 | 74% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.0 | 91% |
+| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 129.7 | 96% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.2 | 74% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 121.4 | 54% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 112.9 | 30% |
-| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 113.8 | 34% |
-| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 118.3 | 21% |
-| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 105.1 | 2% |
+| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 113.7 | 34% |
+| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 118.4 | 21% |
+| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 105.0 | 2% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
 - **Likely** · Give George Kittle, get Malik Nabers from Gibbs me Nabers 😵‍💫: +2.0 pts/week for you, +1.2 for them.
-- **Likely** · Give Brenton Strange, get Stefon Diggs from Gibbs me Nabers 😵‍💫: +1.6 pts/week for you, +1.2 for them.
+- **Likely** · Give Brenton Strange, get Stefon Diggs from Gibbs me Nabers 😵‍💫: +1.6 pts/week for you, +1.1 for them.
 - **Likely** · Give Jared Goff + Brenton Strange, get Brock Purdy from Never Going Go Scottsdale: +1.1 pts/week for you, +0.5 for them.
 - **Possible** · Give George Kittle + Omar Cooper Jr., get Bucky Irving from Glizzy Globbler : +2.1 pts/week for you, -0.4 for them.
 - **Possible** · Give Jared Goff + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +2.0 pts/week for you, +0.0 for them.
@@ -63,7 +63,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Player | Pos | Team | Spot | Status | Wk 10 | Wk 11 | Wk 12 | Wk 13 |
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter |  | 8.2 | 0.0 | 7.2 | 6.7 |
-| Matt Gay | K | LV | starter |  | 8.1 | 8.5 | 8.5 | 0.0 |
+| Matt Gay | K | LV | starter |  | 7.9 | 8.5 | 8.5 | 0.0 |
 | Jared Goff | QB | DET | starter |  | 18.8 | 18.2 | 21.2 | 18.3 |
 | Quinshon Judkins | RB | CLE | starter |  | 10.8 | 0.0 | 12.4 | 12.4 |
 | Josh Jacobs | RB | GB | starter | Out | 0.0 | 0.0 | 12.6 | 16.3 |
@@ -71,7 +71,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | DJ Moore | WR | BUF | starter |  | 13.2 | 16.5 | 13.9 | 14.9 |
 | Keenan Allen | WR | IND | starter |  | 10.3 | 9.4 | 9.3 | 0.0 |
 | Omar Cooper Jr. | WR | NYJ | starter |  | 9.2 | 10.5 | 11.2 | 0.0 |
-| Rico Dowdle | RB | PIT | bench |  | 9.6 | 7.7 | 7.8 | 8.2 |
+| Rico Dowdle | RB | PIT | bench |  | 9.7 | 7.7 | 7.8 | 8.2 |
 | Omarion Hampton | RB | LAC | bench |  | 8.7 | 9.5 | 10.1 | 8.9 |
 | Brenton Strange | TE | JAX | bench |  | 11.0 | 10.6 | 11.2 | 11.1 |
 | Josh Downs | WR | IND | bench |  | 10.0 | 9.0 | 8.9 | 0.0 |
