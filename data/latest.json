@@ -1,5 +1,5 @@
 {
- "content_hash": "6555e89157131d3c3f9821c2d043018c0292369c",
+ "content_hash": "ae16e72e1908bb4e5a33506e6102f15a00956e09",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -502,15 +502,6 @@
    "team": "ARI"
   },
   {
-   "adds_24h": 0,
-   "name": "Zane Gonzalez",
-   "pos": "K",
-   "proj_4wk": 27.0,
-   "proj_this_week": 7.14,
-   "status": null,
-   "team": "MIA"
-  },
-  {
    "adds_24h": 25404,
    "name": "BAL D/ST",
    "pos": "DEF",
@@ -518,6 +509,15 @@
    "proj_this_week": 5.42,
    "status": null,
    "team": "BAL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Zane Gonzalez",
+   "pos": "K",
+   "proj_4wk": 27.0,
+   "proj_this_week": 7.14,
+   "status": null,
+   "team": "MIA"
   },
   {
    "adds_24h": 0,
@@ -862,7 +862,7 @@
    "team": "NE"
   }
  ],
- "generated_at": "2026-11-10T01:32:33Z",
+ "generated_at": "2026-11-10T01:37:39Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
