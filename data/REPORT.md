@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-10T00:00:40Z UTC
+Week 9 · record 3-5 · updated 2026-11-10T00:10:49Z UTC
 
 ## Lineup check
 Current lineup projects **100.2**, best possible **109.5**.
@@ -14,15 +14,15 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Alvin Kamara | RB | NO | Josh Downs | +3.3 | +3.3 | 22,064 |
+| Alvin Kamara | RB | NO | Josh Downs | +3.3 | +3.3 | 22,288 |
 | J.K. Dobbins | RB | DEN | Josh Downs | +2.7 | +0.4 | 0 |
-| Bryce Young | QB | CAR | Josh Downs | +2.3 | +0.0 | 30,028 |
-| Khalil Shakir | WR | BUF | Josh Downs | +1.1 | +0.0 | 32,391 |
+| Bryce Young | QB | CAR | Josh Downs | +2.3 | +0.0 | 30,316 |
+| Khalil Shakir | WR | BUF | Josh Downs | +1.1 | +0.0 | 32,787 |
 | Xavier Worthy (Out) | WR | KC | Josh Downs | +1.0 | +0.0 | 0 |
 | Bo Nix | QB | DEN | Josh Downs | +0.8 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Josh Downs | +0.7 | +0.0 | 0 |
 | Zonovan Knight (Out) | RB | ARI | Josh Downs | +0.6 | +0.0 | 0 |
-| Jakobi Meyers | WR | JAX | Josh Downs | +0.4 | +0.0 | 16,278 |
+| Jakobi Meyers | WR | JAX | Josh Downs | +0.4 | +0.0 | 16,542 |
 | Dallas Goedert | TE | PHI | Josh Downs | +0.1 | +0.0 | 0 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.8 pts this week)
