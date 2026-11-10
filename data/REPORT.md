@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-10T17:05:59Z UTC
+Week 10 · record 3-6 · updated 2026-11-10T17:16:07Z UTC
 
 ## Lineup check
 Current lineup projects **94.7**, best possible **106.1**.
@@ -15,14 +15,14 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Bryce Young | QB | CAR | Omar Cooper Jr. | +2.6 | +0.9 | 93,888 |
+| Bryce Young | QB | CAR | Omar Cooper Jr. | +2.6 | +0.9 | 96,208 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +1.0 | +0.0 | 77,967 |
+| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +1.0 | +0.0 | 79,731 |
 | Xavier Worthy (Out) | WR | KC | Omar Cooper Jr. | +1.0 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Omar Cooper Jr. | +0.7 | +0.0 | 0 |
 | Zonovan Knight (Out) | RB | ARI | Omar Cooper Jr. | +0.4 | +0.0 | 0 |
 | Dallas Goedert | TE | PHI | Omar Cooper Jr. | +0.3 | +0.0 | 0 |
-| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.3 | +0.0 | 76,176 |
+| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.3 | +0.0 | 77,466 |
 
 **DEF stream this week:** add BAL D/ST for LAR D/ST (+0.3 pts this week)
 
@@ -40,7 +40,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 130.8 | 98% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.1 | 91% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 129.5 | 96% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.2 | 74% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.1 | 74% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 121.4 | 54% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 112.9 | 30% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 114.0 | 35% |
