@@ -1,5 +1,5 @@
 {
- "content_hash": "aef723215ad01014fdca48d6a326bfa4151d821e",
+ "content_hash": "3a77d078c6fe29176c99edf7442ac3153f87ab1e",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -502,15 +502,6 @@
    "team": "ARI"
   },
   {
-   "adds_24h": 0,
-   "name": "Zane Gonzalez",
-   "pos": "K",
-   "proj_4wk": 27.0,
-   "proj_this_week": 7.14,
-   "status": null,
-   "team": "MIA"
-  },
-  {
    "adds_24h": 25089,
    "name": "BAL D/ST",
    "pos": "DEF",
@@ -518,6 +509,15 @@
    "proj_this_week": 5.42,
    "status": null,
    "team": "BAL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Zane Gonzalez",
+   "pos": "K",
+   "proj_4wk": 27.0,
+   "proj_this_week": 7.14,
+   "status": null,
+   "team": "MIA"
   },
   {
    "adds_24h": 0,
@@ -619,15 +619,6 @@
    "team": "BAL"
   },
   {
-   "adds_24h": 12165,
-   "name": "Dylan Sampson",
-   "pos": "RB",
-   "proj_4wk": 24.8,
-   "proj_this_week": 8.58,
-   "status": null,
-   "team": "CLE"
-  },
-  {
    "adds_24h": 0,
    "name": "Zonovan Knight",
    "pos": "RB",
@@ -635,6 +626,15 @@
    "proj_this_week": 0.0,
    "status": "Out",
    "team": "ARI"
+  },
+  {
+   "adds_24h": 12165,
+   "name": "Dylan Sampson",
+   "pos": "RB",
+   "proj_4wk": 24.8,
+   "proj_this_week": 8.58,
+   "status": null,
+   "team": "CLE"
   },
   {
    "adds_24h": 0,
@@ -871,7 +871,7 @@
    "team": "LAR"
   }
  ],
- "generated_at": "2026-11-10T01:52:56Z",
+ "generated_at": "2026-11-10T01:58:02Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
