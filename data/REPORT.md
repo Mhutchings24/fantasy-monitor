@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-10T19:48:11Z UTC
+Week 10 · record 3-6 · updated 2026-11-10T19:58:17Z UTC
 
 ## Lineup check
 Current lineup projects **90.3**, best possible **106.3**.
@@ -16,14 +16,14 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Bryce Young | QB | CAR | Omar Cooper Jr. | +2.6 | +1.0 | 113,212 |
+| Bryce Young | QB | CAR | Omar Cooper Jr. | +2.6 | +1.0 | 115,168 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +1.0 | +0.0 | 96,192 |
+| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +1.0 | +0.0 | 97,668 |
 | Xavier Worthy (Out) | WR | KC | Omar Cooper Jr. | +1.0 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Omar Cooper Jr. | +0.7 | +0.0 | 0 |
 | Zonovan Knight (Out) | RB | ARI | Omar Cooper Jr. | +0.4 | +0.0 | 0 |
 | Dallas Goedert | TE | PHI | Omar Cooper Jr. | +0.3 | +0.0 | 0 |
-| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.3 | +0.0 | 89,988 |
+| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.3 | +0.0 | 91,158 |
 
 **DEF stream this week:** add BAL D/ST for LAR D/ST (+0.3 pts this week)
 
@@ -38,12 +38,12 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.9 | 100% |
-| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 130.8 | 98% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 123.4 | 90% |
+| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 130.9 | 98% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.0 | 91% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 129.7 | 96% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.2 | 75% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 121.4 | 54% |
-| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 113.4 | 31% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.2 | 74% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 121.3 | 54% |
+| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 113.4 | 30% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 113.7 | 34% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 118.4 | 21% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 105.1 | 2% |
@@ -57,8 +57,8 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Possible** · Give George Kittle + Omar Cooper Jr., get Bucky Irving from Glizzy Globbler : +2.0 pts/week for you, -0.4 for them.
 - **Possible** · Give Jared Goff + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +2.0 pts/week for you, +0.0 for them.
 - **Possible** · Give George Kittle, get Chuba Hubbard from Glizzy Globbler : +1.9 pts/week for you, -0.5 for them.
+- **Possible** · Give Quinshon Judkins, get Tony Pollard from I’m stuck Step Burrow: +1.7 pts/week for you, -0.4 for them.
 - **Possible** · Give George Kittle, get Javonte Williams from Monangynecologist: +1.6 pts/week for you, -0.1 for them.
-- **Possible** · Give Rico Dowdle, get Tyler Allgeier from Bradsgay: +1.4 pts/week for you, -0.4 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 10 | Wk 11 | Wk 12 | Wk 13 |
