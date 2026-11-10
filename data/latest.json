@@ -1,5 +1,5 @@
 {
- "content_hash": "ac1aa39956654c24752dbeaeb7d4baf6f57fa5ea",
+ "content_hash": "71f625925dd6f77cff922c31c4483d7b5380a48c",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -385,15 +385,6 @@
    "team": "NE"
   },
   {
-   "adds_24h": 0,
-   "name": "Alvin Kamara",
-   "pos": "RB",
-   "proj_4wk": 28.6,
-   "proj_this_week": 6.9,
-   "status": null,
-   "team": "NO"
-  },
-  {
    "adds_24h": 42669,
    "name": "Courtland Sutton",
    "pos": "WR",
@@ -401,6 +392,15 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "DEN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Alvin Kamara",
+   "pos": "RB",
+   "proj_4wk": 28.6,
+   "proj_this_week": 6.9,
+   "status": null,
+   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -413,19 +413,19 @@
   },
   {
    "adds_24h": 0,
-   "name": "Chad Ryland",
-   "pos": "K",
+   "name": "Elijah Higgins",
+   "pos": "TE",
    "proj_4wk": 28.6,
-   "proj_this_week": 6.92,
+   "proj_this_week": 6.57,
    "status": null,
    "team": "ARI"
   },
   {
    "adds_24h": 0,
-   "name": "Elijah Higgins",
-   "pos": "TE",
+   "name": "Chad Ryland",
+   "pos": "K",
    "proj_4wk": 28.6,
-   "proj_this_week": 6.57,
+   "proj_this_week": 6.92,
    "status": null,
    "team": "ARI"
   },
@@ -566,21 +566,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Kyle Pitts Sr.",
-   "pos": "TE",
-   "proj_4wk": 25.0,
-   "proj_this_week": 8.4,
-   "status": null,
-   "team": "ATL"
-  },
-  {
-   "adds_24h": 0,
    "name": "Dylan Sampson",
    "pos": "RB",
    "proj_4wk": 25.0,
    "proj_this_week": 7.27,
    "status": null,
    "team": "CLE"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Kyle Pitts Sr.",
+   "pos": "TE",
+   "proj_4wk": 25.0,
+   "proj_this_week": 8.4,
+   "status": null,
+   "team": "ATL"
   },
   {
    "adds_24h": 0,
@@ -871,7 +871,7 @@
    "team": "JAX"
   }
  ],
- "generated_at": "2026-11-10T20:08:24Z",
+ "generated_at": "2026-11-10T20:13:28Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1186,7 +1186,7 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.741,
+    "playoff_odds": 0.742,
     "power_rank": 6,
     "proj_avg": 121.2,
     "proj_by_week": {
@@ -1207,7 +1207,7 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.537,
+    "playoff_odds": 0.538,
     "power_rank": 5,
     "proj_avg": 121.3,
     "proj_by_week": {
@@ -1228,7 +1228,7 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.305,
+    "playoff_odds": 0.307,
     "power_rank": 9,
     "proj_avg": 113.4,
     "proj_by_week": {
@@ -1249,11 +1249,11 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.337,
+    "playoff_odds": 0.331,
     "power_rank": 8,
-    "proj_avg": 113.7,
+    "proj_avg": 113.4,
     "proj_by_week": {
-     "10": 119.0,
+     "10": 118.02,
      "11": 105.55,
      "12": 121.63,
      "13": 108.58
@@ -1270,7 +1270,7 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.21,
+    "playoff_odds": 0.212,
     "power_rank": 7,
     "proj_avg": 118.4,
     "proj_by_week": {
