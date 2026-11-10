@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-10T23:23:42Z UTC
+Week 10 · record 3-6 · updated 2026-11-10T23:28:46Z UTC
 
 ## Lineup check
 Current lineup projects **89.9**, best possible **104.7**.
@@ -15,24 +15,24 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Bryce Young | QB | CAR | Keenan Allen | +2.5 | +0.8 | 143,904 |
-| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +2.0 | +0.9 | 121,437 |
+| Bryce Young | QB | CAR | Keenan Allen | +2.5 | +0.8 | 145,228 |
+| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +2.0 | +0.9 | 123,120 |
 | Bo Nix | QB | DEN | Keenan Allen | +1.8 | +0.0 | 0 |
 | Xavier Worthy (Out) | WR | KC | Keenan Allen | +1.0 | +0.0 | 0 |
-| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.8 | +0.5 | 107,820 |
+| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.8 | +0.5 | 108,924 |
 | Juwan Johnson | TE | NO | Keenan Allen | +0.7 | +0.0 | 0 |
 | Zonovan Knight (Out) | RB | ARI | Keenan Allen | +0.4 | +0.0 | 0 |
 | Pat Freiermuth | TE | PIT | Keenan Allen | +0.3 | +0.3 | 0 |
 | Dallas Goedert | TE | PHI | Keenan Allen | +0.3 | +0.0 | 0 |
 | Malik Washington | WR | MIA | Omar Cooper Jr. | +0.3 | +0.3 | 0 |
-| Demarcus Robinson | WR | SF | Omar Cooper Jr. | +0.2 | +0.2 | 175,656 |
+| Demarcus Robinson | WR | SF | Omar Cooper Jr. | +0.2 | +0.2 | 177,900 |
 
 **DEF stream this week:** add BAL D/ST for LAR D/ST (+0.2 pts this week)
 
 **K stream this week:** add Jake Bates for Matt Gay (+1.2 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **89.9** – 76.0 projected · win chance **65%**
+vs **Never Going Go Scottsdale** (4-5): you **89.9** – 76.8 projected · win chance **64%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -41,11 +41,11 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 130.0 | 100% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 131.1 | 98% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.0 | 91% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.2 | 91% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 129.7 | 96% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 5 | 121.8 | 75% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 5 | 121.9 | 75% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 6 | 121.4 | 53% |
-| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 113.4 | 30% |
+| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 113.5 | 30% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 114.2 | 35% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 118.3 | 20% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 104.7 | 2% |
@@ -55,11 +55,11 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 
 - **Likely** · Give George Kittle, get Malik Nabers from Gibbs me Nabers 😵‍💫: +2.0 pts/week for you, +1.2 for them.
 - **Likely** · Give Brenton Strange, get Stefon Diggs from Gibbs me Nabers 😵‍💫: +1.6 pts/week for you, +1.1 for them.
-- **Likely** · Give Jared Goff + Brenton Strange, get Brock Purdy from Never Going Go Scottsdale: +1.0 pts/week for you, +0.5 for them.
+- **Likely** · Give Jared Goff + Brenton Strange, get Brock Purdy from Never Going Go Scottsdale: +1.0 pts/week for you, +0.4 for them.
 - **Possible** · Give George Kittle, get Chuba Hubbard from Glizzy Globbler : +1.9 pts/week for you, -0.4 for them.
 - **Possible** · Give Quinshon Judkins, get Tony Pollard from I’m stuck Step Burrow: +1.8 pts/week for you, -0.4 for them.
 - **Possible** · Give George Kittle + Omar Cooper Jr., get Bucky Irving from Glizzy Globbler : +1.7 pts/week for you, -0.4 for them.
-- **Possible** · Give Jared Goff + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +1.7 pts/week for you, +0.1 for them.
+- **Possible** · Give Jared Goff + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +1.7 pts/week for you, -0.0 for them.
 - **Possible** · Give George Kittle, get Javonte Williams from Monangynecologist: +1.6 pts/week for you, -0.1 for them.
 
 ## Roster
