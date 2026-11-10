@@ -1,5 +1,5 @@
 {
- "content_hash": "baff48033f841aceb5b95773b8545fc08c2e3331",
+ "content_hash": "a0f66902afc062266ebfe97b775fd7de1f0a252a",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -385,15 +385,6 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 30248,
-   "name": "Alvin Kamara",
-   "pos": "RB",
-   "proj_4wk": 28.6,
-   "proj_this_week": 6.9,
-   "status": null,
-   "team": "NO"
-  },
-  {
    "adds_24h": 37260,
    "name": "Courtland Sutton",
    "pos": "WR",
@@ -401,6 +392,15 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "DEN"
+  },
+  {
+   "adds_24h": 30248,
+   "name": "Alvin Kamara",
+   "pos": "RB",
+   "proj_4wk": 28.6,
+   "proj_this_week": 6.9,
+   "status": null,
+   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -557,21 +557,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Kyle Pitts Sr.",
-   "pos": "TE",
-   "proj_4wk": 25.0,
-   "proj_this_week": 8.4,
-   "status": null,
-   "team": "ATL"
-  },
-  {
-   "adds_24h": 0,
    "name": "Dylan Sampson",
    "pos": "RB",
    "proj_4wk": 25.0,
    "proj_this_week": 7.27,
    "status": null,
    "team": "CLE"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Kyle Pitts Sr.",
+   "pos": "TE",
+   "proj_4wk": 25.0,
+   "proj_this_week": 8.4,
+   "status": null,
+   "team": "ATL"
   },
   {
    "adds_24h": 0,
@@ -889,7 +889,7 @@
    "team": "GB"
   }
  ],
- "generated_at": "2026-11-10T15:38:33Z",
+ "generated_at": "2026-11-10T15:43:37Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
