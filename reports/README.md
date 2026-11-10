@@ -3,6 +3,9 @@
 Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
+## 2026 · Week 10
+- [Mon Nov 9 · Flash 23:06](2026/week-10/2026-11-09-flash-2306.md) — Wk 10 lineup still starts Jacobs (Out): start Dowdle at RB, Strange at FLEX, bench Jacobs + Allen before Sun 7:30 AM MT; keep Estime $12 claim (drop Downs).
+
 ## 2026 · Week 9
 - [Mon Nov 9 · PM](2026/week-09/2026-11-09-pm.md) — Week 9 done after Moore (MNF). Claim Estime $12 ($10–16), drop Downs; Wk 10: Goff locks 7:30 AM MT, Judkins + Estime/Dowdle, Strange FLEX, bench Hampton; Evans out Wk 10.
 - [Mon Nov 9 · Game day 16:53](2026/week-09/2026-11-09-gameday-1653.md) — No changes needed: Moore active for BUF @ MIN (6:15 PM MT); the ESPN "inactive" report was a mix-up. Nothing else unlocked.
