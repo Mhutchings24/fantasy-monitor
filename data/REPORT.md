@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-10T21:57:02Z UTC
+Week 10 · record 3-6 · updated 2026-11-10T22:02:07Z UTC
 
 ## Lineup check
 Current lineup projects **90.0**, best possible **104.6**.
@@ -27,7 +27,7 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Demarcus Robinson | WR | SF | Omar Cooper Jr. | +0.2 | +0.2 | 157,374 |
 | Pat Freiermuth | TE | PIT | Keenan Allen | +0.1 | +0.1 | 0 |
 
-**DEF stream this week:** add BAL D/ST for LAR D/ST (+0.3 pts this week)
+**DEF stream this week:** add BAL D/ST for LAR D/ST (+0.2 pts this week)
 
 **K stream this week:** add Jake Bates for Matt Gay (+1.2 pts this week)
 
@@ -43,7 +43,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 130.5 | 98% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 123.9 | 91% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 129.7 | 96% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.4 | 74% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.5 | 74% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 121.5 | 55% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 113.4 | 31% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 113.6 | 33% |
@@ -55,12 +55,12 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 
 - **Likely** · Give George Kittle, get Malik Nabers from Gibbs me Nabers 😵‍💫: +2.0 pts/week for you, +1.2 for them.
 - **Likely** · Give Brenton Strange, get Stefon Diggs from Gibbs me Nabers 😵‍💫: +1.6 pts/week for you, +1.1 for them.
+- **Likely** · Give Jared Goff + Brenton Strange, get Brock Purdy from Never Going Go Scottsdale: +1.0 pts/week for you, +0.5 for them.
 - **Possible** · Give George Kittle, get Chuba Hubbard from Glizzy Globbler : +1.9 pts/week for you, -0.5 for them.
 - **Possible** · Give Quinshon Judkins, get Tony Pollard from I’m stuck Step Burrow: +1.7 pts/week for you, -0.4 for them.
 - **Possible** · Give George Kittle + Omar Cooper Jr., get Bucky Irving from Glizzy Globbler : +1.7 pts/week for you, -0.4 for them.
 - **Possible** · Give Jared Goff + Omar Cooper Jr., get Brock Purdy from Never Going Go Scottsdale: +1.7 pts/week for you, +0.0 for them.
 - **Possible** · Give George Kittle, get Javonte Williams from Monangynecologist: +1.6 pts/week for you, -0.1 for them.
-- **Possible** · Give Rico Dowdle, get Tyler Allgeier from Bradsgay: +1.4 pts/week for you, -0.4 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 10 | Wk 11 | Wk 12 | Wk 13 |
@@ -75,7 +75,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Omar Cooper Jr. | WR | NYJ | starter |  | 9.2 | 10.5 | 11.2 | 0.0 |
 | Keenan Allen | WR | SF | starter |  | 6.0 | 9.4 | 9.3 | 0.0 |
 | Rico Dowdle | RB | PIT | bench |  | 9.7 | 7.7 | 7.8 | 8.2 |
-| Omarion Hampton | RB | LAC | bench |  | 8.6 | 9.5 | 10.1 | 8.9 |
+| Omarion Hampton | RB | LAC | bench |  | 8.8 | 9.5 | 10.1 | 8.9 |
 | Brenton Strange | TE | JAX | bench |  | 10.9 | 10.6 | 11.2 | 11.1 |
 | Jordyn Tyson | WR | NO | bench |  | 6.8 | 11.3 | 11.2 | 10.5 |
 | Josh Downs | WR | KC | bench |  | 6.5 | 9.0 | 8.9 | 0.0 |

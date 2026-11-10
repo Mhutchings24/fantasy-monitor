@@ -1,5 +1,5 @@
 {
- "content_hash": "75d5caadedfe8ceb79a66c84cc95fccc767e41b6",
+ "content_hash": "f0e0e8c6530017f6627e9ce0e41af7f1761aef74",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -46,8 +46,8 @@
    "adds_24h": 0,
    "name": "Justin Herbert",
    "pos": "QB",
-   "proj_4wk": 54.6,
-   "proj_this_week": 11.5,
+   "proj_4wk": 55.0,
+   "proj_this_week": 11.85,
    "status": "Questionable",
    "team": "LAC"
   },
@@ -163,8 +163,8 @@
    "adds_24h": 0,
    "name": "Jacoby Brissett",
    "pos": "QB",
-   "proj_4wk": 39.3,
-   "proj_this_week": 13.48,
+   "proj_4wk": 39.2,
+   "proj_this_week": 13.38,
    "status": null,
    "team": "BAL"
   },
@@ -316,8 +316,8 @@
    "adds_24h": 0,
    "name": "Kimani Vidal",
    "pos": "RB",
-   "proj_4wk": 30.3,
-   "proj_this_week": 7.08,
+   "proj_4wk": 30.5,
+   "proj_this_week": 7.3,
    "status": null,
    "team": "LAC"
   },
@@ -353,7 +353,7 @@
    "name": "Cameron Dicker",
    "pos": "K",
    "proj_4wk": 29.4,
-   "proj_this_week": 7.0,
+   "proj_this_week": 7.07,
    "status": null,
    "team": "LAC"
   },
@@ -368,30 +368,21 @@
   },
   {
    "adds_24h": 0,
+   "name": "Quentin Johnston",
+   "pos": "WR",
+   "proj_4wk": 28.8,
+   "proj_this_week": 6.92,
+   "status": null,
+   "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
    "name": "Hunter Henry",
    "pos": "TE",
    "proj_4wk": 28.8,
    "proj_this_week": 10.16,
    "status": null,
    "team": "NE"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Quentin Johnston",
-   "pos": "WR",
-   "proj_4wk": 28.6,
-   "proj_this_week": 6.75,
-   "status": null,
-   "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Alvin Kamara",
-   "pos": "RB",
-   "proj_4wk": 28.6,
-   "proj_this_week": 6.9,
-   "status": null,
-   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -404,12 +395,12 @@
   },
   {
    "adds_24h": 0,
-   "name": "Elijah Higgins",
-   "pos": "TE",
+   "name": "Alvin Kamara",
+   "pos": "RB",
    "proj_4wk": 28.6,
-   "proj_this_week": 6.57,
+   "proj_this_week": 6.9,
    "status": null,
-   "team": "ARI"
+   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -417,6 +408,15 @@
    "pos": "K",
    "proj_4wk": 28.6,
    "proj_this_week": 6.92,
+   "status": null,
+   "team": "ARI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Elijah Higgins",
+   "pos": "TE",
+   "proj_4wk": 28.6,
+   "proj_this_week": 6.57,
    "status": null,
    "team": "ARI"
   },
@@ -623,7 +623,7 @@
    "name": "Mark Andrews",
    "pos": "TE",
    "proj_4wk": 24.1,
-   "proj_this_week": 8.2,
+   "proj_this_week": 8.16,
    "status": null,
    "team": "BAL"
   },
@@ -683,21 +683,21 @@
   },
   {
    "adds_24h": 0,
+   "name": "LAC D/ST",
+   "pos": "DEF",
+   "proj_4wk": 22.8,
+   "proj_this_week": 5.66,
+   "status": null,
+   "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
    "name": "DeMario Douglas",
    "pos": "WR",
    "proj_4wk": 22.8,
    "proj_this_week": 8.08,
    "status": null,
    "team": "NE"
-  },
-  {
-   "adds_24h": 0,
-   "name": "LAC D/ST",
-   "pos": "DEF",
-   "proj_4wk": 22.8,
-   "proj_this_week": 5.6,
-   "status": null,
-   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -784,8 +784,8 @@
    "adds_24h": 319779,
    "name": "BAL D/ST",
    "pos": "DEF",
-   "proj_4wk": 21.6,
-   "proj_this_week": 8.45,
+   "proj_4wk": 21.5,
+   "proj_this_week": 8.38,
    "status": null,
    "team": "BAL"
   },
@@ -871,7 +871,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-10T21:57:02Z",
+ "generated_at": "2026-11-10T22:02:07Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1092,7 +1092,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.516,
+    "first_seed_odds": 0.517,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1155,7 +1155,7 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.133,
+    "first_seed_odds": 0.132,
     "losses": 4,
     "mine": false,
     "pa": 1118.82,
@@ -1164,7 +1164,7 @@
     "power_rank": 3,
     "proj_avg": 129.7,
     "proj_by_week": {
-     "10": 129.04,
+     "10": 128.8,
      "11": 136.1,
      "12": 139.15,
      "13": 114.65
@@ -1183,9 +1183,9 @@
     "pf": 1069.08,
     "playoff_odds": 0.742,
     "power_rank": 6,
-    "proj_avg": 121.4,
+    "proj_avg": 121.5,
     "proj_by_week": {
-     "10": 128.32,
+     "10": 128.38,
      "11": 119.07,
      "12": 128.75,
      "13": 109.65
@@ -1248,7 +1248,7 @@
     "power_rank": 8,
     "proj_avg": 113.6,
     "proj_by_week": {
-     "10": 118.56,
+     "10": 118.6,
      "11": 105.55,
      "12": 121.63,
      "13": 108.58
@@ -1461,7 +1461,7 @@
    "pid": "12507",
    "pos": "RB",
    "proj_by_week": {
-    "10": 8.63,
+    "10": 8.83,
     "11": 9.5,
     "12": 10.14,
     "13": 8.93
@@ -1550,13 +1550,13 @@
   {
    "drop": "LAR",
    "drop_name": "LAR D/ST",
-   "gain_this_week": 0.26,
-   "gain_window": 0.26,
+   "gain_this_week": 0.19,
+   "gain_window": 0.19,
    "name": "BAL D/ST",
    "pid": "BAL",
    "pos": "DEF",
    "proj_by_week": {
-    "10": 8.45,
+    "10": 8.38,
     "11": 6.42,
     "12": 6.72,
     "13": 0.0
@@ -1664,6 +1664,52 @@
     "Brenton Strange starts 6 of 8 weeks for you"
    ],
    "your_gain_per_week": 1.6
+  },
+  {
+   "get": [
+    {
+     "name": "Brock Purdy",
+     "pid": "8183",
+     "pos": "QB",
+     "ros_per_week": 21.1,
+     "status": null,
+     "team": "SF"
+    }
+   ],
+   "give": [
+    {
+     "name": "Jared Goff",
+     "pid": "3163",
+     "pos": "QB",
+     "ros_per_week": 19.2,
+     "status": null,
+     "team": "DET"
+    },
+    {
+     "name": "Brenton Strange",
+     "pid": "9480",
+     "pos": "TE",
+     "ros_per_week": 11.0,
+     "status": null,
+     "team": "JAX"
+    }
+   ],
+   "likelihood": "Likely",
+   "partner": "Never Going Go Scottsdale",
+   "partner_roster_id": 6,
+   "summary": "Give Jared Goff + Brenton Strange, get Brock Purdy from Never Going Go Scottsdale: +1.0 pts/week for you, +0.5 for them.",
+   "their_gain_per_week": 0.5,
+   "value_ratio": 0.7,
+   "why_them": [
+    "Jared Goff would start 2 of 8 weeks for them",
+    "Brenton Strange would start 5 of 8 weeks for them"
+   ],
+   "why_you": [
+    "Brock Purdy would start 8 of 8 weeks for you",
+    "Jared Goff starts 8 of 8 weeks for you",
+    "Brenton Strange starts 6 of 8 weeks for you"
+   ],
+   "your_gain_per_week": 1.0
   },
   {
    "get": [
@@ -1865,43 +1911,6 @@
     "George Kittle starts 8 of 8 weeks for you"
    ],
    "your_gain_per_week": 1.6
-  },
-  {
-   "get": [
-    {
-     "name": "Tyler Allgeier",
-     "pid": "8132",
-     "pos": "RB",
-     "ros_per_week": 10.3,
-     "status": null,
-     "team": "ARI"
-    }
-   ],
-   "give": [
-    {
-     "name": "Rico Dowdle",
-     "pid": "7021",
-     "pos": "RB",
-     "ros_per_week": 8.4,
-     "status": null,
-     "team": "PIT"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "Bradsgay",
-   "partner_roster_id": 9,
-   "summary": "Give Rico Dowdle, get Tyler Allgeier from Bradsgay: +1.4 pts/week for you, -0.4 for them.",
-   "their_gain_per_week": -0.4,
-   "value_ratio": 1.23,
-   "why_them": [
-    "Rico Dowdle would start 1 of 8 weeks for them",
-    "Tyler Allgeier only starts 2 of 8 weeks on their roster"
-   ],
-   "why_you": [
-    "Tyler Allgeier would start 7 of 8 weeks for you",
-    "Rico Dowdle starts only 2 of 8 weeks for you"
-   ],
-   "your_gain_per_week": 1.4
   }
  ],
  "waivers": [
