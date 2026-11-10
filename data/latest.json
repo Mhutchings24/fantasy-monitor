@@ -1,5 +1,5 @@
 {
- "content_hash": "63f7d5e132eeb358235e5674c1a1bee33f5ed382",
+ "content_hash": "14bc291773a9b3a002a4be2b8a01d2ede0186a4a",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -223,15 +223,6 @@
    "team": "HOU"
   },
   {
-   "adds_24h": 0,
-   "name": "Dallas Goedert",
-   "pos": "TE",
-   "proj_4wk": 33.2,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "PHI"
-  },
-  {
    "adds_24h": 26415,
    "name": "Jordan Addison",
    "pos": "WR",
@@ -239,6 +230,15 @@
    "proj_this_week": 8.2,
    "status": null,
    "team": "MIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Dallas Goedert",
+   "pos": "TE",
+   "proj_4wk": 33.2,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "PHI"
   },
   {
    "adds_24h": 0,
@@ -349,15 +349,6 @@
    "team": "CLE"
   },
   {
-   "adds_24h": 118136,
-   "name": "Pat Bryant",
-   "pos": "WR",
-   "proj_4wk": 29.8,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "DEN"
-  },
-  {
    "adds_24h": 27000,
    "name": "Alvin Kamara",
    "pos": "RB",
@@ -365,6 +356,15 @@
    "proj_this_week": 8.07,
    "status": null,
    "team": "NO"
+  },
+  {
+   "adds_24h": 118136,
+   "name": "Pat Bryant",
+   "pos": "WR",
+   "proj_4wk": 29.8,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "DEN"
   },
   {
    "adds_24h": 0,
@@ -556,15 +556,6 @@
    "team": "KC"
   },
   {
-   "adds_24h": 0,
-   "name": "Kyle Pitts Sr.",
-   "pos": "TE",
-   "proj_4wk": 25.0,
-   "proj_this_week": 8.4,
-   "status": null,
-   "team": "ATL"
-  },
-  {
    "adds_24h": 19035,
    "name": "Dylan Sampson",
    "pos": "RB",
@@ -572,6 +563,15 @@
    "proj_this_week": 7.27,
    "status": null,
    "team": "CLE"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Kyle Pitts Sr.",
+   "pos": "TE",
+   "proj_4wk": 25.0,
+   "proj_this_week": 8.4,
+   "status": null,
+   "team": "ATL"
   },
   {
    "adds_24h": 0,
@@ -898,7 +898,7 @@
    "team": "BUF"
   }
  ],
- "generated_at": "2026-11-10T11:52:34Z",
+ "generated_at": "2026-11-10T11:57:38Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
