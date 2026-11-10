@@ -1,5 +1,5 @@
 {
- "content_hash": "c899b98e5c7240c2b3807097dc6240fc87060fc9",
+ "content_hash": "eb2c07122051ad5889bbe700fb7eff96dcadb093",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -386,15 +386,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Alvin Kamara",
-   "pos": "RB",
-   "proj_4wk": 28.6,
-   "proj_this_week": 6.9,
-   "status": null,
-   "team": "NO"
-  },
-  {
-   "adds_24h": 0,
    "name": "Courtland Sutton",
    "pos": "WR",
    "proj_4wk": 28.6,
@@ -404,12 +395,12 @@
   },
   {
    "adds_24h": 0,
-   "name": "Chad Ryland",
-   "pos": "K",
+   "name": "Alvin Kamara",
+   "pos": "RB",
    "proj_4wk": 28.6,
-   "proj_this_week": 6.92,
+   "proj_this_week": 6.9,
    "status": null,
-   "team": "ARI"
+   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -417,6 +408,15 @@
    "pos": "TE",
    "proj_4wk": 28.6,
    "proj_this_week": 6.57,
+   "status": null,
+   "team": "ARI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chad Ryland",
+   "pos": "K",
+   "proj_4wk": 28.6,
+   "proj_this_week": 6.92,
    "status": null,
    "team": "ARI"
   },
@@ -602,21 +602,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Chris Bell",
-   "pos": "WR",
-   "proj_4wk": 24.3,
-   "proj_this_week": 6.2,
-   "status": null,
-   "team": "MIA"
-  },
-  {
-   "adds_24h": 0,
    "name": "CAR D/ST",
    "pos": "DEF",
    "proj_4wk": 24.3,
    "proj_this_week": 6.14,
    "status": null,
    "team": "CAR"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chris Bell",
+   "pos": "WR",
+   "proj_4wk": 24.3,
+   "proj_this_week": 6.2,
+   "status": null,
+   "team": "MIA"
   },
   {
    "adds_24h": 0,
@@ -871,7 +871,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-10T21:21:16Z",
+ "generated_at": "2026-11-10T21:26:20Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
