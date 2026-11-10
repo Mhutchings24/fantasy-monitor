@@ -1,5 +1,5 @@
 {
- "content_hash": "a9fe876f9c5b1021d327dbd1b12a876528647dca",
+ "content_hash": "b391b4bfed5598d6ecbc249dfc5904c72f645e83",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -287,21 +287,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Drew Stevens",
-   "pos": "K",
-   "proj_4wk": 31.5,
-   "proj_this_week": 7.55,
-   "status": null,
-   "team": "WAS"
-  },
-  {
-   "adds_24h": 0,
    "name": "Xavier Worthy",
    "pos": "WR",
    "proj_4wk": 31.5,
    "proj_this_week": 0.0,
    "status": "Out",
    "team": "KC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Drew Stevens",
+   "pos": "K",
+   "proj_4wk": 31.5,
+   "proj_this_week": 7.55,
+   "status": null,
+   "team": "WAS"
   },
   {
    "adds_24h": 0,
@@ -385,15 +385,6 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 30555,
-   "name": "Courtland Sutton",
-   "pos": "WR",
-   "proj_4wk": 28.6,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "DEN"
-  },
-  {
    "adds_24h": 24360,
    "name": "Alvin Kamara",
    "pos": "RB",
@@ -401,6 +392,15 @@
    "proj_this_week": 6.9,
    "status": null,
    "team": "NO"
+  },
+  {
+   "adds_24h": 30555,
+   "name": "Courtland Sutton",
+   "pos": "WR",
+   "proj_4wk": 28.6,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "DEN"
   },
   {
    "adds_24h": 0,
@@ -566,21 +566,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Dylan Sampson",
-   "pos": "RB",
-   "proj_4wk": 25.0,
-   "proj_this_week": 7.27,
-   "status": null,
-   "team": "CLE"
-  },
-  {
-   "adds_24h": 0,
    "name": "Kyle Pitts Sr.",
    "pos": "TE",
    "proj_4wk": 25.0,
    "proj_this_week": 8.4,
    "status": null,
    "team": "ATL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Dylan Sampson",
+   "pos": "RB",
+   "proj_4wk": 25.0,
+   "proj_this_week": 7.27,
+   "status": null,
+   "team": "CLE"
   },
   {
    "adds_24h": 0,
@@ -898,7 +898,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-10T07:01:51Z",
+ "generated_at": "2026-11-10T07:06:55Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
