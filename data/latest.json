@@ -1,5 +1,5 @@
 {
- "content_hash": "c1baeb8166bf6b610b7e0a1b440b46412e070a43",
+ "content_hash": "3a87b544eefd1e8f45c2952531850bd9d631e09d",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -386,15 +386,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Alvin Kamara",
-   "pos": "RB",
-   "proj_4wk": 28.6,
-   "proj_this_week": 6.9,
-   "status": null,
-   "team": "NO"
-  },
-  {
-   "adds_24h": 0,
    "name": "Courtland Sutton",
    "pos": "WR",
    "proj_4wk": 28.6,
@@ -404,12 +395,12 @@
   },
   {
    "adds_24h": 0,
-   "name": "Chad Ryland",
-   "pos": "K",
+   "name": "Alvin Kamara",
+   "pos": "RB",
    "proj_4wk": 28.6,
-   "proj_this_week": 6.92,
+   "proj_this_week": 6.9,
    "status": null,
-   "team": "ARI"
+   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -417,6 +408,15 @@
    "pos": "TE",
    "proj_4wk": 28.6,
    "proj_this_week": 6.57,
+   "status": null,
+   "team": "ARI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chad Ryland",
+   "pos": "K",
+   "proj_4wk": 28.6,
+   "proj_this_week": 6.92,
    "status": null,
    "team": "ARI"
   },
@@ -871,7 +871,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-10T21:31:23Z",
+ "generated_at": "2026-11-10T21:31:42Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
