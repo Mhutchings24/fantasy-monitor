@@ -1,5 +1,5 @@
 {
- "content_hash": "31530c4f6291c46b9ffb83ccb6a9fd420c1bafe8",
+ "content_hash": "90c18036fc8ef6bd3d293e7daa7afa6bddc50ff7",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -124,15 +124,6 @@
    "team": "PHI"
   },
   {
-   "adds_24h": 56772,
-   "name": "Khalil Shakir",
-   "pos": "WR",
-   "proj_4wk": 42.0,
-   "proj_this_week": 10.14,
-   "status": null,
-   "team": "BUF"
-  },
-  {
    "adds_24h": 0,
    "name": "Juwan Johnson",
    "pos": "TE",
@@ -140,6 +131,15 @@
    "proj_this_week": 8.89,
    "status": null,
    "team": "NO"
+  },
+  {
+   "adds_24h": 56772,
+   "name": "Khalil Shakir",
+   "pos": "WR",
+   "proj_4wk": 42.0,
+   "proj_this_week": 10.14,
+   "status": null,
+   "team": "BUF"
   },
   {
    "adds_24h": 60630,
@@ -880,7 +880,7 @@
    "team": "GB"
   }
  ],
- "generated_at": "2026-11-10T14:16:50Z",
+ "generated_at": "2026-11-10T14:21:55Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
