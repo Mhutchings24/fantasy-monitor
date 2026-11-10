@@ -1,5 +1,5 @@
 {
- "content_hash": "53d8c97085f75afdde53364cc8d9b67491d5729b",
+ "content_hash": "ebb17ac00ba086d234c2576397d9f6d52b55774f",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -287,21 +287,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Xavier Worthy",
-   "pos": "WR",
-   "proj_4wk": 31.5,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "KC"
-  },
-  {
-   "adds_24h": 0,
    "name": "Drew Stevens",
    "pos": "K",
    "proj_4wk": 31.5,
    "proj_this_week": 7.55,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Xavier Worthy",
+   "pos": "WR",
+   "proj_4wk": 31.5,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "KC"
   },
   {
    "adds_24h": 0,
@@ -376,15 +376,6 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 30060,
-   "name": "Courtland Sutton",
-   "pos": "WR",
-   "proj_4wk": 28.6,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "DEN"
-  },
-  {
    "adds_24h": 24360,
    "name": "Alvin Kamara",
    "pos": "RB",
@@ -392,6 +383,15 @@
    "proj_this_week": 6.9,
    "status": null,
    "team": "NO"
+  },
+  {
+   "adds_24h": 30060,
+   "name": "Courtland Sutton",
+   "pos": "WR",
+   "proj_4wk": 28.6,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "DEN"
   },
   {
    "adds_24h": 0,
@@ -898,7 +898,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-10T06:11:33Z",
+ "generated_at": "2026-11-10T06:16:38Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
