@@ -1,5 +1,5 @@
 {
- "content_hash": "0eba761aa196f4f61175e0eaeea31124d7f2395d",
+ "content_hash": "e993d2beb6d2795d09a73f7445e218421b95de2f",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -55,8 +55,8 @@
    "adds_24h": 0,
    "name": "Justin Herbert",
    "pos": "QB",
-   "proj_4wk": 54.6,
-   "proj_this_week": 11.47,
+   "proj_4wk": 54.5,
+   "proj_this_week": 11.42,
    "status": "Questionable",
    "team": "LAC"
   },
@@ -172,8 +172,8 @@
    "adds_24h": 0,
    "name": "Jacoby Brissett",
    "pos": "QB",
-   "proj_4wk": 39.3,
-   "proj_this_week": 13.49,
+   "proj_4wk": 39.2,
+   "proj_this_week": 13.4,
    "status": null,
    "team": "BAL"
   },
@@ -235,8 +235,8 @@
    "adds_24h": 26658,
    "name": "Jordan Addison",
    "pos": "WR",
-   "proj_4wk": 33.2,
-   "proj_this_week": 8.2,
+   "proj_4wk": 33.1,
+   "proj_this_week": 8.07,
    "status": null,
    "team": "MIN"
   },
@@ -326,7 +326,7 @@
    "name": "Kimani Vidal",
    "pos": "RB",
    "proj_4wk": 30.3,
-   "proj_this_week": 7.08,
+   "proj_this_week": 7.09,
    "status": null,
    "team": "LAC"
   },
@@ -377,15 +377,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Quentin Johnston",
-   "pos": "WR",
-   "proj_4wk": 28.6,
-   "proj_this_week": 6.75,
-   "status": null,
-   "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
    "name": "Cameron Dicker",
    "pos": "K",
    "proj_4wk": 28.6,
@@ -401,6 +392,15 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "DEN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Quentin Johnston",
+   "pos": "WR",
+   "proj_4wk": 28.6,
+   "proj_this_week": 6.71,
+   "status": null,
+   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -640,8 +640,8 @@
    "adds_24h": 0,
    "name": "Mark Andrews",
    "pos": "TE",
-   "proj_4wk": 24.1,
-   "proj_this_week": 8.2,
+   "proj_4wk": 23.9,
+   "proj_this_week": 8.05,
    "status": null,
    "team": "BAL"
   },
@@ -794,7 +794,7 @@
    "name": "Pierre Strong Jr.",
    "pos": "RB",
    "proj_4wk": 8.1,
-   "proj_this_week": 6.76,
+   "proj_this_week": 6.77,
    "status": null,
    "team": "GB"
   },
@@ -838,8 +838,8 @@
    "adds_24h": 35382,
    "name": "Carson Wentz",
    "pos": "QB",
-   "proj_4wk": 12.4,
-   "proj_this_week": 12.39,
+   "proj_4wk": 12.3,
+   "proj_this_week": 12.28,
    "status": null,
    "team": "MIN"
   },
@@ -889,7 +889,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-10T12:22:59Z",
+ "generated_at": "2026-11-10T12:28:03Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1143,9 +1143,9 @@
     "pf": 1091.54,
     "playoff_odds": 0.977,
     "power_rank": 1,
-    "proj_avg": 131.1,
+    "proj_avg": 131.0,
     "proj_by_week": {
-     "10": 130.66,
+     "10": 130.46,
      "11": 127.67,
      "12": 132.83,
      "13": 133.22
@@ -1162,7 +1162,7 @@
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.921,
+    "playoff_odds": 0.922,
     "power_rank": 4,
     "proj_avg": 125.5,
     "proj_by_week": {
@@ -1187,7 +1187,7 @@
     "power_rank": 3,
     "proj_avg": 129.7,
     "proj_by_week": {
-     "10": 128.79,
+     "10": 128.71,
      "11": 136.1,
      "12": 139.15,
      "13": 114.65
@@ -1204,11 +1204,11 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.729,
-    "power_rank": 5,
-    "proj_avg": 121.4,
+    "playoff_odds": 0.728,
+    "power_rank": 6,
+    "proj_avg": 121.3,
     "proj_by_week": {
-     "10": 127.95,
+     "10": 127.73,
      "11": 119.07,
      "12": 128.75,
      "13": 109.65
@@ -1226,10 +1226,10 @@
     "pa": 1129.44,
     "pf": 1119.28,
     "playoff_odds": 0.537,
-    "power_rank": 6,
+    "power_rank": 5,
     "proj_avg": 121.3,
     "proj_by_week": {
-     "10": 111.14,
+     "10": 110.95,
      "11": 109.11,
      "12": 131.91,
      "13": 133.24
@@ -1246,7 +1246,7 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.289,
+    "playoff_odds": 0.29,
     "power_rank": 9,
     "proj_avg": 112.8,
     "proj_by_week": {
@@ -1267,7 +1267,7 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.354,
+    "playoff_odds": 0.355,
     "power_rank": 8,
     "proj_avg": 114.2,
     "proj_by_week": {
@@ -1484,7 +1484,7 @@
    "pid": "12507",
    "pos": "RB",
    "proj_by_week": {
-    "10": 8.63,
+    "10": 8.66,
     "11": 9.5,
     "12": 10.14,
     "13": 8.93

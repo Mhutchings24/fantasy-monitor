@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-10T12:22:59Z UTC
+Week 10 · record 3-6 · updated 2026-11-10T12:28:03Z UTC
 
 ## Lineup check
 Current lineup projects **96.6**, best possible **108.7**.
@@ -39,13 +39,13 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 130.5 | 100% |
-| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 131.1 | 98% |
+| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 131.0 | 98% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 125.5 | 92% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 129.7 | 96% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 5 | 121.4 | 73% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 6 | 121.3 | 54% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.3 | 73% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 121.3 | 54% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 112.8 | 29% |
-| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 114.2 | 35% |
+| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 114.2 | 36% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 118.3 | 21% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 105.7 | 2% |
 
@@ -74,7 +74,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Keenan Allen | WR | IND | starter |  | 10.3 | 9.4 | 9.3 | 0.0 |
 | Omar Cooper Jr. | WR | NYJ | starter |  | 9.9 | 10.5 | 11.2 | 0.0 |
 | Rico Dowdle | RB | PIT | bench |  | 9.7 | 7.7 | 7.8 | 8.2 |
-| Omarion Hampton | RB | LAC | bench |  | 8.6 | 9.5 | 10.1 | 8.9 |
+| Omarion Hampton | RB | LAC | bench |  | 8.7 | 9.5 | 10.1 | 8.9 |
 | Brenton Strange | TE | JAX | bench |  | 10.9 | 10.6 | 11.2 | 11.1 |
 | Jordyn Tyson | WR | NO | bench |  | 11.8 | 11.3 | 11.2 | 10.5 |
 | Josh Downs | WR | IND | bench |  | 10.0 | 9.0 | 8.9 | 0.0 |
