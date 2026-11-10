@@ -1,5 +1,5 @@
 {
- "content_hash": "dba5eb93f1a0beda53a58df5d7d752f01cddd448",
+ "content_hash": "511d9058f80b1c88d5d679d97df08bb06ee70146",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -223,15 +223,6 @@
    "team": "HOU"
   },
   {
-   "adds_24h": 0,
-   "name": "Dallas Goedert",
-   "pos": "TE",
-   "proj_4wk": 33.2,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "PHI"
-  },
-  {
    "adds_24h": 26523,
    "name": "Jordan Addison",
    "pos": "WR",
@@ -239,6 +230,15 @@
    "proj_this_week": 8.2,
    "status": null,
    "team": "MIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Dallas Goedert",
+   "pos": "TE",
+   "proj_4wk": 33.2,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "PHI"
   },
   {
    "adds_24h": 0,
@@ -287,21 +287,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Drew Stevens",
-   "pos": "K",
-   "proj_4wk": 31.5,
-   "proj_this_week": 7.55,
-   "status": null,
-   "team": "WAS"
-  },
-  {
-   "adds_24h": 0,
    "name": "Xavier Worthy",
    "pos": "WR",
    "proj_4wk": 31.5,
    "proj_this_week": 0.0,
    "status": "Out",
    "team": "KC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Drew Stevens",
+   "pos": "K",
+   "proj_4wk": 31.5,
+   "proj_this_week": 7.55,
+   "status": null,
+   "team": "WAS"
   },
   {
    "adds_24h": 0,
@@ -898,7 +898,7 @@
    "team": "BUF"
   }
  ],
- "generated_at": "2026-11-10T11:20:38Z",
+ "generated_at": "2026-11-10T11:25:42Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
