@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-10T23:03:15Z UTC
+Week 10 · record 3-6 · updated 2026-11-10T23:08:19Z UTC
 
 ## Lineup check
 Current lineup projects **89.9**, best possible **104.7**.
@@ -15,17 +15,17 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Bryce Young | QB | CAR | Keenan Allen | +2.5 | +0.8 | 140,964 |
-| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +2.0 | +0.9 | 118,413 |
+| Bryce Young | QB | CAR | Keenan Allen | +2.5 | +0.8 | 142,412 |
+| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +2.0 | +0.9 | 119,727 |
 | Bo Nix | QB | DEN | Keenan Allen | +1.8 | +0.0 | 0 |
 | Xavier Worthy (Out) | WR | KC | Keenan Allen | +1.0 | +0.0 | 0 |
-| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.8 | +0.5 | 105,702 |
+| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.8 | +0.5 | 106,752 |
 | Juwan Johnson | TE | NO | Keenan Allen | +0.7 | +0.0 | 0 |
-| Malik Washington | WR | MIA | Omar Cooper Jr. | +0.4 | +0.4 | 0 |
 | Zonovan Knight (Out) | RB | ARI | Keenan Allen | +0.4 | +0.0 | 0 |
 | Pat Freiermuth | TE | PIT | Keenan Allen | +0.3 | +0.3 | 0 |
 | Dallas Goedert | TE | PHI | Keenan Allen | +0.3 | +0.0 | 0 |
-| Demarcus Robinson | WR | SF | Omar Cooper Jr. | +0.2 | +0.2 | 171,456 |
+| Malik Washington | WR | MIA | Omar Cooper Jr. | +0.3 | +0.3 | 0 |
+| Demarcus Robinson | WR | SF | Omar Cooper Jr. | +0.2 | +0.2 | 173,388 |
 
 **DEF stream this week:** add BAL D/ST for LAR D/ST (+0.2 pts this week)
 
@@ -40,14 +40,14 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 130.0 | 100% |
-| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 130.7 | 97% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.0 | 90% |
+| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 131.1 | 98% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.0 | 91% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 129.7 | 96% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 5 | 121.9 | 75% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 6 | 121.4 | 54% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 5 | 121.8 | 75% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 6 | 121.4 | 53% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 113.4 | 30% |
-| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 113.8 | 34% |
-| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 118.3 | 21% |
+| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 114.2 | 35% |
+| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 118.3 | 20% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 104.7 | 2% |
 
 ## Trade ideas
@@ -77,7 +77,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Rico Dowdle | RB | PIT | bench |  | 9.9 | 7.7 | 7.8 | 8.2 |
 | Omarion Hampton | RB | LAC | bench |  | 8.8 | 9.5 | 10.1 | 8.9 |
 | Brenton Strange | TE | JAX | bench |  | 10.9 | 10.6 | 11.2 | 11.1 |
+| Josh Downs | WR | KC | bench |  | 7.1 | 9.0 | 8.9 | 0.0 |
 | Jordyn Tyson | WR | NO | bench |  | 6.8 | 11.3 | 11.2 | 10.5 |
-| Josh Downs | WR | KC | bench |  | 6.5 | 9.0 | 8.9 | 0.0 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
 | Mike Evans | WR | SF | reserve | Out | 0.0 | 17.6 | 17.8 | 18.9 |
