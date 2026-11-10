@@ -1,5 +1,5 @@
 {
- "content_hash": "820b5cbb0b6b533587e325314dbc8596fe374ad6",
+ "content_hash": "e2311211764dcbdd58f769449787615ffbc944df",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -412,15 +412,6 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 114066,
-   "name": "Demarcus Robinson",
-   "pos": "WR",
-   "proj_4wk": 28.6,
-   "proj_this_week": 9.44,
-   "status": null,
-   "team": "SF"
-  },
-  {
    "adds_24h": 0,
    "name": "Elijah Higgins",
    "pos": "TE",
@@ -428,6 +419,15 @@
    "proj_this_week": 6.56,
    "status": null,
    "team": "ARI"
+  },
+  {
+   "adds_24h": 114066,
+   "name": "Demarcus Robinson",
+   "pos": "WR",
+   "proj_4wk": 28.6,
+   "proj_this_week": 9.44,
+   "status": null,
+   "team": "SF"
   },
   {
    "adds_24h": 0,
@@ -880,7 +880,7 @@
    "team": "WAS"
   }
  ],
- "generated_at": "2026-11-10T17:57:11Z",
+ "generated_at": "2026-11-10T18:02:16Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
