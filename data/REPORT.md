@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-10T16:26:02Z UTC
+Week 10 · record 3-6 · updated 2026-11-10T16:36:12Z UTC
 
 ## Lineup check
 Current lineup projects **94.7**, best possible **106.1**.
@@ -15,14 +15,14 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Bryce Young | QB | CAR | Omar Cooper Jr. | +2.6 | +0.9 | 86,264 |
+| Bryce Young | QB | CAR | Omar Cooper Jr. | +2.6 | +0.9 | 86,880 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +1.0 | +0.0 | 70,956 |
+| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +1.0 | +0.0 | 71,820 |
 | Xavier Worthy (Out) | WR | KC | Omar Cooper Jr. | +1.0 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Omar Cooper Jr. | +0.7 | +0.0 | 0 |
 | Zonovan Knight (Out) | RB | ARI | Omar Cooper Jr. | +0.4 | +0.0 | 0 |
 | Dallas Goedert | TE | PHI | Omar Cooper Jr. | +0.3 | +0.0 | 0 |
-| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.3 | +0.0 | 71,604 |
+| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.3 | +0.0 | 72,240 |
 
 **DEF stream this week:** add BAL D/ST for LAR D/ST (+0.3 pts this week)
 
