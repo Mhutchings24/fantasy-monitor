@@ -1,5 +1,5 @@
 {
- "content_hash": "b260fdaf11226926704a53a45f700389b446ae97",
+ "content_hash": "7f85e7157c1eb3d0e03e15f5aaec75caa267a211",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -287,21 +287,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Xavier Worthy",
-   "pos": "WR",
-   "proj_4wk": 31.5,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "KC"
-  },
-  {
-   "adds_24h": 0,
    "name": "Drew Stevens",
    "pos": "K",
    "proj_4wk": 31.5,
    "proj_this_week": 7.55,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Xavier Worthy",
+   "pos": "WR",
+   "proj_4wk": 31.5,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "KC"
   },
   {
    "adds_24h": 0,
@@ -349,15 +349,6 @@
    "team": "CLE"
   },
   {
-   "adds_24h": 28784,
-   "name": "Alvin Kamara",
-   "pos": "RB",
-   "proj_4wk": 29.8,
-   "proj_this_week": 8.07,
-   "status": null,
-   "team": "NO"
-  },
-  {
    "adds_24h": 125984,
    "name": "Pat Bryant",
    "pos": "WR",
@@ -365,6 +356,15 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "DEN"
+  },
+  {
+   "adds_24h": 28784,
+   "name": "Alvin Kamara",
+   "pos": "RB",
+   "proj_4wk": 29.8,
+   "proj_this_week": 8.07,
+   "status": null,
+   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -880,7 +880,7 @@
    "team": "GB"
   }
  ],
- "generated_at": "2026-11-10T13:05:29Z",
+ "generated_at": "2026-11-10T13:10:33Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
