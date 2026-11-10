@@ -1,5 +1,5 @@
 {
- "content_hash": "8c046c23c155c2a66412ab1e9f62394b05e02ade",
+ "content_hash": "c899b98e5c7240c2b3807097dc6240fc87060fc9",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -86,15 +86,6 @@
    "proj_this_week": 0.0,
    "status": "Out",
    "team": "MIN"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Malik Willis",
-   "pos": "QB",
-   "proj_4wk": 47.3,
-   "proj_this_week": 0.0,
-   "status": "Questionable",
-   "team": "MIA"
   },
   {
    "adds_24h": 0,
@@ -395,21 +386,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Courtland Sutton",
-   "pos": "WR",
-   "proj_4wk": 28.6,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "DEN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Alvin Kamara",
    "pos": "RB",
    "proj_4wk": 28.6,
    "proj_this_week": 6.9,
    "status": null,
    "team": "NO"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Courtland Sutton",
+   "pos": "WR",
+   "proj_4wk": 28.6,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "DEN"
   },
   {
    "adds_24h": 0,
@@ -611,21 +602,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "CAR D/ST",
-   "pos": "DEF",
-   "proj_4wk": 24.3,
-   "proj_this_week": 6.14,
-   "status": null,
-   "team": "CAR"
-  },
-  {
-   "adds_24h": 0,
    "name": "Chris Bell",
    "pos": "WR",
    "proj_4wk": 24.3,
    "proj_this_week": 6.2,
    "status": null,
    "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "CAR D/ST",
+   "pos": "DEF",
+   "proj_4wk": 24.3,
+   "proj_this_week": 6.14,
+   "status": null,
+   "team": "CAR"
   },
   {
    "adds_24h": 0,
@@ -725,6 +716,15 @@
    "proj_this_week": 7.52,
    "status": null,
    "team": "CLE"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Michael Mayer",
+   "pos": "TE",
+   "proj_4wk": 22.4,
+   "proj_this_week": 6.84,
+   "status": null,
+   "team": "LV"
   },
   {
    "adds_24h": 2099070,
@@ -871,7 +871,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-10T21:16:12Z",
+ "generated_at": "2026-11-10T21:21:16Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
