@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-5 · updated 2026-11-10T05:36:03Z UTC
+Week 10 · record 3-6 · updated 2026-11-10T05:41:07Z UTC
 
 ## Lineup check
 Current lineup projects **97.2**, best possible **107.7**.
@@ -16,12 +16,12 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Bryce Young | QB | CAR | Omar Cooper Jr. | +2.5 | +0.9 | 35,828 |
+| Bryce Young | QB | CAR | Omar Cooper Jr. | +2.5 | +0.9 | 34,992 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +1.0 | +0.0 | 35,361 |
+| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +1.0 | +0.0 | 34,290 |
 | Xavier Worthy (Out) | WR | KC | Omar Cooper Jr. | +1.0 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Omar Cooper Jr. | +0.7 | +0.0 | 0 |
-| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.6 | +0.3 | 24,408 |
+| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.6 | +0.3 | 24,372 |
 | Zonovan Knight (Out) | RB | ARI | Omar Cooper Jr. | +0.4 | +0.0 | 0 |
 | Dallas Goedert | TE | PHI | Omar Cooper Jr. | +0.3 | +0.0 | 0 |
 
@@ -30,23 +30,23 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 **K stream this week:** add Eddy Pineiro for Matt Gay (+1.6 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (3-5): you **97.2** – 70.7 projected · win chance **77%**
+vs **Never Going Go Scottsdale** (4-5): you **97.2** – 70.7 projected · win chance **77%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 2 | 129.8 | 100% |
-| 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 1 | 131.0 | 100% |
-| 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 3 | 129.6 | 99% |
-| 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 5 | 121.4 | 90% |
-| 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 4 | 124.5 | 89% |
-| 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 8 | 114.2 | 33% |
-| 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 112.8 | 24% |
-| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 6 | 121.3 | 39% |
-| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 10 | 105.4 | 11% |
-| 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 7 | 118.4 | 16% |
+| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.8 | 100% |
+| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 131.0 | 98% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.5 | 91% |
+| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 129.6 | 96% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 5 | 121.4 | 74% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 6 | 121.3 | 53% |
+| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 112.8 | 29% |
+| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 114.2 | 35% |
+| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 118.4 | 21% |
+| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 105.4 | 2% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
