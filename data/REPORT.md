@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-10T10:27:16Z UTC
+Week 10 · record 3-6 · updated 2026-11-10T10:32:20Z UTC
 
 ## Lineup check
 Current lineup projects **96.6**, best possible **108.7**.
@@ -16,14 +16,14 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Bryce Young | QB | CAR | Omar Cooper Jr. | +2.6 | +0.9 | 47,308 |
+| Bryce Young | QB | CAR | Omar Cooper Jr. | +2.6 | +0.9 | 47,368 |
 | Juwan Johnson | TE | NO | Omar Cooper Jr. | +2.0 | +1.2 | 0 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +1.0 | +0.0 | 41,841 |
+| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +1.0 | +0.0 | 41,940 |
 | Xavier Worthy (Out) | WR | KC | Omar Cooper Jr. | +1.0 | +0.0 | 0 |
 | Zonovan Knight (Out) | RB | ARI | Omar Cooper Jr. | +0.4 | +0.0 | 0 |
 | Dallas Goedert | TE | PHI | Omar Cooper Jr. | +0.3 | +0.0 | 0 |
-| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.3 | +0.0 | 36,894 |
+| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.3 | +0.0 | 37,140 |
 | Pat Freiermuth | TE | PIT | Omar Cooper Jr. | +0.1 | +0.1 | 0 |
 
 **DEF stream this week:** add BAL D/ST for LAR D/ST (+0.3 pts this week)
@@ -45,7 +45,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 5 | 121.4 | 73% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 6 | 121.3 | 54% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 112.8 | 29% |
-| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 114.2 | 36% |
+| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 114.2 | 35% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 118.3 | 21% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 105.7 | 2% |
 
