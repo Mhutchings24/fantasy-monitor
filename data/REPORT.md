@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-10T13:35:54Z UTC
+Week 10 · record 3-6 · updated 2026-11-10T13:46:02Z UTC
 
 ## Lineup check
 Current lineup projects **96.7**, best possible **107.3**.
@@ -16,12 +16,12 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Bryce Young | QB | CAR | Omar Cooper Jr. | +2.5 | +0.8 | 62,528 |
+| Bryce Young | QB | CAR | Omar Cooper Jr. | +2.5 | +0.8 | 63,884 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +1.0 | +0.0 | 52,335 |
+| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +1.0 | +0.0 | 53,442 |
 | Xavier Worthy (Out) | WR | KC | Omar Cooper Jr. | +1.0 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Omar Cooper Jr. | +0.7 | +0.0 | 0 |
-| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.5 | +0.2 | 54,774 |
+| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.5 | +0.2 | 56,484 |
 | Zonovan Knight (Out) | RB | ARI | Omar Cooper Jr. | +0.4 | +0.0 | 0 |
 | Dallas Goedert | TE | PHI | Omar Cooper Jr. | +0.3 | +0.0 | 0 |
 | Pat Freiermuth | TE | PIT | Omar Cooper Jr. | +0.1 | +0.1 | 0 |
