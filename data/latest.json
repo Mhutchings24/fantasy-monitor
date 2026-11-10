@@ -1,5 +1,5 @@
 {
- "content_hash": "fa82f47101033666990c3fa968582b8257dd523e",
+ "content_hash": "6fd426db7d95593bad589e845db19d04840ec395",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -385,15 +385,6 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 36054,
-   "name": "Courtland Sutton",
-   "pos": "WR",
-   "proj_4wk": 28.6,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "DEN"
-  },
-  {
    "adds_24h": 29784,
    "name": "Alvin Kamara",
    "pos": "RB",
@@ -401,6 +392,15 @@
    "proj_this_week": 6.9,
    "status": null,
    "team": "NO"
+  },
+  {
+   "adds_24h": 36054,
+   "name": "Courtland Sutton",
+   "pos": "WR",
+   "proj_4wk": 28.6,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "DEN"
   },
   {
    "adds_24h": 0,
@@ -880,7 +880,7 @@
    "team": "GB"
   }
  ],
- "generated_at": "2026-11-10T14:36:57Z",
+ "generated_at": "2026-11-10T14:37:11Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
