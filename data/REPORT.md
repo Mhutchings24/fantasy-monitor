@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 9 · record 3-5 · updated 2026-11-10T00:41:28Z UTC
+Week 9 · record 3-5 · updated 2026-11-10T00:51:37Z UTC
 
 ## Lineup check
 Current lineup projects **100.2**, best possible **109.5**.
@@ -14,15 +14,15 @@ Gain = extra projected starting points over weeks 9–12 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Alvin Kamara | RB | NO | Josh Downs | +3.3 | +3.3 | 20,944 |
+| Alvin Kamara | RB | NO | Josh Downs | +3.3 | +3.3 | 21,168 |
 | J.K. Dobbins | RB | DEN | Josh Downs | +2.7 | +0.4 | 0 |
-| Bryce Young | QB | CAR | Josh Downs | +2.3 | +0.0 | 28,824 |
-| Khalil Shakir | WR | BUF | Josh Downs | +1.1 | +0.0 | 31,104 |
+| Bryce Young | QB | CAR | Josh Downs | +2.3 | +0.0 | 29,048 |
+| Khalil Shakir | WR | BUF | Josh Downs | +1.1 | +0.0 | 31,536 |
 | Xavier Worthy (Out) | WR | KC | Josh Downs | +1.0 | +0.0 | 0 |
 | Bo Nix | QB | DEN | Josh Downs | +0.8 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Josh Downs | +0.7 | +0.0 | 0 |
-| Zonovan Knight (Out) | RB | ARI | Josh Downs | +0.6 | +0.0 | 0 |
-| Jakobi Meyers | WR | JAX | Josh Downs | +0.4 | +0.0 | 16,302 |
+| Zonovan Knight (Out) | RB | ARI | Josh Downs | +0.4 | +0.0 | 0 |
+| Jakobi Meyers | WR | JAX | Josh Downs | +0.4 | +0.0 | 16,542 |
 | Dallas Goedert | TE | PHI | Josh Downs | +0.1 | +0.0 | 0 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+1.8 pts this week)
@@ -37,15 +37,15 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 2 | 133.2 | 100% |
-| 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 4 | 128.9 | 98% |
+| 1 | Bradsgay | 6-2 | 1104.3 | 1045.0 | 2 | 133.1 | 100% |
+| 2 | I’m stuck Step Burrow | 6-2 | 960.4 | 913.8 | 4 | 129.0 | 98% |
 | 3 | Gibbs me Nabers 😵‍💫 | 5-3 | 1083.3 | 990.5 | 1 | 133.2 | 99% |
-| 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 5 | 125.2 | 88% |
+| 4 | Monangynecologist | 5-3 | 967.6 | 849.1 | 5 | 125.3 | 88% |
 | 5 | Atticus Dean | 4-4 | 1110.9 | 1104.4 | 3 | 130.4 | 90% |
-| 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 8 | 120.4 | 34% |
+| 6 | Bradsbaconisundercooked | 3-5 | 967.1 | 1070.2 | 8 | 120.4 | 35% |
 | 7 | Never Going Go Scottsdale | 3-5 | 948.0 | 1009.1 | 9 | 113.8 | 20% |
-| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 7 | 124.5 | 39% |
-| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 10 | 106.4 | 8% |
+| 8 | Glizzy Globbler  | 3-5 | 937.8 | 982.9 | 7 | 123.6 | 36% |
+| 9 | **Conorrhea ** | 3-5 | 906.7 | 946.2 | 10 | 106.4 | 9% |
 | 10 | Touch of the Downs | 2-6 | 942.4 | 1017.3 | 6 | 124.6 | 24% |
 
 ## Trade ideas
@@ -57,7 +57,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Likely** · Give Brenton Strange, get Jonah Coleman from Glizzy Globbler : +1.5 pts/week for you, +0.6 for them.
 - **Possible** · Give Omar Cooper Jr., get Jonah Coleman from Glizzy Globbler : +1.4 pts/week for you, -0.4 for them.
 - **Possible** · Give Jared Goff + Brenton Strange, get Brock Purdy from Never Going Go Scottsdale: +1.3 pts/week for you, +0.3 for them.
-- **Possible** · Give George Kittle, get Tee Higgins from I’m stuck Step Burrow: +1.1 pts/week for you, -0.4 for them.
+- **Possible** · Give George Kittle, get Tee Higgins from I’m stuck Step Burrow: +1.1 pts/week for you, -0.5 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 9 | Wk 10 | Wk 11 | Wk 12 |
