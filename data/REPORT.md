@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-10T14:52:28Z UTC
+Week 10 · record 3-6 · updated 2026-11-10T14:57:33Z UTC
 
 ## Lineup check
-Current lineup projects **94.8**, best possible **106.2**.
+Current lineup projects **94.7**, best possible **106.1**.
 
 - ⚠️ Josh Jacobs (RB, GB) is Out
 - 🔁 Start Brenton Strange (TE, JAX) (11.0) over Josh Jacobs (RB, GB) (0.0)
@@ -15,37 +15,37 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Bryce Young | QB | CAR | Omar Cooper Jr. | +2.6 | +0.9 | 71,956 |
+| Bryce Young | QB | CAR | Omar Cooper Jr. | +2.6 | +0.9 | 73,408 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +1.0 | +0.0 | 59,724 |
+| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +1.0 | +0.0 | 61,056 |
 | Xavier Worthy (Out) | WR | KC | Omar Cooper Jr. | +1.0 | +0.0 | 0 |
 | Juwan Johnson | TE | NO | Omar Cooper Jr. | +0.7 | +0.0 | 0 |
 | Zonovan Knight (Out) | RB | ARI | Omar Cooper Jr. | +0.4 | +0.0 | 0 |
 | Dallas Goedert | TE | PHI | Omar Cooper Jr. | +0.3 | +0.0 | 0 |
-| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.3 | +0.0 | 62,616 |
+| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.3 | +0.0 | 63,420 |
 
 **DEF stream this week:** add BAL D/ST for LAR D/ST (+0.3 pts this week)
 
 **K stream this week:** add Eddy Pineiro for Matt Gay (+1.6 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **94.8** – 70.9 projected · win chance **75%**
+vs **Never Going Go Scottsdale** (4-5): you **94.7** – 70.8 projected · win chance **75%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 130.0 | 100% |
+| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.9 | 100% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 130.9 | 98% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.2 | 91% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 129.5 | 96% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.2 | 74% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 121.5 | 54% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.3 | 74% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 121.6 | 55% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 112.8 | 29% |
-| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 113.9 | 35% |
+| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 113.9 | 34% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 118.4 | 21% |
-| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 105.1 | 2% |
+| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 105.0 | 2% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -68,7 +68,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Quinshon Judkins | RB | CLE | starter |  | 10.8 | 0.0 | 12.4 | 12.4 |
 | Josh Jacobs | RB | GB | starter | Out | 0.0 | 0.0 | 12.6 | 16.3 |
 | George Kittle | TE | SF | starter |  | 16.2 | 14.0 | 14.2 | 15.1 |
-| DJ Moore | WR | BUF | starter |  | 13.2 | 16.5 | 13.9 | 14.9 |
+| DJ Moore | WR | BUF | starter |  | 13.1 | 16.5 | 13.9 | 14.9 |
 | Keenan Allen | WR | IND | starter |  | 10.3 | 9.4 | 9.3 | 0.0 |
 | Omar Cooper Jr. | WR | NYJ | starter |  | 9.2 | 10.5 | 11.2 | 0.0 |
 | Rico Dowdle | RB | PIT | bench |  | 9.6 | 7.7 | 7.8 | 8.2 |
