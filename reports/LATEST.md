@@ -1,144 +1,160 @@
-# Week 10 check-in · Tue Nov 10
-_Conorrhea · No Fun League · record 3-6 · 10th of 10 · playoff odds 2% · data as of 7:37 AM MT (fresh monitor run succeeded)_
+# Week 10 · Tue Nov 10 PM report
+_Conorrhea · No Fun League · record 3-6 · data as of 5:40 PM MT Nov 10 (fresh monitor run #206 succeeded)_
 
-## Last week
-**Lost 72.1–142.1 to Touch of the Downs.**
+## Bottom line
+- **Your lineup is still broken (89.9 as set).** Jacobs (Out) and Allen are starting. Start **Dowdle at RB** and **Strange at FLEX**, and bench Jacobs and Allen. Fixed, it projects 104.7. Do it before Goff locks **Sun 7:30 AM MT**.
+- **Allen was traded to SF at the deadline.** That changes the drops. **Drop Allen, not Downs, for Estime ($15).** Downs went to KC, which is an upgrade for him. Allen projects 6.0, he's a flex at best behind Kittle and Evans, and he still faces a deferred 3-game suspension.
+- **Keep the Kiner claim: $12 (range $10–18), drop Hampton.** NE made no deadline move, so Kiner is the Patriots' lead back.
+- **New: claim Jake Bates (K, DET) for $1 and drop Matt Gay.** Bates is about +1.2 points this week, and Gay is on bye Week 13.
+- **Watch Wednesday's practice reports:** Moore (AC joint) and Allen (first day in SF).
 
-- **Who helped:** LAR D/ST (16.0) and Omar Cooper Jr. (13.8, on 8 catches from 11 targets) carried you.
-- **Who let you down:** Josh Jacobs scored 0.5. He broke his finger in the 1st quarter. Goff (6.3), Judkins (5.5), Moore (6.6) and Allen (6.6) all flopped.
-- **Bench points left on the table:** about 5.5 (Hampton's 6.0 vs Jacobs' 0.5). You couldn't have avoided it: Jacobs got hurt in-game, after Hampton had locked.
-- **The lesson:** the floor is the problem, not one bad call. Four starters under 7 points is a roster-strength issue, so take on some risk with adds and trades.
+## Recommended lineup
+| Slot | Player | Game (ET) | Proj | Plays? | Confidence | Why |
+|---|---|---|---|---|---|---|
+| QB | Jared Goff | NE vs DET (Munich), Sun 9:30 AM | 18.8 | 98% | High | DET -2.5, total 51.5, healthy |
+| RB | Quinshon Judkins | HOU @ CLE, Sun 1:00 | 10.8 | 97% | Medium | Gets the early-down and goal-line work, but Sampson owns 3rd downs and the snap lead |
+| RB | **Rico Dowdle** (for Jacobs) | PIT @ CIN, Sun 8:20 | 9.9 | 95% | Medium | Splits with Warren but gets the goal-line work; PIT is off a bye |
+| WR | DJ Moore | BUF @ NYJ, Sun 1:00 | 13.2 | ~85% (est.) | Medium | Played through the AC joint injury in Wk 9; BUF -8.5, total 50.5 |
+| WR | Omar Cooper Jr. | BUF @ NYJ, Sun 1:00 | 9.2 | ~92% (est.) | Medium | 37% target share in Wk 9; NYJ are underdogs and should be throwing |
+| TE | George Kittle | SF @ DAL, Sun 4:25 | 16.1 | 97% | High | Highest total of the week (55.5), and Evans is out again |
+| FLEX | **Brenton Strange** (for Allen) | JAX @ TEN, Sun 1:00 | 10.9 | 95% | Low | Only 2 targets in each of the last 2 games, but still the best of the rest |
+| K | Matt Gay → **Jake Bates** if claimed | SEA @ LV 4:05 / DET Munich 9:30 AM | 7.6 → 8.8 | 99% | Medium | Bates ranks K8, Gay K19 |
+| DEF | LAR D/ST | LAR @ ARI, Sun 4:05 | 8.2 | — | High | LAR -9.5, total 40.5 |
 
-## Where you stand
-- **Standings:** 10th of 10, at 3-6. You're 1 game behind 6th place (Glizzy Globbler, 4-5), and also last in points for (978.8).
-- **Playoff odds:** 2%, from 4,000 simulations. Five regular-season weeks remain (Weeks 10–14), and the top 6 make it.
-- **Record you likely need:** 8-6 (5-0 from here). 7-7 might sneak in, but your points tiebreak is the league's worst, so don't count on it.
-- **Schedule:** the monitor doesn't list your Week 11–14 opponents. Your weekly projection (105) is the league's lowest, so most opponents will be favored.
-- **The upside:** this week is the softest game you'll get.
-- **What that means:** nothing to save FAAB for. Spend to win now.
+**Bench:** Jacobs (Out), Allen, Downs, Tyson, Hampton. After waivers: Estime, Kiner.
 
-## This week
-**Opponent: Never Going Go Scottsdale (4-5).**
-- Monitor projection: **you 94.8 as set (106.2 fixed) vs them 70.9** (76.4 if they set their best lineup).
-- **Win chance: 75%**, which is higher once you fix the lineup. As the favorite, lean toward floor.
+## This week's matchup
+- **Opponent:** Never Going Go Scottsdale (4-5, 7th).
+- **Projections:** you **104.7** with the lineup fixed (89.9 as set), them **76.8**. Their best possible lineup is also 76.76, so their lineup is already set.
+- **Win chance:** the monitor's 64.5% uses your lineup as set. With the fix, it's likely 75% or higher (my estimate).
+- **Strategy:** you're a clear favorite, so take floor over ceiling. That's why Strange and Dowdle start over Downs and Tyson.
+- **Their lineup:** the monitor doesn't list their players. A 76.8 projection usually means byes or injuries; check their roster in Sleeper.
+- **Their week ahead:** they project 124.6 in Week 11, so this week is your opening.
 
-**Fix now. Nothing locks until Goff, Sun 7:30 AM MT (Munich):**
+## Key decisions
+### Drop Allen or Downs (for Estime)?
+- **News:**
+  - Allen went to SF for a 2027 6th (CBS, Nov 10).
+  - ESPN calls him WR34, a flex at best. NBC expects fewer targets, depending on Evans' health.
+  - His OWI suspension is at least 3 games, deferred until the legal case ends (Yahoo, Nov 10).
+  - Downs went to KC (ESPN, Nov 10). Yahoo calls it a "massive QB upgrade." Worthy tweaked his hamstring Nov 8 and has no timeline.
+- **Projections:**
+  - Allen: 6.0 this week, then 9.4 and 9.3.
+  - Downs: 7.1 this week, then about 9 a week.
+- **Recommendation:** **drop Allen.** Confidence: Medium.
+  - Allen's role shrinks when Evans returns (expected around Week 12), and a suspension could come at any time.
+  - Downs is in a better offense, and Worthy's injury could open targets.
+- **What would change it:** if Downs is buried on KC's depth chart in Week 10 (fewer than 4 targets), cut him next week.
 
-| Slot | Player | Game (ET) | Proj | Note |
+### FLEX: Strange, Downs or Tyson
+- **Projections:** Strange 10.9, Downs 7.1, Tyson 6.8.
+- **Strange's role has dipped** (2 targets in each of the last 2 games, NBC Nov 5). JAX is a 10.5-point favorite, so they may run late.
+- **Downs and Tyson are unknown quantities.** Downs is in his first week in a new offense. Tyson is coming off an 18-snap pitch count, and Kellen Moore says "more opportunities" are coming.
+- **Recommendation:** start Strange. Confidence: Low.
+- **What would change it:** if KC beat reporters slot Downs straight into the starting slot role with Worthy out (Thu–Fri), Downs becomes a coin flip with Strange.
+
+### Late pivot
+- **The only late games:** Dowdle (Sunday night, locks 6:20 PM MT) and Hampton (Monday night).
+- **If Hampton is dropped for Kiner,** there's no unlocked RB left for Sunday night. Dowdle is ~95% to play, so accept that risk.
+- **If the Kiner claim fails,** keep Hampton. Swap him in if Dowdle is inactive (inactives come about 5:00 PM MT Sunday).
+
+## Injury watch
+| Player | Status | Latest news (date) | Chance to play | Next update |
 |---|---|---|---|---|
-| QB | Jared Goff | NE vs DET (Munich), Sun 9:30 AM | 18.9 | Locks first |
-| RB | Quinshon Judkins | HOU @ CLE, Sun 1:00 | 10.8 | Losing snaps to Sampson (34% vs 64% in Wk 9) |
-| RB | **Rico Dowdle** (in for Jacobs) | PIT @ CIN, Sun 8:20 | 9.6 | Late game, so Hampton (Mon) is the pivot |
-| WR | DJ Moore | BUF @ NYJ, Sun 1:00 | 13.2 | AC joint, wore a red non-contact jersey last week |
-| WR | Keenan Allen | MIA @ IND, Sun 1:00 | 10.3 | Trade rumors, deadline 2 PM MT today |
-| TE | George Kittle | SF @ DAL, Sun 4:25 | 16.2 | Healthy, 30% target share in Wk 9 |
-| FLEX | **Brenton Strange** (in for Cooper) | JAX @ TEN, Sun 1:00 | 11.0 | Just 2 targets in each of the last 2 games |
-| K | Matt Gay | SEA @ LV, Sun 4:05 | 8.1 | |
-| DEF | LAR D/ST | LAR @ ARI, Sun 4:05 | 8.2 | Rams -7. Murray is hurt |
+| Josh Jacobs (RB, GB) | Out | Finger surgery this week. Up to 3 weeks; IR undecided. Kaleb Johnson starts (Yahoo, Nov 9) | 0% Wk 10; ~70% Wk 12 (est.) | GB practice report Wed |
+| Mike Evans (WR, SF, IR slot) | Out | Achilles tendinitis. Not trending toward Wk 10; unlikely to practice Wed (CBS/RotoWire, Nov 10) | ~5% Wk 10; Wk 12 more likely | Wed–Fri practice reports |
+| Davante Adams (WR, LAR, IR) | IR | Hamstring surgery Oct 28; 6–10 week window. Rotoworld projects about Wk 14 (NBC) | 0% | Practice window opening |
+| DJ Moore (WR, BUF) | No tag | AC joint sprain. Limited all last week and played 58% of snaps in Wk 9 (NBC, Nov 10) | ~85% (est.) | First report Wed |
+| Keenan Allen (WR, SF) | No tag | Traded Nov 10. Suspension deferred until his case ends (Yahoo, Nov 10) | ~85% (est.) | SF practice Wed |
+| Omar Cooper Jr. (WR, NYJ) | No tag | Back from a high ankle sprain; 85% of snaps in Wk 9 (RotoWire) | ~92% (est.) | Wed report |
+| Travis Etienne (affects Estime) | IR | "Progressing well." Moore won't commit to Wk 10; practice window not open (RotoWire, Nov 10) | ~25% Wk 10 (est.) | Whether his window opens Wed |
 
-**Bench:** Jacobs (Out), Cooper, Downs, Tyson, Hampton.
+## Waivers & FAAB
+You have $100 of FAAB. Keep about $40 in reserve.
 
-**Decisions to revisit later in the week:**
-1. **FLEX: Strange or Cooper Jr.**
-   - Sleeper projects Strange higher (11.0 vs 9.2).
-   - Strange's role has shrunk. Jacksonville is a 10-point favorite and should be running late.
-   - Cooper leads the Jets in targets, and the Jets are 8.5-point underdogs in a 51.5 total, so they'll be throwing.
-   - Cooper also had 0 targets in Week 8, so he's the riskier play.
-   - **Lean Strange for now, Low confidence.** Switch to Cooper if Strange's practice reports or beat notes show fewer routes (the Boerkircher split). Decide by Saturday.
-2. **Allen's trade status (2 PM MT today).**
-   - If he's traded to a contender, his role changes. Downs (if still rostered) or Cooper takes his WR spot.
-3. **Moore's shoulder.**
-   - Watch his practice participation Wed–Fri.
-   - If he's limited Friday again, he still plays. If he's out, Cooper starts.
-4. **Late pivot.**
-   - Dowdle plays Sunday night. Hampton plays Monday night and is your only RB still unlocked by then.
-   - If Dowdle is a surprise inactive, swap in Hampton before 6:20 PM MT Sunday.
+| Add | Drop | Bid | Why |
+|---|---|---|---|
+| **Audric Estime** (RB, NO) | **Keenan Allen** (was Downs) | **$15** ($12–18) | Wk 9: 15 carries, 72 yards, TD, and the Saints' touch lead. Wk 10 vs CAR. Covers Week 11 when Judkins and Jacobs are both on bye. Consensus is $5–17 and CBS says 10–15%. Your league's market drives the bid. Risk: Etienne returns and Kamara keeps a share (Sleeper projects 4.4). |
+| **Corey Kiner** (RB, NE) | Omarion Hampton | **$12** ($10–18) | NE made no deadline move. Stevenson is out "a few weeks" and Henderson indefinitely, leaving only Larison behind Kiner (Yahoo, Nov 10). Consensus is $9–20 (RotoBaller 25–30%). Tough Wk 10 vs DET, NE is on bye Wk 11, then he starts Wks 12–13. Hampton has 0 targets in a 3-way split. |
+| **Jake Bates** (K, DET) | Matt Gay | **$1** | K8 vs Gay's K19 this week (RotoBaller). Gay is on bye Wk 13. |
 
-## Waiver plan
-You have $100 FAAB, and nothing is worth holding it for at 2% playoff odds. Keep about **$40 in reserve** for injury emergencies and Week 13 bye fixes.
+**Not worth a claim:**
+- Shakir: about 1%, and he'd cap Moore.
+- Tank Dell: 5–10%, but HOU's WR room is crowded.
+- Mumpfield and Atwell: LAR is on bye Week 11.
+- Bryce Young and Rodgers: Goff is your QB.
+- Kaleb Johnson and Caleb Douglas: already rostered in your league.
 
-| Priority | Add | Drop | Bid | Why |
-|---|---|---|---|---|
-| 1 | **Audric Estime** (RB, NO) | Josh Downs | **$15** ($12–18) | He was the Saints' lead back in Wk 9: 15 carries (68% share), all 3 red-zone carries, 14.7 pts. Wk 10 is vs CAR's weak run defense, and NO plays in Wk 11 when Judkins and Jacobs are both on bye. Sleeper's 4.3 projection looks stale. The risk is Etienne (IR, hamstring) returning as soon as Wk 10. Raised from $12 because consensus prices went up (FantasyPros $8–17, Yahoo $7). |
-| 2 | **Corey Kiner** (RB, NE) | Omarion Hampton | **$10** ($8–14) | Stevenson (knee) will miss time, and Henderson is out with neurological symptoms. Kiner had 8 carries for 55 yards and a TD in Wk 9. He's the likely Wk 10 starter vs DET, but NE is on bye in Wk 11, so this is a bet on him holding the job into Wks 12–14. Hampton is third in a 3-way LAC committee for an 0-8 team. Others bid higher (RotoBaller 25–30%), so you may lose this claim. That's fine. |
+**Raised Kiner from $10 to $12.** Every source raised his price after the deadline.
 
-- **Drop Downs.** He asked for a trade, his role has shrunk, he's benched for you, and IND is on bye Wk 13. If he's traded into a starting role before 2 PM MT, drop Hampton for Estime instead and skip Kiner.
-- **If Jonathan Taylor is traded today:** Seth McGowan becomes the top RB add. He's already rostered in your league per the monitor, so nothing to claim.
-- **Week 11 bye prep:** LAR D/ST is on bye in Week 11. Claim a defense in next week's run. Don't do it now; LAR @ ARI is a good Week 10 spot.
-- **Kicker:** skip Pineiro for Gay. Pineiro is only +1.6 projected and is shaky from 50+.
-- **Not worth it for you:**
-  - Bryce Young: Goff is your QB.
-  - Tank Dell and Mumpfield: crowded or uncertain roles, and you're full at WR once Evans returns.
-  - Dylan Sampson: CLE is on bye Wk 11 too.
+## Trades
+- **Kittle for Nabers (Gibbs me Nabers, 5-4).** Engine: +2.0 per week for you, +1.2 for them. **Endorse, unchanged.**
+  - Allen's arrival in SF slightly dilutes Kittle's targets, which makes this a good time to sell Kittle.
+  - Juwan Johnson or Freiermuth would replace him at TE, with Strange as the floor.
+- **Strange for Diggs (same team).** Engine: +1.6 for you. **Adjust:** only if you don't do Kittle for Nabers, since you need one TE.
+- **Goff + Strange for Purdy.** Engine: +1.0. **Reject.** Too small a gain for two starters.
 
-## Trade ideas
-These are ideas. Don't send any of them without checking the partner's needs first.
+## Kicker & defense
+- **Kicker:** Bates for Gay ($1).
+- **Defense:** keep LAR in Week 10. LAR is on bye Week 11. BUF D/ST is a free agent and RotoBaller's top-10 Week 11 play vs MIA. Claim it in next week's run and drop LAR, then pick LAR back up later if it's still free.
 
-1. **Kittle for Malik Nabers (Gibbs me Nabers, 5-4).** Engine: +2.0 per week for you, +1.2 for them. **Endorse.**
-   - Nabers is healthy and ranked WR13. He had four straight 100-yard games before Week 9's 5-43.
-   - You'd start Strange or a free-agent TE (Juwan Johnson is free, about 10.5 per week over Weeks 11–13). The WR upgrade is worth that drop at TE.
-   - Message: _"Kittle for Nabers? You get the TE edge every week, I need WR help with Evans out."_
-2. **Strange for Stefon Diggs (same team).** Engine: +1.6 per week for you, +1.2 for them. **Adjust: only if you don't do #1**, or pair it with #1 and add Juwan Johnson.
-   - Diggs is touchdown-dependent: 5 TDs in 6 games, but hasn't topped 50 yards since Week 1. He'd still start for you at WR.
-   - Message: _"Strange for Diggs? Diggs barely starts for you and Strange fills your TE/flex."_
-3. **Sell Judkins (for example, to I'm stuck Step Burrow for Tony Pollard).** **Long shot:** the engine has them losing 0.4 per week.
-   - Sampson took 64% of snaps in Shedeur Sanders' first start, and Judkins is under 3 yards per carry in his last two games. Sell before the role news spreads.
-   - Rejected: **Goff + Strange for Purdy** (+1.1). Too small a gain for two starters.
-
-## Roster health
-- **Josh Jacobs:** hold. He has finger surgery this week. LaFleur says he's out "indefinitely," and Zenitz reports up to 3 weeks. GB is on bye Week 11, so **Week 12 at LAR** is the realistic return. If he goes on IR, you have no open IR slot (Adams and Evans fill both), so he stays on your bench.
-- **Mike Evans:** hold. Achilles tendinitis, no timetable. Reports say he's "questionable at best" and likely misses "a couple more games." Sleeper's 17.6 for Week 11 is optimistic. Plan on Week 12 at the earliest.
-- **Davante Adams:** hold. He had hamstring surgery, with a 6–10 week timeline that McVay says is "on the shorter end." With LAR on bye Week 11, that points to about **Week 13**. Nacua is likely headed to IR, which raises Adams' value when he's back.
-- **DJ Moore:** start-and-monitor. The AC joint sprain keeps recurring.
-- **Jordyn Tyson:** hold. In his debut he played 18 snaps under a pitch count (4 catches for 30 yards). His snaps should rise each week, and he's projected 11+ from Week 11.
-- **Josh Downs:** cut for Estime (above).
-- **Omarion Hampton:** cut for Kiner if that claim wins. Otherwise keep him as Monday-night insurance.
-- **Byes ahead:**
-  - **Week 11:** Judkins, Jacobs and LAR D/ST. Your RBs that week are Dowdle, Hampton and Estime, plus Kiner, who is also on bye.
-  - **Week 13:** Allen, Cooper, Downs and Gay. Evans and Adams should be back to cover.
+## Looking ahead
+- **Week 11:**
+  - Judkins (CLE), Jacobs, LAR D/ST and Kiner (NE) are all on bye.
+  - Your RBs that week: Dowdle and Estime. That's why Estime is the priority claim.
+- **Week 12:** Jacobs and Evans should both be back. Kiner starts if he's still NE's lead back.
+- **Week 13:**
+  - Cooper (NYJ) and Gay are on bye.
+  - Allen's and Downs' Week 13 projections show 0, but that's likely stale IND bye data. Verify after the monitor updates.
+  - Adams is likely back around Weeks 13–14.
+- **Sell:** Judkins, while he still gets goal-line carries. **Stash:** Tyson, whose snaps are rising.
 
 ## Changes since last report
-_Compared with the Mon Nov 9 11:06 PM flash._
+_Compared with the Tue Nov 10 weekly check-in (7:37 AM MT)._
+- **Trade deadline:**
+  - Allen traded from IND to SF. His projection fell from 10.3 to 6.0, and he now faces a suspension.
+  - Downs traded from IND to KC, an upgrade.
+  - The drop for Estime switched from Downs to **Allen**.
+- **Jonathan Taylor stayed in IND.** The McGowan contingency is gone.
+- **Kiner bid** raised from $10 to $12, because NE added no RB.
+- **New:** Bates for Gay ($1). Earlier you were told to skip kickers.
 - **Projections:**
-  - Fixed lineup: 106.2 (was 107.7).
-  - Lineup as set: 94.8 (was 97.2).
-  - Cooper dropped to 9.2 (was 10.1), so the Tyson-for-Cooper swap is gone. Bench Cooper for Strange instead of Allen.
-- **Estime claim** raised from $12 to **$15**.
-- **New:** a second claim, Kiner $10 (drop Hampton). Stevenson's knee injury and Henderson's absence opened the NE job.
-- **Jacobs:** Week 12 confirmed as the realistic return (GB bye Week 11).
-- **Evans:** downgraded from a hoped-for Week 11 return to Week 12 at the earliest.
-- **Win chance:** 75% (was not stated).
+  - Fixed lineup: 104.7 (was 106.2).
+  - Monitor's win chance (lineup as set): 64.5%, down from the 75% in the check-in.
+  - Allen now projects 6.0, so he's out of the FLEX conversation.
+- **Lineup:** still not fixed. It needs the same two swaps.
+- **Week 11 defense:** BUF D/ST named as the stream.
 
 ## Sources
-- Sleeper league data via monitor (`data/latest.json`, 2026-11-10T14:37Z, run #193 succeeded)
-- [ESPN: Jacobs needs surgery on fractured finger (Nov 9)](https://www.espn.com/nfl/story/_/id/50435349/packers-rb-josh-jacobs-needs-surgery-fractured-finger)
-- [Yahoo/ClutchPoints: Jacobs surgery, up to 3 weeks (Nov 9)](https://sports.yahoo.com/articles/packers-josh-jacobs-gets-official-214246515.html)
-- [Packers.com: Jacobs to miss time (Nov 9)](https://www.packers.com/news/packers-rb-josh-jacobs-to-miss-time-due-to-surgery-on-broken-finger-nov-9-2026)
-- [Yahoo/The Spun: Evans Achilles, no timetable (Nov 7)](https://sports.yahoo.com/articles/mike-evans-injury-49ers-star-030000585.html)
-- [Yahoo/Niners Nation: Evans questionable at best (Nov 8)](https://sports.yahoo.com/articles/49ers-wr-mike-evans-questionable-195559140.html)
-- [Bleacher Report: Adams return timeline after surgery (Oct 28)](https://bleacherreport.com/articles/25524713-davante-adams-injury-return-timeline-updated-rams-sean-mcvay-after-hamstring-surgery)
-- [NBC/Rotoworld: Nacua likely to IR (Nov 9)](https://www.nbcsports.com/fantasy/football/player-news/2026-11-09/mcvay-nacua-knee-turf-toe-likely-headed-to-ir)
-- [RotoWire: Week 9 usage recap (Nov 10)](https://www.rotowire.com/football/article/nfl-box-score-breakdown-week-9-recap-usage-stats-145932)
-- [NBC/Rotoworld: DJ Moore 3-25 vs MIN (Nov 10)](https://www.nbcsports.com/fantasy/football/player-news/2026-11-10/dj-moore-disappoints-to-3-25-line-in-win-over-min)
-- [RotoWire: Moore still in non-contact jersey (Nov 7)](https://www.rotowire.com/football/headlines/dj-moore-injury-still-in-non-contact-jersey-646420)
-- [Browns Nation: Judkins quietly losing his job (Nov 10)](https://www.brownsnation.com/browns-starter-may-be-quietly-losing-his-job/)
-- [CBS: Dowdle rushing TD, Warren still No. 1 (Nov 1)](https://www.cbssports.com/fantasy/football/news/steelers-rico-dowdle-rushing-td-in-big-win/)
-- [DraftSharks: Hampton buried in committee (Nov 2)](https://www.draftsharks.com/fantasy-football-news/83894/omarion-hamptons-still-right-where-we-left-him-buried-in-committee)
-- [ESPN: Herbert finger X-rays negative (Nov 9)](https://www.espn.com/nfl/story/_/id/50437202/chargers-harbaugh-says-x-rays-herbert-finger-negative)
-- [NBC Sports Boston: Patriots–Lions Munich, 9:30 AM ET (Nov)](https://www.nbcsportsboston.com/nfl/new-england-patriots/how-to-watch-patriots-lions-germany-week-10-time-channel-stream/812725/)
-- [CBS: 2026 Week 10 schedule](https://www.cbssports.com/nfl/schedule/2026/regular/10/)
-- [NFL.com: 2026 bye weeks](https://www.nfl.com/news/2026-nfl-schedule-release-every-team-bye-week)
-- [ESPN: Week 10 odds (Nov 9)](https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals)
-- [Heavy: Colts deadline tracker (Nov 10, 6:35 AM ET)](https://heavy.com/sports/nfl/indianapolis-colts/colts-trade-deadline-tracker-live-rumors-news-updates-jonathan-taylor-josh-downs/)
-- [Bleacher Report: Colts rumors, Allen and Downs (Nov 7)](https://bleacherreport.com/articles/25530179-new-colts-rumors-keenan-allen-josh-downs-grover-stewart-trade-talks-2026-nfl-deadline)
-- [FantasyPros: Omar Cooper Jr. news](https://www.fantasypros.com/nfl/news/omar-cooper-jr.php)
+- Sleeper league data via monitor (`data/latest.json`, 2026-11-11T00:40Z, run #206 succeeded)
+- [CBS: 2026 trade deadline tracker (Nov 10)](https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-tracker-latest-deals-grades/)
+- [CBS: Keenan Allen trade grades (Nov 10)](https://www.cbssports.com/nfl/news/keenan-allen-trade-grades-49ers-colts/)
+- [ESPN: deadline fantasy impacts (Nov 10)](https://www.espn.com/fantasy/football/story/_/id/50359951/nfl-trade-deadline-2026-fantasy-football-impacts)
+- [NBC/Rotoworld: Allen to 49ers (Nov 10)](https://www.nbcsports.com/fantasy/football/player-news/2026-11-10/colts-deal-wr-not-that-one-keenan-allen-to-49ers)
+- [Yahoo: Colts trade Allen, suspension note (Nov 10)](https://sports.yahoo.com/articles/colts-trade-wr-keenan-allen-184956956.html)
+- [ESPN: Chiefs trade for Josh Downs (Nov 10)](https://www.espn.com/nfl/story/_/id/50445576/chiefs-trade-colts-wr-josh-downs)
+- [Yahoo: deadline fantasy fallout, Downs (Nov 10)](https://sports.yahoo.com/fantasy/article/2026-nfl-trade-deadline-fantasy-fallout-josh-downs-gets-massive-qb-upgrade-with-move-to-chiefs-225658324.html)
+- [Heavy: Reid on Worthy hamstring (Nov 8)](https://heavy.com/sports/nfl/kansas-city-chiefs/andy-reid-injury-update-xavier-worthy/)
+- [ESPN: Taylor, Jones stay with Colts (Nov 10)](https://www.espn.com/nfl/story/_/id/50446805/rb-taylor-qb-jones-remain-colts-trade-deadline-passes)
+- [CBS: Evans not trending toward Week 10 (Nov 10)](https://www.cbssports.com/fantasy/football/news/49ers-mike-evans-not-trending-toward-week-10-return/)
+- [NBC: Kittle 58 yards on 7 targets (Nov 8)](https://www.nbcsports.com/fantasy/football/player-news/2026-11-08/kittle-has-58-yards-on-7-targets-vs-lv)
+- [Yahoo: Jacobs surgery, up to 3 weeks (Nov 9)](https://sports.yahoo.com/articles/packers-josh-jacobs-gets-official-214246515.html)
+- [NBC: Adams 6–10 weeks](https://www.nbcsports.com/fantasy/football/player-news/2026-10-19/mcvay-davante-adams-knee-to-miss-6-10-weeks)
+- [NBC: DJ Moore 3-25 vs MIN (Nov 10)](https://www.nbcsports.com/fantasy/football/player-news/2026-11-10/dj-moore-disappoints-to-3-25-line-in-win-over-min)
+- [DraftSharks: Judkins losing snaps to Sampson (Nov 9)](https://www.draftsharks.com/fantasy-football-news/84078/quinshon-judkins-continues-losing-snaps-to-dylan-sampson)
+- [NBC: Dowdle splits work, TD (Nov 1)](https://www.nbcsports.com/fantasy/football/player-news/2026-11-01/dowdle-splits-work-gets-td-in-week-8-win)
+- [DraftSharks: Hampton takes back control (Nov 9)](https://www.draftsharks.com/fantasy-football-news/84121/omarion-hampton-takes-back-control-but-does-it-matter)
+- [RotoWire: Week 9 usage recap](https://www.rotowire.com/football/article/nfl-box-score-breakdown-week-9-recap-usage-stats-145932)
 - [ESPN: Tyson debut (Nov 9)](https://www.espn.com/nfl/story/_/id/50434104/jordyn-tyson-saints-debut-promise-rookie-mistakes)
-- [NBC/Rotoworld: Brenton Strange news](https://www.nbcsports.com/nfl/brenton-strange/7983/news)
-- [FantasyLife: early Week 10 waivers, Estime usage (Nov 9)](https://www.fantasylife.com/articles/fantasy/early-fantasy-football-waiver-wire-for-week-10)
-- [NFL.com: Week 10 waiver targets, Etienne IR note](https://www.nfl.com/news/2026-nfl-fantasy-football-waiver-wire-week-10-jordyn-tyson-tank-dell-headline-top-15-targets)
-- [Yahoo: Week 10 waivers, Stevenson knee (Nov 9)](https://sports.yahoo.com/fantasy/article/week-10-fantasy-football-waiver-wire-seth-mcgowan-corey-kiner-among-top-pickups-190327664.html)
-- [Bleacher Report: Kiner and best Week 10 pickups (Nov 10)](https://bleacherreport.com/articles/25531587-corey-kiner-and-best-week-10-fantasy-football-waiver-wire-pickups)
-- [RotoBaller: Week 10 FAAB advice (Nov 10)](https://www.rotoballer.com/faab-waiver-wire-advice-week-10-fantasy-pickups-2026/1988730)
-- [FantasyPros: Week 10 waiver advice](https://www.fantasypros.com/2026/11/fantasy-football-waiver-wire-advice-players-to-add-stash-drop-week-10-2026/)
-- [RotoBaller: Nabers status (Nov 7–9)](https://www.rotoballer.com/?p=1986631)
-- [RotoBaller: Diggs outlook (Nov 7)](https://www.rotoballer.com/?p=1986233)
+- [NBC: Strange two targets (Nov 5)](https://www.nbcsports.com/fantasy/football/player-news/2026-11-05/just-two-targets-for-brenton-strange-in-win)
+- [ESPN: Week 10 odds (Nov 10)](https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals)
+- [CBS: Week 10 picks, NE–DET line (Nov 10)](https://www.cbssports.com/nfl/news/2026-nfl-week-10-picks-score-predictions-lions-patriots-bengals/)
+- [RotoWire: Etienne non-committal for Week 10 (Nov 10)](https://www.rotowire.com/football/headlines/travis-etienne-injury-coach-non-committal-on-week-10-return-647024)
+- [CBS: Estime could be the cure (Nov 10)](https://cbssports.com/fantasy/football/news/week-10-waiver-wire-audric-estime-could-be-the-cure)
+- [Yahoo: Patriots left with Kiner after deadline (Nov 10)](https://sports.yahoo.com/articles/skipping-nfl-trade-deadline-patriots-220522648.html)
+- [RotoBaller: Week 10 FAAB advice](https://www.rotoballer.com/faab-waiver-wire-advice-week-10-fantasy-pickups-2026/1988730)
+- [FantasyPros: Week 10 waiver advice (Nov 9)](https://www.fantasypros.com/2026/11/fantasy-football-waiver-wire-advice-players-to-add-stash-drop-week-10-2026/)
+- [Bleacher Report: Kiner and Week 10 pickups (Nov 10)](https://bleacherreport.com/articles/25531587-corey-kiner-and-best-week-10-fantasy-football-waiver-wire-pickups)
+- [RotoBaller: Week 10 kicker rankings](https://www.rotoballer.com/week-10-kicker-streamers-starters-and-rankings-2026-fantasy-tiers-rankings/1988707)
+- [RotoBaller: D/ST streamers Weeks 10–13](https://www.rotoballer.com/fantasy-football-defense-d-st-rankings-streamers-for-weeks-10-11-12-13-2026/1989743)
+- [FantasyPros: Week 11 schedule/byes](https://www.fantasypros.com/nfl/schedule.php?week=11)
