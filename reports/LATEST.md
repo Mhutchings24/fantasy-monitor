@@ -3,6 +3,9 @@ _Conorrhea · No Fun League · record 3-6 · data as of 1:31 AM MT Nov 11 (fresh
 
 **Reading notes.** Wednesday practice reports are not out yet, so every "Plays?" number below is my estimate from news through Tuesday night. I could not open RotoWire or ESPN pages from this session; usage numbers come from FantraxHQ, Sharp Football, NBC/Rotoworld, CBS, Yahoo and RotoBaller. The monitor does not list your opponent's players, so their side is projection only.
 
+
+> **Update 1:55 AM MT: Tyson moves into the FLEX.** I undervalued him. In his debut he drew 5 targets on 16 routes (a 31% target rate, second on the team) while held to 25% of snaps. NFL.com ranks him the No. 1 waiver target and expects a full set of routes soon. If his routes only double, that is 7–10 targets. **Start Tyson at FLEX** over Douglas, Cooper and Dowdle unless Wed–Fri reports show a hamstring setback or another snap cap. The Douglas add is now optional depth, not a must. Sources: [NFL.com](https://www.nfl.com/news/2026-nfl-fantasy-football-waiver-wire-week-10-jordyn-tyson-tank-dell-headline-top-15-targets), [RotoBaller](https://www.rotoballer.com/week-10-waiver-wire-pickups-jordyn-tyson-antonio-williams-caleb-douglas-fantasy-football-outlooks/1989661).
+
 ## Bottom line
 - **Waivers ran overnight: you got Estime and Kiner (dropped Hampton and Downs). $78 FAAB left.** Your lineup is still broken: Jacobs (Out) and Allen are starting. As set it projects 90.0 against 99.0.
 - **Add Stefon Diggs (WR, WAS) before Thursday 6:15 PM MT and drop Brenton Strange.** Diggs is Washington's No. 1 receiver with McLaurin done for the year, ranks WR25 this week, and plays Thursday night. If Sleeper shows "Claim" instead of "Add," bid **$10**.
