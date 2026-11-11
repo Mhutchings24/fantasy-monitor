@@ -1,5 +1,5 @@
 {
- "content_hash": "6fd681ed296e1c526ee9fa6b73c71ffc47b6d8b2",
+ "content_hash": "633e8f62060b17244a5339cb538e2e790b4fa906",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -638,21 +638,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "CAR D/ST",
-   "pos": "DEF",
-   "proj_4wk": 24.3,
-   "proj_this_week": 6.09,
-   "status": null,
-   "team": "CAR"
-  },
-  {
-   "adds_24h": 0,
    "name": "Treylon Burks",
    "pos": "WR",
    "proj_4wk": 24.3,
    "proj_this_week": 4.05,
    "status": "Questionable",
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "CAR D/ST",
+   "pos": "DEF",
+   "proj_4wk": 24.3,
+   "proj_this_week": 6.09,
+   "status": null,
+   "team": "CAR"
   },
   {
    "adds_24h": 0,
@@ -665,21 +665,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Chris Bell",
-   "pos": "WR",
-   "proj_4wk": 24.0,
-   "proj_this_week": 5.86,
-   "status": null,
-   "team": "MIA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Malachi Fields",
    "pos": "WR",
    "proj_4wk": 24.0,
    "proj_this_week": 6.58,
    "status": null,
    "team": "NYG"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chris Bell",
+   "pos": "WR",
+   "proj_4wk": 24.0,
+   "proj_this_week": 5.86,
+   "status": null,
+   "team": "MIA"
   },
   {
    "adds_24h": 0,
@@ -853,7 +853,7 @@
    "team": "CLE"
   }
  ],
- "generated_at": "2026-11-11T12:58:35Z",
+ "generated_at": "2026-11-11T13:03:40Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
