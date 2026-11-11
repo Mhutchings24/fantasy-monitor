@@ -1,10 +1,10 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-11T14:16:56Z UTC
+Week 10 · record 3-6 · updated 2026-11-11T14:27:06Z UTC
 
 ## Lineup check
-Current lineup projects **97.9**, best possible **105.3**.
+Current lineup projects **97.8**, best possible **105.2**.
 
-- 🔁 Start Stefon Diggs (WR, WAS) (11.4) over Jordyn Tyson (WR, NO) (5.6)
+- 🔁 Start Stefon Diggs (WR, WAS) (11.3) over Jordyn Tyson (WR, NO) (5.6)
 - 🔁 Start Rico Dowdle (RB, PIT) (9.9) over Audric Estime (RB, NO) (8.2)
 
 ## Waiver targets
@@ -19,18 +19,18 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Zonovan Knight (Questionable) | RB | ARI | Audric Estime | +9.2 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +7.6 | +0.0 | 0 |
 | Alvin Kamara | RB | NO | Audric Estime | +6.9 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 339,183 |
+| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 342,180 |
 | Devin Singletary | RB | NYG | Audric Estime | +6.8 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +6.7 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +6.5 | +0.0 | 0 |
 | Bo Nix | QB | DEN | Corey Kiner | +1.8 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +1.8 | +0.0 | 0 |
-| Brenton Strange | TE | JAX | Corey Kiner | +1.6 | +1.6 | 114,588 |
+| Brenton Strange | TE | JAX | Corey Kiner | +1.6 | +1.6 | 115,569 |
 
 **K stream this week:** add Dominic Zvada for Matt Gay (+1.1 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **97.9** – 116.3 projected · win chance **30%**
+vs **Never Going Go Scottsdale** (4-5): you **97.8** – 116.3 projected · win chance **30%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -46,7 +46,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 6 | 122.5 | 48% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 118.6 | 39% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 117.7 | 16% |
-| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 106.6 | 1% |
+| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 106.5 | 1% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -75,7 +75,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Rico Dowdle | RB | PIT | bench |  | 9.9 | 7.7 | 7.8 | 8.2 |
 | Corey Kiner | RB | NE | bench |  | 9.2 | 0.0 | 5.1 | 4.7 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 0.0 | 12.6 | 16.3 |
-| Stefon Diggs | WR | WAS | bench |  | 11.4 | 13.2 | 13.8 | 13.5 |
+| Stefon Diggs | WR | WAS | bench |  | 11.3 | 13.2 | 13.8 | 13.5 |
 | Keenan Allen | WR | SF | bench |  | 6.0 | 9.4 | 9.3 | 0.0 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
 | Mike Evans | WR | SF | bench | Questionable | 0.0 | 17.6 | 17.8 | 18.9 |
