@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 10
+- [Wed Nov 11 · Flash 11:05](2026/week-10/2026-11-11-flash-1105.md) — Cooper (ankle) Q, limited Wed, still starting: put Diggs in his WR spot before Thu 6:15 PM MT; keep Tyson FLEX + Estime RB2; Boswell for Gay still open.
 - [Wed Nov 11 · AM](2026/week-10/2026-11-11-am.md) — Diggs still benched: start him over Cooper before Thu 6:15 PM MT; opp now 116.3 (30% win), so Tyson FLEX + Estime RB2 for upside; Boswell for Gay; optional Douglas for Allen after the Hall offer; pass on Aaron Jones.
 - [Wed Nov 11 · Flash 02:03](2026/week-10/2026-11-11-flash-0203.md) — Diggs added (Strange dropped) but benched: start Diggs over Cooper before Thu 6:15 PM MT (Tyson stays FLEX); keep Estime at RB2; Boswell for Gay and the Allen-for-Hall offer still open.
 - [Wed Nov 11 · Full research report](2026/week-10/2026-11-11-deep-dive.md) — Estime + Kiner claimed ($78 left). Add Diggs (drop Strange) before Thu 6:15 PM MT; add DeMario Douglas (drop Allen, after offering Allen for Breece Hall); Boswell for Gay; start Estime at RB2, bench Jacobs.
