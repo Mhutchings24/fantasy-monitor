@@ -1,5 +1,5 @@
 {
- "content_hash": "c41b1b1720ff5c91f0818b81370a4894840d33a5",
+ "content_hash": "0ea16cc1110be734553726ea415858da1c333a65",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -218,7 +218,7 @@
    "name": "Dalton Schultz",
    "pos": "TE",
    "proj_4wk": 33.5,
-   "proj_this_week": 7.73,
+   "proj_this_week": 7.74,
    "status": null,
    "team": "HOU"
   },
@@ -620,21 +620,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Treylon Burks",
-   "pos": "WR",
-   "proj_4wk": 24.3,
-   "proj_this_week": 4.05,
-   "status": "Questionable",
-   "team": "WAS"
-  },
-  {
-   "adds_24h": 0,
    "name": "CAR D/ST",
    "pos": "DEF",
    "proj_4wk": 24.3,
    "proj_this_week": 6.09,
    "status": null,
    "team": "CAR"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Treylon Burks",
+   "pos": "WR",
+   "proj_4wk": 24.3,
+   "proj_this_week": 4.05,
+   "status": "Questionable",
+   "team": "WAS"
   },
   {
    "adds_24h": 0,
@@ -656,21 +656,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Malachi Fields",
-   "pos": "WR",
-   "proj_4wk": 23.9,
-   "proj_this_week": 6.55,
-   "status": null,
-   "team": "NYG"
-  },
-  {
-   "adds_24h": 0,
    "name": "Chris Bell",
    "pos": "WR",
    "proj_4wk": 23.9,
    "proj_this_week": 5.83,
    "status": null,
    "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Malachi Fields",
+   "pos": "WR",
+   "proj_4wk": 23.9,
+   "proj_this_week": 6.55,
+   "status": null,
+   "team": "NYG"
   },
   {
    "adds_24h": 0,
@@ -829,8 +829,8 @@
    "adds_24h": 101592,
    "name": "Deshaun Watson",
    "pos": "QB",
-   "proj_4wk": 16.3,
-   "proj_this_week": 14.09,
+   "proj_4wk": 16.4,
+   "proj_this_week": 14.14,
    "status": null,
    "team": "CLE"
   },
@@ -853,7 +853,7 @@
    "team": "LAR"
   }
  ],
- "generated_at": "2026-11-11T15:33:14Z",
+ "generated_at": "2026-11-11T15:38:18Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -889,7 +889,7 @@
    {
     "name": "Quinshon Judkins",
     "pid": "12512",
-    "proj": 10.76,
+    "proj": 10.75,
     "slot": "RB"
    },
    {
@@ -935,8 +935,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 105.22,
-  "current_projected": 97.82,
+  "best_projected": 105.21,
+  "current_projected": 97.81,
   "gain": 7.4,
   "problems": [],
   "source": "matchup week 10",
@@ -1097,7 +1097,7 @@
     "power_rank": 1,
     "proj_avg": 131.4,
     "proj_by_week": {
-     "10": 131.88,
+     "10": 131.97,
      "11": 127.67,
      "12": 132.83,
      "13": 133.22
@@ -1109,16 +1109,16 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.099,
+    "first_seed_odds": 0.1,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.884,
+    "playoff_odds": 0.885,
     "power_rank": 5,
     "proj_avg": 124.7,
     "proj_by_week": {
-     "10": 132.76,
+     "10": 132.9,
      "11": 108.69,
      "12": 138.07,
      "13": 119.23
@@ -1130,7 +1130,7 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.089,
+    "first_seed_odds": 0.088,
     "losses": 4,
     "mine": false,
     "pa": 1118.82,
@@ -1181,7 +1181,7 @@
     "power_rank": 4,
     "proj_avg": 125.0,
     "proj_by_week": {
-     "10": 122.06,
+     "10": 122.18,
      "11": 109.29,
      "12": 134.55,
      "13": 134.0
@@ -1265,7 +1265,7 @@
     "power_rank": 10,
     "proj_avg": 106.5,
     "proj_by_week": {
-     "10": 105.22,
+     "10": 105.21,
      "11": 96.14,
      "12": 116.72,
      "13": 108.07
@@ -1331,7 +1331,7 @@
    "pid": "12512",
    "pos": "RB",
    "proj_by_week": {
-    "10": 10.76,
+    "10": 10.75,
     "11": 0.0,
     "12": 12.44,
     "13": 12.41
