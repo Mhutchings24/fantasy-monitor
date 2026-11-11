@@ -1,5 +1,5 @@
 {
- "content_hash": "64ae8549370658491a614419039052ac61a3bdc9",
+ "content_hash": "d46e033ddd82e9d46e39ec1ddd05e3852dbe086f",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -386,21 +386,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Alvin Kamara",
-   "pos": "RB",
-   "proj_4wk": 28.6,
-   "proj_this_week": 6.87,
-   "status": null,
-   "team": "NO"
-  },
-  {
-   "adds_24h": 0,
    "name": "Chad Ryland",
    "pos": "K",
    "proj_4wk": 28.6,
    "proj_this_week": 6.92,
    "status": null,
    "team": "ARI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Alvin Kamara",
+   "pos": "RB",
+   "proj_4wk": 28.6,
+   "proj_this_week": 6.87,
+   "status": null,
+   "team": "NO"
   },
   {
    "adds_24h": 208896,
@@ -880,7 +880,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-11T02:11:57Z",
+ "generated_at": "2026-11-11T02:17:02Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
