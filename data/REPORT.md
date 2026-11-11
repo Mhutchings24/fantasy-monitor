@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-11T03:23:21Z UTC
+Week 10 · record 3-6 · updated 2026-11-11T03:28:26Z UTC
 
 ## Lineup check
 Current lineup projects **90.0**, best possible **104.8**.
@@ -21,7 +21,7 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Xavier Worthy (Out) | WR | KC | Keenan Allen | +1.0 | +0.0 | 0 |
 | Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.8 | +0.5 | 129,144 |
 | Juwan Johnson | TE | NO | Keenan Allen | +0.7 | +0.0 | 0 |
-| Malik Washington | WR | MIA | Omar Cooper Jr. | +0.5 | +0.5 | 0 |
+| Malik Washington | WR | MIA | Omar Cooper Jr. | +0.4 | +0.4 | 0 |
 | Zonovan Knight (Out) | RB | ARI | Keenan Allen | +0.4 | +0.0 | 0 |
 | Dallas Goedert | TE | PHI | Keenan Allen | +0.3 | +0.0 | 0 |
 | Pat Freiermuth | TE | PIT | Keenan Allen | +0.2 | +0.2 | 0 |
@@ -41,13 +41,13 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 130.0 | 100% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 131.3 | 98% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.3 | 91% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.4 | 91% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 129.7 | 96% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 5 | 121.9 | 75% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 6 | 121.4 | 53% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 6 | 121.3 | 53% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 113.5 | 30% |
-| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 114.0 | 34% |
-| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 118.3 | 20% |
+| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 114.0 | 35% |
+| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 117.8 | 20% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 104.7 | 2% |
 
 ## Trade ideas
@@ -78,6 +78,6 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Omarion Hampton | RB | LAC | bench |  | 8.8 | 9.5 | 10.1 | 8.9 |
 | Brenton Strange | TE | JAX | bench |  | 10.9 | 10.6 | 11.2 | 11.1 |
 | Josh Downs | WR | KC | bench |  | 7.1 | 9.0 | 8.9 | 0.0 |
-| Jordyn Tyson | WR | NO | bench |  | 6.7 | 11.3 | 11.2 | 10.5 |
+| Jordyn Tyson | WR | NO | bench |  | 5.6 | 11.3 | 11.2 | 10.5 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
 | Mike Evans | WR | SF | reserve | Out | 0.0 | 17.6 | 17.8 | 18.9 |
