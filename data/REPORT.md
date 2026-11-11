@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-11T18:03:10Z UTC
+Week 10 · record 3-6 · updated 2026-11-11T18:04:37Z UTC
 
 ## Lineup check
 Current lineup projects **96.6**, best possible **105.3**.
@@ -20,13 +20,13 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Zonovan Knight (Questionable) | RB | ARI | Audric Estime | +9.2 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +7.6 | +0.0 | 0 |
 | Alvin Kamara | RB | NO | Audric Estime | +6.9 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 326,025 |
+| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 328,212 |
 | Devin Singletary | RB | NYG | Audric Estime | +6.8 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +6.7 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +6.5 | +0.0 | 0 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Brenton Strange | TE | JAX | Corey Kiner | +1.7 | +1.7 | 105,462 |
+| Brenton Strange | TE | JAX | Corey Kiner | +1.7 | +1.7 | 106,101 |
 
 **K stream this week:** add Dominic Zvada for Matt Gay (+1.1 pts this week)
 
