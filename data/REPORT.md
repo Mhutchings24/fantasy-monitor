@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-11T12:35:44Z UTC
+Week 10 · record 3-6 · updated 2026-11-11T12:45:51Z UTC
 
 ## Lineup check
 Current lineup projects **97.8**, best possible **105.2**.
@@ -19,11 +19,11 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Zonovan Knight (Questionable) | RB | ARI | Audric Estime | +9.2 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +7.6 | +0.0 | 0 |
 | Alvin Kamara | RB | NO | Audric Estime | +6.9 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 326,133 |
+| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 328,806 |
 | Devin Singletary | RB | NYG | Audric Estime | +6.8 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +6.7 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +6.5 | +0.0 | 0 |
-| Bryce Young | QB | CAR | Corey Kiner | +2.3 | +0.7 | 190,184 |
+| Bryce Young | QB | CAR | Corey Kiner | +2.3 | +0.7 | 191,500 |
 | Bo Nix | QB | DEN | Corey Kiner | +1.8 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +1.8 | +0.0 | 0 |
 
