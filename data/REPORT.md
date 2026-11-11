@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-11T22:37:25Z UTC
+Week 10 · record 3-6 · updated 2026-11-11T22:47:31Z UTC
 
 ## Lineup check
 Current lineup projects **93.8**, best possible **105.5**.
@@ -20,13 +20,13 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Zonovan Knight (Questionable) | RB | ARI | Audric Estime | +9.2 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +7.6 | +0.0 | 0 |
 | Alvin Kamara (Questionable) | RB | NO | Audric Estime | +6.9 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 302,517 |
+| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 304,335 |
 | Devin Singletary | RB | NYG | Audric Estime | +6.8 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +6.7 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +6.5 | +0.0 | 0 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.8 | +1.8 | 248,416 |
+| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.8 | +1.8 | 249,848 |
 
 **K stream this week:** add Dominic Zvada for Matt Gay (+1.1 pts this week)
 
@@ -39,11 +39,11 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 130.1 | 100% |
-| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 130.7 | 96% |
+| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 130.2 | 96% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 126.5 | 90% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 127.5 | 92% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 7 | 122.0 | 64% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 124.9 | 58% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 124.5 | 58% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 6 | 122.5 | 47% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 118.7 | 39% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 117.5 | 14% |
