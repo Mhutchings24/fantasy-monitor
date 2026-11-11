@@ -1,5 +1,5 @@
 {
- "content_hash": "4cffa3b3390b2f81191c8c94a86ba881fa775806",
+ "content_hash": "6ded5a57d6ae4376f84fd22597ae258dd8bdd93f",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -620,21 +620,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Treylon Burks",
-   "pos": "WR",
-   "proj_4wk": 24.3,
-   "proj_this_week": 4.05,
-   "status": "Questionable",
-   "team": "WAS"
-  },
-  {
-   "adds_24h": 0,
    "name": "CAR D/ST",
    "pos": "DEF",
    "proj_4wk": 24.3,
    "proj_this_week": 6.09,
    "status": null,
    "team": "CAR"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Treylon Burks",
+   "pos": "WR",
+   "proj_4wk": 24.3,
+   "proj_this_week": 4.05,
+   "status": "Questionable",
+   "team": "WAS"
   },
   {
    "adds_24h": 0,
@@ -853,7 +853,7 @@
    "team": "LAR"
   }
  ],
- "generated_at": "2026-11-11T15:58:36Z",
+ "generated_at": "2026-11-11T16:03:40Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
