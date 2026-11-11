@@ -1,5 +1,5 @@
 {
- "content_hash": "d984c3bf9330a775704e2fb404c54d0da6ccb45b",
+ "content_hash": "354d08d5fa00a5be4c65a36b8d5d534056b7d869",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -64,8 +64,8 @@
    "adds_24h": 0,
    "name": "Geno Smith",
    "pos": "QB",
-   "proj_4wk": 51.7,
-   "proj_this_week": 16.48,
+   "proj_4wk": 51.8,
+   "proj_this_week": 16.57,
    "status": null,
    "team": "NYJ"
   },
@@ -136,8 +136,8 @@
    "adds_24h": 185814,
    "name": "Khalil Shakir",
    "pos": "WR",
-   "proj_4wk": 42.1,
-   "proj_this_week": 10.16,
+   "proj_4wk": 42.0,
+   "proj_this_week": 10.09,
    "status": null,
    "team": "BUF"
   },
@@ -212,6 +212,15 @@
    "proj_this_week": 8.04,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 96016,
+   "name": "Ryan Flournoy",
+   "pos": "WR",
+   "proj_4wk": 35.0,
+   "proj_this_week": 9.0,
+   "status": null,
+   "team": "DAL"
   },
   {
    "adds_24h": 207972,
@@ -542,7 +551,7 @@
    "name": "BUF D/ST",
    "pos": "DEF",
    "proj_4wk": 25.8,
-   "proj_this_week": 6.82,
+   "proj_this_week": 6.8,
    "status": null,
    "team": "BUF"
   },
@@ -592,13 +601,13 @@
    "team": "CLE"
   },
   {
-   "adds_24h": 251815,
-   "name": "Josh Downs",
-   "pos": "WR",
+   "adds_24h": 0,
+   "name": "Mason Taylor",
+   "pos": "TE",
    "proj_4wk": 25.0,
-   "proj_this_week": 7.07,
+   "proj_this_week": 7.69,
    "status": null,
-   "team": "KC"
+   "team": "NYJ"
   },
   {
    "adds_24h": 0,
@@ -608,15 +617,6 @@
    "proj_this_week": 8.34,
    "status": null,
    "team": "ATL"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Mason Taylor",
-   "pos": "TE",
-   "proj_4wk": 24.9,
-   "proj_this_week": 7.63,
-   "status": null,
-   "team": "NYJ"
   },
   {
    "adds_24h": 0,
@@ -665,21 +665,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Malachi Fields",
-   "pos": "WR",
-   "proj_4wk": 24.0,
-   "proj_this_week": 6.58,
-   "status": null,
-   "team": "NYG"
-  },
-  {
-   "adds_24h": 0,
    "name": "Chris Bell",
    "pos": "WR",
    "proj_4wk": 24.0,
    "proj_this_week": 5.86,
    "status": null,
    "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Malachi Fields",
+   "pos": "WR",
+   "proj_4wk": 24.0,
+   "proj_this_week": 6.58,
+   "status": null,
+   "team": "NYG"
   },
   {
    "adds_24h": 0,
@@ -811,8 +811,8 @@
    "adds_24h": 133245,
    "name": "Jason Sanders",
    "pos": "K",
-   "proj_4wk": 21.8,
-   "proj_this_week": 7.3,
+   "proj_4wk": 21.9,
+   "proj_this_week": 7.34,
    "status": null,
    "team": "NYJ"
   },
@@ -853,7 +853,7 @@
    "team": "CLE"
   }
  ],
- "generated_at": "2026-11-11T12:25:35Z",
+ "generated_at": "2026-11-11T12:30:39Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -901,7 +901,7 @@
    {
     "name": "DJ Moore",
     "pid": "4983",
-    "proj": 13.19,
+    "proj": 13.1,
     "slot": "WR"
    },
    {
@@ -935,8 +935,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 105.31,
-  "current_projected": 97.86,
+  "best_projected": 105.22,
+  "current_projected": 97.77,
   "gain": 7.45,
   "problems": [],
   "source": "matchup week 10",
@@ -1046,12 +1046,12 @@
    "week": 9
   },
   "matchup": {
-   "my_proj": 97.9,
-   "opp_best_possible": 110.13,
+   "my_proj": 97.8,
+   "opp_best_possible": 110.09,
    "opp_proj": 99.0,
    "opponent": "Never Going Go Scottsdale",
    "opponent_record": "4-5",
-   "win_prob": 0.488
+   "win_prob": 0.486
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1076,7 +1076,7 @@
     "power_rank": 2,
     "proj_avg": 130.0,
     "proj_by_week": {
-     "10": 131.08,
+     "10": 131.02,
      "11": 127.75,
      "12": 136.12,
      "13": 125.16
@@ -1097,7 +1097,7 @@
     "power_rank": 1,
     "proj_avg": 131.3,
     "proj_by_week": {
-     "10": 131.63,
+     "10": 131.44,
      "11": 127.67,
      "12": 132.83,
      "13": 133.22
@@ -1177,7 +1177,7 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.587,
+    "playoff_odds": 0.588,
     "power_rank": 4,
     "proj_avg": 125.0,
     "proj_by_week": {
@@ -1202,7 +1202,7 @@
     "power_rank": 7,
     "proj_avg": 121.8,
     "proj_by_week": {
-     "10": 110.13,
+     "10": 110.09,
      "11": 124.63,
      "12": 126.21,
      "13": 126.3
@@ -1263,9 +1263,9 @@
     "pf": 978.8,
     "playoff_odds": 0.016,
     "power_rank": 10,
-    "proj_avg": 106.6,
+    "proj_avg": 106.5,
     "proj_by_week": {
-     "10": 105.31,
+     "10": 105.22,
      "11": 96.14,
      "12": 116.72,
      "13": 108.07
@@ -1376,7 +1376,7 @@
    "pid": "4983",
    "pos": "WR",
    "proj_by_week": {
-    "10": 13.19,
+    "10": 13.1,
     "11": 16.51,
     "12": 13.9,
     "13": 14.89

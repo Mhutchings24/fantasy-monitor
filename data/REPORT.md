@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-11T12:25:35Z UTC
+Week 10 · record 3-6 · updated 2026-11-11T12:30:39Z UTC
 
 ## Lineup check
-Current lineup projects **97.9**, best possible **105.3**.
+Current lineup projects **97.8**, best possible **105.2**.
 
 - 🔁 Start Stefon Diggs (WR, WAS) (11.4) over Jordyn Tyson (WR, NO) (5.6)
 - 🔁 Start Rico Dowdle (RB, PIT) (9.9) over Audric Estime (RB, NO) (8.2)
@@ -32,7 +32,7 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 **K stream this week:** add Dominic Zvada for Matt Gay (+1.1 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **97.9** – 99.0 projected · win chance **49%**
+vs **Never Going Go Scottsdale** (4-5): you **97.8** – 99.0 projected · win chance **49%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -48,7 +48,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 7 | 121.8 | 48% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 9 | 114.0 | 30% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 8 | 117.7 | 17% |
-| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 106.6 | 2% |
+| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 106.5 | 2% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -71,7 +71,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Quinshon Judkins | RB | CLE | starter |  | 10.8 | 0.0 | 12.4 | 12.4 |
 | Audric Estime | RB | NO | starter |  | 8.2 | 0.5 | 0.5 | 0.4 |
 | George Kittle | TE | SF | starter |  | 16.1 | 14.0 | 14.2 | 15.1 |
-| DJ Moore | WR | BUF | starter |  | 13.2 | 16.5 | 13.9 | 14.9 |
+| DJ Moore | WR | BUF | starter |  | 13.1 | 16.5 | 13.9 | 14.9 |
 | Omar Cooper Jr. | WR | NYJ | starter |  | 9.3 | 10.5 | 11.2 | 0.0 |
 | Jordyn Tyson | WR | NO | starter |  | 5.6 | 11.3 | 11.2 | 10.5 |
 | Rico Dowdle | RB | PIT | bench |  | 9.9 | 7.7 | 7.8 | 8.2 |
