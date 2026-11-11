@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 10
+- [Wed Nov 11 · Full research report](2026/week-10/2026-11-11-deep-dive.md) — Estime + Kiner claimed ($78 left). Add Diggs (drop Strange) before Thu 6:15 PM MT; add DeMario Douglas (drop Allen, after offering Allen for Breece Hall); Boswell for Gay; start Estime at RB2, bench Jacobs.
 - [Tue Nov 10 · PM](2026/week-10/2026-11-10-pm.md) — Allen traded to SF: claim Estime $15 dropping Allen (not Downs, now KC), Kiner $12 (drop Hampton), Bates $1 (drop Gay); lineup still unfixed: start Dowdle + Strange, bench Jacobs + Allen before Sun 7:30 AM MT.
 - [Tue Nov 10 · Weekly](2026/week-10/2026-11-10-weekly.md) — Claim Estime $15 (drop Downs) + Kiner $10 (drop Hampton); bench Jacobs, start Dowdle RB + Strange FLEX before Sun 7:30 AM MT; 75% win chance, 2% playoff odds; Kittle-for-Nabers endorsed.
 - [Mon Nov 9 · Flash 23:06](2026/week-10/2026-11-09-flash-2306.md) — Wk 10 lineup still starts Jacobs (Out): start Dowdle at RB, Strange at FLEX, bench Jacobs + Allen before Sun 7:30 AM MT; keep Estime $12 claim (drop Downs).
