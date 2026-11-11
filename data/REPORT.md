@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-11T10:27:13Z UTC
+Week 10 · record 3-6 · updated 2026-11-11T10:32:17Z UTC
 
 ## Lineup check
-Current lineup projects **97.8**, best possible **105.3**.
+Current lineup projects **97.9**, best possible **105.3**.
 
 - 🔁 Start Stefon Diggs (WR, WAS) (11.4) over Jordyn Tyson (WR, NO) (5.6)
 - 🔁 Start Rico Dowdle (RB, PIT) (9.9) over Audric Estime (RB, NO) (8.2)
@@ -32,7 +32,7 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 **K stream this week:** add Dominic Zvada for Matt Gay (+1.1 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **97.8** – 99.0 projected · win chance **49%**
+vs **Never Going Go Scottsdale** (4-5): you **97.9** – 99.0 projected · win chance **49%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -40,11 +40,11 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 130.0 | 100% |
-| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 131.3 | 97% |
+| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 131.3 | 96% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.7 | 90% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 127.5 | 94% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.9 | 66% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 123.7 | 55% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 123.8 | 55% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 7 | 121.8 | 48% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 9 | 114.0 | 30% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 8 | 117.7 | 18% |
