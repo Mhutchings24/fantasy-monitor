@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-11T13:03:40Z UTC
+Week 10 · record 3-6 · updated 2026-11-11T13:08:44Z UTC
 
 ## Lineup check
 Current lineup projects **97.8**, best possible **105.2**.
@@ -19,11 +19,11 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Zonovan Knight (Questionable) | RB | ARI | Audric Estime | +9.2 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +7.6 | +0.0 | 0 |
 | Alvin Kamara | RB | NO | Audric Estime | +6.9 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 331,605 |
+| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 334,692 |
 | Devin Singletary | RB | NYG | Audric Estime | +6.8 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +6.7 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +6.5 | +0.0 | 0 |
-| Bryce Young | QB | CAR | Corey Kiner | +2.3 | +0.7 | 192,868 |
+| Bryce Young | QB | CAR | Corey Kiner | +2.3 | +0.7 | 193,928 |
 | Bo Nix | QB | DEN | Corey Kiner | +1.8 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +1.8 | +0.0 | 0 |
 
@@ -32,7 +32,7 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 **K stream this week:** add Dominic Zvada for Matt Gay (+1.1 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **97.8** – 99.0 projected · win chance **49%**
+vs **Never Going Go Scottsdale** (4-5): you **97.8** – 113.9 projected · win chance **32%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -41,12 +41,12 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 130.0 | 100% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 131.3 | 96% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 124.7 | 90% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 124.7 | 89% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 127.5 | 94% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.9 | 65% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 4 | 125.0 | 59% |
-| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 7 | 121.8 | 48% |
-| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 9 | 114.0 | 30% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 7 | 121.9 | 64% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 4 | 125.0 | 58% |
+| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 6 | 123.1 | 51% |
+| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 9 | 114.0 | 29% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 8 | 117.7 | 17% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 106.5 | 2% |
 
