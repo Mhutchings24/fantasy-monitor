@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-11T05:52:24Z UTC
+Week 10 · record 3-6 · updated 2026-11-11T06:02:35Z UTC
 
 ## Lineup check
 Current lineup projects **90.0**, best possible **104.8**.
@@ -15,17 +15,17 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Bryce Young | QB | CAR | Keenan Allen | +2.3 | +0.7 | 181,552 |
-| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +1.9 | +0.9 | 161,352 |
+| Bryce Young | QB | CAR | Keenan Allen | +2.3 | +0.7 | 182,592 |
+| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +1.9 | +0.9 | 162,342 |
 | Bo Nix | QB | DEN | Keenan Allen | +1.8 | +0.0 | 0 |
 | Xavier Worthy (Out) | WR | KC | Keenan Allen | +1.0 | +0.0 | 0 |
-| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.8 | +0.5 | 137,418 |
+| Jakobi Meyers | WR | JAX | Omar Cooper Jr. | +0.8 | +0.5 | 138,342 |
 | Juwan Johnson | TE | NO | Keenan Allen | +0.7 | +0.0 | 0 |
 | Malik Washington | WR | MIA | Omar Cooper Jr. | +0.4 | +0.4 | 0 |
 | Zonovan Knight (Out) | RB | ARI | Keenan Allen | +0.4 | +0.0 | 0 |
 | Dallas Goedert | TE | PHI | Keenan Allen | +0.3 | +0.0 | 0 |
 | Pat Freiermuth | TE | PIT | Keenan Allen | +0.2 | +0.2 | 0 |
-| Demarcus Robinson | WR | SF | Omar Cooper Jr. | +0.2 | +0.2 | 247,980 |
+| Demarcus Robinson | WR | SF | Omar Cooper Jr. | +0.2 | +0.2 | 249,336 |
 
 **DEF stream this week:** add BAL D/ST for LAR D/ST (+0.2 pts this week)
 
