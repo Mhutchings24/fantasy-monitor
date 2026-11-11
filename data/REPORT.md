@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-11T10:47:29Z UTC
+Week 10 · record 3-6 · updated 2026-11-11T10:58:02Z UTC
 
 ## Lineup check
 Current lineup projects **97.9**, best possible **105.3**.
@@ -18,14 +18,14 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Zonovan Knight (Questionable) | RB | ARI | Audric Estime | +9.2 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +7.6 | +0.0 | 0 |
 | Alvin Kamara | RB | NO | Audric Estime | +6.9 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 326,799 |
+| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 328,032 |
 | Devin Singletary | RB | NYG | Audric Estime | +6.8 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +6.7 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +6.5 | +0.0 | 0 |
-| Bryce Young | QB | CAR | Corey Kiner | +2.3 | +0.7 | 189,952 |
+| Bryce Young | QB | CAR | Corey Kiner | +2.3 | +0.7 | 190,524 |
 | Bo Nix | QB | DEN | Corey Kiner | +1.8 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +1.8 | +0.0 | 0 |
-| Brenton Strange | TE | JAX | Corey Kiner | +1.6 | +1.6 | 103,671 |
+| Brenton Strange | TE | JAX | Corey Kiner | +1.6 | +1.6 | 104,229 |
 
 **DEF stream this week:** add BAL D/ST for LAR D/ST (+0.2 pts this week)
 
