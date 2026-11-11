@@ -1,5 +1,5 @@
 {
- "content_hash": "ebd3f72a62fa9da38abfcfe2e73e3708528b4d61",
+ "content_hash": "69d71d37019a936625cddffeefce03dd7b1c6aa9",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -86,6 +86,15 @@
    "proj_this_week": 14.77,
    "status": null,
    "team": "ATL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Matthew Stafford",
+   "pos": "QB",
+   "proj_4wk": 44.7,
+   "proj_this_week": 16.67,
+   "status": null,
+   "team": "LAR"
   },
   {
    "adds_24h": 105462,
@@ -217,8 +226,8 @@
    "adds_24h": 0,
    "name": "Dalton Schultz",
    "pos": "TE",
-   "proj_4wk": 33.4,
-   "proj_this_week": 7.71,
+   "proj_4wk": 33.5,
+   "proj_this_week": 7.73,
    "status": null,
    "team": "HOU"
   },
@@ -620,21 +629,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Treylon Burks",
-   "pos": "WR",
-   "proj_4wk": 24.3,
-   "proj_this_week": 4.05,
-   "status": "Questionable",
-   "team": "WAS"
-  },
-  {
-   "adds_24h": 0,
    "name": "CAR D/ST",
    "pos": "DEF",
    "proj_4wk": 24.3,
    "proj_this_week": 6.09,
    "status": null,
    "team": "CAR"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Treylon Burks",
+   "pos": "WR",
+   "proj_4wk": 24.3,
+   "proj_this_week": 4.05,
+   "status": "Questionable",
+   "team": "WAS"
   },
   {
    "adds_24h": 0,
@@ -716,15 +725,6 @@
    "proj_this_week": 8.67,
    "status": null,
    "team": "NE"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Cairo Santos",
-   "pos": "K",
-   "proj_4wk": 23.3,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "CHI"
   },
   {
    "adds_24h": 1267976,
@@ -830,18 +830,9 @@
    "name": "Deshaun Watson",
    "pos": "QB",
    "proj_4wk": 16.4,
-   "proj_this_week": 14.18,
+   "proj_this_week": 14.23,
    "status": null,
    "team": "CLE"
-  },
-  {
-   "adds_24h": 101570,
-   "name": "TB D/ST",
-   "pos": "DEF",
-   "proj_4wk": 20.5,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "TB"
   },
   {
    "adds_24h": 100080,
@@ -853,7 +844,7 @@
    "team": "LAR"
   }
  ],
- "generated_at": "2026-11-11T17:54:28Z",
+ "generated_at": "2026-11-11T17:59:32Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -889,7 +880,7 @@
    {
     "name": "Quinshon Judkins",
     "pid": "12512",
-    "proj": 10.84,
+    "proj": 10.9,
     "slot": "RB"
    },
    {
@@ -935,8 +926,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 105.26,
-  "current_projected": 96.54,
+  "best_projected": 105.32,
+  "current_projected": 96.6,
   "gain": 8.72,
   "problems": [],
   "source": "matchup week 10",
@@ -1051,12 +1042,12 @@
    "week": 9
   },
   "matchup": {
-   "my_proj": 96.5,
+   "my_proj": 96.6,
    "opp_best_possible": 116.33,
    "opp_proj": 116.3,
    "opponent": "Never Going Go Scottsdale",
    "opponent_record": "4-5",
-   "win_prob": 0.288
+   "win_prob": 0.289
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1072,7 +1063,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.533,
+    "first_seed_odds": 0.526,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1093,16 +1084,16 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.251,
+    "first_seed_odds": 0.249,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
     "pf": 1091.54,
-    "playoff_odds": 0.962,
+    "playoff_odds": 0.961,
     "power_rank": 1,
-    "proj_avg": 131.3,
+    "proj_avg": 131.4,
     "proj_by_week": {
-     "10": 131.63,
+     "10": 131.75,
      "11": 127.67,
      "12": 132.83,
      "13": 133.22
@@ -1114,19 +1105,19 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.098,
+    "first_seed_odds": 0.111,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.88,
-    "power_rank": 5,
-    "proj_avg": 124.3,
+    "playoff_odds": 0.902,
+    "power_rank": 4,
+    "proj_avg": 126.3,
     "proj_by_week": {
-     "10": 131.39,
-     "11": 108.69,
-     "12": 138.07,
-     "13": 119.23
+     "10": 131.48,
+     "11": 114.81,
+     "12": 139.4,
+     "13": 119.55
     },
     "rank": 3,
     "roster_id": 10,
@@ -1135,12 +1126,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.089,
+    "first_seed_odds": 0.087,
     "losses": 4,
     "mine": false,
     "pa": 1118.82,
     "pf": 1169.52,
-    "playoff_odds": 0.918,
+    "playoff_odds": 0.917,
     "power_rank": 3,
     "proj_avg": 127.5,
     "proj_by_week": {
@@ -1161,7 +1152,7 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.634,
+    "playoff_odds": 0.636,
     "power_rank": 7,
     "proj_avg": 121.9,
     "proj_by_week": {
@@ -1182,11 +1173,11 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.569,
-    "power_rank": 4,
+    "playoff_odds": 0.571,
+    "power_rank": 5,
     "proj_avg": 125.0,
     "proj_by_week": {
-     "10": 122.1,
+     "10": 122.19,
      "11": 109.29,
      "12": 134.55,
      "13": 134.0
@@ -1203,7 +1194,7 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.479,
+    "playoff_odds": 0.473,
     "power_rank": 6,
     "proj_avg": 122.5,
     "proj_by_week": {
@@ -1224,7 +1215,7 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.393,
+    "playoff_odds": 0.39,
     "power_rank": 8,
     "proj_avg": 118.6,
     "proj_by_week": {
@@ -1245,11 +1236,11 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.155,
+    "playoff_odds": 0.14,
     "power_rank": 9,
     "proj_avg": 117.7,
     "proj_by_week": {
-     "10": 118.21,
+     "10": 118.24,
      "11": 104.66,
      "12": 130.22,
      "13": 117.55
@@ -1268,9 +1259,9 @@
     "pf": 978.8,
     "playoff_odds": 0.013,
     "power_rank": 10,
-    "proj_avg": 106.5,
+    "proj_avg": 106.6,
     "proj_by_week": {
-     "10": 105.26,
+     "10": 105.32,
      "11": 96.14,
      "12": 116.72,
      "13": 108.07
@@ -1336,7 +1327,7 @@
    "pid": "12512",
    "pos": "RB",
    "proj_by_week": {
-    "10": 10.84,
+    "10": 10.9,
     "11": 0.0,
     "12": 12.44,
     "13": 12.41

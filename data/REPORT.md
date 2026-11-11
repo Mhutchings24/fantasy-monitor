@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-11T17:54:28Z UTC
+Week 10 · record 3-6 · updated 2026-11-11T17:59:32Z UTC
 
 ## Lineup check
-Current lineup projects **96.5**, best possible **105.3**.
+Current lineup projects **96.6**, best possible **105.3**.
 
 - 🔁 Start Stefon Diggs (WR, WAS) (11.3) over Jordyn Tyson (WR, NO) (5.6)
 - 🔁 Start Rico Dowdle (RB, PIT) (9.9) over Omar Cooper Jr. (WR, NYJ) (7.9)
@@ -31,7 +31,7 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 **K stream this week:** add Dominic Zvada for Matt Gay (+1.1 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **96.5** – 116.3 projected · win chance **29%**
+vs **Never Going Go Scottsdale** (4-5): you **96.6** – 116.3 projected · win chance **29%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -39,15 +39,15 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 130.0 | 100% |
-| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 131.3 | 96% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 124.3 | 88% |
+| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 131.4 | 96% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 126.3 | 90% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 127.5 | 92% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 7 | 121.9 | 63% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 4 | 125.0 | 57% |
-| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 6 | 122.5 | 48% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 7 | 121.9 | 64% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 125.0 | 57% |
+| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 6 | 122.5 | 47% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 118.6 | 39% |
-| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 117.7 | 16% |
-| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 106.5 | 1% |
+| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 117.7 | 14% |
+| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 106.6 | 1% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -67,7 +67,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | LAR D/ST | DEF | LAR | starter |  | 8.2 | 0.0 | 7.2 | 6.7 |
 | Matt Gay | K | LV | starter |  | 7.6 | 8.5 | 8.5 | 0.0 |
 | Jared Goff | QB | DET | starter |  | 18.8 | 18.2 | 21.2 | 18.3 |
-| Quinshon Judkins | RB | CLE | starter |  | 10.8 | 0.0 | 12.4 | 12.4 |
+| Quinshon Judkins | RB | CLE | starter |  | 10.9 | 0.0 | 12.4 | 12.4 |
 | Audric Estime | RB | NO | starter |  | 8.2 | 0.5 | 0.5 | 0.4 |
 | George Kittle | TE | SF | starter |  | 16.1 | 14.0 | 14.2 | 15.1 |
 | DJ Moore | WR | BUF | starter |  | 13.2 | 16.5 | 13.9 | 14.9 |
