@@ -1,5 +1,5 @@
 {
- "content_hash": "0cd4f150fce01f9f43faebe93d64ed30b9aebe90",
+ "content_hash": "c2c9bf2dd69608fadf3e6680b25b9e9e6739a9e3",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -149,6 +149,15 @@
    "proj_this_week": 9.74,
    "status": null,
    "team": "JAX"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Aaron Jones Sr.",
+   "pos": "RB",
+   "proj_4wk": 40.4,
+   "proj_this_week": 9.93,
+   "status": null,
+   "team": "MIN"
   },
   {
    "adds_24h": 0,
@@ -656,21 +665,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Chris Bell",
-   "pos": "WR",
-   "proj_4wk": 24.0,
-   "proj_this_week": 5.86,
-   "status": null,
-   "team": "MIA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Malachi Fields",
    "pos": "WR",
    "proj_4wk": 24.0,
    "proj_this_week": 6.58,
    "status": null,
    "team": "NYG"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chris Bell",
+   "pos": "WR",
+   "proj_4wk": 24.0,
+   "proj_this_week": 5.86,
+   "status": null,
+   "team": "MIA"
   },
   {
    "adds_24h": 0,
@@ -716,15 +725,6 @@
    "proj_this_week": 8.67,
    "status": null,
    "team": "NE"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Cairo Santos",
-   "pos": "K",
-   "proj_4wk": 23.3,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "CHI"
   },
   {
    "adds_24h": 1112328,
@@ -853,7 +853,7 @@
    "team": "CLE"
   }
  ],
- "generated_at": "2026-11-11T12:05:17Z",
+ "generated_at": "2026-11-11T12:10:22Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1067,7 +1067,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.529,
+    "first_seed_odds": 0.533,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1088,12 +1088,12 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.236,
+    "first_seed_odds": 0.231,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
     "pf": 1091.54,
-    "playoff_odds": 0.965,
+    "playoff_odds": 0.963,
     "power_rank": 1,
     "proj_avg": 131.3,
     "proj_by_week": {
@@ -1109,13 +1109,13 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.1,
+    "first_seed_odds": 0.101,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.9,
-    "power_rank": 4,
+    "playoff_odds": 0.898,
+    "power_rank": 5,
     "proj_avg": 124.7,
     "proj_by_week": {
      "10": 132.73,
@@ -1130,12 +1130,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.109,
+    "first_seed_odds": 0.11,
     "losses": 4,
     "mine": false,
     "pa": 1118.82,
     "pf": 1169.52,
-    "playoff_odds": 0.943,
+    "playoff_odds": 0.941,
     "power_rank": 3,
     "proj_avg": 127.5,
     "proj_by_week": {
@@ -1156,7 +1156,7 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.661,
+    "playoff_odds": 0.649,
     "power_rank": 6,
     "proj_avg": 121.9,
     "proj_by_week": {
@@ -1177,14 +1177,14 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.552,
-    "power_rank": 5,
-    "proj_avg": 123.8,
+    "playoff_odds": 0.587,
+    "power_rank": 4,
+    "proj_avg": 125.0,
     "proj_by_week": {
-     "10": 120.24,
+     "10": 122.01,
      "11": 109.29,
-     "12": 132.09,
-     "13": 133.42
+     "12": 134.55,
+     "13": 134.0
     },
     "rank": 6,
     "roster_id": 2,
@@ -1198,7 +1198,7 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.484,
+    "playoff_odds": 0.477,
     "power_rank": 7,
     "proj_avg": 121.8,
     "proj_by_week": {
@@ -1219,7 +1219,7 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.303,
+    "playoff_odds": 0.299,
     "power_rank": 9,
     "proj_avg": 114.0,
     "proj_by_week": {
@@ -1240,7 +1240,7 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.178,
+    "playoff_odds": 0.172,
     "power_rank": 8,
     "proj_avg": 117.7,
     "proj_by_week": {
@@ -1642,38 +1642,76 @@
   {
    "get": [
     {
-     "name": "Bucky Irving",
-     "pid": "11584",
+     "name": "Jonah Coleman",
+     "pid": "13345",
      "pos": "RB",
-     "ros_per_week": 15.6,
+     "ros_per_week": 10.5,
      "status": null,
-     "team": "TB"
+     "team": "DEN"
     }
    ],
    "give": [
     {
-     "name": "Mike Evans",
-     "pid": "2216",
+     "name": "Keenan Allen",
+     "pid": "1479",
      "pos": "WR",
-     "ros_per_week": 16.1,
-     "status": "Questionable",
+     "ros_per_week": 7.8,
+     "status": null,
      "team": "SF"
     }
    ],
-   "likelihood": "Likely",
+   "likelihood": "Possible",
    "partner": "Glizzy Globbler ",
    "partner_roster_id": 2,
-   "summary": "Give Mike Evans, get Bucky Irving from Glizzy Globbler : +2.6 pts/week for you, +0.7 for them.",
-   "their_gain_per_week": 0.7,
-   "value_ratio": 0.97,
+   "summary": "Give Keenan Allen, get Jonah Coleman from Glizzy Globbler : +4.1 pts/week for you, -0.5 for them.",
+   "their_gain_per_week": -0.5,
+   "value_ratio": 1.34,
    "why_them": [
-    "Mike Evans would start 7 of 8 weeks for them"
+    "Keenan Allen would start 1 of 8 weeks for them",
+    "Jonah Coleman only starts 2 of 8 weeks on their roster"
    ],
    "why_you": [
-    "Bucky Irving would start 7 of 8 weeks for you",
-    "Mike Evans starts 7 of 8 weeks for you"
+    "Jonah Coleman would start 7 of 8 weeks for you",
+    "Keenan Allen starts only 0 of 8 weeks for you"
    ],
-   "your_gain_per_week": 2.6
+   "your_gain_per_week": 4.1
+  },
+  {
+   "get": [
+    {
+     "name": "Jonah Coleman",
+     "pid": "13345",
+     "pos": "RB",
+     "ros_per_week": 10.5,
+     "status": null,
+     "team": "DEN"
+    }
+   ],
+   "give": [
+    {
+     "name": "Omar Cooper Jr.",
+     "pid": "13276",
+     "pos": "WR",
+     "ros_per_week": 8.9,
+     "status": null,
+     "team": "NYJ"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "Glizzy Globbler ",
+   "partner_roster_id": 2,
+   "summary": "Give Omar Cooper Jr., get Jonah Coleman from Glizzy Globbler : +4.1 pts/week for you, -0.3 for them.",
+   "their_gain_per_week": -0.3,
+   "value_ratio": 1.18,
+   "why_them": [
+    "Omar Cooper Jr. would start 1 of 8 weeks for them",
+    "Jonah Coleman only starts 2 of 8 weeks on their roster"
+   ],
+   "why_you": [
+    "Jonah Coleman would start 7 of 8 weeks for you",
+    "Omar Cooper Jr. starts only 1 of 8 weeks for you"
+   ],
+   "your_gain_per_week": 4.1
   },
   {
    "get": [
@@ -1710,42 +1748,6 @@
     "Mike Evans starts 7 of 8 weeks for you"
    ],
    "your_gain_per_week": 2.4
-  },
-  {
-   "get": [
-    {
-     "name": "Chuba Hubbard",
-     "pid": "7594",
-     "pos": "RB",
-     "ros_per_week": 16.5,
-     "status": null,
-     "team": "CAR"
-    }
-   ],
-   "give": [
-    {
-     "name": "Mike Evans",
-     "pid": "2216",
-     "pos": "WR",
-     "ros_per_week": 16.1,
-     "status": "Questionable",
-     "team": "SF"
-    }
-   ],
-   "likelihood": "Likely",
-   "partner": "Glizzy Globbler ",
-   "partner_roster_id": 2,
-   "summary": "Give Mike Evans, get Chuba Hubbard from Glizzy Globbler : +2.3 pts/week for you, +0.9 for them.",
-   "their_gain_per_week": 0.9,
-   "value_ratio": 1.03,
-   "why_them": [
-    "Mike Evans would start 7 of 8 weeks for them"
-   ],
-   "why_you": [
-    "Chuba Hubbard would start 8 of 8 weeks for you",
-    "Mike Evans starts 7 of 8 weeks for you"
-   ],
-   "your_gain_per_week": 2.3
   },
   {
    "get": [
@@ -1859,6 +1861,25 @@
   }
  ],
  "waivers": [
+  {
+   "drop": "11579",
+   "drop_name": "Audric Estime",
+   "gain_this_week": 0.66,
+   "gain_window": 14.66,
+   "name": "Aaron Jones Sr.",
+   "pid": "4199",
+   "pos": "RB",
+   "proj_by_week": {
+    "10": 9.93,
+    "11": 8.92,
+    "12": 10.4,
+    "13": 11.11
+   },
+   "status": null,
+   "stream": false,
+   "team": "MIN",
+   "trending_adds_24h": 0
+  },
   {
    "drop": "11579",
    "drop_name": "Audric Estime",
@@ -2067,25 +2088,6 @@
    "stream": false,
    "team": "CLE",
    "trending_adds_24h": 0
-  },
-  {
-   "drop": "12491",
-   "drop_name": "Corey Kiner",
-   "gain_this_week": 1.62,
-   "gain_window": 1.62,
-   "name": "Brenton Strange",
-   "pid": "9480",
-   "pos": "TE",
-   "proj_by_week": {
-    "10": 10.89,
-    "11": 10.59,
-    "12": 11.24,
-    "13": 11.09
-   },
-   "status": null,
-   "stream": false,
-   "team": "JAX",
-   "trending_adds_24h": 106839
   }
  ],
  "week": 10,
