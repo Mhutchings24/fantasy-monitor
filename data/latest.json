@@ -1,5 +1,5 @@
 {
- "content_hash": "089b800f299a3ff36445b19229239feeba82db46",
+ "content_hash": "e80727b6a3a6e9dd2d8a450efa6cf18b77c199ac",
  "faab": {
   "budget": 100,
   "remaining": 100,
@@ -674,21 +674,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "LAC D/ST",
-   "pos": "DEF",
-   "proj_4wk": 22.8,
-   "proj_this_week": 5.66,
-   "status": null,
-   "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
    "name": "DeMario Douglas",
    "pos": "WR",
    "proj_4wk": 22.8,
    "proj_this_week": 8.08,
    "status": null,
    "team": "NE"
+  },
+  {
+   "adds_24h": 0,
+   "name": "LAC D/ST",
+   "pos": "DEF",
+   "proj_4wk": 22.8,
+   "proj_this_week": 5.66,
+   "status": null,
+   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -880,7 +880,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-11T02:37:33Z",
+ "generated_at": "2026-11-11T02:42:39Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
