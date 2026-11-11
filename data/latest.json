@@ -1,5 +1,5 @@
 {
- "content_hash": "4ae744f4909af7552d6243c6f25bf53bc74a6300",
+ "content_hash": "6f16396c948a3db85130530b19fce8f4e27416ce",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -28,9 +28,9 @@
    "adds_24h": 0,
    "name": "J.J. McCarthy",
    "pos": "QB",
-   "proj_4wk": 58.4,
-   "proj_this_week": 14.38,
-   "status": "Questionable",
+   "proj_4wk": 60.9,
+   "proj_this_week": 16.85,
+   "status": null,
    "team": "NYG"
   },
   {
@@ -65,7 +65,7 @@
    "name": "Stefon Diggs",
    "pos": "WR",
    "proj_4wk": 51.9,
-   "proj_this_week": 11.4,
+   "proj_this_week": 11.38,
    "status": null,
    "team": "WAS"
   },
@@ -102,7 +102,7 @@
    "pos": "QB",
    "proj_4wk": 48.5,
    "proj_this_week": 0.0,
-   "status": "Out",
+   "status": "Doubtful",
    "team": "MIN"
   },
   {
@@ -200,7 +200,7 @@
    "name": "Chig Okonkwo",
    "pos": "TE",
    "proj_4wk": 36.5,
-   "proj_this_week": 8.07,
+   "proj_this_week": 8.06,
    "status": null,
    "team": "WAS"
   },
@@ -227,7 +227,7 @@
    "name": "Antonio Williams",
    "pos": "WR",
    "proj_4wk": 33.5,
-   "proj_this_week": 8.03,
+   "proj_this_week": 8.01,
    "status": null,
    "team": "WAS"
   },
@@ -239,6 +239,15 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "PHI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Zonovan Knight",
+   "pos": "RB",
+   "proj_4wk": 32.9,
+   "proj_this_week": 7.28,
+   "status": "Questionable",
+   "team": "ARI"
   },
   {
    "adds_24h": 0,
@@ -291,7 +300,7 @@
    "pos": "WR",
    "proj_4wk": 31.5,
    "proj_this_week": 0.0,
-   "status": "Out",
+   "status": "Questionable",
    "team": "KC"
   },
   {
@@ -539,21 +548,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Zonovan Knight",
-   "pos": "RB",
-   "proj_4wk": 25.6,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "ARI"
-  },
-  {
-   "adds_24h": 0,
    "name": "NYG D/ST",
    "pos": "DEF",
    "proj_4wk": 25.4,
    "proj_this_week": 7.49,
    "status": null,
    "team": "NYG"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Tyjae Spears",
+   "pos": "RB",
+   "proj_4wk": 25.4,
+   "proj_this_week": 5.4,
+   "status": "Questionable",
+   "team": "TEN"
   },
   {
    "adds_24h": 0,
@@ -620,6 +629,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Treylon Burks",
+   "pos": "WR",
+   "proj_4wk": 24.3,
+   "proj_this_week": 4.06,
+   "status": "Questionable",
+   "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
    "name": "CAR D/ST",
    "pos": "DEF",
    "proj_4wk": 24.3,
@@ -641,7 +659,7 @@
    "name": "Malachi Fields",
    "pos": "WR",
    "proj_4wk": 24.0,
-   "proj_this_week": 6.61,
+   "proj_this_week": 6.6,
    "status": null,
    "team": "NYG"
   },
@@ -704,24 +722,6 @@
    "name": "Cairo Santos",
    "pos": "K",
    "proj_4wk": 23.3,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "CHI"
-  },
-  {
-   "adds_24h": 0,
-   "name": "LAC D/ST",
-   "pos": "DEF",
-   "proj_4wk": 22.8,
-   "proj_this_week": 5.66,
-   "status": null,
-   "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Kalif Raymond",
-   "pos": "WR",
-   "proj_4wk": 22.7,
    "proj_this_week": 0.0,
    "status": null,
    "team": "CHI"
@@ -847,13 +847,13 @@
    "adds_24h": 83088,
    "name": "Deshaun Watson",
    "pos": "QB",
-   "proj_4wk": 2.2,
-   "proj_this_week": 0.0,
-   "status": "Out",
+   "proj_4wk": 14.2,
+   "proj_this_week": 11.98,
+   "status": "Questionable",
    "team": "CLE"
   }
  ],
- "generated_at": "2026-11-11T08:25:16Z",
+ "generated_at": "2026-11-11T08:30:21Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -889,7 +889,7 @@
    {
     "name": "Quinshon Judkins",
     "pid": "12512",
-    "proj": 10.76,
+    "proj": 10.77,
     "slot": "RB"
    },
    {
@@ -935,8 +935,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 104.82,
-  "current_projected": 90.0,
+  "best_projected": 104.83,
+  "current_projected": 90.01,
   "gain": 14.82,
   "problems": [
    {
@@ -1054,11 +1054,11 @@
   },
   "matchup": {
    "my_proj": 90.0,
-   "opp_best_possible": 87.9,
-   "opp_proj": 76.8,
+   "opp_best_possible": 110.13,
+   "opp_proj": 99.0,
    "opponent": "Never Going Go Scottsdale",
    "opponent_record": "4-5",
-   "win_prob": 0.646
+   "win_prob": 0.4
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1074,7 +1074,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.531,
+    "first_seed_odds": 0.532,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1100,7 +1100,7 @@
     "mine": false,
     "pa": 1053.34,
     "pf": 1091.54,
-    "playoff_odds": 0.972,
+    "playoff_odds": 0.967,
     "power_rank": 1,
     "proj_avg": 131.3,
     "proj_by_week": {
@@ -1121,7 +1121,7 @@
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.907,
+    "playoff_odds": 0.901,
     "power_rank": 4,
     "proj_avg": 124.7,
     "proj_by_week": {
@@ -1142,11 +1142,11 @@
     "mine": false,
     "pa": 1118.82,
     "pf": 1169.52,
-    "playoff_odds": 0.944,
+    "playoff_odds": 0.94,
     "power_rank": 3,
     "proj_avg": 127.5,
     "proj_by_week": {
-     "10": 127.03,
+     "10": 126.99,
      "11": 133.93,
      "12": 137.48,
      "13": 111.72
@@ -1158,12 +1158,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.02,
+    "first_seed_odds": 0.018,
     "losses": 4,
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.706,
+    "playoff_odds": 0.664,
     "power_rank": 6,
     "proj_avg": 121.9,
     "proj_by_week": {
@@ -1184,11 +1184,11 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.559,
+    "playoff_odds": 0.54,
     "power_rank": 5,
     "proj_avg": 123.7,
     "proj_by_week": {
-     "10": 119.93,
+     "10": 119.94,
      "11": 109.29,
      "12": 132.09,
      "13": 133.42
@@ -1200,16 +1200,16 @@
     "wins": 4
    },
    {
-    "first_seed_odds": 0.001,
+    "first_seed_odds": 0.003,
     "losses": 5,
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.358,
-    "power_rank": 8,
-    "proj_avg": 116.3,
+    "playoff_odds": 0.487,
+    "power_rank": 7,
+    "proj_avg": 121.8,
     "proj_by_week": {
-     "10": 87.9,
+     "10": 110.13,
      "11": 124.63,
      "12": 126.21,
      "13": 126.3
@@ -1226,11 +1226,11 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.327,
+    "playoff_odds": 0.303,
     "power_rank": 9,
     "proj_avg": 114.0,
     "proj_by_week": {
-     "10": 120.22,
+     "10": 120.19,
      "11": 105.55,
      "12": 121.63,
      "13": 108.58
@@ -1247,11 +1247,11 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.197,
-    "power_rank": 7,
+    "playoff_odds": 0.18,
+    "power_rank": 8,
     "proj_avg": 117.7,
     "proj_by_week": {
-     "10": 118.17,
+     "10": 118.22,
      "11": 104.66,
      "12": 130.22,
      "13": 117.55
@@ -1268,11 +1268,11 @@
     "mine": true,
     "pa": 1088.3,
     "pf": 978.8,
-    "playoff_odds": 0.032,
+    "playoff_odds": 0.021,
     "power_rank": 10,
-    "proj_avg": 107.9,
+    "proj_avg": 108.0,
     "proj_by_week": {
-     "10": 104.82,
+     "10": 104.83,
      "11": 94.21,
      "12": 119.06,
      "13": 113.71
@@ -1338,7 +1338,7 @@
    "pid": "12512",
    "pos": "RB",
    "proj_by_week": {
-    "10": 10.76,
+    "10": 10.77,
     "11": 0.0,
     "12": 12.44,
     "13": 12.41
@@ -1524,7 +1524,7 @@
     "13": 18.88
    },
    "slot": "bench",
-   "status": "Out",
+   "status": "Questionable",
    "team": "SF"
   }
  ],
@@ -1917,13 +1917,13 @@
   {
    "drop": "12491",
    "drop_name": "Corey Kiner",
-   "gain_this_week": 2.13,
-   "gain_window": 9.02,
+   "gain_this_week": 2.11,
+   "gain_window": 9.0,
    "name": "Stefon Diggs",
    "pid": "2449",
    "pos": "WR",
    "proj_by_week": {
-    "10": 11.4,
+    "10": 11.38,
     "11": 13.19,
     "12": 13.77,
     "13": 13.53
@@ -1942,12 +1942,12 @@
    "pid": "8122",
    "pos": "RB",
    "proj_by_week": {
-    "10": 0.0,
+    "10": 7.28,
     "11": 8.14,
     "12": 8.98,
     "13": 8.46
    },
-   "status": "Out",
+   "status": "Questionable",
    "stream": false,
    "team": "ARI",
    "trending_adds_24h": 0
@@ -2008,6 +2008,25 @@
    "stream": false,
    "team": "BAL",
    "trending_adds_24h": 323442
+  },
+  {
+   "drop": "11579",
+   "drop_name": "Audric Estime",
+   "gain_this_week": 0.0,
+   "gain_window": 6.66,
+   "name": "Tyjae Spears",
+   "pid": "9508",
+   "pos": "RB",
+   "proj_by_week": {
+    "10": 5.4,
+    "11": 7.11,
+    "12": 6.15,
+    "13": 6.72
+   },
+   "status": "Questionable",
+   "stream": false,
+   "team": "TEN",
+   "trending_adds_24h": 0
   },
   {
    "drop": "11579",
@@ -2103,25 +2122,6 @@
    "stream": false,
    "team": "DEN",
    "trending_adds_24h": 0
-  },
-  {
-   "drop": "12491",
-   "drop_name": "Corey Kiner",
-   "gain_this_week": 0.89,
-   "gain_window": 1.24,
-   "name": "Khalil Shakir",
-   "pid": "8134",
-   "pos": "WR",
-   "proj_by_week": {
-    "10": 10.16,
-    "11": 11.61,
-    "12": 9.81,
-    "13": 10.48
-   },
-   "status": null,
-   "stream": false,
-   "team": "BUF",
-   "trending_adds_24h": 168579
   }
  ],
  "week": 10,

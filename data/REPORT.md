@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-11T08:25:16Z UTC
+Week 10 · record 3-6 · updated 2026-11-11T08:30:21Z UTC
 
 ## Lineup check
 Current lineup projects **90.0**, best possible **104.8**.
@@ -17,23 +17,23 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 |---|---|---|---|---|---|---|
 | Omarion Hampton | RB | LAC | Audric Estime | +9.1 | +0.0 | 0 |
 | Stefon Diggs | WR | WAS | Corey Kiner | +9.0 | +2.1 | 0 |
-| Zonovan Knight (Out) | RB | ARI | Audric Estime | +7.7 | +0.0 | 0 |
+| Zonovan Knight (Questionable) | RB | ARI | Audric Estime | +7.7 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +7.3 | +0.0 | 0 |
 | Alvin Kamara | RB | NO | Audric Estime | +6.9 | +0.0 | 0 |
 | Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 323,442 |
+| Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +6.7 | +0.0 | 0 |
 | Devin Singletary | RB | NYG | Audric Estime | +6.6 | +0.0 | 0 |
 | Ladd McConkey (Questionable) | WR | LAC | Corey Kiner | +6.5 | +0.7 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +6.5 | +0.0 | 0 |
 | Bryce Young | QB | CAR | Corey Kiner | +2.3 | +0.7 | 187,484 |
 | Bo Nix | QB | DEN | Corey Kiner | +1.8 | +0.0 | 0 |
-| Khalil Shakir | WR | BUF | Corey Kiner | +1.2 | +0.9 | 168,579 |
 
 **DEF stream this week:** add BAL D/ST for LAR D/ST (+0.2 pts this week)
 
 **K stream this week:** add Dominic Zvada for Matt Gay (+1.1 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **90.0** – 76.8 projected · win chance **65%**
+vs **Never Going Go Scottsdale** (4-5): you **90.0** – 99.0 projected · win chance **40%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -42,14 +42,14 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 130.0 | 100% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 131.3 | 97% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.7 | 91% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.7 | 90% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 127.5 | 94% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.9 | 71% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 123.7 | 56% |
-| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 8 | 116.3 | 36% |
-| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 9 | 114.0 | 33% |
-| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 117.7 | 20% |
-| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 107.9 | 3% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.9 | 66% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 123.7 | 54% |
+| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 7 | 121.8 | 49% |
+| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 9 | 114.0 | 30% |
+| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 8 | 117.7 | 18% |
+| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 108.0 | 2% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -81,4 +81,4 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Brenton Strange | TE | JAX | bench |  | 10.9 | 10.6 | 11.2 | 11.1 |
 | Jordyn Tyson | WR | NO | bench |  | 5.6 | 11.3 | 11.2 | 10.5 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
-| Mike Evans | WR | SF | bench | Out | 0.0 | 17.6 | 17.8 | 18.9 |
+| Mike Evans | WR | SF | bench | Questionable | 0.0 | 17.6 | 17.8 | 18.9 |
