@@ -1,12 +1,12 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-12T18:22:41Z UTC
+Week 10 · record 3-6 · updated 2026-11-12T18:27:46Z UTC
 
 ## Lineup check
-Current lineup projects **94.0**, best possible **105.1**.
+Current lineup projects **94.2**, best possible **105.2**.
 
-- 🔁 Start Corey Kiner (RB, NE) (11.8) over Jordyn Tyson (WR, NO) (5.6)
+- 🔁 Start Corey Kiner (RB, NE) (11.8) over Jordyn Tyson (WR, NO) (5.7)
 - 🔁 Start Stefon Diggs (WR, WAS) (11.0) over Omar Cooper Jr. (WR, NYJ) (7.7)
-- 🔁 Start Rico Dowdle (RB, PIT) (9.8) over Audric Estime (RB, NO) (8.2)
+- 🔁 Start Rico Dowdle (RB, PIT) (9.8) over Audric Estime (RB, NO) (8.3)
 
 ## Waiver targets
 FAAB left: **$78** (league starting budget $100)
@@ -31,17 +31,17 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 **K stream this week:** add Dominic Zvada for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **94.0** – 114.8 projected · win chance **28%**
+vs **Never Going Go Scottsdale** (4-5): you **94.2** – 114.8 projected · win chance **28%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 1 | 130.2 | 100% |
+| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 1 | 130.3 | 100% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 2 | 130.1 | 96% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 126.6 | 90% |
-| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 127.5 | 92% |
+| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 127.6 | 92% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 7 | 121.9 | 64% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 125.0 | 59% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 6 | 122.1 | 46% |
@@ -67,12 +67,12 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | LAR D/ST | DEF | LAR | starter |  | 8.7 | 0.0 | 7.2 | 6.7 |
 | Matt Gay | K | LV | starter |  | 7.9 | 8.5 | 8.5 | 0.0 |
 | Jared Goff | QB | DET | starter | Questionable | 16.1 | 18.2 | 21.2 | 18.3 |
-| Quinshon Judkins | RB | CLE | starter |  | 10.8 | 0.0 | 12.4 | 12.4 |
-| Audric Estime | RB | NO | starter |  | 8.2 | 0.5 | 0.5 | 0.4 |
+| Quinshon Judkins | RB | CLE | starter |  | 10.9 | 0.0 | 12.4 | 12.4 |
+| Audric Estime | RB | NO | starter |  | 8.3 | 0.5 | 0.5 | 0.4 |
 | George Kittle | TE | SF | starter |  | 16.2 | 14.0 | 14.2 | 15.1 |
 | DJ Moore | WR | BUF | starter |  | 12.7 | 16.5 | 13.9 | 14.9 |
 | Omar Cooper Jr. | WR | NYJ | starter | Questionable | 7.7 | 10.5 | 11.2 | 0.0 |
-| Jordyn Tyson | WR | NO | starter |  | 5.6 | 11.3 | 11.2 | 10.5 |
+| Jordyn Tyson | WR | NO | starter |  | 5.7 | 11.3 | 11.2 | 10.5 |
 | Corey Kiner | RB | NE | bench |  | 11.8 | 0.0 | 5.1 | 4.7 |
 | Rico Dowdle | RB | PIT | bench |  | 9.8 | 7.7 | 7.8 | 8.2 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 0.0 | 12.6 | 16.3 |
