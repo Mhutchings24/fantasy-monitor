@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-12T11:03:19Z UTC
+Week 10 · record 3-6 · updated 2026-11-12T11:13:26Z UTC
 
 ## Lineup check
 Current lineup projects **94.6**, best possible **105.6**.
@@ -19,14 +19,14 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Zonovan Knight (Questionable) | RB | ARI | Audric Estime | +9.2 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +7.6 | +0.0 | 0 |
 | Alvin Kamara (Questionable) | RB | NO | Audric Estime | +6.9 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 235,953 |
+| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 236,466 |
 | Devin Singletary | RB | NYG | Audric Estime | +6.8 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +6.7 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +6.5 | +0.0 | 0 |
-| Austin Ekeler | RB | WAS | Audric Estime | +2.9 | +0.0 | 83,460 |
+| Austin Ekeler | RB | WAS | Audric Estime | +2.9 | +0.0 | 83,636 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.8 | +1.8 | 169,008 |
+| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.8 | +1.8 | 169,256 |
 
 **K stream this week:** add Dominic Zvada for Matt Gay (+0.5 pts this week)
 
