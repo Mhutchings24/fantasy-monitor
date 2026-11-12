@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-12T22:03:38Z UTC
+Week 10 · record 3-6 · updated 2026-11-12T22:13:04Z UTC
 
 ## Lineup check
 Current lineup projects **95.5**, best possible **104.7**.
@@ -25,13 +25,13 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 0 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.5 | +0.0 | 0 |
 | Austin Ekeler | RB | WAS | Audric Estime | +0.8 | +0.0 | 73,816 |
+| Mike Gesicki | TE | CIN | Omar Cooper Jr. | +0.5 | +0.5 | 54,396 |
 | Jadarian Price | RB | SEA | Omar Cooper Jr. | +0.5 | +0.0 | 0 |
-| Mike Gesicki | TE | CIN | Omar Cooper Jr. | +0.4 | +0.4 | 54,396 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **95.5** – 112.1 projected · win chance **32%**
+vs **Never Going Go Scottsdale** (4-5): you **95.5** – 112.2 projected · win chance **32%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -39,14 +39,14 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 3 | 128.7 | 99% |
-| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 126.9 | 94% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 124.8 | 89% |
+| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 126.7 | 94% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 124.7 | 89% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 2 | 129.2 | 91% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 122.2 | 63% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 130.2 | 70% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 122.0 | 63% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 130.0 | 70% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 8 | 118.8 | 38% |
-| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 119.4 | 42% |
-| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 118.3 | 13% |
+| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 119.5 | 43% |
+| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 118.2 | 13% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 101.4 | 0% |
 
 ## Trade ideas
@@ -57,8 +57,8 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Likely** · Give Omar Cooper Jr., get Rhamondre Stevenson from Atticus Dean: +2.3 pts/week for you, +0.4 for them.
 - **Likely** · Give Jordyn Tyson, get Rhamondre Stevenson from Atticus Dean: +2.2 pts/week for you, +0.5 for them.
 - **Likely** · Give Mike Evans, get Ollie Gordon II from Bradsbaconisundercooked: +1.9 pts/week for you, +0.7 for them.
+- **Likely** · Give Mike Evans + Rico Dowdle, get Chase Brown from Bradsbaconisundercooked: +1.8 pts/week for you, +0.4 for them.
 - **Possible** · Give Omar Cooper Jr., get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.3 pts/week for you, -0.5 for them.
-- **Likely** · Give Mike Evans + Rico Dowdle, get Chase Brown from Bradsbaconisundercooked: +1.7 pts/week for you, +0.5 for them.
 - **Possible** · Give Jordyn Tyson, get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.2 pts/week for you, -0.5 for them.
 
 ## Roster
