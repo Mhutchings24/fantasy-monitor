@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-12T15:55:30Z UTC
+Week 10 · record 3-6 · updated 2026-11-12T16:00:34Z UTC
 
 ## Lineup check
-Current lineup projects **94.0**, best possible **105.1**.
+Current lineup projects **94.0**, best possible **105.2**.
 
 - 🔁 Start Corey Kiner (RB, NE) (11.8) over Jordyn Tyson (WR, NO) (5.6)
 - 🔁 Start Stefon Diggs (WR, WAS) (11.0) over Omar Cooper Jr. (WR, NYJ) (7.7)
@@ -19,14 +19,14 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Zonovan Knight (Questionable) | RB | ARI | Audric Estime | +9.2 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +7.6 | +0.0 | 0 |
 | Alvin Kamara (Questionable) | RB | NO | Audric Estime | +6.9 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 193,302 |
+| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 194,823 |
 | Devin Singletary | RB | NYG | Audric Estime | +6.8 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +6.7 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +6.5 | +0.0 | 0 |
-| Austin Ekeler | RB | WAS | Audric Estime | +2.9 | +0.0 | 71,468 |
+| Austin Ekeler | RB | WAS | Audric Estime | +2.9 | +0.0 | 72,120 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.6 | +1.6 | 122,420 |
+| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.6 | +1.6 | 123,164 |
 
 **K stream this week:** add Dominic Zvada for Matt Gay (+0.4 pts this week)
 
@@ -46,7 +46,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 125.0 | 59% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 6 | 122.1 | 46% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 118.6 | 39% |
-| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 117.5 | 14% |
+| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 117.4 | 14% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 106.5 | 1% |
 
 ## Trade ideas
