@@ -1,5 +1,5 @@
 {
- "content_hash": "69b0df6425a91d5474500f27c90fb79ef53932f3",
+ "content_hash": "eb61f464d45574f1f6113cd0279405109ebe2177",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -190,7 +190,7 @@
    "adds_24h": 179800,
    "name": "Fernando Mendoza",
    "pos": "QB",
-   "proj_4wk": 37.5,
+   "proj_4wk": 37.6,
    "proj_this_week": 11.61,
    "status": null,
    "team": "LV"
@@ -214,6 +214,15 @@
    "team": "IND"
   },
   {
+   "adds_24h": 118557,
+   "name": "Jordan Addison",
+   "pos": "WR",
+   "proj_4wk": 36.7,
+   "proj_this_week": 9.32,
+   "status": null,
+   "team": "MIN"
+  },
+  {
    "adds_24h": 0,
    "name": "Juwan Johnson",
    "pos": "TE",
@@ -223,13 +232,13 @@
    "team": "NO"
   },
   {
-   "adds_24h": 118557,
-   "name": "Jordan Addison",
+   "adds_24h": 42464,
+   "name": "Caleb Douglas",
    "pos": "WR",
-   "proj_4wk": 36.7,
-   "proj_this_week": 9.32,
+   "proj_4wk": 36.3,
+   "proj_this_week": 8.88,
    "status": null,
-   "team": "MIN"
+   "team": "MIA"
   },
   {
    "adds_24h": 51584,
@@ -329,15 +338,6 @@
    "proj_this_week": 8.25,
    "status": null,
    "team": "NYG"
-  },
-  {
-   "adds_24h": 42464,
-   "name": "Caleb Douglas",
-   "pos": "WR",
-   "proj_4wk": 31.7,
-   "proj_this_week": 8.88,
-   "status": null,
-   "team": "MIA"
   },
   {
    "adds_24h": 0,
@@ -503,6 +503,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Dylan Sampson",
+   "pos": "RB",
+   "proj_4wk": 26.4,
+   "proj_this_week": 7.8,
+   "status": null,
+   "team": "CLE"
+  },
+  {
+   "adds_24h": 0,
    "name": "CIN D/ST",
    "pos": "DEF",
    "proj_4wk": 26.4,
@@ -563,15 +572,6 @@
    "proj_this_week": 8.63,
    "status": null,
    "team": "LAR"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Dylan Sampson",
-   "pos": "RB",
-   "proj_4wk": 25.6,
-   "proj_this_week": 7.8,
-   "status": null,
-   "team": "CLE"
   },
   {
    "adds_24h": 0,
@@ -844,7 +844,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-12T21:42:39Z",
+ "generated_at": "2026-11-12T21:52:46Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1063,12 +1063,12 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.532,
+    "first_seed_odds": 0.531,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
     "pf": 1250.86,
-    "playoff_odds": 0.994,
+    "playoff_odds": 0.993,
     "power_rank": 3,
     "proj_avg": 128.7,
     "proj_by_week": {
@@ -1084,17 +1084,17 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.205,
+    "first_seed_odds": 0.206,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
     "pf": 1091.54,
     "playoff_odds": 0.936,
     "power_rank": 4,
-    "proj_avg": 127.0,
+    "proj_avg": 127.1,
     "proj_by_week": {
      "10": 124.12,
-     "11": 122.5,
+     "11": 122.56,
      "12": 129.93,
      "13": 131.59
     },
@@ -1115,7 +1115,7 @@
     "proj_avg": 125.0,
     "proj_by_week": {
      "10": 130.8,
-     "11": 112.11,
+     "11": 112.17,
      "12": 138.16,
      "13": 118.89
     },
@@ -1126,12 +1126,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.103,
+    "first_seed_odds": 0.104,
     "losses": 4,
     "mine": false,
     "pa": 1118.82,
     "pf": 1169.52,
-    "playoff_odds": 0.912,
+    "playoff_odds": 0.913,
     "power_rank": 2,
     "proj_avg": 129.2,
     "proj_by_week": {
@@ -1215,7 +1215,7 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.42,
+    "playoff_odds": 0.421,
     "power_rank": 7,
     "proj_avg": 119.4,
     "proj_by_week": {
@@ -1259,12 +1259,12 @@
     "pf": 978.8,
     "playoff_odds": 0.005,
     "power_rank": 10,
-    "proj_avg": 101.8,
+    "proj_avg": 101.5,
     "proj_by_week": {
      "10": 104.9,
      "11": 88.93,
-     "12": 110.4,
-     "13": 102.86
+     "12": 109.84,
+     "13": 102.29
     },
     "rank": 10,
     "roster_id": 7,
@@ -1329,8 +1329,8 @@
    "proj_by_week": {
     "10": 9.81,
     "11": 0.0,
-    "12": 12.44,
-    "13": 12.41
+    "12": 11.88,
+    "13": 11.84
    },
    "slot": "starter",
    "status": null,
@@ -1568,7 +1568,7 @@
    "likelihood": "Likely",
    "partner": "Glizzy Globbler ",
    "partner_roster_id": 2,
-   "summary": "Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +4.0 pts/week for you, +0.5 for them.",
+   "summary": "Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +4.1 pts/week for you, +0.5 for them.",
    "their_gain_per_week": 0.5,
    "value_ratio": 1.04,
    "why_them": [
@@ -1579,7 +1579,7 @@
     "Jonah Coleman would start 7 of 8 weeks for you",
     "Jordyn Tyson starts only 1 of 8 weeks for you"
    ],
-   "your_gain_per_week": 4.0
+   "your_gain_per_week": 4.1
   },
   {
    "get": [
@@ -1986,15 +1986,15 @@
    "drop": "13276",
    "drop_name": "Omar Cooper Jr.",
    "gain_this_week": 0.0,
-   "gain_window": 1.77,
+   "gain_window": 2.66,
    "name": "Dylan Sampson",
    "pid": "12469",
    "pos": "RB",
    "proj_by_week": {
     "10": 7.8,
     "11": 0.0,
-    "12": 8.93,
-    "13": 8.82
+    "12": 9.37,
+    "13": 9.27
    },
    "status": null,
    "stream": false,

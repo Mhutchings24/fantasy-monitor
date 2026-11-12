@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-12T21:42:39Z UTC
+Week 10 · record 3-6 · updated 2026-11-12T21:52:46Z UTC
 
 ## Lineup check
 Current lineup projects **95.8**, best possible **104.9**.
@@ -22,7 +22,7 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +4.5 | +0.0 | 0 |
 | Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 187,488 |
 | Samaje Perine | RB | CIN | Audric Estime | +4.1 | +0.0 | 0 |
-| Dylan Sampson | RB | CLE | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
+| Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 0 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.5 | +0.0 | 0 |
 | Brenton Strange | TE | JAX | Omar Cooper Jr. | +1.1 | +1.1 | 76,995 |
 | Austin Ekeler | RB | WAS | Audric Estime | +0.8 | +0.0 | 71,868 |
@@ -39,7 +39,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 3 | 128.7 | 99% |
-| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 127.0 | 94% |
+| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 127.1 | 94% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 125.0 | 89% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 2 | 129.2 | 91% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 122.1 | 63% |
@@ -47,12 +47,12 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 8 | 119.1 | 38% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 119.4 | 42% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 118.4 | 14% |
-| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 101.8 | 0% |
+| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 101.5 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
-- **Likely** · Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +4.0 pts/week for you, +0.5 for them.
+- **Likely** · Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +4.1 pts/week for you, +0.5 for them.
 - **Possible** · Give Omar Cooper Jr., get Jonah Coleman from Glizzy Globbler : +4.1 pts/week for you, +0.5 for them.
 - **Likely** · Give Omar Cooper Jr., get Rhamondre Stevenson from Atticus Dean: +2.3 pts/week for you, +0.4 for them.
 - **Possible** · Give Omar Cooper Jr., get Breece Hall from Atticus Dean: +3.7 pts/week for you, -0.5 for them.
@@ -67,7 +67,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | LAR D/ST | DEF | LAR | starter |  | 8.7 | 0.0 | 5.8 | 6.7 |
 | Matt Gay | K | LV | starter |  | 7.9 | 7.6 | 8.5 | 0.0 |
 | Jared Goff | QB | DET | starter |  | 18.7 | 17.2 | 21.2 | 18.3 |
-| Quinshon Judkins | RB | CLE | starter |  | 9.8 | 0.0 | 12.4 | 12.4 |
+| Quinshon Judkins | RB | CLE | starter |  | 9.8 | 0.0 | 11.9 | 11.8 |
 | Audric Estime | RB | NO | starter |  | 8.2 | 2.7 | 3.0 | 2.8 |
 | George Kittle | TE | SF | starter |  | 15.6 | 12.8 | 14.2 | 15.1 |
 | DJ Moore | WR | BUF | starter |  | 12.2 | 13.5 | 12.2 | 13.1 |
