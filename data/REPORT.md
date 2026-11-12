@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-12T14:49:59Z UTC
+Week 10 · record 3-6 · updated 2026-11-12T14:59:59Z UTC
 
 ## Lineup check
 Current lineup projects **94.0**, best possible **105.1**.
@@ -39,7 +39,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 1 | 130.2 | 100% |
-| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 2 | 130.0 | 96% |
+| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 2 | 130.1 | 96% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 126.7 | 90% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 127.6 | 92% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 7 | 121.9 | 63% |
@@ -56,10 +56,10 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Likely** · Give Jordyn Tyson, get Braelon Allen from Atticus Dean: +3.1 pts/week for you, +0.6 for them.
 - **Possible** · Give Omar Cooper Jr., get Jonah Coleman from Glizzy Globbler : +4.1 pts/week for you, -0.3 for them.
 - **Possible** · Give Keenan Allen, get Jonah Coleman from Glizzy Globbler : +4.1 pts/week for you, -0.4 for them.
-- **Possible** · Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +3.2 pts/week for you, -0.4 for them.
+- **Possible** · Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +3.3 pts/week for you, -0.4 for them.
 - **Possible** · Give DJ Moore, get Jaylen Warren from Monangynecologist: +3.1 pts/week for you, -0.4 for them.
 - **Likely** · Give Mike Evans, get Javonte Williams from Monangynecologist: +1.5 pts/week for you, +0.7 for them.
-- **Possible** · Give Quinshon Judkins, get Tony Pollard from I’m stuck Step Burrow: +2.7 pts/week for you, -0.4 for them.
+- **Possible** · Give Quinshon Judkins, get Tony Pollard from I’m stuck Step Burrow: +2.7 pts/week for you, -0.5 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 10 | Wk 11 | Wk 12 | Wk 13 |

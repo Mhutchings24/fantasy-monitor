@@ -1,5 +1,5 @@
 {
- "content_hash": "c4882f1b47991b66c649f743f78c6dcec6cf62cd",
+ "content_hash": "1294ca6b666fe7d043bf5c136b933cb9bcf1072c",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -28,8 +28,8 @@
    "adds_24h": 0,
    "name": "Cam Ward",
    "pos": "QB",
-   "proj_4wk": 56.7,
-   "proj_this_week": 12.89,
+   "proj_4wk": 56.8,
+   "proj_this_week": 12.99,
    "status": null,
    "team": "TEN"
   },
@@ -566,15 +566,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Tyjae Spears",
-   "pos": "RB",
-   "proj_4wk": 25.3,
-   "proj_this_week": 5.35,
-   "status": "Questionable",
-   "team": "TEN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Treylon Burks",
    "pos": "WR",
    "proj_4wk": 25.2,
@@ -716,6 +707,15 @@
    "proj_this_week": 6.71,
    "status": "Questionable",
    "team": "GB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Tyjae Spears",
+   "pos": "RB",
+   "proj_4wk": 23.1,
+   "proj_this_week": 3.17,
+   "status": "Questionable",
+   "team": "TEN"
   },
   {
    "adds_24h": 0,
@@ -862,7 +862,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-12T14:49:59Z",
+ "generated_at": "2026-11-12T14:59:59Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1102,16 +1102,16 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.227,
+    "first_seed_odds": 0.229,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
     "pf": 1091.54,
     "playoff_odds": 0.956,
     "power_rank": 2,
-    "proj_avg": 130.0,
+    "proj_avg": 130.1,
     "proj_by_week": {
-     "10": 126.17,
+     "10": 126.65,
      "11": 127.67,
      "12": 132.83,
      "13": 133.22
@@ -1123,7 +1123,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.116,
+    "first_seed_odds": 0.115,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
@@ -1144,7 +1144,7 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.087,
+    "first_seed_odds": 0.086,
     "losses": 4,
     "mine": false,
     "pa": 1118.82,
@@ -1170,7 +1170,7 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.633,
+    "playoff_odds": 0.634,
     "power_rank": 7,
     "proj_avg": 121.9,
     "proj_by_week": {
@@ -1186,7 +1186,7 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.005,
+    "first_seed_odds": 0.004,
     "losses": 5,
     "mine": false,
     "pa": 1129.44,
@@ -1732,9 +1732,9 @@
    "likelihood": "Possible",
    "partner": "I’m stuck Step Burrow",
    "partner_roster_id": 8,
-   "summary": "Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +3.2 pts/week for you, -0.4 for them.",
+   "summary": "Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +3.3 pts/week for you, -0.4 for them.",
    "their_gain_per_week": -0.4,
-   "value_ratio": 1.02,
+   "value_ratio": 1.03,
    "why_them": [
     "Stefon Diggs would start 1 of 8 weeks for them",
     "Tony Pollard only starts 4 of 8 weeks on their roster"
@@ -1743,7 +1743,7 @@
     "Tony Pollard would start 8 of 8 weeks for you",
     "Stefon Diggs starts 7 of 8 weeks for you"
    ],
-   "your_gain_per_week": 3.2
+   "your_gain_per_week": 3.3
   },
   {
    "get": [
@@ -1841,8 +1841,8 @@
    "likelihood": "Possible",
    "partner": "I’m stuck Step Burrow",
    "partner_roster_id": 8,
-   "summary": "Give Quinshon Judkins, get Tony Pollard from I’m stuck Step Burrow: +2.7 pts/week for you, -0.4 for them.",
-   "their_gain_per_week": -0.4,
+   "summary": "Give Quinshon Judkins, get Tony Pollard from I’m stuck Step Burrow: +2.7 pts/week for you, -0.5 for them.",
+   "their_gain_per_week": -0.5,
    "value_ratio": 1.28,
    "why_them": [
     "Quinshon Judkins would start 1 of 8 weeks for them",
@@ -1979,7 +1979,7 @@
    "pid": "9508",
    "pos": "RB",
    "proj_by_week": {
-    "10": 5.35,
+    "10": 3.17,
     "11": 7.11,
     "12": 6.15,
     "13": 6.72
