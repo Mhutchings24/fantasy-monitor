@@ -1,11 +1,11 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-12T22:23:14Z UTC
+Week 10 · record 3-6 · updated 2026-11-12T22:33:21Z UTC
 
 ## Lineup check
 Current lineup projects **95.5**, best possible **104.7**.
 
 - 🔁 Start Corey Kiner (RB, NE) (11.8) over Jordyn Tyson (WR, NO) (7.2)
-- 🔁 Start Stefon Diggs (WR, WAS) (10.3) over Omar Cooper Jr. (WR, NYJ) (7.3)
+- 🔁 Start Stefon Diggs (WR, WAS) (10.2) over Omar Cooper Jr. (WR, NYJ) (7.3)
 - 🔁 Start Rico Dowdle (RB, PIT) (9.9) over Audric Estime (RB, NO) (8.2)
 
 ## Waiver targets
@@ -20,12 +20,12 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Zonovan Knight (Questionable) | RB | ARI | Audric Estime | +6.7 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +5.7 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +4.5 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 197,253 |
+| Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 187,848 |
 | Samaje Perine | RB | CIN | Audric Estime | +4.1 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 0 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.5 | +0.0 | 0 |
-| Austin Ekeler | RB | WAS | Audric Estime | +0.8 | +0.0 | 75,876 |
-| Mike Gesicki | TE | CIN | Omar Cooper Jr. | +0.5 | +0.5 | 56,368 |
+| Austin Ekeler | RB | WAS | Audric Estime | +0.8 | +0.0 | 72,344 |
+| Mike Gesicki | TE | CIN | Omar Cooper Jr. | +0.5 | +0.5 | 54,396 |
 | Jadarian Price | RB | SEA | Omar Cooper Jr. | +0.5 | +0.0 | 0 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
@@ -45,7 +45,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 122.0 | 63% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 130.0 | 70% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 8 | 118.8 | 38% |
-| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 119.5 | 43% |
+| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 119.5 | 42% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 118.2 | 13% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 101.4 | 0% |
 
@@ -76,7 +76,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Corey Kiner | RB | NE | bench |  | 11.8 | 0.0 | 5.1 | 4.7 |
 | Rico Dowdle | RB | PIT | bench |  | 9.9 | 8.4 | 7.8 | 8.2 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 0.0 | 11.0 | 16.3 |
-| Stefon Diggs | WR | WAS | bench |  | 10.3 | 13.1 | 13.3 | 13.1 |
+| Stefon Diggs | WR | WAS | bench |  | 10.2 | 13.1 | 13.3 | 13.1 |
 | Keenan Allen | WR | SF | bench |  | 5.8 | 5.7 | 6.1 | 6.6 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
 | Mike Evans | WR | SF | bench | Questionable | 0.0 | 13.8 | 15.0 | 15.9 |
