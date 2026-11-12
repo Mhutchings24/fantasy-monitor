@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-12T18:49:27Z UTC
+Week 10 · record 3-6 · updated 2026-11-12T18:54:33Z UTC
 
 ## Lineup check
 Current lineup projects **94.2**, best possible **105.2**.
@@ -20,13 +20,13 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Zonovan Knight (Questionable) | RB | ARI | Audric Estime | +6.7 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +5.7 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +4.5 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 181,665 |
+| Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 183,528 |
 | Samaje Perine | RB | CIN | Audric Estime | +4.1 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.7 | +1.6 | 105,688 |
+| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.7 | +1.6 | 106,372 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.5 | +0.0 | 0 |
-| Brenton Strange | TE | JAX | Omar Cooper Jr. | +1.0 | +1.0 | 73,278 |
-| Austin Ekeler | RB | WAS | Audric Estime | +0.7 | +0.0 | 69,860 |
+| Brenton Strange | TE | JAX | Omar Cooper Jr. | +1.0 | +1.0 | 73,800 |
+| Austin Ekeler | RB | WAS | Audric Estime | +0.7 | +0.0 | 70,468 |
 
 **K stream this week:** add Dominic Zvada for Matt Gay (+0.4 pts this week)
 
@@ -52,14 +52,14 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
-- **Possible** · Give Jordyn Tyson, get Tony Pollard from I’m stuck Step Burrow: +5.1 pts/week for you, -0.5 for them.
 - **Possible** · Give Omar Cooper Jr., get Jonah Coleman from Glizzy Globbler : +4.1 pts/week for you, -0.3 for them.
-- **Possible** · Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +4.1 pts/week for you, -0.3 for them.
-- **Likely** · Give Omar Cooper Jr., get Rhamondre Stevenson from Atticus Dean: +2.3 pts/week for you, +0.3 for them.
-- **Likely** · Give Jordyn Tyson, get Rhamondre Stevenson from Atticus Dean: +2.3 pts/week for you, +0.5 for them.
-- **Likely** · Give Mike Evans + Rico Dowdle, get Jaylen Warren from Monangynecologist: +1.7 pts/week for you, +0.4 for them.
-- **Possible** · Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +3.2 pts/week for you, -0.2 for them.
-- **Likely** · Give Mike Evans, get Chase Brown from Bradsbaconisundercooked: +1.6 pts/week for you, +1.1 for them.
+- **Possible** · Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +4.0 pts/week for you, -0.3 for them.
+- **Likely** · Give Omar Cooper Jr., get Rhamondre Stevenson from Atticus Dean: +2.3 pts/week for you, +0.4 for them.
+- **Likely** · Give Jordyn Tyson, get Rhamondre Stevenson from Atticus Dean: +2.2 pts/week for you, +0.5 for them.
+- **Likely** · Give Mike Evans, get Ollie Gordon II from Bradsbaconisundercooked: +1.9 pts/week for you, +0.7 for them.
+- **Possible** · Give Omar Cooper Jr., get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.3 pts/week for you, -0.5 for them.
+- **Possible** · Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +3.2 pts/week for you, -0.4 for them.
+- **Possible** · Give Jordyn Tyson, get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.2 pts/week for you, -0.5 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 10 | Wk 11 | Wk 12 | Wk 13 |
