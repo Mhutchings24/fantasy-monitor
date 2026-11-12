@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-12T20:26:13Z UTC
+Week 10 · record 3-6 · updated 2026-11-12T20:31:19Z UTC
 
 ## Lineup check
-Current lineup projects **93.6**, best possible **104.5**.
+Current lineup projects **93.5**, best possible **104.4**.
 
 - 🔁 Start Corey Kiner (RB, NE) (11.8) over Jordyn Tyson (WR, NO) (5.8)
 - 🔁 Start Stefon Diggs (WR, WAS) (10.9) over Omar Cooper Jr. (WR, NYJ) (7.7)
@@ -22,8 +22,8 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +4.5 | +0.0 | 0 |
 | Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 190,188 |
 | Samaje Perine | RB | CIN | Audric Estime | +4.1 | +0.0 | 0 |
+| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.8 | +1.7 | 106,012 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.7 | +1.6 | 106,012 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.5 | +0.0 | 0 |
 | Brenton Strange | TE | JAX | Omar Cooper Jr. | +1.0 | +1.0 | 76,617 |
 | Austin Ekeler | RB | WAS | Audric Estime | +0.7 | +0.0 | 72,836 |
@@ -31,7 +31,7 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **93.6** – 114.6 projected · win chance **28%**
+vs **Never Going Go Scottsdale** (4-5): you **93.5** – 114.6 projected · win chance **28%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -39,15 +39,15 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 128.7 | 99% |
-| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 3 | 127.7 | 94% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 124.9 | 89% |
+| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 3 | 127.6 | 94% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.9 | 89% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 1 | 129.3 | 94% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 122.2 | 65% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 4 | 125.3 | 59% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 124.7 | 58% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 7 | 120.9 | 44% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 118.6 | 40% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 118.4 | 16% |
-| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 101.7 | 0% |
+| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 101.6 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -66,7 +66,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter |  | 8.7 | 0.0 | 5.8 | 6.7 |
 | Matt Gay | K | LV | starter |  | 7.9 | 7.5 | 8.5 | 0.0 |
-| Jared Goff | QB | DET | starter | Questionable | 16.1 | 17.2 | 21.2 | 18.3 |
+| Jared Goff | QB | DET | starter | Questionable | 15.9 | 17.2 | 21.2 | 18.3 |
 | Quinshon Judkins | RB | CLE | starter |  | 10.9 | 0.0 | 12.4 | 12.4 |
 | Audric Estime | RB | NO | starter |  | 8.2 | 2.7 | 3.0 | 2.8 |
 | George Kittle | TE | SF | starter |  | 15.6 | 12.8 | 14.2 | 15.1 |
