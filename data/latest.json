@@ -1,5 +1,5 @@
 {
- "content_hash": "442c1365adb97d3f88a0b18d283d71748345ac9f",
+ "content_hash": "1271db07bf71c0269ac7450d5f72bbfc143b1577",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -214,15 +214,6 @@
    "team": "IND"
   },
   {
-   "adds_24h": 123489,
-   "name": "Jordan Addison",
-   "pos": "WR",
-   "proj_4wk": 36.7,
-   "proj_this_week": 9.32,
-   "status": null,
-   "team": "MIN"
-  },
-  {
    "adds_24h": 0,
    "name": "Juwan Johnson",
    "pos": "TE",
@@ -230,6 +221,15 @@
    "proj_this_week": 9.26,
    "status": null,
    "team": "NO"
+  },
+  {
+   "adds_24h": 123489,
+   "name": "Jordan Addison",
+   "pos": "WR",
+   "proj_4wk": 36.7,
+   "proj_this_week": 9.32,
+   "status": null,
+   "team": "MIN"
   },
   {
    "adds_24h": 53184,
@@ -583,15 +583,6 @@
    "team": "ATL"
   },
   {
-   "adds_24h": 100780,
-   "name": "NYG D/ST",
-   "pos": "DEF",
-   "proj_4wk": 24.9,
-   "proj_this_week": 7.47,
-   "status": null,
-   "team": "NYG"
-  },
-  {
    "adds_24h": 0,
    "name": "Elic Ayomanor",
    "pos": "WR",
@@ -727,6 +718,15 @@
    "team": "CLE"
   },
   {
+   "adds_24h": 0,
+   "name": "Wil Lutz",
+   "pos": "K",
+   "proj_4wk": 22.6,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "DEN"
+  },
+  {
    "adds_24h": 389249,
    "name": "Tutu Atwell",
    "pos": "WR",
@@ -844,7 +844,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-12T21:30:55Z",
+ "generated_at": "2026-11-12T21:36:00Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1063,7 +1063,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.536,
+    "first_seed_odds": 0.532,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1089,7 +1089,7 @@
     "mine": false,
     "pa": 1053.34,
     "pf": 1091.54,
-    "playoff_odds": 0.937,
+    "playoff_odds": 0.936,
     "power_rank": 4,
     "proj_avg": 127.0,
     "proj_by_week": {
@@ -1105,12 +1105,12 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.122,
+    "first_seed_odds": 0.123,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.89,
+    "playoff_odds": 0.889,
     "power_rank": 5,
     "proj_avg": 125.0,
     "proj_by_week": {
@@ -1126,12 +1126,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.102,
+    "first_seed_odds": 0.103,
     "losses": 4,
     "mine": false,
     "pa": 1118.82,
     "pf": 1169.52,
-    "playoff_odds": 0.913,
+    "playoff_odds": 0.912,
     "power_rank": 2,
     "proj_avg": 129.2,
     "proj_by_week": {
@@ -1152,7 +1152,7 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.63,
+    "playoff_odds": 0.627,
     "power_rank": 6,
     "proj_avg": 122.1,
     "proj_by_week": {
@@ -1168,12 +1168,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.01,
+    "first_seed_odds": 0.011,
     "losses": 5,
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.7,
+    "playoff_odds": 0.698,
     "power_rank": 1,
     "proj_avg": 130.2,
     "proj_by_week": {
@@ -1194,8 +1194,8 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.392,
-    "power_rank": 7,
+    "playoff_odds": 0.383,
+    "power_rank": 8,
     "proj_avg": 119.1,
     "proj_by_week": {
      "10": 114.61,
@@ -1210,19 +1210,19 @@
     "wins": 4
    },
    {
-    "first_seed_odds": 0.002,
+    "first_seed_odds": 0.003,
     "losses": 5,
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.4,
-    "power_rank": 9,
-    "proj_avg": 118.3,
+    "playoff_odds": 0.42,
+    "power_rank": 7,
+    "proj_avg": 119.4,
     "proj_by_week": {
-     "10": 123.57,
-     "11": 102.68,
-     "12": 122.79,
-     "13": 124.19
+     "10": 124.7,
+     "11": 104.27,
+     "12": 124.35,
+     "13": 124.44
     },
     "rank": 8,
     "roster_id": 1,
@@ -1236,8 +1236,8 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.138,
-    "power_rank": 8,
+    "playoff_odds": 0.135,
+    "power_rank": 9,
     "proj_avg": 118.4,
     "proj_by_week": {
      "10": 117.35,
