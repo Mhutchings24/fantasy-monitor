@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 10
+- [Thu Nov 12 · AM](2026/week-10/2026-11-12-am.md) — Nothing set yet: start Diggs over Cooper before 6:15 PM MT tonight; add Rodgers (drop Allen) and Boswell (drop Gay), $0; Kiner RB over Tyson; Dowdle FLEX over Estime (Etienne risk).
 - [Wed Nov 11 · PM](2026/week-10/2026-11-11-pm.md) — Add Rodgers (drop Allen) as Goff (chest) insurance; start Diggs over Cooper before Thu 6:15 PM MT; Kiner RB over Tyson; Etienne practiced, so Dowdle replaces Estime if he's activated Sat; Boswell for Gay.
 - [Wed Nov 11 · Flash 15:03](2026/week-10/2026-11-11-flash-1503.md) — Goff (chest) Q, limited Wed, only QB rostered: add a backup now (Rodgers, else McCarthy/Stafford/Geno; drop Allen or Evans); start the backup before Sun ~7:30 AM MT if Goff isn't practicing fully by Fri.
 - [Wed Nov 11 · Flash 11:05](2026/week-10/2026-11-11-flash-1105.md) — Cooper (ankle) Q, limited Wed, still starting: put Diggs in his WR spot before Thu 6:15 PM MT; keep Tyson FLEX + Estime RB2; Boswell for Gay still open.
