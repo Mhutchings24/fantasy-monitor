@@ -1,5 +1,5 @@
 {
- "content_hash": "283caae4dd60e6f2130365c8cefce762e27d6570",
+ "content_hash": "8dab96996b5cfa216b19822448b34df51f617fbc",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -10,7 +10,7 @@
    "adds_24h": 95448,
    "name": "Aaron Rodgers",
    "pos": "QB",
-   "proj_4wk": 64.6,
+   "proj_4wk": 64.8,
    "proj_this_week": 17.76,
    "status": null,
    "team": "PIT"
@@ -37,7 +37,7 @@
    "adds_24h": 0,
    "name": "Justin Herbert",
    "pos": "QB",
-   "proj_4wk": 55.8,
+   "proj_4wk": 55.9,
    "proj_this_week": 11.81,
    "status": "Questionable",
    "team": "LAC"
@@ -115,15 +115,6 @@
    "team": "LAR"
   },
   {
-   "adds_24h": 75708,
-   "name": "Brenton Strange",
-   "pos": "TE",
-   "proj_4wk": 42.2,
-   "proj_this_week": 9.91,
-   "status": null,
-   "team": "JAX"
-  },
-  {
    "adds_24h": 0,
    "name": "Joe Milton",
    "pos": "QB",
@@ -131,6 +122,15 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "PHI"
+  },
+  {
+   "adds_24h": 75708,
+   "name": "Brenton Strange",
+   "pos": "TE",
+   "proj_4wk": 41.3,
+   "proj_this_week": 9.91,
+   "status": null,
+   "team": "JAX"
   },
   {
    "adds_24h": 120033,
@@ -197,21 +197,21 @@
   },
   {
    "adds_24h": 0,
+   "name": "Daniel Jones",
+   "pos": "QB",
+   "proj_4wk": 37.2,
+   "proj_this_week": 13.25,
+   "status": null,
+   "team": "IND"
+  },
+  {
+   "adds_24h": 0,
    "name": "Jakobi Meyers",
    "pos": "WR",
    "proj_4wk": 37.1,
    "proj_this_week": 8.28,
    "status": "Questionable",
    "team": "JAX"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Daniel Jones",
-   "pos": "QB",
-   "proj_4wk": 37.1,
-   "proj_this_week": 13.25,
-   "status": null,
-   "team": "IND"
   },
   {
    "adds_24h": 0,
@@ -262,7 +262,7 @@
    "adds_24h": 0,
    "name": "Dallas Goedert",
    "pos": "TE",
-   "proj_4wk": 32.8,
+   "proj_4wk": 32.7,
    "proj_this_week": 0.0,
    "status": null,
    "team": "PHI"
@@ -370,7 +370,7 @@
    "adds_24h": 0,
    "name": "Kimani Vidal",
    "pos": "RB",
-   "proj_4wk": 30.3,
+   "proj_4wk": 29.7,
    "proj_this_week": 6.73,
    "status": null,
    "team": "LAC"
@@ -460,7 +460,7 @@
    "adds_24h": 0,
    "name": "Darnell Washington",
    "pos": "TE",
-   "proj_4wk": 27.5,
+   "proj_4wk": 27.6,
    "proj_this_week": 7.62,
    "status": null,
    "team": "PIT"
@@ -683,6 +683,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Keaton Mitchell",
+   "pos": "RB",
+   "proj_4wk": 23.3,
+   "proj_this_week": 6.13,
+   "status": null,
+   "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
    "name": "Devaughn Vele",
    "pos": "WR",
    "proj_4wk": 23.3,
@@ -716,15 +725,6 @@
    "proj_this_week": 7.6,
    "status": null,
    "team": "CLE"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Mark Andrews",
-   "pos": "TE",
-   "proj_4wk": 22.7,
-   "proj_this_week": 7.0,
-   "status": null,
-   "team": "BAL"
   },
   {
    "adds_24h": 354109,
@@ -844,7 +844,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-12T22:43:39Z",
+ "generated_at": "2026-11-12T22:48:42Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1063,7 +1063,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.535,
+    "first_seed_odds": 0.536,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1089,7 +1089,7 @@
     "mine": false,
     "pa": 1053.34,
     "pf": 1091.54,
-    "playoff_odds": 0.935,
+    "playoff_odds": 0.934,
     "power_rank": 4,
     "proj_avg": 126.7,
     "proj_by_week": {
@@ -1105,17 +1105,17 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.124,
+    "first_seed_odds": 0.123,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.887,
+    "playoff_odds": 0.885,
     "power_rank": 5,
-    "proj_avg": 124.7,
+    "proj_avg": 124.5,
     "proj_by_week": {
      "10": 129.55,
-     "11": 112.17,
+     "11": 111.52,
      "12": 138.16,
      "13": 118.89
     },
@@ -1152,12 +1152,12 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.631,
+    "playoff_odds": 0.63,
     "power_rank": 6,
     "proj_avg": 122.0,
     "proj_by_week": {
      "10": 128.71,
-     "11": 117.4,
+     "11": 117.45,
      "12": 130.69,
      "13": 111.23
     },
@@ -1173,7 +1173,7 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.699,
+    "playoff_odds": 0.7,
     "power_rank": 1,
     "proj_avg": 130.0,
     "proj_by_week": {
@@ -1194,12 +1194,12 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.378,
+    "playoff_odds": 0.379,
     "power_rank": 8,
-    "proj_avg": 118.8,
+    "proj_avg": 118.9,
     "proj_by_week": {
      "10": 113.52,
-     "11": 119.38,
+     "11": 119.53,
      "12": 122.92,
      "13": 119.46
     },
@@ -1236,12 +1236,12 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.134,
+    "playoff_odds": 0.135,
     "power_rank": 9,
     "proj_avg": 118.2,
     "proj_by_week": {
      "10": 116.76,
-     "11": 104.62,
+     "11": 104.56,
      "12": 131.25,
      "13": 120.22
     },
@@ -1262,7 +1262,7 @@
     "proj_avg": 101.4,
     "proj_by_week": {
      "10": 104.69,
-     "11": 88.93,
+     "11": 88.94,
      "12": 109.84,
      "13": 102.29
     },
@@ -1433,7 +1433,7 @@
    "pos": "RB",
    "proj_by_week": {
     "10": 9.91,
-    "11": 8.38,
+    "11": 8.39,
     "12": 7.76,
     "13": 8.22
    },
@@ -1911,13 +1911,13 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
-   "gain_window": 5.73,
+   "gain_window": 5.12,
    "name": "Kimani Vidal",
    "pid": "11647",
    "pos": "RB",
    "proj_by_week": {
     "10": 6.73,
-    "11": 8.1,
+    "11": 7.49,
     "12": 8.08,
     "13": 7.38
    },
@@ -1981,6 +1981,25 @@
    "status": null,
    "stream": false,
    "team": "CIN",
+   "trending_adds_24h": 0
+  },
+  {
+   "drop": "11579",
+   "drop_name": "Audric Estime",
+   "gain_this_week": 0.0,
+   "gain_window": 4.12,
+   "name": "Keaton Mitchell",
+   "pid": "9511",
+   "pos": "RB",
+   "proj_by_week": {
+    "10": 6.13,
+    "11": 6.81,
+    "12": 5.43,
+    "13": 4.95
+   },
+   "status": null,
+   "stream": false,
+   "team": "LAC",
    "trending_adds_24h": 0
   },
   {
@@ -2058,25 +2077,6 @@
    "stream": false,
    "team": "CIN",
    "trending_adds_24h": 55416
-  },
-  {
-   "drop": "13276",
-   "drop_name": "Omar Cooper Jr.",
-   "gain_this_week": 0.0,
-   "gain_window": 0.45,
-   "name": "Jadarian Price",
-   "pid": "13286",
-   "pos": "RB",
-   "proj_by_week": {
-    "10": 8.59,
-    "11": 0.0,
-    "12": 6.83,
-    "13": 8.67
-   },
-   "status": null,
-   "stream": false,
-   "team": "SEA",
-   "trending_adds_24h": 0
   }
  ],
  "week": 10,
