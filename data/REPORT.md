@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-12T04:15:55Z UTC
+Week 10 · record 3-6 · updated 2026-11-12T04:31:05Z UTC
 
 ## Lineup check
-Current lineup projects **94.6**, best possible **105.5**.
+Current lineup projects **94.6**, best possible **105.6**.
 
 - 🔁 Start Corey Kiner (RB, NE) (11.8) over Jordyn Tyson (WR, NO) (5.6)
 - 🔁 Start Stefon Diggs (WR, WAS) (11.0) over Omar Cooper Jr. (WR, NYJ) (7.9)
@@ -19,14 +19,14 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Zonovan Knight (Questionable) | RB | ARI | Audric Estime | +9.2 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +7.6 | +0.0 | 0 |
 | Alvin Kamara (Questionable) | RB | NO | Audric Estime | +6.9 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 284,211 |
+| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 285,246 |
 | Devin Singletary | RB | NYG | Audric Estime | +6.8 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +6.7 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +6.5 | +0.0 | 0 |
-| Austin Ekeler | RB | WAS | Audric Estime | +2.9 | +0.0 | 92,204 |
+| Austin Ekeler | RB | WAS | Audric Estime | +2.9 | +0.0 | 92,600 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.8 | +1.8 | 217,856 |
+| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.8 | +1.8 | 218,432 |
 
 **K stream this week:** add Dominic Zvada for Matt Gay (+0.5 pts this week)
 
