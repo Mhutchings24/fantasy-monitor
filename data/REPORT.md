@@ -1,12 +1,12 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-12T14:34:46Z UTC
+Week 10 · record 3-6 · updated 2026-11-12T14:39:50Z UTC
 
 ## Lineup check
-Current lineup projects **94.0**, best possible **105.2**.
+Current lineup projects **94.0**, best possible **105.1**.
 
 - 🔁 Start Corey Kiner (RB, NE) (11.8) over Jordyn Tyson (WR, NO) (5.6)
 - 🔁 Start Stefon Diggs (WR, WAS) (11.0) over Omar Cooper Jr. (WR, NYJ) (7.7)
-- 🔁 Start Rico Dowdle (RB, PIT) (9.9) over Audric Estime (RB, NO) (8.2)
+- 🔁 Start Rico Dowdle (RB, PIT) (9.8) over Audric Estime (RB, NO) (8.2)
 
 ## Waiver targets
 FAAB left: **$78** (league starting budget $100)
@@ -19,19 +19,19 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Zonovan Knight (Questionable) | RB | ARI | Audric Estime | +9.2 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +7.6 | +0.0 | 0 |
 | Alvin Kamara (Questionable) | RB | NO | Audric Estime | +6.9 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 216,450 |
+| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 199,809 |
 | Devin Singletary | RB | NYG | Audric Estime | +6.8 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +6.7 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +6.5 | +0.0 | 0 |
-| Austin Ekeler | RB | WAS | Audric Estime | +2.9 | +0.0 | 78,200 |
+| Austin Ekeler | RB | WAS | Audric Estime | +2.9 | +0.0 | 72,860 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.7 | +1.7 | 145,004 |
+| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.6 | +1.6 | 131,208 |
 
 **K stream this week:** add Dominic Zvada for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **94.0** – 115.8 projected · win chance **27%**
+vs **Never Going Go Scottsdale** (4-5): you **94.0** – 114.8 projected · win chance **28%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -42,9 +42,9 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 2 | 130.0 | 96% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 126.7 | 90% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 127.6 | 92% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 7 | 122.0 | 63% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 7 | 121.9 | 63% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 125.0 | 59% |
-| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 6 | 122.3 | 47% |
+| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 6 | 122.1 | 46% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 118.6 | 39% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 117.5 | 14% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 106.5 | 1% |
@@ -74,7 +74,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Omar Cooper Jr. | WR | NYJ | starter | Questionable | 7.7 | 10.5 | 11.2 | 0.0 |
 | Jordyn Tyson | WR | NO | starter |  | 5.6 | 11.3 | 11.2 | 10.5 |
 | Corey Kiner | RB | NE | bench |  | 11.8 | 0.0 | 5.1 | 4.7 |
-| Rico Dowdle | RB | PIT | bench |  | 9.9 | 7.7 | 7.8 | 8.2 |
+| Rico Dowdle | RB | PIT | bench |  | 9.8 | 7.7 | 7.8 | 8.2 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 0.0 | 12.6 | 16.3 |
 | Stefon Diggs | WR | WAS | bench |  | 11.0 | 13.2 | 13.8 | 13.5 |
 | Keenan Allen | WR | SF | bench |  | 6.1 | 9.4 | 9.3 | 0.0 |
