@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-12T16:20:49Z UTC
+Week 10 · record 3-6 · updated 2026-11-12T16:30:57Z UTC
 
 ## Lineup check
-Current lineup projects **94.0**, best possible **105.2**.
+Current lineup projects **94.0**, best possible **105.1**.
 
 - 🔁 Start Corey Kiner (RB, NE) (11.8) over Jordyn Tyson (WR, NO) (5.6)
 - 🔁 Start Stefon Diggs (WR, WAS) (11.0) over Omar Cooper Jr. (WR, NYJ) (7.7)
@@ -19,14 +19,14 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Zonovan Knight (Questionable) | RB | ARI | Audric Estime | +9.2 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +7.6 | +0.0 | 0 |
 | Alvin Kamara (Questionable) | RB | NO | Audric Estime | +6.9 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 198,270 |
+| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 183,168 |
 | Devin Singletary | RB | NYG | Audric Estime | +6.8 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +6.7 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +6.5 | +0.0 | 0 |
-| Austin Ekeler | RB | WAS | Audric Estime | +2.9 | +0.0 | 73,584 |
+| Austin Ekeler | RB | WAS | Audric Estime | +2.9 | +0.0 | 68,960 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.6 | +1.6 | 124,816 |
+| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.6 | +1.6 | 113,868 |
 
 **K stream this week:** add Dominic Zvada for Matt Gay (+0.4 pts this week)
 
@@ -40,9 +40,9 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 1 | 130.2 | 100% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 2 | 130.1 | 96% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 126.7 | 90% |
-| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 127.6 | 92% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 7 | 121.9 | 63% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 126.6 | 90% |
+| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 127.5 | 92% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 7 | 121.9 | 64% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 125.0 | 59% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 6 | 122.1 | 46% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 118.6 | 39% |
@@ -67,7 +67,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | LAR D/ST | DEF | LAR | starter |  | 8.7 | 0.0 | 7.2 | 6.7 |
 | Matt Gay | K | LV | starter |  | 7.9 | 8.5 | 8.5 | 0.0 |
 | Jared Goff | QB | DET | starter | Questionable | 16.1 | 18.2 | 21.2 | 18.3 |
-| Quinshon Judkins | RB | CLE | starter |  | 10.9 | 0.0 | 12.4 | 12.4 |
+| Quinshon Judkins | RB | CLE | starter |  | 10.8 | 0.0 | 12.4 | 12.4 |
 | Audric Estime | RB | NO | starter |  | 8.2 | 0.5 | 0.5 | 0.4 |
 | George Kittle | TE | SF | starter |  | 16.2 | 14.0 | 14.2 | 15.1 |
 | DJ Moore | WR | BUF | starter |  | 12.7 | 16.5 | 13.9 | 14.9 |
