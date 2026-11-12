@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-12T02:40:32Z UTC
+Week 10 · record 3-6 · updated 2026-11-12T02:47:13Z UTC
 
 ## Lineup check
 Current lineup projects **94.6**, best possible **105.5**.
@@ -16,17 +16,17 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +14.0 | +0.0 | 0 |
-| Omarion Hampton | RB | LAC | Audric Estime | +12.1 | +0.0 | 0 |
 | Zonovan Knight (Questionable) | RB | ARI | Audric Estime | +9.2 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +7.6 | +0.0 | 0 |
 | Alvin Kamara (Questionable) | RB | NO | Audric Estime | +6.9 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 284,958 |
+| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 286,578 |
 | Devin Singletary | RB | NYG | Audric Estime | +6.8 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +6.7 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +6.5 | +0.0 | 0 |
-| Austin Ekeler | RB | WAS | Audric Estime | +2.9 | +0.0 | 89,340 |
+| Austin Ekeler | RB | WAS | Audric Estime | +2.9 | +0.0 | 89,904 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
+| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.8 | +1.8 | 224,208 |
 
 **K stream this week:** add Dominic Zvada for Matt Gay (+0.5 pts this week)
 
@@ -55,7 +55,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Likely** · Give Omar Cooper Jr., get Braelon Allen from Atticus Dean: +3.1 pts/week for you, +0.4 for them.
 - **Likely** · Give Jordyn Tyson, get Braelon Allen from Atticus Dean: +3.1 pts/week for you, +0.6 for them.
 - **Possible** · Give Omar Cooper Jr., get Jonah Coleman from Glizzy Globbler : +4.1 pts/week for you, -0.3 for them.
-- **Possible** · Give Keenan Allen, get Jonah Coleman from Glizzy Globbler : +4.1 pts/week for you, -0.5 for them.
+- **Possible** · Give Keenan Allen, get Jonah Coleman from Glizzy Globbler : +4.1 pts/week for you, -0.4 for them.
 - **Possible** · Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +3.2 pts/week for you, -0.4 for them.
 - **Possible** · Give DJ Moore, get Jaylen Warren from Monangynecologist: +3.1 pts/week for you, -0.3 for them.
 - **Likely** · Give Mike Evans, get Javonte Williams from Monangynecologist: +1.5 pts/week for you, +0.9 for them.
