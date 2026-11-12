@@ -1,5 +1,5 @@
 {
- "content_hash": "6ba3ba10e092c614f997047f29a09c0867a9f97c",
+ "content_hash": "1222844bf970a305c4b643b570cc7c98fbcf2c57",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -638,21 +638,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Mark Andrews",
-   "pos": "TE",
-   "proj_4wk": 23.8,
-   "proj_this_week": 8.16,
-   "status": null,
-   "team": "BAL"
-  },
-  {
-   "adds_24h": 0,
    "name": "DET D/ST",
    "pos": "DEF",
    "proj_4wk": 23.8,
    "proj_this_week": 5.74,
    "status": null,
    "team": "DET"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Mark Andrews",
+   "pos": "TE",
+   "proj_4wk": 23.8,
+   "proj_this_week": 8.16,
+   "status": null,
+   "team": "BAL"
   },
   {
    "adds_24h": 0,
@@ -844,7 +844,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-12T20:36:24Z",
+ "generated_at": "2026-11-12T20:41:28Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
