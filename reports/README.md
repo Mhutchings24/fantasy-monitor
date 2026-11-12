@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 10
+- [Thu Nov 12 · Game day 16:57](2026/week-10/2026-11-12-gameday-1657.md) — Diggs still benched: start him over Cooper before 6:15 PM MT tonight (check he isn't tagged Out first); Kiner over Tyson, Dowdle over Estime before Sun 7:30 AM MT.
 - [Thu Nov 12 · Flash 15:05](2026/week-10/2026-11-12-flash-1505.md) — Goff cleared (full Thu), so the Rodgers add is optional; Diggs still benched: start him over Cooper before 6:15 PM MT tonight; Kiner over Tyson, Dowdle over Estime; Boswell for Gay.
 - [Thu Nov 12 · AM](2026/week-10/2026-11-12-am.md) — Nothing set yet: start Diggs over Cooper before 6:15 PM MT tonight; add Rodgers (drop Allen) and Boswell (drop Gay), $0; Kiner RB over Tyson; Dowdle FLEX over Estime (Etienne risk).
 - [Wed Nov 11 · PM](2026/week-10/2026-11-11-pm.md) — Add Rodgers (drop Allen) as Goff (chest) insurance; start Diggs over Cooper before Thu 6:15 PM MT; Kiner RB over Tyson; Etienne practiced, so Dowdle replaces Estime if he's activated Sat; Boswell for Gay.

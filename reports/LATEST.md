@@ -1,23 +1,31 @@
-# Flash: Goff cleared, but Diggs is still benched
-_Conorrhea · No Fun League · Week 10 · 3:05 PM MT Thu Nov 12 (fresh monitor run 22:03 UTC)_
+# Week 10 game-day check · Thu 4:57 PM MT
+_Conorrhea · No Fun League · record 3-6 · data as of 4:52 PM MT (fresh monitor run)_
 
-## What changed
-- **Jared Goff (QB, DET) no longer has an injury designation.** He practiced fully on Thursday after a limited Wednesday with a chest injury (CBS Sports, RotoWire, NBC Sports, Nov 12). Earlier reports said a full practice "should put him in the clear." He's on track to start Sunday vs. NE in Munich (9:30 AM ET / 7:30 AM MT).
-- **You no longer need a backup QB.** Adding Rodgers was insurance for Goff. It's optional now.
-- **Your lineup still isn't set.** Cooper (Q, ankle) and Tyson are starting while Diggs and Kiner sit on the bench. **Diggs plays tonight (WAS @ NYG) and locks at 6:15 PM MT, about 3 hours from now.**
+Tonight: **WAS @ NYG, 8:15 PM ET / 6:15 PM MT.** Your only player in it is **Stefon Diggs (WR, WAS)**, and he's still on your bench.
 
-## What to do
-1. **Before 6:15 PM MT tonight: start Stefon Diggs (10.3) over Omar Cooper Jr. (7.3, Q).** Diggs isn't on the injury report. This is the only move with a deadline today.
-2. **Start Corey Kiner (11.8) at RB over Jordyn Tyson (7.2).** Henderson is out for NE. Kiner locks Sun 7:30 AM MT.
-3. **Start Rico Dowdle (9.9) at FLEX over Audric Estime (8.2).** Keep Estime as the 1 PM pivot in case Kiner is a surprise inactive.
-4. **Keep Goff at QB.** You don't need Rodgers anymore. If he's still a free agent and you want a bye-week QB for later, it costs $0. Otherwise use the roster spot for Boswell.
-5. **Still open:** add Chris Boswell (K, PIT), drop Matt Gay, $0.
+## Make these moves now
+1. **Before 6:15 PM MT tonight: start Stefon Diggs (10.3) in Omar Cooper Jr.'s WR spot (7.3, Q ankle).** Diggs has no injury designation on Sleeper and was reported "on track to play" (Nov 11). Cooper plays Sunday, so benching him costs nothing. Confidence: **High**.
+   - Before you lock him in, glance at Diggs in Sleeper. If he shows **Out / Inactive**, leave Cooper in and skip this move. I couldn't load the official inactives list in this run.
+2. **Before Sun 7:30 AM MT: start Corey Kiner (11.8) at RB over Jordyn Tyson (8.1),** and **Rico Dowdle (9.9) at FLEX over Audric Estime (8.2).** Not urgent tonight, but nothing else changes them.
 
-With moves 1–3 you project **104.7**, up from 95.5 as set. The opponent projects 112.1, and the monitor gives you a 32% win chance as set.
+With all three swaps you project **104.8**, up from 96.4 as set. The opponent projects 112.2. Win chance as set is 33%.
+
+## Inactives and late news
+| Player | Game | Status | Source |
+|---|---|---|---|
+| Stefon Diggs (WR, WAS) | @ NYG, 6:15 PM MT tonight | Expected active; no designation | TWSN, Nov 11, 9:57 AM ET: "on track to play in Thursday night's rematch." Sleeper shows no status at 4:52 PM MT. Official inactives not confirmed. |
+| Omar Cooper Jr. (WR, NYJ) | Sunday | Q (ankle), limited Thu | FantasyGuru, Nov 12. Coach Glenn expects him to be "just fine." |
+
+The "Diggs won't play vs. Giants" headlines in search results are from **Week 5 (Oct 9–11)**, not tonight.
+
+## Still to decide
+- **Cooper vs. Tyson for Sunday:** with Diggs in, Tyson's spot goes to Kiner, so Cooper moves to the bench. Watch the Jets' Friday injury report. If Cooper is ruled out, nothing changes.
+- **Kiner (NE) and Goff (DET)** play in Munich, Sun 7:30 AM MT. Estime and Dowdle are the 11 AM MT pivots if Kiner is a surprise inactive (that list comes out about 6:00 AM MT).
+- Still open: add Chris Boswell (K, PIT), drop Matt Gay, $0.
 
 ## Sources
-- [CBS Sports: Lions' Jared Goff: Full practice Thursday](https://www.cbssports.com/fantasy/football/news/lions-jared-goff-full-practice-thursday/)
-- [RotoWire: Jared Goff News: Full practice Thursday](https://www.rotowire.com/football/headlines/jared-goff-news-full-practice-thursday-647387)
-- [NBC Sports: Jared Goff (chest) upgrades to full on Thursday](https://www.nbcsports.com/fantasy/football/player-news/2026-11-12/jared-goff-chest-upgrades-to-full-on-thursday)
-- [Athlon: Lions announce Jared Goff update ahead of Patriots game](https://athlonsports.com/nfl/trending/lions-jared-goff-injury-update-patriots-game-germany)
-- Monitor data: `data/latest.json`, `data/events.json` (event 2026-11-12T21:20:44Z-0)
+- [TWSN: Stefon Diggs Is a Thursday Night Flex With Touchdown Upside (Nov 11)](https://twsn.net/2026/11/11/stefon-diggs-is-a-thursday-night-flex-with-touchdown-upside) — "on track to play"
+- [Fox Sports: Stefon Diggs player news](https://www.foxsports.com/nfl/stefon-diggs-player) — no Week 10 designation; played Weeks 8–9
+- [FantasyGuru: Commanders' Stefon Diggs (hamstring) won't play vs. Giants](https://www.fantasyguru.com/commanders-stefon-diggs-hamstring-wont-play-vs-giants-2) — dated Oct 9 (Week 5), stale; sidebar has Cooper limited Thu (Nov 12)
+- [Hogs Haven: Commanders vs. Giants inactives, Week 10](https://www.hogshaven.com/washington-commanders-injuries/454574/washington-commanders-vs-new-york-giants-inactives-in-nfl-week-10) — couldn't be loaded
+- Monitor data: `data/latest.json` (23:52 UTC run)
