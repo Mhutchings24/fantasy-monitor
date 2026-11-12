@@ -1,5 +1,5 @@
 {
- "content_hash": "1aa41c433a78a4201acae38df28870803d5b34df",
+ "content_hash": "28768ca9db7150337a26366475217d34b0e7d126",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -26,21 +26,21 @@
   },
   {
    "adds_24h": 0,
+   "name": "Justin Herbert",
+   "pos": "QB",
+   "proj_4wk": 58.0,
+   "proj_this_week": 13.89,
+   "status": null,
+   "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
    "name": "Cam Ward",
    "pos": "QB",
    "proj_4wk": 57.7,
    "proj_this_week": 12.99,
    "status": null,
    "team": "TEN"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Justin Herbert",
-   "pos": "QB",
-   "proj_4wk": 55.9,
-   "proj_this_week": 11.81,
-   "status": "Questionable",
-   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -844,7 +844,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-12T23:34:25Z",
+ "generated_at": "2026-11-12T23:39:31Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
