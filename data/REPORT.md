@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-12T21:20:44Z UTC
+Week 10 · record 3-6 · updated 2026-11-12T21:25:50Z UTC
 
 ## Lineup check
 Current lineup projects **94.8**, best possible **105.0**.
@@ -20,40 +20,40 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Zonovan Knight (Questionable) | RB | ARI | Audric Estime | +6.7 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +5.7 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +4.5 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 190,764 |
+| Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 193,464 |
 | Samaje Perine | RB | CIN | Audric Estime | +4.1 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.5 | +0.0 | 0 |
-| Brenton Strange | TE | JAX | Omar Cooper Jr. | +1.1 | +1.1 | 77,319 |
-| Austin Ekeler | RB | WAS | Audric Estime | +0.8 | +0.0 | 72,880 |
-| Mike Gesicki | TE | CIN | Omar Cooper Jr. | +0.5 | +0.5 | 52,948 |
+| Brenton Strange | TE | JAX | Omar Cooper Jr. | +1.1 | +1.1 | 78,498 |
+| Austin Ekeler | RB | WAS | Audric Estime | +0.8 | +0.0 | 73,788 |
+| Mike Gesicki | TE | CIN | Omar Cooper Jr. | +0.5 | +0.5 | 53,788 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **94.8** – 114.6 projected · win chance **29%**
+vs **Never Going Go Scottsdale** (4-5): you **94.8** – 113.2 projected · win chance **30%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 128.7 | 99% |
-| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 3 | 127.2 | 94% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 125.3 | 89% |
-| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 1 | 129.3 | 94% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 122.2 | 65% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 124.8 | 59% |
-| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 7 | 120.9 | 44% |
+| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 3 | 128.7 | 99% |
+| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 127.2 | 94% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 125.3 | 89% |
+| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 2 | 129.3 | 91% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 122.2 | 63% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 130.2 | 70% |
+| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 7 | 119.1 | 39% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 118.4 | 40% |
-| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 118.4 | 16% |
+| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 118.4 | 14% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 101.8 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
-- **Possible** · Give Omar Cooper Jr., get Jonah Coleman from Glizzy Globbler : +4.1 pts/week for you, -0.3 for them.
-- **Possible** · Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +4.0 pts/week for you, -0.3 for them.
+- **Likely** · Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +4.0 pts/week for you, +0.5 for them.
+- **Possible** · Give Omar Cooper Jr., get Jonah Coleman from Glizzy Globbler : +4.1 pts/week for you, +0.5 for them.
 - **Likely** · Give Omar Cooper Jr., get Rhamondre Stevenson from Atticus Dean: +2.3 pts/week for you, +0.4 for them.
 - **Possible** · Give Omar Cooper Jr., get Breece Hall from Atticus Dean: +3.7 pts/week for you, -0.5 for them.
 - **Likely** · Give Mike Evans, get Ollie Gordon II from Bradsbaconisundercooked: +1.9 pts/week for you, +0.7 for them.
