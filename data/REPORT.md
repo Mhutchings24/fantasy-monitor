@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-12T20:45:10Z UTC
+Week 10 · record 3-6 · updated 2026-11-12T20:55:18Z UTC
 
 ## Lineup check
 Current lineup projects **93.5**, best possible **104.4**.
@@ -20,13 +20,13 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Zonovan Knight (Questionable) | RB | ARI | Audric Estime | +6.7 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +5.7 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +4.5 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 184,950 |
+| Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 186,984 |
 | Samaje Perine | RB | CIN | Audric Estime | +4.1 | +0.0 | 0 |
-| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.9 | +1.7 | 101,348 |
+| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.9 | +1.7 | 102,036 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.5 | +0.0 | 0 |
-| Brenton Strange | TE | JAX | Omar Cooper Jr. | +1.0 | +1.0 | 75,393 |
-| Austin Ekeler | RB | WAS | Audric Estime | +0.8 | +0.0 | 70,792 |
+| Brenton Strange | TE | JAX | Omar Cooper Jr. | +1.0 | +1.0 | 76,014 |
+| Austin Ekeler | RB | WAS | Audric Estime | +0.8 | +0.0 | 71,484 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
 
