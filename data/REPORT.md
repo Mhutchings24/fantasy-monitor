@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-12T10:22:17Z UTC
+Week 10 · record 3-6 · updated 2026-11-12T10:43:04Z UTC
 
 ## Lineup check
 Current lineup projects **94.6**, best possible **105.6**.
@@ -19,19 +19,19 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Zonovan Knight (Questionable) | RB | ARI | Audric Estime | +9.2 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +7.6 | +0.0 | 0 |
 | Alvin Kamara (Questionable) | RB | NO | Audric Estime | +6.9 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 240,309 |
+| Justice Hill | RB | BAL | Audric Estime | +6.8 | +0.0 | 234,999 |
 | Devin Singletary | RB | NYG | Audric Estime | +6.8 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +6.7 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +6.5 | +0.0 | 0 |
-| Austin Ekeler | RB | WAS | Audric Estime | +2.9 | +0.0 | 84,528 |
+| Austin Ekeler | RB | WAS | Audric Estime | +2.9 | +0.0 | 83,100 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.8 | +1.8 | 173,276 |
+| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +1.8 | +1.8 | 168,508 |
 
 **K stream this week:** add Dominic Zvada for Matt Gay (+0.5 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **94.6** – 115.8 projected · win chance **27%**
+vs **Never Going Go Scottsdale** (4-5): you **94.6** – 115.7 projected · win chance **28%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -39,14 +39,14 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 130.1 | 100% |
-| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 130.2 | 96% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 126.5 | 90% |
+| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 1 | 130.3 | 96% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 126.4 | 90% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 127.5 | 92% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 7 | 122.0 | 64% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 5 | 124.5 | 58% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 6 | 122.3 | 47% |
-| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 118.7 | 39% |
-| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 117.5 | 14% |
+| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 118.7 | 40% |
+| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 117.4 | 14% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 106.6 | 1% |
 
 ## Trade ideas
