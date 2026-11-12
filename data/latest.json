@@ -1,5 +1,5 @@
 {
- "content_hash": "b9c9677e1b6696229198e67d2db38602b0a0611c",
+ "content_hash": "9d3ae63a5b0cafc0bb6d10e6c61d9c1a588d2d8b",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -73,8 +73,8 @@
    "adds_24h": 94596,
    "name": "Kyle McCord",
    "pos": "QB",
-   "proj_4wk": 48.9,
-   "proj_this_week": 12.49,
+   "proj_4wk": 48.7,
+   "proj_this_week": 12.34,
    "status": null,
    "team": "MIA"
   },
@@ -173,7 +173,7 @@
    "name": "Malik Washington",
    "pos": "WR",
    "proj_4wk": 38.1,
-   "proj_this_week": 9.66,
+   "proj_this_week": 9.61,
    "status": null,
    "team": "MIA"
   },
@@ -209,7 +209,7 @@
    "name": "Daniel Jones",
    "pos": "QB",
    "proj_4wk": 37.0,
-   "proj_this_week": 13.18,
+   "proj_this_week": 13.13,
    "status": null,
    "team": "IND"
   },
@@ -415,8 +415,8 @@
    "adds_24h": 0,
    "name": "Greg Dulcich",
    "pos": "TE",
-   "proj_4wk": 28.4,
-   "proj_this_week": 7.11,
+   "proj_4wk": 28.2,
+   "proj_this_week": 7.01,
    "status": null,
    "team": "MIA"
   },
@@ -524,7 +524,7 @@
    "name": "Zane Gonzalez",
    "pos": "K",
    "proj_4wk": 26.0,
-   "proj_this_week": 6.65,
+   "proj_this_week": 6.62,
    "status": null,
    "team": "MIA"
   },
@@ -638,21 +638,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "DET D/ST",
-   "pos": "DEF",
-   "proj_4wk": 23.8,
-   "proj_this_week": 5.74,
-   "status": null,
-   "team": "DET"
-  },
-  {
-   "adds_24h": 0,
    "name": "Mark Andrews",
    "pos": "TE",
    "proj_4wk": 23.8,
    "proj_this_week": 8.16,
    "status": null,
    "team": "BAL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "DET D/ST",
+   "pos": "DEF",
+   "proj_4wk": 23.8,
+   "proj_this_week": 5.74,
+   "status": null,
+   "team": "DET"
   },
   {
    "adds_24h": 0,
@@ -740,7 +740,7 @@
    "name": "Ashton Dulin",
    "pos": "WR",
    "proj_4wk": 19.4,
-   "proj_this_week": 6.89,
+   "proj_this_week": 6.88,
    "status": null,
    "team": "IND"
   },
@@ -749,7 +749,7 @@
    "name": "IND D/ST",
    "pos": "DEF",
    "proj_4wk": 19.6,
-   "proj_this_week": 8.04,
+   "proj_this_week": 8.01,
    "status": null,
    "team": "IND"
   },
@@ -821,7 +821,7 @@
    "name": "Anthony Gould",
    "pos": "WR",
    "proj_4wk": 12.4,
-   "proj_this_week": 4.39,
+   "proj_this_week": 4.38,
    "status": null,
    "team": "IND"
   },
@@ -830,7 +830,7 @@
    "name": "Deion Burks",
    "pos": "WR",
    "proj_4wk": 20.2,
-   "proj_this_week": 7.25,
+   "proj_this_week": 7.24,
    "status": null,
    "team": "IND"
   },
@@ -839,12 +839,12 @@
    "name": "Laquon Treadwell",
    "pos": "WR",
    "proj_4wk": 14.8,
-   "proj_this_week": 5.31,
+   "proj_this_week": 5.29,
    "status": null,
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-12T19:55:47Z",
+ "generated_at": "2026-11-12T20:00:52Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1110,7 +1110,7 @@
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.886,
+    "playoff_odds": 0.887,
     "power_rank": 5,
     "proj_avg": 124.9,
     "proj_by_week": {
@@ -1135,7 +1135,7 @@
     "power_rank": 1,
     "proj_avg": 129.3,
     "proj_by_week": {
-     "10": 132.76,
+     "10": 132.71,
      "11": 132.9,
      "12": 137.55,
      "13": 114.02
@@ -1147,16 +1147,16 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.022,
+    "first_seed_odds": 0.021,
     "losses": 4,
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.647,
+    "playoff_odds": 0.646,
     "power_rank": 6,
     "proj_avg": 122.2,
     "proj_by_week": {
-     "10": 129.56,
+     "10": 129.42,
      "11": 117.43,
      "12": 130.69,
      "13": 111.23
@@ -1173,7 +1173,7 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.589,
+    "playoff_odds": 0.59,
     "power_rank": 4,
     "proj_avg": 125.3,
     "proj_by_week": {
@@ -1215,11 +1215,11 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.404,
+    "playoff_odds": 0.403,
     "power_rank": 8,
     "proj_avg": 118.6,
     "proj_by_week": {
-     "10": 124.98,
+     "10": 124.88,
      "11": 102.59,
      "12": 122.79,
      "13": 124.19
