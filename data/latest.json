@@ -1,5 +1,5 @@
 {
- "content_hash": "6767d11e5e738906b5c3b15411a621503401b164",
+ "content_hash": "5beb53626df1ca2465cd6fc75d1211b608969811",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -127,8 +127,8 @@
    "adds_24h": 155484,
    "name": "Khalil Shakir",
    "pos": "WR",
-   "proj_4wk": 42.1,
-   "proj_this_week": 10.16,
+   "proj_4wk": 41.7,
+   "proj_this_week": 9.76,
    "status": null,
    "team": "BUF"
   },
@@ -217,8 +217,8 @@
    "adds_24h": 141462,
    "name": "Jordan Addison",
    "pos": "WR",
-   "proj_4wk": 33.8,
-   "proj_this_week": 8.74,
+   "proj_4wk": 34.1,
+   "proj_this_week": 9.05,
    "status": null,
    "team": "MIN"
   },
@@ -862,7 +862,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-12T14:04:19Z",
+ "generated_at": "2026-11-12T14:09:24Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -910,7 +910,7 @@
    {
     "name": "DJ Moore",
     "pid": "4983",
-    "proj": 13.19,
+    "proj": 12.73,
     "slot": "WR"
    },
    {
@@ -944,8 +944,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 105.59,
-  "current_projected": 94.46,
+  "best_projected": 105.13,
+  "current_projected": 94.0,
   "gain": 11.13,
   "problems": [],
   "source": "matchup week 10",
@@ -1060,12 +1060,12 @@
    "week": 9
   },
   "matchup": {
-   "my_proj": 94.5,
+   "my_proj": 94.0,
    "opp_best_possible": 115.88,
    "opp_proj": 115.9,
    "opponent": "Never Going Go Scottsdale",
    "opponent_record": "4-5",
-   "win_prob": 0.272
+   "win_prob": 0.268
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1081,16 +1081,16 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.539,
+    "first_seed_odds": 0.548,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
     "pf": 1250.86,
     "playoff_odds": 0.996,
-    "power_rank": 2,
-    "proj_avg": 130.2,
+    "power_rank": 1,
+    "proj_avg": 130.5,
     "proj_by_week": {
-     "10": 131.85,
+     "10": 132.83,
      "11": 127.75,
      "12": 136.12,
      "13": 125.16
@@ -1102,16 +1102,16 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.232,
+    "first_seed_odds": 0.226,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
     "pf": 1091.54,
-    "playoff_odds": 0.956,
-    "power_rank": 1,
-    "proj_avg": 130.3,
+    "playoff_odds": 0.955,
+    "power_rank": 2,
+    "proj_avg": 129.9,
     "proj_by_week": {
-     "10": 127.31,
+     "10": 126.08,
      "11": 127.67,
      "12": 132.83,
      "13": 133.22
@@ -1123,7 +1123,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.114,
+    "first_seed_odds": 0.115,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
@@ -1132,7 +1132,7 @@
     "power_rank": 4,
     "proj_avg": 126.8,
     "proj_by_week": {
-     "10": 133.3,
+     "10": 133.26,
      "11": 114.81,
      "12": 139.4,
      "13": 119.55
@@ -1144,12 +1144,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.087,
+    "first_seed_odds": 0.084,
     "losses": 4,
     "mine": false,
     "pa": 1118.82,
     "pf": 1169.52,
-    "playoff_odds": 0.916,
+    "playoff_odds": 0.915,
     "power_rank": 3,
     "proj_avg": 127.6,
     "proj_by_week": {
@@ -1170,11 +1170,11 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.634,
+    "playoff_odds": 0.631,
     "power_rank": 7,
-    "proj_avg": 122.1,
+    "proj_avg": 122.0,
     "proj_by_week": {
-     "10": 130.79,
+     "10": 130.68,
      "11": 119.07,
      "12": 128.75,
      "13": 109.65
@@ -1191,11 +1191,11 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.587,
+    "playoff_odds": 0.589,
     "power_rank": 5,
     "proj_avg": 124.9,
     "proj_by_week": {
-     "10": 121.56,
+     "10": 121.68,
      "11": 109.29,
      "12": 134.55,
      "13": 134.0
@@ -1212,7 +1212,7 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.466,
+    "playoff_odds": 0.467,
     "power_rank": 6,
     "proj_avg": 122.4,
     "proj_by_week": {
@@ -1233,7 +1233,7 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.392,
+    "playoff_odds": 0.389,
     "power_rank": 8,
     "proj_avg": 118.6,
     "proj_by_week": {
@@ -1254,11 +1254,11 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.137,
+    "playoff_odds": 0.14,
     "power_rank": 9,
-    "proj_avg": 117.4,
+    "proj_avg": 117.6,
     "proj_by_week": {
-     "10": 117.18,
+     "10": 118.08,
      "11": 104.66,
      "12": 130.22,
      "13": 117.55
@@ -1277,9 +1277,9 @@
     "pf": 978.8,
     "playoff_odds": 0.012,
     "power_rank": 10,
-    "proj_avg": 106.6,
+    "proj_avg": 106.5,
     "proj_by_week": {
-     "10": 105.59,
+     "10": 105.13,
      "11": 96.14,
      "12": 116.72,
      "13": 108.07
@@ -1390,7 +1390,7 @@
    "pid": "4983",
    "pos": "WR",
    "proj_by_week": {
-    "10": 13.19,
+    "10": 12.73,
     "11": 16.51,
     "12": 13.9,
     "13": 14.89
@@ -1769,9 +1769,9 @@
    "likelihood": "Possible",
    "partner": "Monangynecologist",
    "partner_roster_id": 5,
-   "summary": "Give DJ Moore, get Jaylen Warren from Monangynecologist: +3.1 pts/week for you, -0.3 for them.",
-   "their_gain_per_week": -0.3,
-   "value_ratio": 1.01,
+   "summary": "Give DJ Moore, get Jaylen Warren from Monangynecologist: +3.1 pts/week for you, -0.4 for them.",
+   "their_gain_per_week": -0.4,
+   "value_ratio": 1.02,
    "why_them": [
     "DJ Moore would start 8 of 8 weeks for them"
    ],
