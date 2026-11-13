@@ -1,5 +1,5 @@
 {
- "content_hash": "45789f8fae70a47a0abfc4c99375bc7b968bc894",
+ "content_hash": "edc1e7ee91f3322be6374b27e5d8bed337d40111",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -467,21 +467,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Hunter Henry",
-   "pos": "TE",
-   "proj_4wk": 27.2,
-   "proj_this_week": 8.57,
-   "status": "Questionable",
-   "team": "NE"
-  },
-  {
-   "adds_24h": 0,
    "name": "Samaje Perine",
    "pos": "RB",
    "proj_4wk": 27.1,
    "proj_this_week": 6.08,
    "status": null,
    "team": "CIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Hunter Henry",
+   "pos": "TE",
+   "proj_4wk": 27.1,
+   "proj_this_week": 8.48,
+   "status": "Questionable",
+   "team": "NE"
   },
   {
    "adds_24h": 0,
@@ -667,8 +667,8 @@
    "adds_24h": 0,
    "name": "DET D/ST",
    "pos": "DEF",
-   "proj_4wk": 23.8,
-   "proj_this_week": 5.71,
+   "proj_4wk": 23.7,
+   "proj_this_week": 5.64,
    "status": null,
    "team": "DET"
   },
@@ -775,8 +775,8 @@
    "adds_24h": 108459,
    "name": "Mack Hollins",
    "pos": "WR",
-   "proj_4wk": 18.5,
-   "proj_this_week": 8.19,
+   "proj_4wk": 18.4,
+   "proj_this_week": 8.08,
    "status": null,
    "team": "NE"
   },
@@ -817,7 +817,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-13T01:57:08Z",
+ "generated_at": "2026-11-13T02:02:13Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -847,13 +847,13 @@
    {
     "name": "Jared Goff",
     "pid": "3163",
-    "proj": 18.74,
+    "proj": 18.39,
     "slot": "QB"
    },
    {
     "name": "Corey Kiner",
     "pid": "12491",
-    "proj": 11.77,
+    "proj": 11.79,
     "slot": "RB"
    },
    {
@@ -899,9 +899,9 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 104.76,
-  "current_projected": 99.37,
-  "gain": 5.39,
+  "best_projected": 104.43,
+  "current_projected": 99.02,
+  "gain": 5.41,
   "problems": [],
   "source": "matchup week 10",
   "swaps": [
@@ -1010,12 +1010,12 @@
    "week": 9
   },
   "matchup": {
-   "my_proj": 99.4,
+   "my_proj": 99.0,
    "opp_best_possible": 113.52,
-   "opp_proj": 112.2,
+   "opp_proj": 112.1,
    "opponent": "Never Going Go Scottsdale",
    "opponent_record": "4-5",
-   "win_prob": 0.359
+   "win_prob": 0.355
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1031,16 +1031,16 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.59,
+    "first_seed_odds": 0.589,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
     "pf": 1250.86,
     "playoff_odds": 0.995,
     "power_rank": 2,
-    "proj_avg": 129.9,
+    "proj_avg": 129.8,
     "proj_by_week": {
-     "10": 132.96,
+     "10": 132.88,
      "11": 125.44,
      "12": 136.34,
      "13": 124.74
@@ -1057,7 +1057,7 @@
     "mine": false,
     "pa": 1053.34,
     "pf": 1091.54,
-    "playoff_odds": 0.917,
+    "playoff_odds": 0.918,
     "power_rank": 4,
     "proj_avg": 124.2,
     "proj_by_week": {
@@ -1073,7 +1073,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.113,
+    "first_seed_odds": 0.114,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
@@ -1099,11 +1099,11 @@
     "mine": false,
     "pa": 1118.82,
     "pf": 1169.52,
-    "playoff_odds": 0.912,
+    "playoff_odds": 0.911,
     "power_rank": 3,
-    "proj_avg": 129.2,
+    "proj_avg": 129.1,
     "proj_by_week": {
-     "10": 132.07,
+     "10": 131.83,
      "11": 133.18,
      "12": 137.55,
      "13": 114.02
@@ -1141,11 +1141,11 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.705,
+    "playoff_odds": 0.703,
     "power_rank": 1,
-    "proj_avg": 130.1,
+    "proj_avg": 129.9,
     "proj_by_week": {
-     "10": 120.25,
+     "10": 119.73,
      "11": 122.95,
      "12": 141.22,
      "13": 135.8
@@ -1162,7 +1162,7 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.4,
+    "playoff_odds": 0.401,
     "power_rank": 8,
     "proj_avg": 118.9,
     "proj_by_week": {
@@ -1183,7 +1183,7 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.405,
+    "playoff_odds": 0.407,
     "power_rank": 7,
     "proj_avg": 118.9,
     "proj_by_week": {
@@ -1204,11 +1204,11 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.144,
+    "playoff_odds": 0.143,
     "power_rank": 9,
-    "proj_avg": 118.2,
+    "proj_avg": 118.1,
     "proj_by_week": {
-     "10": 116.77,
+     "10": 116.17,
      "11": 104.61,
      "12": 131.25,
      "13": 120.22
@@ -1227,9 +1227,9 @@
     "pf": 978.8,
     "playoff_odds": 0.004,
     "power_rank": 10,
-    "proj_avg": 101.5,
+    "proj_avg": 101.4,
     "proj_by_week": {
-     "10": 104.76,
+     "10": 104.43,
      "11": 89.05,
      "12": 109.84,
      "13": 102.29
@@ -1280,7 +1280,7 @@
    "pid": "3163",
    "pos": "QB",
    "proj_by_week": {
-    "10": 18.74,
+    "10": 18.39,
     "11": 17.18,
     "12": 21.18,
     "13": 18.34
@@ -1385,7 +1385,7 @@
    "pid": "12491",
    "pos": "RB",
    "proj_by_week": {
-    "10": 11.77,
+    "10": 11.79,
     "11": 0.0,
     "12": 5.1,
     "13": 4.66
