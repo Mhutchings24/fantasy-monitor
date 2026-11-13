@@ -1,5 +1,5 @@
 {
- "content_hash": "cc7897d404e24a62b373e46cf1ae6d07f76f6ef3",
+ "content_hash": "f82705da2d2b2af41a2fa952cf7e36d72f291a56",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -449,21 +449,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Darnell Washington",
-   "pos": "TE",
-   "proj_4wk": 27.6,
-   "proj_this_week": 7.62,
-   "status": null,
-   "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
    "name": "Chad Ryland",
    "pos": "K",
    "proj_4wk": 27.6,
    "proj_this_week": 7.11,
    "status": null,
    "team": "ARI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "proj_4wk": 27.6,
+   "proj_this_week": 7.62,
+   "status": null,
+   "team": "PIT"
   },
   {
    "adds_24h": 0,
@@ -719,12 +719,12 @@
   },
   {
    "adds_24h": 0,
-   "name": "Wil Lutz",
-   "pos": "K",
+   "name": "DAL D/ST",
+   "pos": "DEF",
    "proj_4wk": 22.6,
-   "proj_this_week": 0.0,
+   "proj_this_week": 4.15,
    "status": null,
-   "team": "DEN"
+   "team": "DAL"
   },
   {
    "adds_24h": 384755,
@@ -817,7 +817,7 @@
    "team": "GB"
   }
  ],
- "generated_at": "2026-11-13T09:53:38Z",
+ "generated_at": "2026-11-13T09:58:43Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
