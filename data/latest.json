@@ -1,5 +1,5 @@
 {
- "content_hash": "4c1beea704a96433b449b16248ff88c59edd2351",
+ "content_hash": "badd6b66c6deae2b2fc2d5223a3fb5ff3c07c9fb",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -181,8 +181,8 @@
    "adds_24h": 0,
    "name": "Aaron Jones Sr.",
    "pos": "RB",
-   "proj_4wk": 38.0,
-   "proj_this_week": 9.03,
+   "proj_4wk": 38.3,
+   "proj_this_week": 9.27,
    "status": null,
    "team": "MIN"
   },
@@ -271,8 +271,8 @@
    "adds_24h": 0,
    "name": "Dalton Schultz",
    "pos": "TE",
-   "proj_4wk": 32.6,
-   "proj_this_week": 7.74,
+   "proj_4wk": 32.5,
+   "proj_this_week": 7.68,
    "status": null,
    "team": "HOU"
   },
@@ -808,7 +808,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-13T22:52:11Z",
+ "generated_at": "2026-11-13T22:57:16Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1002,11 +1002,11 @@
   },
   "matchup": {
    "my_proj": 99.0,
-   "opp_best_possible": 113.73,
-   "opp_proj": 113.7,
+   "opp_best_possible": 113.79,
+   "opp_proj": 113.8,
    "opponent": "Never Going Go Scottsdale",
    "opponent_record": "4-5",
-   "win_prob": 0.339
+   "win_prob": 0.338
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1043,7 +1043,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.174,
+    "first_seed_odds": 0.175,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
@@ -1064,7 +1064,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.104,
+    "first_seed_odds": 0.103,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
@@ -1073,7 +1073,7 @@
     "power_rank": 5,
     "proj_avg": 123.4,
     "proj_by_week": {
-     "10": 124.63,
+     "10": 124.58,
      "11": 114.52,
      "12": 136.35,
      "13": 117.99
@@ -1111,11 +1111,11 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.65,
+    "playoff_odds": 0.652,
     "power_rank": 6,
-    "proj_avg": 121.8,
+    "proj_avg": 121.9,
     "proj_by_week": {
-     "10": 128.46,
+     "10": 129.0,
      "11": 117.03,
      "12": 130.38,
      "13": 111.23
@@ -1132,11 +1132,11 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.699,
+    "playoff_odds": 0.697,
     "power_rank": 1,
     "proj_avg": 130.3,
     "proj_by_week": {
-     "10": 120.86,
+     "10": 120.8,
      "11": 123.34,
      "12": 141.22,
      "13": 135.8
@@ -1153,11 +1153,11 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.408,
+    "playoff_odds": 0.407,
     "power_rank": 7,
     "proj_avg": 119.0,
     "proj_by_week": {
-     "10": 113.73,
+     "10": 113.79,
      "11": 119.98,
      "12": 122.92,
      "13": 119.46
@@ -1714,7 +1714,7 @@
    "partner_roster_id": 8,
    "summary": "Give Omar Cooper Jr., get Jordan Mason from I’m stuck Step Burrow: +3.0 pts/week for you, +0.0 for them.",
    "their_gain_per_week": 0.0,
-   "value_ratio": 1.26,
+   "value_ratio": 1.25,
    "why_them": [
     "Omar Cooper Jr. would start 0 of 8 weeks for them",
     "Jordan Mason only starts 0 of 8 weeks on their roster"
@@ -1809,7 +1809,7 @@
    "pid": "4199",
    "pos": "RB",
    "proj_by_week": {
-    "10": 9.03,
+    "10": 9.27,
     "11": 8.44,
     "12": 9.95,
     "13": 10.61
