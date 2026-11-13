@@ -1,21 +1,20 @@
-# Flash: Cooper re-tagged Questionable, but he's on your bench anyway
-_Conorrhea · No Fun League · Week 10 · 3:10 PM MT Fri Nov 13 (fresh monitor run 22:01 UTC)_
+# Flash: Mike Evans ruled out for Week 10, but he's on your bench
+_Conorrhea · No Fun League · Week 10 · 4:06 PM MT Fri Nov 13 (fresh monitor run, data 23:02 UTC)_
 
 ## What changed
-- **Omar Cooper Jr. (WR, NYJ) is back to Questionable.** The Jets' official Friday injury report lists him Questionable (ankle) even though he practiced fully Friday after limited sessions Wednesday and Thursday. Sleeper had briefly cleared him earlier today. Now the tag matches the final team report.
-- **Read: he's likely to play.** Rotoworld calls him "likely on the right side of questionable." RotoWire says the full Friday practice "suggests" he'll be available but still needs confirmation. Kickoff vs. BUF is **Sun 11:00 AM MT**.
-- **The Jets' WR room is murky.** Garrett Wilson (concussion) and Adonai Mitchell (knee) are also Questionable, though both practiced fully Friday. If Wilson plays, Cooper is the WR2.
-- **Your lineup:** Cooper is on the bench (8.6 proj). The two swaps still aren't made: Tyson and Estime are starting, with Kiner and Dowdle on the bench.
+- **Mike Evans (WR, SF) went from Questionable to Out for Sunday at Dallas.** ESPN's Nick Wagoner reports he's been ruled out with right Achilles tendinitis. He didn't practice Wednesday or Thursday. This will be his third straight missed game.
+- **Return outlook (estimate): about 60% he plays Week 11.** Shanahan said Thursday that Evans is "real close" and would "probably be playing" if this were a playoff game, which makes this sound like caution, not a setback. Garafolo warned on Nov 8 that it could linger. Sleeper projects him for 13.8 in Week 11, his best rest-of-season number on your WR list.
+- **Your lineup:** Evans is on the bench with 0.0 projected, so nothing changes. With Evans out, Kittle (TE, starting) and Keenan Allen (bench) should see a few more targets, but not enough to start Allen (5.8).
+- **The two swaps still aren't made:** Tyson and Estime are starting, with Kiner and Dowdle on the bench.
 
 ## What to do
-1. **Keep Cooper benched.** The tag doesn't change anything for you.
+1. **Keep Evans on the bench and don't drop him.** He's the likeliest of your WRs to help in Weeks 11–13. If you need a roster spot for a waiver add, drop Estime or Allen first. Confidence: High.
 2. **Start Corey Kiner (11.8) at RB over Jordyn Tyson (8.1)** before **Sun 7:30 AM MT** (NE in Munich).
 3. **Start Rico Dowdle (10.0) at FLEX over Audric Estime (8.2)** before **Sun 11:00 AM MT**.
-4. **Fallback only:** if you skip Kiner, Cooper (8.6) is still a hair better than Tyson (8.1), but only if he's active. Check inactives at ~9:30 AM MT Sunday before using him.
+4. Cooper (Q, ankle) stays benched. No change from the 22:10 flash.
 
 ## Sources
-- [Jets.com: Friday injury report vs. Bills (Nov 13)](https://www.newyorkjets.com/news/jets-injury-report-week-10-vs-bills-friday-11-13-2026)
-- [NBC Sports: Omar Cooper (ankle) questionable for Week 10](https://www.nbcsports.com/fantasy/football/player-news/2026-11-13/omar-cooper-ankle-questionable-for-week-10)
-- [CBS Sports/RotoWire: Jets' Omar Cooper deemed questionable for Sunday](https://www.cbssports.com/fantasy/football/news/jets-omar-cooper-deemed-questionable-for-sunday/)
-- [JetNation: Wilson injury watch before Bills (Nov 13)](https://www.jetnation.com/2026/11/13/jets-news-wilson-injury-watch-before-bills-nov-13/)
-- Monitor data: `data/latest.json` (run 22:01 UTC Nov 13): lineup, swaps, projections.
+- [The Fantasy Footballers: Mike Evans not trending toward Week 10 return (Nov 10)](https://www.thefantasyfootballers.com/news/646982/mike-evans-not-trending-toward-week-10-return/)
+- [The Fantasy Footballers: Mike Evans sits out Wednesday's practice (Nov 11; sidebar has the ESPN ruled-out note and Shanahan's quote)](https://www.thefantasyfootballers.com/news/647162/mike-evans-sits-out-wednesdays-practice/)
+- [Yardbarker/Athlon: 49ers facing WR trade decision after Mike Evans update (Nov 8)](https://www.yardbarker.com/nfl/articles/49ers_facing_wr_trade_decision_after_mike_evans_update/s1_17615_44533283)
+- Monitor data: `data/latest.json` (23:02 UTC Nov 13): lineup, swaps, projections.
