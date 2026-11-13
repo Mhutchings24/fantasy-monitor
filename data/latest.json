@@ -1,5 +1,5 @@
 {
- "content_hash": "7dea5957f809597061ef1fa28c09e176165f80fd",
+ "content_hash": "0a4e2c095e51a1a791b03ccae1fe43145f5373d5",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -127,7 +127,7 @@
    "adds_24h": 162243,
    "name": "Khalil Shakir",
    "pos": "WR",
-   "proj_4wk": 40.4,
+   "proj_4wk": 40.3,
    "proj_this_week": 10.18,
    "status": null,
    "team": "BUF"
@@ -592,6 +592,15 @@
    "team": "TEN"
   },
   {
+   "adds_24h": 0,
+   "name": "Ty Johnson",
+   "pos": "RB",
+   "proj_4wk": 24.8,
+   "proj_this_week": 5.64,
+   "status": null,
+   "team": "BUF"
+  },
+  {
    "adds_24h": 70714,
    "name": "WAS D/ST",
    "pos": "DEF",
@@ -718,15 +727,6 @@
    "team": "CLE"
   },
   {
-   "adds_24h": 0,
-   "name": "Wil Lutz",
-   "pos": "K",
-   "proj_4wk": 22.6,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "DEN"
-  },
-  {
    "adds_24h": 349160,
    "name": "Tutu Atwell",
    "pos": "WR",
@@ -817,7 +817,7 @@
    "team": "SF"
   }
  ],
- "generated_at": "2026-11-13T15:49:44Z",
+ "generated_at": "2026-11-13T15:54:48Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1031,17 +1031,17 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.59,
+    "first_seed_odds": 0.589,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
     "pf": 1250.86,
     "playoff_odds": 0.995,
     "power_rank": 2,
-    "proj_avg": 129.9,
+    "proj_avg": 129.8,
     "proj_by_week": {
      "10": 133.09,
-     "11": 125.28,
+     "11": 125.04,
      "12": 136.34,
      "13": 124.74
     },
@@ -1052,17 +1052,17 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.162,
+    "first_seed_odds": 0.163,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
     "pf": 1091.54,
-    "playoff_odds": 0.919,
-    "power_rank": 4,
-    "proj_avg": 124.2,
+    "playoff_odds": 0.918,
+    "power_rank": 5,
+    "proj_avg": 124.1,
     "proj_by_week": {
      "10": 121.52,
-     "11": 120.69,
+     "11": 120.4,
      "12": 126.63,
      "13": 127.9
     },
@@ -1073,13 +1073,13 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.114,
+    "first_seed_odds": 0.115,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
     "playoff_odds": 0.879,
-    "power_rank": 5,
+    "power_rank": 4,
     "proj_avg": 124.2,
     "proj_by_week": {
      "10": 129.46,
@@ -1094,7 +1094,7 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.098,
+    "first_seed_odds": 0.099,
     "losses": 4,
     "mine": false,
     "pa": 1118.82,
@@ -1209,7 +1209,7 @@
     "proj_avg": 118.2,
     "proj_by_week": {
      "10": 116.14,
-     "11": 105.36,
+     "11": 105.31,
      "12": 131.25,
      "13": 120.22
     },
@@ -1230,7 +1230,7 @@
     "proj_avg": 101.5,
     "proj_by_week": {
      "10": 104.42,
-     "11": 89.56,
+     "11": 89.43,
      "12": 109.84,
      "13": 102.29
     },
@@ -1341,7 +1341,7 @@
    "pos": "WR",
    "proj_by_week": {
     "10": 12.23,
-    "11": 13.96,
+    "11": 13.83,
     "12": 12.2,
     "13": 13.11
    },
@@ -1963,6 +1963,25 @@
    "trending_adds_24h": 0
   },
   {
+   "drop": "11579",
+   "drop_name": "Audric Estime",
+   "gain_this_week": 0.0,
+   "gain_window": 4.06,
+   "name": "Ty Johnson",
+   "pid": "6039",
+   "pos": "RB",
+   "proj_by_week": {
+    "10": 5.64,
+    "11": 6.75,
+    "12": 5.91,
+    "13": 6.46
+   },
+   "status": null,
+   "stream": false,
+   "team": "BUF",
+   "trending_adds_24h": 0
+  },
+  {
    "drop": "13276",
    "drop_name": "Omar Cooper Jr.",
    "gain_this_week": 0.0,
@@ -2018,25 +2037,6 @@
    "stream": false,
    "team": "WAS",
    "trending_adds_24h": 84348
-  },
-  {
-   "drop": "13276",
-   "drop_name": "Omar Cooper Jr.",
-   "gain_this_week": 0.31,
-   "gain_window": 0.31,
-   "name": "Khalil Shakir",
-   "pid": "8134",
-   "pos": "WR",
-   "proj_by_week": {
-    "10": 10.18,
-    "11": 10.72,
-    "12": 9.41,
-    "13": 10.06
-   },
-   "status": null,
-   "stream": false,
-   "team": "BUF",
-   "trending_adds_24h": 162243
   }
  ],
  "week": 10,
