@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-13T00:25:25Z UTC
+Week 10 · record 3-6 · updated 2026-11-13T00:30:30Z UTC
 
 ## Lineup check
-Current lineup projects **99.5**, best possible **104.8**.
+Current lineup projects **99.4**, best possible **104.8**.
 
 - 🔁 Start Corey Kiner (RB, NE) (11.8) over Jordyn Tyson (WR, NO) (8.1)
 - 🔁 Start Rico Dowdle (RB, PIT) (9.9) over Audric Estime (RB, NO) (8.2)
@@ -30,7 +30,7 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **99.5** – 112.2 projected · win chance **36%**
+vs **Never Going Go Scottsdale** (4-5): you **99.4** – 112.2 projected · win chance **36%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -44,7 +44,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.9 | 64% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 130.1 | 70% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 8 | 118.9 | 40% |
-| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 118.9 | 41% |
+| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 118.9 | 40% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 118.2 | 14% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 101.5 | 0% |
 
@@ -58,7 +58,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Likely** · Give Mike Evans, get Ollie Gordon II from Bradsbaconisundercooked: +1.9 pts/week for you, +0.7 for them.
 - **Likely** · Give Mike Evans + Rico Dowdle, get Chase Brown from Bradsbaconisundercooked: +1.8 pts/week for you, +0.4 for them.
 - **Possible** · Give Omar Cooper Jr., get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.3 pts/week for you, -0.5 for them.
-- **Possible** · Give Jordyn Tyson, get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.2 pts/week for you, -0.5 for them.
+- **Possible** · Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +3.2 pts/week for you, -0.3 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 10 | Wk 11 | Wk 12 | Wk 13 |
@@ -70,7 +70,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Audric Estime | RB | NO | starter |  | 8.2 | 2.7 | 3.0 | 2.8 |
 | George Kittle | TE | SF | starter |  | 15.3 | 12.8 | 14.2 | 15.1 |
 | DJ Moore | WR | BUF | starter |  | 12.3 | 13.6 | 12.2 | 13.1 |
-| Stefon Diggs | WR | WAS | starter |  | 10.3 | 13.1 | 13.3 | 13.1 |
+| Stefon Diggs | WR | WAS | starter |  | 10.2 | 13.1 | 13.3 | 13.1 |
 | Jordyn Tyson | WR | NO | starter |  | 8.1 | 10.7 | 11.2 | 10.5 |
 | Corey Kiner | RB | NE | bench |  | 11.8 | 0.0 | 5.1 | 4.7 |
 | Rico Dowdle | RB | PIT | bench |  | 9.9 | 8.4 | 7.8 | 8.2 |
