@@ -1,5 +1,5 @@
 {
- "content_hash": "ccf61f007b619ec0b7b8161ff0290436d896fdb3",
+ "content_hash": "4815062a0c0759b1f4b367d5a3fb10f32ce4829d",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -449,21 +449,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Darnell Washington",
-   "pos": "TE",
-   "proj_4wk": 27.6,
-   "proj_this_week": 7.62,
-   "status": null,
-   "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
    "name": "Chad Ryland",
    "pos": "K",
    "proj_4wk": 27.6,
    "proj_this_week": 7.11,
    "status": null,
    "team": "ARI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "proj_4wk": 27.6,
+   "proj_this_week": 7.62,
+   "status": null,
+   "team": "PIT"
   },
   {
    "adds_24h": 0,
@@ -719,12 +719,12 @@
   },
   {
    "adds_24h": 0,
-   "name": "Wil Lutz",
-   "pos": "K",
+   "name": "DAL D/ST",
+   "pos": "DEF",
    "proj_4wk": 22.6,
-   "proj_this_week": 0.0,
+   "proj_this_week": 4.15,
    "status": null,
-   "team": "DEN"
+   "team": "DAL"
   },
   {
    "adds_24h": 369964,
@@ -817,7 +817,7 @@
    "team": "SF"
   }
  ],
- "generated_at": "2026-11-13T14:19:03Z",
+ "generated_at": "2026-11-13T14:24:07Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -883,7 +883,7 @@
    {
     "name": "Quinshon Judkins",
     "pid": "12512",
-    "proj": 9.88,
+    "proj": 9.87,
     "slot": "FLEX"
    },
    {
@@ -899,8 +899,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 104.44,
-  "current_projected": 99.03,
+  "best_projected": 104.43,
+  "current_projected": 99.02,
   "gain": 5.41,
   "problems": [],
   "source": "matchup week 10",
@@ -1229,7 +1229,7 @@
     "power_rank": 10,
     "proj_avg": 101.5,
     "proj_by_week": {
-     "10": 104.44,
+     "10": 104.43,
      "11": 89.54,
      "12": 109.84,
      "13": 102.29
@@ -1295,7 +1295,7 @@
    "pid": "12512",
    "pos": "RB",
    "proj_by_week": {
-    "10": 9.88,
+    "10": 9.87,
     "11": 0.0,
     "12": 11.88,
     "13": 11.84
@@ -2022,8 +2022,8 @@
   {
    "drop": "13276",
    "drop_name": "Omar Cooper Jr.",
-   "gain_this_week": 0.31,
-   "gain_window": 0.31,
+   "gain_this_week": 0.32,
+   "gain_window": 0.32,
    "name": "Khalil Shakir",
    "pid": "8134",
    "pos": "WR",
