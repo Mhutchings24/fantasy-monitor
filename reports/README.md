@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 10
+- [Fri Nov 13 · Flash 17:04](2026/week-10/2026-11-13-flash-1704.md) — Cooper cleared (full Fri) but stays benched (8.6 proj); swaps still not made: Kiner over Tyson before Sun 7:30 AM MT, Dowdle over Estime before 11 AM MT.
 - [Fri Nov 13 · AM](2026/week-10/2026-11-13-am.md) — Diggs went 6-83-1; swaps still not made: start Kiner over Tyson (Stevenson didn't practice Fri) and Dowdle over Estime before Sun 7:30 AM MT; Boswell for Gay ($0).
 - [Thu Nov 12 · PM](2026/week-10/2026-11-12-pm.md) — Diggs is set for tonight; start Kiner over Tyson (Stevenson limited Thu, Tyson is the Sun-morning pivot) and Dowdle over Estime before Sun 7:30 AM MT; Boswell for Gay ($0); skip Rodgers.
 - [Thu Nov 12 · Game day 16:57](2026/week-10/2026-11-12-gameday-1657.md) — Diggs still benched: start him over Cooper before 6:15 PM MT tonight (check he isn't tagged Out first); Kiner over Tyson, Dowdle over Estime before Sun 7:30 AM MT.
