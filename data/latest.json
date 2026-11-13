@@ -1,5 +1,5 @@
 {
- "content_hash": "3c29c62446b72b2d3eb5700dcf7e8b80339eb40d",
+ "content_hash": "293ec356d644a2e21297a70bc66b1b83ec8a3862",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -235,8 +235,8 @@
    "adds_24h": 70880,
    "name": "Ryan Flournoy",
    "pos": "WR",
-   "proj_4wk": 35.4,
-   "proj_this_week": 9.0,
+   "proj_4wk": 35.2,
+   "proj_this_week": 8.83,
    "status": null,
    "team": "DAL"
   },
@@ -817,7 +817,7 @@
    "team": "SF"
   }
  ],
- "generated_at": "2026-11-13T17:52:02Z",
+ "generated_at": "2026-11-13T17:57:07Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1011,11 +1011,11 @@
   },
   "matchup": {
    "my_proj": 99.0,
-   "opp_best_possible": 112.1,
-   "opp_proj": 112.1,
+   "opp_best_possible": 111.79,
+   "opp_proj": 111.8,
    "opponent": "Never Going Go Scottsdale",
    "opponent_record": "4-5",
-   "win_prob": 0.355
+   "win_prob": 0.359
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1031,16 +1031,16 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.586,
+    "first_seed_odds": 0.587,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
     "pf": 1250.86,
     "playoff_odds": 0.995,
     "power_rank": 2,
-    "proj_avg": 129.8,
+    "proj_avg": 129.7,
     "proj_by_week": {
-     "10": 133.09,
+     "10": 132.51,
      "11": 125.04,
      "12": 136.34,
      "13": 124.74
@@ -1078,7 +1078,7 @@
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.885,
+    "playoff_odds": 0.887,
     "power_rank": 4,
     "proj_avg": 124.7,
     "proj_by_week": {
@@ -1094,16 +1094,16 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.099,
+    "first_seed_odds": 0.098,
     "losses": 4,
     "mine": false,
     "pa": 1118.82,
     "pf": 1169.52,
-    "playoff_odds": 0.909,
+    "playoff_odds": 0.908,
     "power_rank": 3,
-    "proj_avg": 129.2,
+    "proj_avg": 129.0,
     "proj_by_week": {
-     "10": 131.77,
+     "10": 131.03,
      "11": 133.46,
      "12": 137.55,
      "13": 114.02
@@ -1115,16 +1115,16 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.019,
+    "first_seed_odds": 0.018,
     "losses": 4,
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.641,
+    "playoff_odds": 0.639,
     "power_rank": 6,
-    "proj_avg": 121.9,
+    "proj_avg": 121.8,
     "proj_by_week": {
-     "10": 128.71,
+     "10": 128.1,
      "11": 117.4,
      "12": 130.38,
      "13": 111.23
@@ -1162,11 +1162,11 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.395,
+    "playoff_odds": 0.393,
     "power_rank": 8,
-    "proj_avg": 118.5,
+    "proj_avg": 118.4,
     "proj_by_week": {
-     "10": 112.1,
+     "10": 111.79,
      "11": 119.42,
      "12": 122.92,
      "13": 119.46
@@ -1183,7 +1183,7 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.409,
+    "playoff_odds": 0.41,
     "power_rank": 7,
     "proj_avg": 118.8,
     "proj_by_week": {
@@ -1204,11 +1204,11 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.138,
+    "playoff_odds": 0.139,
     "power_rank": 9,
     "proj_avg": 118.2,
     "proj_by_week": {
-     "10": 116.13,
+     "10": 116.07,
      "11": 105.31,
      "12": 131.25,
      "13": 120.22
