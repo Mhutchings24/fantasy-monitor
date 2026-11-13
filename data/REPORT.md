@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-13T22:12:05Z UTC
+Week 10 · record 3-6 · updated 2026-11-13T22:16:37Z UTC
 
 ## Lineup check
 Current lineup projects **99.0**, best possible **104.4**.
@@ -78,4 +78,4 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Omar Cooper Jr. | WR | NYJ | bench | Questionable | 7.3 | 10.3 | 11.2 | 0.0 |
 | Keenan Allen | WR | SF | bench |  | 5.8 | 5.7 | 6.1 | 6.6 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
-| Mike Evans | WR | SF | bench | Questionable | 0.0 | 13.8 | 15.0 | 15.9 |
+| Mike Evans | WR | SF | bench | Out | 0.0 | 13.8 | 15.0 | 15.9 |
