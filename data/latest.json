@@ -1,5 +1,5 @@
 {
- "content_hash": "451f3e8ad6c407bbc4bf2db720053ffa000f9863",
+ "content_hash": "68fef07672aaff27a5b6f55f90364ba104b7937b",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -37,8 +37,8 @@
    "adds_24h": 0,
    "name": "Cam Ward",
    "pos": "QB",
-   "proj_4wk": 57.7,
-   "proj_this_week": 12.99,
+   "proj_4wk": 57.4,
+   "proj_this_week": 12.77,
    "status": null,
    "team": "TEN"
   },
@@ -449,6 +449,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Elic Ayomanor",
+   "pos": "WR",
+   "proj_4wk": 28.0,
+   "proj_this_week": 9.02,
+   "status": null,
+   "team": "TEN"
+  },
+  {
+   "adds_24h": 0,
    "name": "Chad Ryland",
    "pos": "K",
    "proj_4wk": 27.6,
@@ -584,15 +593,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Elic Ayomanor",
-   "pos": "WR",
-   "proj_4wk": 24.9,
-   "proj_this_week": 5.92,
-   "status": null,
-   "team": "TEN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Ty Johnson",
    "pos": "RB",
    "proj_4wk": 24.8,
@@ -617,6 +617,24 @@
    "proj_this_week": 7.89,
    "status": null,
    "team": "GB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Gunnar Helm",
+   "pos": "TE",
+   "proj_4wk": 24.4,
+   "proj_this_week": 7.33,
+   "status": null,
+   "team": "TEN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chimere Dike",
+   "pos": "WR",
+   "proj_4wk": 24.4,
+   "proj_this_week": 8.55,
+   "status": null,
+   "team": "TEN"
   },
   {
    "adds_24h": 102582,
@@ -703,28 +721,10 @@
    "adds_24h": 0,
    "name": "Tyjae Spears",
    "pos": "RB",
-   "proj_4wk": 23.3,
-   "proj_this_week": 3.17,
+   "proj_4wk": 23.2,
+   "proj_this_week": 3.12,
    "status": "Questionable",
    "team": "TEN"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Noah Fant",
-   "pos": "TE",
-   "proj_4wk": 23.1,
-   "proj_this_week": 5.43,
-   "status": null,
-   "team": "NO"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Andre Szmyt",
-   "pos": "K",
-   "proj_4wk": 22.8,
-   "proj_this_week": 7.6,
-   "status": null,
-   "team": "CLE"
   },
   {
    "adds_24h": 338555,
@@ -808,7 +808,7 @@
    "team": "GB"
   }
  ],
- "generated_at": "2026-11-13T16:43:36Z",
+ "generated_at": "2026-11-13T16:48:40Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1002,7 +1002,7 @@
   },
   "matchup": {
    "my_proj": 99.0,
-   "opp_best_possible": 113.52,
+   "opp_best_possible": 112.1,
    "opp_proj": 112.1,
    "opponent": "Never Going Go Scottsdale",
    "opponent_record": "4-5",
@@ -1022,7 +1022,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.589,
+    "first_seed_odds": 0.588,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1048,7 +1048,7 @@
     "mine": false,
     "pa": 1053.34,
     "pf": 1091.54,
-    "playoff_odds": 0.918,
+    "playoff_odds": 0.919,
     "power_rank": 5,
     "proj_avg": 124.1,
     "proj_by_week": {
@@ -1106,12 +1106,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.019,
+    "first_seed_odds": 0.02,
     "losses": 4,
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.638,
+    "playoff_odds": 0.642,
     "power_rank": 6,
     "proj_avg": 121.9,
     "proj_by_week": {
@@ -1132,7 +1132,7 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.704,
+    "playoff_odds": 0.705,
     "power_rank": 1,
     "proj_avg": 130.0,
     "proj_by_week": {
@@ -1148,16 +1148,16 @@
     "wins": 4
    },
    {
-    "first_seed_odds": 0.003,
+    "first_seed_odds": 0.002,
     "losses": 5,
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.4,
+    "playoff_odds": 0.391,
     "power_rank": 8,
-    "proj_avg": 118.8,
+    "proj_avg": 118.5,
     "proj_by_week": {
-     "10": 113.52,
+     "10": 112.1,
      "11": 119.42,
      "12": 122.92,
      "13": 119.46
@@ -1174,7 +1174,7 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.407,
+    "playoff_odds": 0.408,
     "power_rank": 7,
     "proj_avg": 118.8,
     "proj_by_week": {
@@ -1195,7 +1195,7 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.144,
+    "playoff_odds": 0.145,
     "power_rank": 9,
     "proj_avg": 118.2,
     "proj_by_week": {
@@ -1216,7 +1216,7 @@
     "mine": true,
     "pa": 1088.3,
     "pf": 978.8,
-    "playoff_odds": 0.004,
+    "playoff_odds": 0.005,
     "power_rank": 10,
     "proj_avg": 101.5,
     "proj_by_week": {
@@ -1886,7 +1886,7 @@
    "pid": "9508",
    "pos": "RB",
    "proj_by_week": {
-    "10": 3.17,
+    "10": 3.12,
     "11": 7.22,
     "12": 6.15,
     "13": 6.72
