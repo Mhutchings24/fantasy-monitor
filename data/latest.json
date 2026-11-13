@@ -1,5 +1,5 @@
 {
- "content_hash": "fc19c2bb2725ce0b8ed922b8ce5afeeba0c2a0ba",
+ "content_hash": "eeeff1d320329741c311c55699648a4039b2d989",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -565,6 +565,15 @@
    "team": "WAS"
   },
   {
+   "adds_24h": 97173,
+   "name": "Tyler Higbee",
+   "pos": "TE",
+   "proj_4wk": 25.6,
+   "proj_this_week": 8.63,
+   "status": null,
+   "team": "LAR"
+  },
+  {
    "adds_24h": 0,
    "name": "Keaton Mitchell",
    "pos": "RB",
@@ -626,15 +635,6 @@
    "proj_this_week": 8.55,
    "status": null,
    "team": "TEN"
-  },
-  {
-   "adds_24h": 97173,
-   "name": "Tyler Higbee",
-   "pos": "TE",
-   "proj_4wk": 24.3,
-   "proj_this_week": 7.34,
-   "status": "Questionable",
-   "team": "LAR"
   },
   {
    "adds_24h": 0,
@@ -808,7 +808,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-13T21:51:42Z",
+ "generated_at": "2026-11-13T21:56:48Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1069,7 +1069,7 @@
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.873,
+    "playoff_odds": 0.874,
     "power_rank": 5,
     "proj_avg": 123.4,
     "proj_by_week": {
@@ -1116,7 +1116,7 @@
     "proj_avg": 121.7,
     "proj_by_week": {
      "10": 128.46,
-     "11": 116.73,
+     "11": 116.67,
      "12": 130.38,
      "13": 111.23
     },
@@ -1132,7 +1132,7 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.701,
+    "playoff_odds": 0.7,
     "power_rank": 1,
     "proj_avg": 130.3,
     "proj_by_week": {
@@ -1154,7 +1154,7 @@
     "pa": 1095.28,
     "pf": 1076.3,
     "playoff_odds": 0.394,
-    "power_rank": 8,
+    "power_rank": 9,
     "proj_avg": 118.3,
     "proj_by_week": {
      "10": 111.73,
@@ -1174,7 +1174,7 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.407,
+    "playoff_odds": 0.404,
     "power_rank": 7,
     "proj_avg": 118.7,
     "proj_by_week": {
@@ -1195,11 +1195,11 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.138,
-    "power_rank": 9,
-    "proj_avg": 118.1,
+    "playoff_odds": 0.141,
+    "power_rank": 8,
+    "proj_avg": 118.4,
     "proj_by_week": {
-     "10": 116.08,
+     "10": 117.26,
      "11": 104.86,
      "12": 131.25,
      "13": 120.22
