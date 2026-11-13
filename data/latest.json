@@ -1,5 +1,5 @@
 {
- "content_hash": "0621916405aa539efec911d86d22a445731fca9d",
+ "content_hash": "ee5b1a8c95818004adfa53c20e9722ad17d1c8eb",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -503,21 +503,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Xavier Worthy",
-   "pos": "WR",
-   "proj_4wk": 26.5,
-   "proj_this_week": 7.82,
-   "status": null,
-   "team": "KC"
-  },
-  {
-   "adds_24h": 0,
    "name": "Dylan Sampson",
    "pos": "RB",
    "proj_4wk": 26.5,
    "proj_this_week": 7.86,
    "status": null,
    "team": "CLE"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Xavier Worthy",
+   "pos": "WR",
+   "proj_4wk": 26.5,
+   "proj_this_week": 7.82,
+   "status": null,
+   "team": "KC"
   },
   {
    "adds_24h": 0,
@@ -719,12 +719,12 @@
   },
   {
    "adds_24h": 0,
-   "name": "Wil Lutz",
-   "pos": "K",
+   "name": "DAL D/ST",
+   "pos": "DEF",
    "proj_4wk": 22.6,
-   "proj_this_week": 0.0,
+   "proj_this_week": 4.15,
    "status": null,
-   "team": "DEN"
+   "team": "DAL"
   },
   {
    "adds_24h": 383418,
@@ -817,7 +817,7 @@
    "team": "GB"
   }
  ],
- "generated_at": "2026-11-13T12:30:52Z",
+ "generated_at": "2026-11-13T12:35:57Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
