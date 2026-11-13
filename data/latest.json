@@ -1,5 +1,5 @@
 {
- "content_hash": "5aa48dcde2745932abd02faa4497cff8342736e2",
+ "content_hash": "4f231dfbc08f3fb002d4636e2f38329a8f18be5c",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -74,7 +74,7 @@
    "name": "Kyle McCord",
    "pos": "QB",
    "proj_4wk": 48.8,
-   "proj_this_week": 12.17,
+   "proj_this_week": 12.21,
    "status": null,
    "team": "MIA"
   },
@@ -181,8 +181,8 @@
    "adds_24h": 41152,
    "name": "Malik Washington",
    "pos": "WR",
-   "proj_4wk": 38.1,
-   "proj_this_week": 9.5,
+   "proj_4wk": 38.2,
+   "proj_this_week": 9.56,
    "status": null,
    "team": "MIA"
   },
@@ -808,7 +808,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-13T22:21:43Z",
+ "generated_at": "2026-11-13T22:26:47Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -874,7 +874,7 @@
    {
     "name": "Quinshon Judkins",
     "pid": "12512",
-    "proj": 9.87,
+    "proj": 9.88,
     "slot": "FLEX"
    },
    {
@@ -890,8 +890,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 104.42,
-  "current_projected": 98.96,
+  "best_projected": 104.43,
+  "current_projected": 98.97,
   "gain": 5.46,
   "problems": [],
   "source": "matchup week 10",
@@ -1002,11 +1002,11 @@
   },
   "matchup": {
    "my_proj": 99.0,
-   "opp_best_possible": 111.73,
-   "opp_proj": 111.7,
+   "opp_best_possible": 113.73,
+   "opp_proj": 113.7,
    "opponent": "Never Going Go Scottsdale",
    "opponent_record": "4-5",
-   "win_prob": 0.36
+   "win_prob": 0.339
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1048,11 +1048,11 @@
     "mine": false,
     "pa": 1053.34,
     "pf": 1091.54,
-    "playoff_odds": 0.928,
+    "playoff_odds": 0.927,
     "power_rank": 4,
     "proj_avg": 125.2,
     "proj_by_week": {
-     "10": 125.54,
+     "10": 125.53,
      "11": 120.56,
      "12": 126.63,
      "13": 127.9
@@ -1069,11 +1069,11 @@
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.874,
+    "playoff_odds": 0.872,
     "power_rank": 5,
     "proj_avg": 123.4,
     "proj_by_week": {
-     "10": 124.64,
+     "10": 124.63,
      "11": 114.52,
      "12": 136.35,
      "13": 117.99
@@ -1111,7 +1111,7 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.652,
+    "playoff_odds": 0.648,
     "power_rank": 6,
     "proj_avg": 121.7,
     "proj_by_week": {
@@ -1132,11 +1132,11 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.7,
+    "playoff_odds": 0.699,
     "power_rank": 1,
     "proj_avg": 130.3,
     "proj_by_week": {
-     "10": 120.87,
+     "10": 120.86,
      "11": 123.34,
      "12": 141.22,
      "13": 135.8
@@ -1153,11 +1153,11 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.394,
-    "power_rank": 9,
-    "proj_avg": 118.3,
+    "playoff_odds": 0.406,
+    "power_rank": 8,
+    "proj_avg": 118.8,
     "proj_by_week": {
-     "10": 111.73,
+     "10": 113.73,
      "11": 119.19,
      "12": 122.92,
      "13": 119.46
@@ -1174,11 +1174,11 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.404,
+    "playoff_odds": 0.402,
     "power_rank": 7,
-    "proj_avg": 118.7,
+    "proj_avg": 118.8,
     "proj_by_week": {
-     "10": 124.35,
+     "10": 124.41,
      "11": 102.91,
      "12": 123.24,
      "13": 124.44
@@ -1195,8 +1195,8 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.141,
-    "power_rank": 8,
+    "playoff_odds": 0.14,
+    "power_rank": 9,
     "proj_avg": 118.4,
     "proj_by_week": {
      "10": 117.26,
@@ -1216,11 +1216,11 @@
     "mine": true,
     "pa": 1088.3,
     "pf": 978.8,
-    "playoff_odds": 0.005,
+    "playoff_odds": 0.004,
     "power_rank": 10,
     "proj_avg": 101.5,
     "proj_by_week": {
-     "10": 104.42,
+     "10": 104.43,
      "11": 89.43,
      "12": 109.84,
      "13": 102.29
@@ -1286,7 +1286,7 @@
    "pid": "12512",
    "pos": "RB",
    "proj_by_week": {
-    "10": 9.87,
+    "10": 9.88,
     "11": 0.0,
     "12": 11.88,
     "13": 11.84
@@ -1786,7 +1786,7 @@
    "likelihood": "Likely",
    "partner": "Atticus Dean",
    "partner_roster_id": 10,
-   "summary": "Give DJ Moore, get Breece Hall from Atticus Dean: +1.2 pts/week for you, +1.1 for them.",
+   "summary": "Give DJ Moore, get Breece Hall from Atticus Dean: +1.1 pts/week for you, +1.1 for them.",
    "their_gain_per_week": 1.1,
    "value_ratio": 0.81,
    "why_them": [
@@ -1796,7 +1796,7 @@
     "Breece Hall would start 7 of 8 weeks for you",
     "DJ Moore starts 8 of 8 weeks for you"
    ],
-   "your_gain_per_week": 1.2
+   "your_gain_per_week": 1.1
   }
  ],
  "waivers": [
