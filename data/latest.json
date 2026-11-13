@@ -1,5 +1,5 @@
 {
- "content_hash": "bc868453e47d00964e62c68204975630748ea5a1",
+ "content_hash": "498421fb72b621c0bef1b0a8264aa6b8a00403d7",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -133,15 +133,6 @@
    "team": "BUF"
   },
   {
-   "adds_24h": 0,
-   "name": "Chig Okonkwo",
-   "pos": "TE",
-   "proj_4wk": 39.6,
-   "proj_this_week": 8.68,
-   "status": null,
-   "team": "WAS"
-  },
-  {
    "adds_24h": 92241,
    "name": "Brenton Strange",
    "pos": "TE",
@@ -167,6 +158,15 @@
    "proj_this_week": 13.39,
    "status": null,
    "team": "BAL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chig Okonkwo",
+   "pos": "TE",
+   "proj_4wk": 38.3,
+   "proj_this_week": 7.38,
+   "status": "Questionable",
+   "team": "WAS"
   },
   {
    "adds_24h": 0,
@@ -817,7 +817,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-13T02:17:27Z",
+ "generated_at": "2026-11-13T02:22:31Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
