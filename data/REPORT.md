@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-13T05:20:13Z UTC
+Week 10 · record 3-6 · updated 2026-11-13T05:32:30Z UTC
 
 ## Lineup check
 Current lineup projects **99.3**, best possible **104.7**.
@@ -19,13 +19,13 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Zonovan Knight (Questionable) | RB | ARI | Audric Estime | +6.7 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +4.8 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +4.5 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 304,839 |
+| Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 305,667 |
 | Samaje Perine | RB | CIN | Audric Estime | +4.1 | +0.0 | 0 |
 | Keaton Mitchell (Questionable) | RB | LAC | Audric Estime | +4.1 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 0 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.6 | +0.0 | 0 |
-| Austin Ekeler | RB | WAS | Audric Estime | +0.7 | +0.0 | 99,080 |
-| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +0.6 | +0.6 | 173,367 |
+| Austin Ekeler | RB | WAS | Audric Estime | +0.7 | +0.0 | 99,148 |
+| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +0.6 | +0.6 | 173,988 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
 
@@ -55,10 +55,10 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Possible** · Give Omar Cooper Jr., get Jonah Coleman from Glizzy Globbler : +4.1 pts/week for you, +0.5 for them.
 - **Likely** · Give Omar Cooper Jr., get Rhamondre Stevenson from Atticus Dean: +2.3 pts/week for you, +0.4 for them.
 - **Likely** · Give Jordyn Tyson, get Rhamondre Stevenson from Atticus Dean: +2.2 pts/week for you, +0.5 for them.
-- **Likely** · Give Mike Evans, get Ollie Gordon II from Bradsbaconisundercooked: +1.9 pts/week for you, +0.7 for them.
-- **Likely** · Give Mike Evans + Rico Dowdle, get Chase Brown from Bradsbaconisundercooked: +1.8 pts/week for you, +0.4 for them.
 - **Possible** · Give Omar Cooper Jr., get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.3 pts/week for you, -0.5 for them.
 - **Possible** · Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +3.2 pts/week for you, -0.3 for them.
+- **Possible** · Give Jordyn Tyson, get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.2 pts/week for you, -0.5 for them.
+- **Possible** · Give Omar Cooper Jr., get Jordan Mason from I’m stuck Step Burrow: +3.0 pts/week for you, +0.0 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 10 | Wk 11 | Wk 12 | Wk 13 |
