@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-13T20:52:12Z UTC
+Week 10 · record 3-6 · updated 2026-11-13T21:02:20Z UTC
 
 ## Lineup check
 Current lineup projects **99.0**, best possible **104.4**.
@@ -16,10 +16,10 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 |---|---|---|---|---|---|---|
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +10.3 | +0.0 | 0 |
 | Devin Singletary | RB | NYG | Audric Estime | +7.0 | +0.0 | 0 |
-| Zonovan Knight | RB | ARI | Audric Estime | +6.8 | +0.0 | 42,714 |
+| Zonovan Knight | RB | ARI | Audric Estime | +6.8 | +0.0 | 43,000 |
 | Kimani Vidal | RB | LAC | Audric Estime | +4.8 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +4.5 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 272,754 |
+| Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 273,546 |
 | Samaje Perine | RB | CIN | Audric Estime | +4.1 | +0.0 | 0 |
 | Keaton Mitchell (Questionable) | RB | LAC | Audric Estime | +4.1 | +0.0 | 0 |
 | Ty Johnson | RB | BUF | Audric Estime | +4.0 | +0.0 | 0 |
@@ -30,7 +30,7 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **99.0** – 111.8 projected · win chance **36%**
+vs **Never Going Go Scottsdale** (4-5): you **99.0** – 111.7 projected · win chance **36%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
