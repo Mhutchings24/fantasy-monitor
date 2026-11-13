@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-13T16:20:08Z UTC
+Week 10 · record 3-6 · updated 2026-11-13T16:28:25Z UTC
 
 ## Lineup check
 Current lineup projects **99.0**, best possible **104.4**.
@@ -56,8 +56,8 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Likely** · Give Omar Cooper Jr., get Rhamondre Stevenson from Atticus Dean: +2.3 pts/week for you, +0.4 for them.
 - **Likely** · Give Jordyn Tyson, get Rhamondre Stevenson from Atticus Dean: +2.2 pts/week for you, +0.5 for them.
 - **Possible** · Give Omar Cooper Jr., get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.3 pts/week for you, -0.5 for them.
+- **Possible** · Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +3.2 pts/week for you, -0.2 for them.
 - **Possible** · Give Jordyn Tyson, get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.2 pts/week for you, -0.5 for them.
-- **Possible** · Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +3.1 pts/week for you, -0.2 for them.
 - **Possible** · Give Omar Cooper Jr., get Jordan Mason from I’m stuck Step Burrow: +3.0 pts/week for you, +0.0 for them.
 
 ## Roster
@@ -75,7 +75,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Corey Kiner | RB | NE | bench |  | 11.8 | 0.0 | 5.1 | 4.7 |
 | Rico Dowdle | RB | PIT | bench |  | 10.0 | 8.4 | 7.8 | 8.2 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 0.0 | 11.0 | 16.3 |
-| Omar Cooper Jr. | WR | NYJ | bench | Questionable | 7.3 | 10.3 | 11.2 | 0.0 |
+| Omar Cooper Jr. | WR | NYJ | bench |  | 8.6 | 10.3 | 11.2 | 0.0 |
 | Keenan Allen | WR | SF | bench |  | 5.8 | 5.7 | 6.1 | 6.6 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
 | Mike Evans | WR | SF | bench | Questionable | 0.0 | 13.8 | 15.0 | 15.9 |

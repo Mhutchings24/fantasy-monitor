@@ -1,5 +1,5 @@
 {
- "content_hash": "6d4c35d0d8f614b40419a7cc60ff50fa87e6bab3",
+ "content_hash": "bf1a5b7e7c892b82c8173879c9607aabbef40a20",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -92,7 +92,7 @@
    "name": "Deshaun Watson",
    "pos": "QB",
    "proj_4wk": 46.6,
-   "proj_this_week": 14.9,
+   "proj_this_week": 14.89,
    "status": null,
    "team": "CLE"
   },
@@ -506,7 +506,7 @@
    "name": "Dylan Sampson",
    "pos": "RB",
    "proj_4wk": 26.5,
-   "proj_this_week": 7.86,
+   "proj_this_week": 7.85,
    "status": null,
    "team": "CLE"
   },
@@ -817,7 +817,7 @@
    "team": "SF"
   }
  ],
- "generated_at": "2026-11-13T16:20:08Z",
+ "generated_at": "2026-11-13T16:28:25Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -883,7 +883,7 @@
    {
     "name": "Quinshon Judkins",
     "pid": "12512",
-    "proj": 9.87,
+    "proj": 9.88,
     "slot": "FLEX"
    },
    {
@@ -899,8 +899,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 104.42,
-  "current_projected": 98.95,
+  "best_projected": 104.43,
+  "current_projected": 98.96,
   "gain": 5.47,
   "problems": [],
   "source": "matchup week 10",
@@ -1082,7 +1082,7 @@
     "power_rank": 4,
     "proj_avg": 124.2,
     "proj_by_week": {
-     "10": 129.46,
+     "10": 129.45,
      "11": 111.53,
      "12": 137.55,
      "13": 118.31
@@ -1208,7 +1208,7 @@
     "power_rank": 9,
     "proj_avg": 118.2,
     "proj_by_week": {
-     "10": 116.14,
+     "10": 116.13,
      "11": 105.31,
      "12": 131.25,
      "13": 120.22
@@ -1229,7 +1229,7 @@
     "power_rank": 10,
     "proj_avg": 101.5,
     "proj_by_week": {
-     "10": 104.42,
+     "10": 104.43,
      "11": 89.43,
      "12": 109.84,
      "13": 102.29
@@ -1295,7 +1295,7 @@
    "pid": "12512",
    "pos": "RB",
    "proj_by_week": {
-    "10": 9.87,
+    "10": 9.88,
     "11": 0.0,
     "12": 11.88,
     "13": 11.84
@@ -1430,13 +1430,13 @@
    "pid": "13276",
    "pos": "WR",
    "proj_by_week": {
-    "10": 7.27,
+    "10": 8.55,
     "11": 10.31,
     "12": 11.22,
     "13": 0.0
    },
    "slot": "bench",
-   "status": "Questionable",
+   "status": null,
    "team": "NYJ"
   },
   {
@@ -1565,8 +1565,8 @@
      "name": "Omar Cooper Jr.",
      "pid": "13276",
      "pos": "WR",
-     "ros_per_week": 8.6,
-     "status": "Questionable",
+     "ros_per_week": 8.8,
+     "status": null,
      "team": "NYJ"
     }
    ],
@@ -1575,7 +1575,7 @@
    "partner_roster_id": 2,
    "summary": "Give Omar Cooper Jr., get Jonah Coleman from Glizzy Globbler : +4.1 pts/week for you, +0.5 for them.",
    "their_gain_per_week": 0.5,
-   "value_ratio": 1.25,
+   "value_ratio": 1.23,
    "why_them": [
     "Omar Cooper Jr. would start 1 of 8 weeks for them",
     "Jonah Coleman only starts 1 of 8 weeks on their roster"
@@ -1602,8 +1602,8 @@
      "name": "Omar Cooper Jr.",
      "pid": "13276",
      "pos": "WR",
-     "ros_per_week": 8.6,
-     "status": "Questionable",
+     "ros_per_week": 8.8,
+     "status": null,
      "team": "NYJ"
     }
    ],
@@ -1612,7 +1612,7 @@
    "partner_roster_id": 10,
    "summary": "Give Omar Cooper Jr., get Rhamondre Stevenson from Atticus Dean: +2.3 pts/week for you, +0.4 for them.",
    "their_gain_per_week": 0.4,
-   "value_ratio": 0.99,
+   "value_ratio": 0.97,
    "why_them": [
     "Omar Cooper Jr. would start 2 of 8 weeks for them",
     "Rhamondre Stevenson only starts 4 of 8 weeks on their roster"
@@ -1676,8 +1676,8 @@
      "name": "Omar Cooper Jr.",
      "pid": "13276",
      "pos": "WR",
-     "ros_per_week": 8.6,
-     "status": "Questionable",
+     "ros_per_week": 8.8,
+     "status": null,
      "team": "NYJ"
     }
    ],
@@ -1686,7 +1686,7 @@
    "partner_roster_id": 4,
    "summary": "Give Omar Cooper Jr., get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.3 pts/week for you, -0.5 for them.",
    "their_gain_per_week": -0.5,
-   "value_ratio": 1.24,
+   "value_ratio": 1.22,
    "why_them": [
     "Omar Cooper Jr. would start 0 of 8 weeks for them",
     "Zach Charbonnet only starts 1 of 8 weeks on their roster"
@@ -1696,6 +1696,43 @@
     "Omar Cooper Jr. starts only 0 of 8 weeks for you"
    ],
    "your_gain_per_week": 3.3
+  },
+  {
+   "get": [
+    {
+     "name": "Tony Pollard",
+     "pid": "5967",
+     "pos": "RB",
+     "ros_per_week": 12.7,
+     "status": "Questionable",
+     "team": "TEN"
+    }
+   ],
+   "give": [
+    {
+     "name": "Stefon Diggs",
+     "pid": "2449",
+     "pos": "WR",
+     "ros_per_week": 12.2,
+     "status": null,
+     "team": "WAS"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "I’m stuck Step Burrow",
+   "partner_roster_id": 8,
+   "summary": "Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +3.2 pts/week for you, -0.2 for them.",
+   "their_gain_per_week": -0.2,
+   "value_ratio": 1.04,
+   "why_them": [
+    "Stefon Diggs would start 1 of 8 weeks for them",
+    "Tony Pollard only starts 3 of 8 weeks on their roster"
+   ],
+   "why_you": [
+    "Tony Pollard would start 8 of 8 weeks for you",
+    "Stefon Diggs starts 7 of 8 weeks for you"
+   ],
+   "your_gain_per_week": 3.2
   },
   {
    "get": [
@@ -1737,43 +1774,6 @@
   {
    "get": [
     {
-     "name": "Tony Pollard",
-     "pid": "5967",
-     "pos": "RB",
-     "ros_per_week": 12.7,
-     "status": "Questionable",
-     "team": "TEN"
-    }
-   ],
-   "give": [
-    {
-     "name": "Stefon Diggs",
-     "pid": "2449",
-     "pos": "WR",
-     "ros_per_week": 12.2,
-     "status": null,
-     "team": "WAS"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "I’m stuck Step Burrow",
-   "partner_roster_id": 8,
-   "summary": "Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +3.1 pts/week for you, -0.2 for them.",
-   "their_gain_per_week": -0.2,
-   "value_ratio": 1.04,
-   "why_them": [
-    "Stefon Diggs would start 1 of 8 weeks for them",
-    "Tony Pollard only starts 3 of 8 weeks on their roster"
-   ],
-   "why_you": [
-    "Tony Pollard would start 8 of 8 weeks for you",
-    "Stefon Diggs starts 7 of 8 weeks for you"
-   ],
-   "your_gain_per_week": 3.1
-  },
-  {
-   "get": [
-    {
      "name": "Jordan Mason",
      "pid": "8408",
      "pos": "RB",
@@ -1787,8 +1787,8 @@
      "name": "Omar Cooper Jr.",
      "pid": "13276",
      "pos": "WR",
-     "ros_per_week": 8.6,
-     "status": "Questionable",
+     "ros_per_week": 8.8,
+     "status": null,
      "team": "NYJ"
     }
    ],
@@ -1797,7 +1797,7 @@
    "partner_roster_id": 8,
    "summary": "Give Omar Cooper Jr., get Jordan Mason from I’m stuck Step Burrow: +3.0 pts/week for you, +0.0 for them.",
    "their_gain_per_week": 0.0,
-   "value_ratio": 1.25,
+   "value_ratio": 1.23,
    "why_them": [
     "Omar Cooper Jr. would start 0 of 8 weeks for them",
     "Jordan Mason only starts 0 of 8 weeks on their roster"
@@ -1990,7 +1990,7 @@
    "pid": "12469",
    "pos": "RB",
    "proj_by_week": {
-    "10": 7.86,
+    "10": 7.85,
     "11": 0.0,
     "12": 9.37,
     "13": 9.27
