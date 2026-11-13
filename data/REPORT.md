@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-13T23:24:02Z UTC
+Week 10 · record 3-6 · updated 2026-11-13T23:29:06Z UTC
 
 ## Lineup check
 Current lineup projects **99.0**, best possible **104.4**.
@@ -30,7 +30,7 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **99.0** – 113.8 projected · win chance **34%**
+vs **Never Going Go Scottsdale** (4-5): you **99.0** – 113.7 projected · win chance **34%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -41,7 +41,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 125.1 | 93% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 123.4 | 87% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 128.8 | 91% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.9 | 65% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 122.0 | 65% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 130.3 | 70% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 7 | 119.0 | 41% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 118.8 | 40% |
@@ -76,6 +76,6 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Rico Dowdle | RB | PIT | bench |  | 10.0 | 8.4 | 7.8 | 8.2 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 0.0 | 11.0 | 16.3 |
 | Omar Cooper Jr. | WR | NYJ | bench | Questionable | 7.3 | 10.3 | 11.2 | 0.0 |
-| Keenan Allen | WR | SF | bench |  | 5.8 | 5.7 | 6.1 | 6.6 |
+| Keenan Allen | WR | SF | bench |  | 6.4 | 5.7 | 6.1 | 6.6 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
 | Mike Evans | WR | SF | bench | Out | 0.0 | 13.8 | 15.0 | 15.9 |
