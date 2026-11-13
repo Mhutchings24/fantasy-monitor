@@ -1,5 +1,5 @@
 {
- "content_hash": "45a8856c74a7f05f7abcbcada1377ff9eb3790fa",
+ "content_hash": "ebf209d6dddef92104b4385fbde7f3a3ad7abd15",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -241,6 +241,15 @@
    "team": "DAL"
   },
   {
+   "adds_24h": 42666,
+   "name": "Zonovan Knight",
+   "pos": "RB",
+   "proj_4wk": 34.0,
+   "proj_this_week": 8.57,
+   "status": null,
+   "team": "ARI"
+  },
+  {
    "adds_24h": 0,
    "name": "Devin Singletary",
    "pos": "RB",
@@ -257,15 +266,6 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "PHI"
-  },
-  {
-   "adds_24h": 42666,
-   "name": "Zonovan Knight",
-   "pos": "RB",
-   "proj_4wk": 32.8,
-   "proj_this_week": 7.28,
-   "status": "Questionable",
-   "team": "ARI"
   },
   {
    "adds_24h": 0,
@@ -817,7 +817,7 @@
    "team": "SF"
   }
  ],
- "generated_at": "2026-11-13T18:12:21Z",
+ "generated_at": "2026-11-13T18:17:27Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1856,12 +1856,12 @@
    "pid": "8122",
    "pos": "RB",
    "proj_by_week": {
-    "10": 7.28,
+    "10": 8.57,
     "11": 7.57,
     "12": 9.22,
     "13": 8.68
    },
-   "status": "Questionable",
+   "status": null,
    "stream": false,
    "team": "ARI",
    "trending_adds_24h": 42666
