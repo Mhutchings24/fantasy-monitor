@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-13T06:48:38Z UTC
+Week 10 · record 3-6 · updated 2026-11-13T06:53:45Z UTC
 
 ## Lineup check
 Current lineup projects **99.3**, best possible **104.7**.
@@ -23,8 +23,8 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Samaje Perine | RB | CIN | Audric Estime | +4.1 | +0.0 | 0 |
 | Keaton Mitchell (Questionable) | RB | LAC | Audric Estime | +4.1 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 0 |
-| Bo Nix | QB | DEN | Omar Cooper Jr. | +1.6 | +0.0 | 0 |
-| Austin Ekeler | RB | WAS | Audric Estime | +0.7 | +0.0 | 96,192 |
+| Bo Nix | QB | DEN | Omar Cooper Jr. | +1.5 | +0.0 | 0 |
+| Austin Ekeler | RB | WAS | Audric Estime | +0.8 | +0.0 | 96,192 |
 | Khalil Shakir | WR | BUF | Omar Cooper Jr. | +0.6 | +0.6 | 170,190 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
@@ -42,22 +42,22 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 124.1 | 88% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 129.1 | 91% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.9 | 64% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 129.9 | 70% |
-| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 7 | 118.9 | 40% |
-| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 118.8 | 41% |
-| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 118.0 | 14% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 130.0 | 70% |
+| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 8 | 118.8 | 40% |
+| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 118.8 | 41% |
+| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 118.1 | 14% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 101.4 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
-- **Likely** · Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +4.0 pts/week for you, +0.5 for them.
+- **Likely** · Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +4.1 pts/week for you, +0.5 for them.
 - **Possible** · Give Omar Cooper Jr., get Jonah Coleman from Glizzy Globbler : +4.1 pts/week for you, +0.5 for them.
 - **Likely** · Give Omar Cooper Jr., get Rhamondre Stevenson from Atticus Dean: +2.3 pts/week for you, +0.4 for them.
 - **Likely** · Give Jordyn Tyson, get Rhamondre Stevenson from Atticus Dean: +2.2 pts/week for you, +0.5 for them.
 - **Possible** · Give Omar Cooper Jr., get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.3 pts/week for you, -0.5 for them.
-- **Possible** · Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +3.2 pts/week for you, -0.3 for them.
 - **Possible** · Give Jordyn Tyson, get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.2 pts/week for you, -0.5 for them.
+- **Possible** · Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +3.2 pts/week for you, -0.3 for them.
 - **Possible** · Give Omar Cooper Jr., get Jordan Mason from I’m stuck Step Burrow: +3.0 pts/week for you, +0.0 for them.
 
 ## Roster
@@ -70,7 +70,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Audric Estime | RB | NO | starter |  | 8.2 | 2.7 | 3.0 | 2.8 |
 | George Kittle | TE | SF | starter |  | 15.3 | 12.6 | 14.2 | 15.1 |
 | DJ Moore | WR | BUF | starter |  | 12.6 | 13.6 | 12.2 | 13.1 |
-| Stefon Diggs | WR | WAS | starter |  | 10.2 | 13.1 | 13.3 | 13.1 |
+| Stefon Diggs | WR | WAS | starter |  | 10.2 | 13.2 | 13.3 | 13.1 |
 | Jordyn Tyson | WR | NO | starter |  | 8.1 | 10.7 | 11.2 | 10.5 |
 | Corey Kiner | RB | NE | bench |  | 11.8 | 0.0 | 5.1 | 4.7 |
 | Rico Dowdle | RB | PIT | bench |  | 9.9 | 8.4 | 7.8 | 8.2 |
