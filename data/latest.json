@@ -1,5 +1,5 @@
 {
- "content_hash": "c4d9154a6aeed64f456ca7c7f5d4f11c9abbaf47",
+ "content_hash": "6bdc18106cb370e40c4856914898c11495a30692",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -170,21 +170,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Aaron Jones Sr.",
-   "pos": "RB",
-   "proj_4wk": 38.0,
-   "proj_this_week": 8.97,
-   "status": null,
-   "team": "MIN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Malik Washington",
    "pos": "WR",
    "proj_4wk": 38.0,
    "proj_this_week": 9.5,
    "status": null,
    "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Aaron Jones Sr.",
+   "pos": "RB",
+   "proj_4wk": 38.0,
+   "proj_this_week": 8.97,
+   "status": null,
+   "team": "MIN"
   },
   {
    "adds_24h": 186680,
@@ -719,12 +719,12 @@
   },
   {
    "adds_24h": 0,
-   "name": "DAL D/ST",
-   "pos": "DEF",
+   "name": "Wil Lutz",
+   "pos": "K",
    "proj_4wk": 22.6,
-   "proj_this_week": 4.15,
+   "proj_this_week": 0.0,
    "status": null,
-   "team": "DAL"
+   "team": "DEN"
   },
   {
    "adds_24h": 399567,
@@ -817,7 +817,7 @@
    "team": "GB"
   }
  ],
- "generated_at": "2026-11-13T05:47:45Z",
+ "generated_at": "2026-11-13T05:52:50Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
