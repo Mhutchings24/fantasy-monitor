@@ -1,5 +1,5 @@
 {
- "content_hash": "4c67b5405041f3595b0ee2b5a6b22b4ff3c0b91f",
+ "content_hash": "488c6648abdf193cd8ba98e3ade443d75709df71",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -28,8 +28,8 @@
    "adds_24h": 0,
    "name": "Justin Herbert",
    "pos": "QB",
-   "proj_4wk": 57.9,
-   "proj_this_week": 13.82,
+   "proj_4wk": 58.0,
+   "proj_this_week": 13.89,
    "status": null,
    "team": "LAC"
   },
@@ -92,7 +92,7 @@
    "name": "Deshaun Watson",
    "pos": "QB",
    "proj_4wk": 46.6,
-   "proj_this_week": 14.92,
+   "proj_this_week": 14.9,
    "status": null,
    "team": "CLE"
   },
@@ -154,8 +154,8 @@
    "adds_24h": 0,
    "name": "Jacoby Brissett",
    "pos": "QB",
-   "proj_4wk": 38.5,
-   "proj_this_week": 13.3,
+   "proj_4wk": 38.6,
+   "proj_this_week": 13.39,
    "status": null,
    "team": "BAL"
   },
@@ -281,7 +281,7 @@
    "name": "Dalton Schultz",
    "pos": "TE",
    "proj_4wk": 32.5,
-   "proj_this_week": 7.7,
+   "proj_this_week": 7.68,
    "status": null,
    "team": "HOU"
   },
@@ -397,8 +397,8 @@
    "adds_24h": 0,
    "name": "Quentin Johnston",
    "pos": "WR",
-   "proj_4wk": 29.0,
-   "proj_this_week": 6.86,
+   "proj_4wk": 29.1,
+   "proj_this_week": 6.92,
    "status": null,
    "team": "LAC"
   },
@@ -416,7 +416,7 @@
    "name": "Kimani Vidal",
    "pos": "RB",
    "proj_4wk": 28.6,
-   "proj_this_week": 6.74,
+   "proj_this_week": 6.73,
    "status": null,
    "team": "LAC"
   },
@@ -505,8 +505,8 @@
    "adds_24h": 0,
    "name": "Dylan Sampson",
    "pos": "RB",
-   "proj_4wk": 26.4,
-   "proj_this_week": 7.8,
+   "proj_4wk": 26.5,
+   "proj_this_week": 7.86,
    "status": null,
    "team": "CLE"
   },
@@ -569,7 +569,7 @@
    "name": "Keaton Mitchell",
    "pos": "RB",
    "proj_4wk": 25.3,
-   "proj_this_week": 5.22,
+   "proj_this_week": 5.21,
    "status": "Questionable",
    "team": "LAC"
   },
@@ -817,7 +817,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-13T04:29:26Z",
+ "generated_at": "2026-11-13T04:34:30Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -883,7 +883,7 @@
    {
     "name": "Quinshon Judkins",
     "pid": "12512",
-    "proj": 9.88,
+    "proj": 9.87,
     "slot": "FLEX"
    },
    {
@@ -899,8 +899,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 104.72,
-  "current_projected": 99.31,
+  "best_projected": 104.71,
+  "current_projected": 99.3,
   "gain": 5.41,
   "problems": [],
   "source": "matchup week 10",
@@ -1011,11 +1011,11 @@
   },
   "matchup": {
    "my_proj": 99.3,
-   "opp_best_possible": 113.42,
-   "opp_proj": 112.0,
+   "opp_best_possible": 113.52,
+   "opp_proj": 112.1,
    "opponent": "Never Going Go Scottsdale",
    "opponent_record": "4-5",
-   "win_prob": 0.36
+   "win_prob": 0.359
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1057,7 +1057,7 @@
     "mine": false,
     "pa": 1053.34,
     "pf": 1091.54,
-    "playoff_odds": 0.918,
+    "playoff_odds": 0.919,
     "power_rank": 4,
     "proj_avg": 124.2,
     "proj_by_week": {
@@ -1082,7 +1082,7 @@
     "power_rank": 5,
     "proj_avg": 124.1,
     "proj_by_week": {
-     "10": 128.84,
+     "10": 128.79,
      "11": 111.74,
      "12": 137.55,
      "13": 118.31
@@ -1094,7 +1094,7 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.099,
+    "first_seed_odds": 0.1,
     "losses": 4,
     "mine": false,
     "pa": 1118.82,
@@ -1103,7 +1103,7 @@
     "power_rank": 3,
     "proj_avg": 129.1,
     "proj_by_week": {
-     "10": 131.75,
+     "10": 131.83,
      "11": 133.18,
      "12": 137.55,
      "13": 114.02
@@ -1120,7 +1120,7 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.64,
+    "playoff_odds": 0.639,
     "power_rank": 6,
     "proj_avg": 121.9,
     "proj_by_week": {
@@ -1145,7 +1145,7 @@
     "power_rank": 1,
     "proj_avg": 129.9,
     "proj_by_week": {
-     "10": 119.82,
+     "10": 119.73,
      "11": 122.88,
      "12": 141.22,
      "13": 135.8
@@ -1162,11 +1162,11 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.398,
-    "power_rank": 8,
-    "proj_avg": 118.8,
+    "playoff_odds": 0.4,
+    "power_rank": 7,
+    "proj_avg": 118.9,
     "proj_by_week": {
-     "10": 113.42,
+     "10": 113.52,
      "11": 119.6,
      "12": 122.92,
      "13": 119.46
@@ -1184,7 +1184,7 @@
     "pa": 1171.68,
     "pf": 1076.08,
     "playoff_odds": 0.407,
-    "power_rank": 7,
+    "power_rank": 8,
     "proj_avg": 118.8,
     "proj_by_week": {
      "10": 124.39,
@@ -1208,7 +1208,7 @@
     "power_rank": 9,
     "proj_avg": 118.0,
     "proj_by_week": {
-     "10": 116.16,
+     "10": 116.14,
      "11": 104.57,
      "12": 131.25,
      "13": 120.22
@@ -1229,7 +1229,7 @@
     "power_rank": 10,
     "proj_avg": 101.4,
     "proj_by_week": {
-     "10": 104.72,
+     "10": 104.71,
      "11": 88.65,
      "12": 109.84,
      "13": 102.29
@@ -1295,7 +1295,7 @@
    "pid": "12512",
    "pos": "RB",
    "proj_by_week": {
-    "10": 9.88,
+    "10": 9.87,
     "11": 0.0,
     "12": 11.88,
     "13": 11.84
@@ -1884,7 +1884,7 @@
    "pid": "11647",
    "pos": "RB",
    "proj_by_week": {
-    "10": 6.74,
+    "10": 6.73,
     "11": 7.49,
     "12": 7.48,
     "13": 6.86
@@ -1960,7 +1960,7 @@
    "pid": "9511",
    "pos": "RB",
    "proj_by_week": {
-    "10": 5.22,
+    "10": 5.21,
     "11": 6.81,
     "12": 6.93,
     "13": 6.33
@@ -1979,7 +1979,7 @@
    "pid": "12469",
    "pos": "RB",
    "proj_by_week": {
-    "10": 7.8,
+    "10": 7.86,
     "11": 0.0,
     "12": 9.37,
     "13": 9.27
@@ -2030,8 +2030,8 @@
   {
    "drop": "13276",
    "drop_name": "Omar Cooper Jr.",
-   "gain_this_week": 0.58,
-   "gain_window": 0.58,
+   "gain_this_week": 0.59,
+   "gain_window": 0.59,
    "name": "Khalil Shakir",
    "pid": "8134",
    "pos": "WR",
