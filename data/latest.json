@@ -1,5 +1,5 @@
 {
- "content_hash": "10ec2538311115c67128e2db8c1424f1eac87c7a",
+ "content_hash": "fc08ee999c7477df5ba0f7b43d86de64957004b8",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -92,7 +92,7 @@
    "name": "Deshaun Watson",
    "pos": "QB",
    "proj_4wk": 46.6,
-   "proj_this_week": 14.89,
+   "proj_this_week": 14.9,
    "status": null,
    "team": "CLE"
   },
@@ -226,8 +226,8 @@
    "adds_24h": 0,
    "name": "Juwan Johnson",
    "pos": "TE",
-   "proj_4wk": 36.0,
-   "proj_this_week": 8.6,
+   "proj_4wk": 35.9,
+   "proj_this_week": 8.51,
    "status": null,
    "team": "NO"
   },
@@ -506,7 +506,7 @@
    "name": "Dylan Sampson",
    "pos": "RB",
    "proj_4wk": 26.5,
-   "proj_this_week": 7.85,
+   "proj_this_week": 7.86,
    "status": null,
    "team": "CLE"
   },
@@ -701,10 +701,19 @@
   },
   {
    "adds_24h": 0,
+   "name": "Alvin Kamara",
+   "pos": "RB",
+   "proj_4wk": 23.4,
+   "proj_this_week": 6.44,
+   "status": null,
+   "team": "NO"
+  },
+  {
+   "adds_24h": 0,
    "name": "Devaughn Vele",
    "pos": "WR",
    "proj_4wk": 23.3,
-   "proj_this_week": 7.92,
+   "proj_this_week": 7.9,
    "status": null,
    "team": "NO"
   },
@@ -716,15 +725,6 @@
    "proj_this_week": 3.12,
    "status": "Questionable",
    "team": "TEN"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Noah Fant",
-   "pos": "TE",
-   "proj_4wk": 23.2,
-   "proj_this_week": 5.45,
-   "status": null,
-   "team": "NO"
   },
   {
    "adds_24h": 324660,
@@ -808,7 +808,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-13T20:31:55Z",
+ "generated_at": "2026-11-13T20:37:00Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -874,7 +874,7 @@
    {
     "name": "Quinshon Judkins",
     "pid": "12512",
-    "proj": 9.88,
+    "proj": 9.87,
     "slot": "FLEX"
    },
    {
@@ -890,9 +890,9 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 104.43,
-  "current_projected": 99.01,
-  "gain": 5.42,
+  "best_projected": 104.42,
+  "current_projected": 98.96,
+  "gain": 5.46,
   "problems": [],
   "source": "matchup week 10",
   "swaps": [
@@ -1022,16 +1022,16 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.587,
+    "first_seed_odds": 0.59,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
     "pf": 1250.86,
     "playoff_odds": 0.995,
     "power_rank": 2,
-    "proj_avg": 129.6,
+    "proj_avg": 129.5,
     "proj_by_week": {
-     "10": 132.63,
+     "10": 132.52,
      "11": 124.59,
      "12": 136.34,
      "13": 124.74
@@ -1043,7 +1043,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.171,
+    "first_seed_odds": 0.172,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
@@ -1064,16 +1064,16 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.11,
+    "first_seed_odds": 0.103,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.881,
+    "playoff_odds": 0.874,
     "power_rank": 5,
-    "proj_avg": 123.9,
+    "proj_avg": 123.3,
     "proj_by_week": {
-     "10": 126.91,
+     "10": 124.52,
      "11": 114.49,
      "12": 136.35,
      "13": 117.99
@@ -1085,7 +1085,7 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.097,
+    "first_seed_odds": 0.099,
     "losses": 4,
     "mine": false,
     "pa": 1118.82,
@@ -1106,12 +1106,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.019,
+    "first_seed_odds": 0.021,
     "losses": 4,
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.643,
+    "playoff_odds": 0.651,
     "power_rank": 6,
     "proj_avg": 121.6,
     "proj_by_week": {
@@ -1174,7 +1174,7 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.41,
+    "playoff_odds": 0.409,
     "power_rank": 7,
     "proj_avg": 118.8,
     "proj_by_week": {
@@ -1199,7 +1199,7 @@
     "power_rank": 9,
     "proj_avg": 118.2,
     "proj_by_week": {
-     "10": 116.07,
+     "10": 116.08,
      "11": 105.42,
      "12": 131.25,
      "13": 120.22
@@ -1220,7 +1220,7 @@
     "power_rank": 10,
     "proj_avg": 101.5,
     "proj_by_week": {
-     "10": 104.43,
+     "10": 104.42,
      "11": 89.36,
      "12": 109.84,
      "13": 102.29
@@ -1286,7 +1286,7 @@
    "pid": "12512",
    "pos": "RB",
    "proj_by_week": {
-    "10": 9.88,
+    "10": 9.87,
     "11": 0.0,
     "12": 11.88,
     "13": 11.84
@@ -1301,7 +1301,7 @@
    "pid": "11579",
    "pos": "RB",
    "proj_by_week": {
-    "10": 8.24,
+    "10": 8.22,
     "11": 2.69,
     "12": 3.03,
     "13": 2.75
@@ -1361,7 +1361,7 @@
    "pid": "13281",
    "pos": "WR",
    "proj_by_week": {
-    "10": 8.1,
+    "10": 8.08,
     "11": 10.65,
     "12": 11.25,
     "13": 10.48
@@ -1786,8 +1786,8 @@
    "likelihood": "Likely",
    "partner": "Atticus Dean",
    "partner_roster_id": 10,
-   "summary": "Give DJ Moore, get Breece Hall from Atticus Dean: +1.2 pts/week for you, +0.9 for them.",
-   "their_gain_per_week": 0.9,
+   "summary": "Give DJ Moore, get Breece Hall from Atticus Dean: +1.2 pts/week for you, +1.1 for them.",
+   "their_gain_per_week": 1.1,
    "value_ratio": 0.81,
    "why_them": [
     "DJ Moore would start 8 of 8 weeks for them"
@@ -1972,6 +1972,25 @@
    "trending_adds_24h": 0
   },
   {
+   "drop": "11579",
+   "drop_name": "Audric Estime",
+   "gain_this_week": 0.0,
+   "gain_window": 2.77,
+   "name": "Alvin Kamara",
+   "pid": "4035",
+   "pos": "RB",
+   "proj_by_week": {
+    "10": 6.44,
+    "11": 5.46,
+    "12": 6.03,
+    "13": 5.46
+   },
+   "status": null,
+   "stream": false,
+   "team": "NO",
+   "trending_adds_24h": 0
+  },
+  {
    "drop": "13276",
    "drop_name": "Omar Cooper Jr.",
    "gain_this_week": 0.0,
@@ -1980,7 +1999,7 @@
    "pid": "12469",
    "pos": "RB",
    "proj_by_week": {
-    "10": 7.85,
+    "10": 7.86,
     "11": 0.0,
     "12": 9.37,
     "13": 9.27
@@ -2008,25 +2027,6 @@
    "stream": false,
    "team": "DEN",
    "trending_adds_24h": 0
-  },
-  {
-   "drop": "11579",
-   "drop_name": "Audric Estime",
-   "gain_this_week": 0.0,
-   "gain_window": 0.7,
-   "name": "Austin Ekeler",
-   "pid": "4663",
-   "pos": "RB",
-   "proj_by_week": {
-    "10": 8.47,
-    "11": 3.39,
-    "12": 3.0,
-    "13": 3.27
-   },
-   "status": null,
-   "stream": false,
-   "team": "WAS",
-   "trending_adds_24h": 69636
   }
  ],
  "week": 10,

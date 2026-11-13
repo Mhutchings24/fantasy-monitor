@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-13T20:31:55Z UTC
+Week 10 · record 3-6 · updated 2026-11-13T20:37:00Z UTC
 
 ## Lineup check
 Current lineup projects **99.0**, best possible **104.4**.
@@ -23,9 +23,9 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Samaje Perine | RB | CIN | Audric Estime | +4.2 | +0.0 | 0 |
 | Keaton Mitchell (Questionable) | RB | LAC | Audric Estime | +4.1 | +0.0 | 0 |
 | Ty Johnson | RB | BUF | Audric Estime | +4.1 | +0.0 | 0 |
+| Alvin Kamara | RB | NO | Audric Estime | +2.8 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 0 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.5 | +0.0 | 0 |
-| Austin Ekeler | RB | WAS | Audric Estime | +0.7 | +0.0 | 69,636 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
 
@@ -37,11 +37,11 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.6 | 100% |
+| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.5 | 100% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 124.6 | 92% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 123.9 | 88% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 123.3 | 87% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 128.8 | 91% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.6 | 64% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.6 | 65% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 130.0 | 70% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 8 | 118.3 | 39% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 118.8 | 41% |
@@ -58,7 +58,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Possible** · Give Jordyn Tyson, get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.2 pts/week for you, -0.5 for them.
 - **Possible** · Give Omar Cooper Jr., get Jordan Mason from I’m stuck Step Burrow: +3.0 pts/week for you, +0.0 for them.
 - **Possible** · Give Omar Cooper Jr., get David Montgomery from Monangynecologist: +2.7 pts/week for you, -0.0 for them.
-- **Likely** · Give DJ Moore, get Breece Hall from Atticus Dean: +1.2 pts/week for you, +0.9 for them.
+- **Likely** · Give DJ Moore, get Breece Hall from Atticus Dean: +1.2 pts/week for you, +1.1 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 10 | Wk 11 | Wk 12 | Wk 13 |
