@@ -1,5 +1,5 @@
 {
- "content_hash": "70dfe9ada53fb8fe2c9aa78847757436051d43d2",
+ "content_hash": "3363547891c63d04e39eaf804f2c4c44324ac8b0",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -212,15 +212,6 @@
    "proj_this_week": 13.21,
    "status": null,
    "team": "IND"
-  },
-  {
-   "adds_24h": 148851,
-   "name": "Jordan Addison",
-   "pos": "WR",
-   "proj_4wk": 36.7,
-   "proj_this_week": 9.32,
-   "status": null,
-   "team": "MIN"
   },
   {
    "adds_24h": 98272,
@@ -727,6 +718,15 @@
    "team": "TEN"
   },
   {
+   "adds_24h": 0,
+   "name": "Noah Fant",
+   "pos": "TE",
+   "proj_4wk": 23.1,
+   "proj_this_week": 5.43,
+   "status": null,
+   "team": "NO"
+  },
+  {
    "adds_24h": 343168,
    "name": "Tutu Atwell",
    "pos": "WR",
@@ -790,6 +790,15 @@
    "team": "WAS"
   },
   {
+   "adds_24h": 64895,
+   "name": "TB D/ST",
+   "pos": "DEF",
+   "proj_4wk": 20.3,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "TB"
+  },
+  {
    "adds_24h": 55531,
    "name": "Anthony Gould",
    "pos": "WR",
@@ -808,7 +817,7 @@
    "team": "SF"
   }
  ],
- "generated_at": "2026-11-13T16:53:45Z",
+ "generated_at": "2026-11-13T16:58:49Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1022,7 +1031,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.588,
+    "first_seed_odds": 0.586,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1043,7 +1052,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.163,
+    "first_seed_odds": 0.162,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
@@ -1064,19 +1073,19 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.115,
+    "first_seed_odds": 0.118,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.879,
+    "playoff_odds": 0.885,
     "power_rank": 4,
-    "proj_avg": 124.2,
+    "proj_avg": 124.7,
     "proj_by_week": {
-     "10": 129.45,
-     "11": 111.53,
-     "12": 137.55,
-     "13": 118.31
+     "10": 129.99,
+     "11": 114.49,
+     "12": 136.35,
+     "13": 117.99
     },
     "rank": 3,
     "roster_id": 10,
@@ -1090,7 +1099,7 @@
     "mine": false,
     "pa": 1118.82,
     "pf": 1169.52,
-    "playoff_odds": 0.91,
+    "playoff_odds": 0.909,
     "power_rank": 3,
     "proj_avg": 129.2,
     "proj_by_week": {
@@ -1106,12 +1115,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.02,
+    "first_seed_odds": 0.019,
     "losses": 4,
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.642,
+    "playoff_odds": 0.641,
     "power_rank": 6,
     "proj_avg": 121.9,
     "proj_by_week": {
@@ -1132,7 +1141,7 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.705,
+    "playoff_odds": 0.704,
     "power_rank": 1,
     "proj_avg": 130.0,
     "proj_by_week": {
@@ -1153,7 +1162,7 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.391,
+    "playoff_odds": 0.395,
     "power_rank": 8,
     "proj_avg": 118.5,
     "proj_by_week": {
@@ -1174,7 +1183,7 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.408,
+    "playoff_odds": 0.409,
     "power_rank": 7,
     "proj_avg": 118.8,
     "proj_by_week": {
@@ -1195,7 +1204,7 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.145,
+    "playoff_odds": 0.138,
     "power_rank": 9,
     "proj_avg": 118.2,
     "proj_by_week": {
@@ -1580,80 +1589,6 @@
   {
    "get": [
     {
-     "name": "Rhamondre Stevenson",
-     "pid": "7611",
-     "pos": "RB",
-     "ros_per_week": 8.5,
-     "status": "Questionable",
-     "team": "NE"
-    }
-   ],
-   "give": [
-    {
-     "name": "Omar Cooper Jr.",
-     "pid": "13276",
-     "pos": "WR",
-     "ros_per_week": 8.8,
-     "status": null,
-     "team": "NYJ"
-    }
-   ],
-   "likelihood": "Likely",
-   "partner": "Atticus Dean",
-   "partner_roster_id": 10,
-   "summary": "Give Omar Cooper Jr., get Rhamondre Stevenson from Atticus Dean: +2.3 pts/week for you, +0.4 for them.",
-   "their_gain_per_week": 0.4,
-   "value_ratio": 0.97,
-   "why_them": [
-    "Omar Cooper Jr. would start 2 of 8 weeks for them",
-    "Rhamondre Stevenson only starts 4 of 8 weeks on their roster"
-   ],
-   "why_you": [
-    "Rhamondre Stevenson would start 6 of 8 weeks for you",
-    "Omar Cooper Jr. starts only 0 of 8 weeks for you"
-   ],
-   "your_gain_per_week": 2.3
-  },
-  {
-   "get": [
-    {
-     "name": "Rhamondre Stevenson",
-     "pid": "7611",
-     "pos": "RB",
-     "ros_per_week": 8.5,
-     "status": "Questionable",
-     "team": "NE"
-    }
-   ],
-   "give": [
-    {
-     "name": "Jordyn Tyson",
-     "pid": "13281",
-     "pos": "WR",
-     "ros_per_week": 10.4,
-     "status": null,
-     "team": "NO"
-    }
-   ],
-   "likelihood": "Likely",
-   "partner": "Atticus Dean",
-   "partner_roster_id": 10,
-   "summary": "Give Jordyn Tyson, get Rhamondre Stevenson from Atticus Dean: +2.2 pts/week for you, +0.5 for them.",
-   "their_gain_per_week": 0.5,
-   "value_ratio": 0.82,
-   "why_them": [
-    "Jordyn Tyson would start 2 of 8 weeks for them",
-    "Rhamondre Stevenson only starts 4 of 8 weeks on their roster"
-   ],
-   "why_you": [
-    "Rhamondre Stevenson would start 6 of 8 weeks for you",
-    "Jordyn Tyson starts only 1 of 8 weeks for you"
-   ],
-   "your_gain_per_week": 2.2
-  },
-  {
-   "get": [
-    {
      "name": "Zach Charbonnet",
      "pid": "9753",
      "pos": "RB",
@@ -1798,6 +1733,79 @@
     "Omar Cooper Jr. starts only 0 of 8 weeks for you"
    ],
    "your_gain_per_week": 3.0
+  },
+  {
+   "get": [
+    {
+     "name": "David Montgomery",
+     "pid": "5892",
+     "pos": "RB",
+     "ros_per_week": 10.2,
+     "status": "Questionable",
+     "team": "HOU"
+    }
+   ],
+   "give": [
+    {
+     "name": "Omar Cooper Jr.",
+     "pid": "13276",
+     "pos": "WR",
+     "ros_per_week": 8.8,
+     "status": null,
+     "team": "NYJ"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "Monangynecologist",
+   "partner_roster_id": 5,
+   "summary": "Give Omar Cooper Jr., get David Montgomery from Monangynecologist: +2.7 pts/week for you, -0.0 for them.",
+   "their_gain_per_week": -0.0,
+   "value_ratio": 1.17,
+   "why_them": [
+    "Omar Cooper Jr. would start 0 of 8 weeks for them",
+    "David Montgomery only starts 1 of 8 weeks on their roster"
+   ],
+   "why_you": [
+    "David Montgomery would start 7 of 8 weeks for you",
+    "Omar Cooper Jr. starts only 0 of 8 weeks for you"
+   ],
+   "your_gain_per_week": 2.7
+  },
+  {
+   "get": [
+    {
+     "name": "Breece Hall",
+     "pid": "8155",
+     "pos": "RB",
+     "ros_per_week": 10.5,
+     "status": null,
+     "team": "NYJ"
+    }
+   ],
+   "give": [
+    {
+     "name": "DJ Moore",
+     "pid": "4983",
+     "pos": "WR",
+     "ros_per_week": 13.0,
+     "status": null,
+     "team": "BUF"
+    }
+   ],
+   "likelihood": "Likely",
+   "partner": "Atticus Dean",
+   "partner_roster_id": 10,
+   "summary": "Give DJ Moore, get Breece Hall from Atticus Dean: +1.2 pts/week for you, +0.9 for them.",
+   "their_gain_per_week": 0.9,
+   "value_ratio": 0.81,
+   "why_them": [
+    "DJ Moore would start 8 of 8 weeks for them"
+   ],
+   "why_you": [
+    "Breece Hall would start 7 of 8 weeks for you",
+    "DJ Moore starts 8 of 8 weeks for you"
+   ],
+   "your_gain_per_week": 1.2
   }
  ],
  "waivers": [
