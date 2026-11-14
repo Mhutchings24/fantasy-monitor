@@ -1,5 +1,5 @@
 {
- "content_hash": "42d285d03fc6cbd9a71ea0cacf9b697dbf028d69",
+ "content_hash": "6af73b065840f75860ec43acfc47a17ae0b39fa0",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -476,21 +476,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Samaje Perine",
-   "pos": "RB",
-   "proj_4wk": 27.1,
-   "proj_this_week": 6.08,
-   "status": null,
-   "team": "CIN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Chris Godwin Jr.",
    "pos": "WR",
    "proj_4wk": 27.1,
    "proj_this_week": 0.0,
    "status": null,
    "team": "TB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Samaje Perine",
+   "pos": "RB",
+   "proj_4wk": 27.1,
+   "proj_this_week": 6.08,
+   "status": null,
+   "team": "CIN"
   },
   {
    "adds_24h": 18565,
@@ -817,7 +817,7 @@
    "team": "LAR"
   }
  ],
- "generated_at": "2026-11-14T09:10:53Z",
+ "generated_at": "2026-11-14T09:15:57Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
