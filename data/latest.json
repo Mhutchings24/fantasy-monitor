@@ -1,5 +1,5 @@
 {
- "content_hash": "920b72bc0e34b1bc1365dacdea077cf06435ca27",
+ "content_hash": "c18c70c0b1e24527dd9d20c34af8e8bee084adeb",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -476,21 +476,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Samaje Perine",
-   "pos": "RB",
-   "proj_4wk": 27.1,
-   "proj_this_week": 6.08,
-   "status": null,
-   "team": "CIN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Chris Godwin Jr.",
    "pos": "WR",
    "proj_4wk": 27.1,
    "proj_this_week": 0.0,
    "status": null,
    "team": "TB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Samaje Perine",
+   "pos": "RB",
+   "proj_4wk": 27.1,
+   "proj_this_week": 6.08,
+   "status": null,
+   "team": "CIN"
   },
   {
    "adds_24h": 20135,
@@ -673,15 +673,6 @@
    "team": "CAR"
   },
   {
-   "adds_24h": 17088,
-   "name": "AJ Barner",
-   "pos": "TE",
-   "proj_4wk": 23.7,
-   "proj_this_week": 7.73,
-   "status": null,
-   "team": "SEA"
-  },
-  {
    "adds_24h": 0,
    "name": "DET D/ST",
    "pos": "DEF",
@@ -689,6 +680,15 @@
    "proj_this_week": 5.64,
    "status": null,
    "team": "DET"
+  },
+  {
+   "adds_24h": 17088,
+   "name": "AJ Barner",
+   "pos": "TE",
+   "proj_4wk": 23.7,
+   "proj_this_week": 7.73,
+   "status": null,
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -817,7 +817,7 @@
    "team": "LAR"
   }
  ],
- "generated_at": "2026-11-14T14:16:22Z",
+ "generated_at": "2026-11-14T14:21:26Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
