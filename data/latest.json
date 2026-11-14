@@ -1,5 +1,5 @@
 {
- "content_hash": "eb0de10425c479f8b8bafc51adce6460bfd5a5fa",
+ "content_hash": "d27e027b5b1ef52dbccca80af0a5adb92793e148",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -11,7 +11,7 @@
    "name": "Aaron Rodgers",
    "pos": "QB",
    "proj_4wk": 64.6,
-   "proj_this_week": 17.67,
+   "proj_this_week": 17.63,
    "status": null,
    "team": "PIT"
   },
@@ -29,7 +29,7 @@
    "name": "Justin Herbert",
    "pos": "QB",
    "proj_4wk": 58.0,
-   "proj_this_week": 13.89,
+   "proj_this_week": 13.88,
    "status": null,
    "team": "LAC"
   },
@@ -74,7 +74,7 @@
    "name": "Kyle McCord",
    "pos": "QB",
    "proj_4wk": 48.6,
-   "proj_this_week": 12.01,
+   "proj_this_week": 12.0,
    "status": null,
    "team": "MIA"
   },
@@ -101,7 +101,7 @@
    "name": "Michael Penix Jr.",
    "pos": "QB",
    "proj_4wk": 45.8,
-   "proj_this_week": 15.34,
+   "proj_this_week": 15.3,
    "status": null,
    "team": "ATL"
   },
@@ -191,7 +191,7 @@
    "name": "Malik Washington",
    "pos": "WR",
    "proj_4wk": 38.1,
-   "proj_this_week": 9.43,
+   "proj_this_week": 9.42,
    "status": null,
    "team": "MIA"
   },
@@ -389,7 +389,7 @@
    "name": "Greg Dulcich",
    "pos": "TE",
    "proj_4wk": 29.1,
-   "proj_this_week": 7.68,
+   "proj_this_week": 7.67,
    "status": null,
    "team": "MIA"
   },
@@ -398,7 +398,7 @@
    "name": "Quentin Johnston",
    "pos": "WR",
    "proj_4wk": 29.1,
-   "proj_this_week": 6.92,
+   "proj_this_week": 6.91,
    "status": null,
    "team": "LAC"
   },
@@ -476,21 +476,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Samaje Perine",
-   "pos": "RB",
-   "proj_4wk": 27.1,
-   "proj_this_week": 6.08,
-   "status": null,
-   "team": "CIN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Chris Godwin Jr.",
    "pos": "WR",
    "proj_4wk": 27.1,
    "proj_this_week": 0.0,
    "status": null,
    "team": "TB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Samaje Perine",
+   "pos": "RB",
+   "proj_4wk": 27.1,
+   "proj_this_week": 6.08,
+   "status": null,
+   "team": "CIN"
   },
   {
    "adds_24h": 21595,
@@ -578,7 +578,7 @@
    "name": "Keaton Mitchell",
    "pos": "RB",
    "proj_4wk": 25.3,
-   "proj_this_week": 5.21,
+   "proj_this_week": 5.23,
    "status": "Questionable",
    "team": "LAC"
   },
@@ -826,7 +826,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-14T19:58:07Z",
+ "generated_at": "2026-11-14T20:03:12Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1040,7 +1040,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.594,
+    "first_seed_odds": 0.593,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1061,7 +1061,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.168,
+    "first_seed_odds": 0.167,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
@@ -1112,7 +1112,7 @@
     "power_rank": 3,
     "proj_avg": 128.8,
     "proj_by_week": {
-     "10": 131.14,
+     "10": 131.31,
      "11": 132.44,
      "12": 137.55,
      "13": 114.02
@@ -1129,7 +1129,7 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.653,
+    "playoff_odds": 0.654,
     "power_rank": 6,
     "proj_avg": 122.0,
     "proj_by_week": {
@@ -1192,11 +1192,11 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.399,
+    "playoff_odds": 0.401,
     "power_rank": 7,
-    "proj_avg": 118.7,
+    "proj_avg": 118.8,
     "proj_by_week": {
-     "10": 124.23,
+     "10": 124.61,
      "11": 103.02,
      "12": 123.24,
      "13": 124.44
@@ -1213,7 +1213,7 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.137,
+    "playoff_odds": 0.135,
     "power_rank": 9,
     "proj_avg": 118.4,
     "proj_by_week": {
@@ -1960,7 +1960,7 @@
    "pid": "9511",
    "pos": "RB",
    "proj_by_week": {
-    "10": 5.21,
+    "10": 5.23,
     "11": 6.81,
     "12": 6.93,
     "13": 6.33

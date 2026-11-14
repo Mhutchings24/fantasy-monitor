@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-14T19:58:07Z UTC
+Week 10 · record 3-6 · updated 2026-11-14T20:03:12Z UTC
 
 ## Lineup check
 Current lineup projects **99.0**, best possible **104.4**.
@@ -44,7 +44,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 122.0 | 65% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 131.4 | 72% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 8 | 118.5 | 39% |
-| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 118.7 | 40% |
+| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 118.8 | 40% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 118.4 | 14% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 101.5 | 0% |
 
