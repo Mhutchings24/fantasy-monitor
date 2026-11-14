@@ -1,11 +1,11 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-14T22:56:10Z UTC
+Week 10 · record 3-6 · updated 2026-11-14T23:06:17Z UTC
 
 ## Lineup check
-Current lineup projects **98.9**, best possible **104.4**.
+Current lineup projects **98.7**, best possible **104.4**.
 
-- 🔁 Start Corey Kiner (RB, NE) (11.8) over Jordyn Tyson (WR, NO) (8.1)
-- 🔁 Start Rico Dowdle (RB, PIT) (10.0) over Audric Estime (RB, NO) (8.2)
+- 🔁 Start Corey Kiner (RB, NE) (11.8) over Jordyn Tyson (WR, NO) (8.0)
+- 🔁 Start Rico Dowdle (RB, PIT) (10.0) over Audric Estime (RB, NO) (8.1)
 
 ## Waiver targets
 FAAB left: **$78** (league starting budget $100)
@@ -15,22 +15,22 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +10.3 | +0.0 | 0 |
-| Zonovan Knight | RB | ARI | Audric Estime | +6.7 | +0.0 | 48,790 |
+| Zonovan Knight | RB | ARI | Audric Estime | +6.7 | +0.0 | 49,210 |
 | Kimani Vidal | RB | LAC | Audric Estime | +4.8 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 154,179 |
+| Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +4.5 | +0.0 | 0 |
+| Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 155,529 |
 | Samaje Perine | RB | CIN | Audric Estime | +4.1 | +0.0 | 0 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +4.1 | +0.0 | 0 |
 | Ty Johnson | RB | BUF | Audric Estime | +3.5 | +0.0 | 0 |
-| Seth McGowan | RB | IND | Audric Estime | +3.4 | +0.0 | 25,168 |
+| Seth McGowan | RB | IND | Audric Estime | +3.4 | +0.0 | 25,472 |
 | Alvin Kamara | RB | NO | Audric Estime | +2.8 | +0.0 | 0 |
-| Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 25,765 |
+| Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 25,935 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +0.4 | +0.0 | 20,508 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **98.9** – 112.4 projected · win chance **35%**
+vs **Never Going Go Scottsdale** (4-5): you **98.7** – 112.4 projected · win chance **35%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -42,9 +42,9 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 124.5 | 87% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 129.1 | 91% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 122.0 | 64% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 131.2 | 70% |
-| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 8 | 118.7 | 39% |
-| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 9 | 118.6 | 40% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 131.3 | 70% |
+| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 118.7 | 39% |
+| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 118.7 | 40% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 120.5 | 16% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 101.4 | 0% |
 
@@ -53,7 +53,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 
 - **Likely** · Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +4.0 pts/week for you, +0.5 for them.
 - **Possible** · Give Omar Cooper Jr., get Jonah Coleman from Glizzy Globbler : +4.1 pts/week for you, +0.5 for them.
-- **Possible** · Give Jordyn Tyson, get Tony Pollard from I’m stuck Step Burrow: +3.9 pts/week for you, -0.4 for them.
+- **Possible** · Give Jordyn Tyson, get Tony Pollard from I’m stuck Step Burrow: +3.8 pts/week for you, -0.4 for them.
 - **Possible** · Give Omar Cooper Jr., get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.3 pts/week for you, -0.5 for them.
 - **Possible** · Give Jordyn Tyson, get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.2 pts/week for you, -0.5 for them.
 - **Possible** · Give Omar Cooper Jr., get Jordan Mason from I’m stuck Step Burrow: +3.0 pts/week for you, -0.2 for them.
@@ -67,11 +67,11 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Matt Gay | K | LV | starter |  | 7.9 | 7.6 | 8.5 | 0.0 |
 | Jared Goff | QB | DET | starter |  | 18.4 | 17.1 | 21.2 | 18.3 |
 | Quinshon Judkins | RB | CLE | starter |  | 9.9 | 0.0 | 11.9 | 11.8 |
-| Audric Estime | RB | NO | starter |  | 8.2 | 2.7 | 3.0 | 2.8 |
+| Audric Estime | RB | NO | starter |  | 8.1 | 2.7 | 3.0 | 2.8 |
 | George Kittle | TE | SF | starter |  | 15.3 | 12.9 | 14.2 | 15.1 |
 | DJ Moore | WR | BUF | starter |  | 12.2 | 13.9 | 12.2 | 13.1 |
 | Stefon Diggs | WR | WAS | starter |  | 10.2 | 13.1 | 13.3 | 13.1 |
-| Jordyn Tyson | WR | NO | starter |  | 8.1 | 10.7 | 11.2 | 10.5 |
+| Jordyn Tyson | WR | NO | starter |  | 8.0 | 10.7 | 11.2 | 10.5 |
 | Corey Kiner | RB | NE | bench |  | 11.8 | 0.0 | 7.1 | 6.6 |
 | Rico Dowdle | RB | PIT | bench |  | 10.0 | 8.4 | 7.8 | 8.2 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 0.0 | 11.0 | 16.3 |
