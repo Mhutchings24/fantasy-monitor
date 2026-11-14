@@ -1,11 +1,11 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-14T04:53:45Z UTC
+Week 10 · record 3-6 · updated 2026-11-14T04:58:51Z UTC
 
 ## Lineup check
 Current lineup projects **99.0**, best possible **104.4**.
 
 - 🔁 Start Corey Kiner (RB, NE) (11.8) over Jordyn Tyson (WR, NO) (8.1)
-- 🔁 Start Rico Dowdle (RB, PIT) (10.0) over Audric Estime (RB, NO) (8.2)
+- 🔁 Start Rico Dowdle (RB, PIT) (9.9) over Audric Estime (RB, NO) (8.2)
 
 ## Waiver targets
 FAAB left: **$78** (league starting budget $100)
@@ -16,14 +16,14 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 |---|---|---|---|---|---|---|
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +10.2 | +0.0 | 0 |
 | Devin Singletary | RB | NYG | Audric Estime | +6.9 | +0.0 | 0 |
-| Zonovan Knight | RB | ARI | Audric Estime | +6.6 | +0.0 | 28,202 |
+| Zonovan Knight | RB | ARI | Audric Estime | +6.6 | +0.0 | 28,332 |
 | Kimani Vidal | RB | LAC | Audric Estime | +4.6 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +4.3 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +4.2 | +0.0 | 114,129 |
+| Justice Hill | RB | BAL | Audric Estime | +4.2 | +0.0 | 114,516 |
 | Samaje Perine | RB | CIN | Audric Estime | +4.0 | +0.0 | 0 |
 | Keaton Mitchell (Questionable) | RB | LAC | Audric Estime | +3.9 | +0.0 | 0 |
 | Ty Johnson | RB | BUF | Audric Estime | +3.8 | +0.0 | 0 |
-| Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 19,095 |
+| Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 19,190 |
 | Alvin Kamara | RB | NO | Audric Estime | +2.7 | +0.0 | 0 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.7 | +0.0 | 0 |
 
@@ -38,7 +38,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.3 | 100% |
-| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 125.1 | 93% |
+| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 125.0 | 93% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 123.4 | 87% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 128.6 | 90% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.7 | 65% |
@@ -73,7 +73,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Stefon Diggs | WR | WAS | starter |  | 10.2 | 13.1 | 13.3 | 13.1 |
 | Jordyn Tyson | WR | NO | starter |  | 8.1 | 9.9 | 11.2 | 10.5 |
 | Corey Kiner | RB | NE | bench |  | 11.8 | 0.0 | 5.1 | 4.7 |
-| Rico Dowdle | RB | PIT | bench |  | 10.0 | 8.4 | 7.8 | 8.2 |
+| Rico Dowdle | RB | PIT | bench |  | 9.9 | 8.4 | 7.8 | 8.2 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 0.0 | 11.0 | 16.3 |
 | Omar Cooper Jr. | WR | NYJ | bench | Questionable | 7.3 | 10.3 | 11.2 | 0.0 |
 | Keenan Allen | WR | SF | bench |  | 6.4 | 5.6 | 6.1 | 6.6 |
