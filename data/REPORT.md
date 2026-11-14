@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-14T23:26:43Z UTC
+Week 10 · record 3-6 · updated 2026-11-14T23:31:48Z UTC
 
 ## Lineup check
-Current lineup projects **98.7**, best possible **104.4**.
+Current lineup projects **98.8**, best possible **104.4**.
 
 - 🔁 Start Corey Kiner (RB, NE) (11.8) over Jordyn Tyson (WR, NO) (8.0)
 - 🔁 Start Rico Dowdle (RB, PIT) (10.0) over Audric Estime (RB, NO) (8.1)
@@ -27,10 +27,10 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 26,430 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
 
-**K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
+**K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.3 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **98.7** – 112.4 projected · win chance **35%**
+vs **Never Going Go Scottsdale** (4-5): you **98.8** – 112.4 projected · win chance **35%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -43,9 +43,9 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 129.1 | 91% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 122.0 | 64% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 131.3 | 70% |
-| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 118.7 | 39% |
-| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 118.7 | 40% |
-| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 120.5 | 16% |
+| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 8 | 118.7 | 39% |
+| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 9 | 118.5 | 40% |
+| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 120.5 | 17% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 101.4 | 0% |
 
 ## Trade ideas
@@ -64,7 +64,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Player | Pos | Team | Spot | Status | Wk 10 | Wk 11 | Wk 12 | Wk 13 |
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter |  | 8.7 | 0.0 | 5.9 | 6.1 |
-| Matt Gay | K | LV | starter |  | 7.9 | 7.6 | 8.5 | 0.0 |
+| Matt Gay | K | LV | starter |  | 8.0 | 7.6 | 8.5 | 0.0 |
 | Jared Goff | QB | DET | starter |  | 18.4 | 17.1 | 21.2 | 18.3 |
 | Quinshon Judkins | RB | CLE | starter |  | 9.9 | 0.0 | 11.9 | 11.8 |
 | Audric Estime | RB | NO | starter |  | 8.1 | 2.7 | 3.0 | 2.8 |

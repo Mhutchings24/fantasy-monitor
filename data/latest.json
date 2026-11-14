@@ -1,5 +1,5 @@
 {
- "content_hash": "1a6c056e743a80f141b4d967e08b58b1802c4861",
+ "content_hash": "ba4c5952135efd7c5f7d41666cd080bebcc64a8e",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -74,7 +74,7 @@
    "name": "Kyle McCord",
    "pos": "QB",
    "proj_4wk": 48.6,
-   "proj_this_week": 11.97,
+   "proj_this_week": 11.96,
    "status": null,
    "team": "MIA"
   },
@@ -100,8 +100,8 @@
    "adds_24h": 0,
    "name": "Michael Penix Jr.",
    "pos": "QB",
-   "proj_4wk": 45.8,
-   "proj_this_week": 15.34,
+   "proj_4wk": 45.6,
+   "proj_this_week": 15.07,
    "status": null,
    "team": "ATL"
   },
@@ -191,7 +191,7 @@
    "name": "Malik Washington",
    "pos": "WR",
    "proj_4wk": 38.1,
-   "proj_this_week": 9.43,
+   "proj_this_week": 9.42,
    "status": null,
    "team": "MIA"
   },
@@ -218,7 +218,7 @@
    "name": "Caleb Douglas",
    "pos": "WR",
    "proj_4wk": 36.9,
-   "proj_this_week": 9.26,
+   "proj_this_week": 9.25,
    "status": null,
    "team": "MIA"
   },
@@ -316,8 +316,8 @@
    "adds_24h": 0,
    "name": "Eddy Pineiro",
    "pos": "K",
-   "proj_4wk": 31.7,
-   "proj_this_week": 8.24,
+   "proj_4wk": 31.4,
+   "proj_this_week": 7.97,
    "status": null,
    "team": "SF"
   },
@@ -350,21 +350,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Harrison Butker",
+   "name": "Joey Slye",
    "pos": "K",
-   "proj_4wk": 29.7,
-   "proj_this_week": 7.44,
+   "proj_4wk": 29.4,
+   "proj_this_week": 7.04,
    "status": null,
-   "team": "KC"
+   "team": "TEN"
   },
   {
    "adds_24h": 0,
-   "name": "Joey Slye",
+   "name": "Harrison Butker",
    "pos": "K",
    "proj_4wk": 29.3,
-   "proj_this_week": 6.91,
+   "proj_this_week": 7.02,
    "status": null,
-   "team": "TEN"
+   "team": "KC"
   },
   {
    "adds_24h": 0,
@@ -398,7 +398,7 @@
    "name": "Greg Dulcich",
    "pos": "TE",
    "proj_4wk": 29.1,
-   "proj_this_week": 7.68,
+   "proj_this_week": 7.67,
    "status": null,
    "team": "MIA"
   },
@@ -548,6 +548,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Zane Gonzalez",
+   "pos": "K",
+   "proj_4wk": 26.0,
+   "proj_this_week": 6.73,
+   "status": null,
+   "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
    "name": "Treylon Burks",
    "pos": "WR",
    "proj_4wk": 25.9,
@@ -557,12 +566,12 @@
   },
   {
    "adds_24h": 0,
-   "name": "Zane Gonzalez",
-   "pos": "K",
+   "name": "Kyle Pitts Sr.",
+   "pos": "TE",
    "proj_4wk": 25.8,
-   "proj_this_week": 6.55,
+   "proj_this_week": 9.22,
    "status": null,
-   "team": "MIA"
+   "team": "ATL"
   },
   {
    "adds_24h": 111519,
@@ -572,15 +581,6 @@
    "proj_this_week": 8.63,
    "status": null,
    "team": "LAR"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Kyle Pitts Sr.",
-   "pos": "TE",
-   "proj_4wk": 25.2,
-   "proj_this_week": 8.58,
-   "status": null,
-   "team": "ATL"
   },
   {
    "adds_24h": 0,
@@ -647,6 +647,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Tyjae Spears",
+   "pos": "RB",
+   "proj_4wk": 23.7,
+   "proj_this_week": 4.84,
+   "status": "Questionable",
+   "team": "TEN"
+  },
+  {
+   "adds_24h": 0,
    "name": "AJ Barner",
    "pos": "TE",
    "proj_4wk": 23.7,
@@ -662,15 +671,6 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "DEN"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Tyjae Spears",
-   "pos": "RB",
-   "proj_4wk": 23.6,
-   "proj_this_week": 4.71,
-   "status": "Questionable",
-   "team": "TEN"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-14T23:26:43Z",
+ "generated_at": "2026-11-14T23:31:48Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -898,7 +898,7 @@
    {
     "name": "Matt Gay",
     "pid": "6083",
-    "proj": 7.92,
+    "proj": 7.99,
     "slot": "K"
    },
    {
@@ -908,8 +908,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 104.36,
-  "current_projected": 98.7,
+  "best_projected": 104.43,
+  "current_projected": 98.77,
   "gain": 5.66,
   "problems": [],
   "source": "matchup week 10",
@@ -1019,12 +1019,12 @@
    "week": 9
   },
   "matchup": {
-   "my_proj": 98.7,
+   "my_proj": 98.8,
    "opp_best_possible": 112.37,
    "opp_proj": 112.4,
    "opponent": "Never Going Go Scottsdale",
    "opponent_record": "4-5",
-   "win_prob": 0.349
+   "win_prob": 0.35
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1171,8 +1171,8 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.392,
-    "power_rank": 9,
+    "playoff_odds": 0.393,
+    "power_rank": 8,
     "proj_avg": 118.7,
     "proj_by_week": {
      "10": 112.37,
@@ -1192,11 +1192,11 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.401,
-    "power_rank": 8,
-    "proj_avg": 118.7,
+    "playoff_odds": 0.399,
+    "power_rank": 9,
+    "proj_avg": 118.5,
     "proj_by_week": {
-     "10": 124.83,
+     "10": 124.31,
      "11": 102.88,
      "12": 123.24,
      "13": 123.77
@@ -1213,7 +1213,7 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.164,
+    "playoff_odds": 0.166,
     "power_rank": 7,
     "proj_avg": 120.5,
     "proj_by_week": {
@@ -1238,7 +1238,7 @@
     "power_rank": 10,
     "proj_avg": 101.4,
     "proj_by_week": {
-     "10": 104.36,
+     "10": 104.43,
      "11": 89.48,
      "12": 109.93,
      "13": 101.66
@@ -1274,7 +1274,7 @@
    "pid": "6083",
    "pos": "K",
    "proj_by_week": {
-    "10": 7.92,
+    "10": 7.99,
     "11": 7.56,
     "12": 8.49,
     "13": 0.0
@@ -1498,8 +1498,8 @@
   {
    "drop": "6083",
    "drop_name": "Matt Gay",
-   "gain_this_week": 0.41,
-   "gain_window": 0.41,
+   "gain_this_week": 0.34,
+   "gain_window": 0.34,
    "name": "Ryan Fitzgerald",
    "pid": "12961",
    "pos": "K",
@@ -1884,7 +1884,7 @@
    "pid": "9508",
    "pos": "RB",
    "proj_by_week": {
-    "10": 4.71,
+    "10": 4.84,
     "11": 7.22,
     "12": 6.15,
     "13": 5.51
