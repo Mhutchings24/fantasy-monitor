@@ -1,5 +1,5 @@
 {
- "content_hash": "fbdc7eebf41bb7caaa746015b368ef172a0bb8e9",
+ "content_hash": "e90719215e187818ffe1f6d403e599f5e09afe56",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -11,7 +11,7 @@
    "name": "Aaron Rodgers",
    "pos": "QB",
    "proj_4wk": 64.6,
-   "proj_this_week": 17.68,
+   "proj_this_week": 17.67,
    "status": null,
    "team": "PIT"
   },
@@ -476,21 +476,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Chris Godwin Jr.",
-   "pos": "WR",
-   "proj_4wk": 27.1,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "TB"
-  },
-  {
-   "adds_24h": 0,
    "name": "Samaje Perine",
    "pos": "RB",
    "proj_4wk": 27.1,
    "proj_this_week": 6.08,
    "status": null,
    "team": "CIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chris Godwin Jr.",
+   "pos": "WR",
+   "proj_4wk": 27.1,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "TB"
   },
   {
    "adds_24h": 21695,
@@ -817,7 +817,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-14T16:28:30Z",
+ "generated_at": "2026-11-14T16:28:45Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1040,7 +1040,7 @@
     "power_rank": 2,
     "proj_avg": 130.1,
     "proj_by_week": {
-     "10": 132.46,
+     "10": 132.45,
      "11": 126.86,
      "12": 136.34,
      "13": 124.74
@@ -1124,7 +1124,7 @@
     "power_rank": 6,
     "proj_avg": 122.0,
     "proj_by_week": {
-     "10": 129.18,
+     "10": 129.19,
      "11": 117.12,
      "12": 130.38,
      "13": 111.23
@@ -1187,7 +1187,7 @@
     "power_rank": 7,
     "proj_avg": 119.0,
     "proj_by_week": {
-     "10": 124.41,
+     "10": 124.42,
      "11": 103.9,
      "12": 123.24,
      "13": 124.44
