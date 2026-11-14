@@ -1,5 +1,5 @@
 {
- "content_hash": "b8e2cd701c3fe698c74598c4263122a6f79b353c",
+ "content_hash": "e4b9a671e2e575007ccd4080fbaf9134f6c6f8d0",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -128,7 +128,7 @@
    "name": "Khalil Shakir",
    "pos": "WR",
    "proj_4wk": 40.3,
-   "proj_this_week": 10.18,
+   "proj_this_week": 10.17,
    "status": null,
    "team": "BUF"
   },
@@ -505,8 +505,8 @@
    "adds_24h": 0,
    "name": "Xavier Worthy",
    "pos": "WR",
-   "proj_4wk": 26.6,
-   "proj_this_week": 8.0,
+   "proj_4wk": 26.9,
+   "proj_this_week": 8.23,
    "status": null,
    "team": "KC"
   },
@@ -593,21 +593,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Ty Johnson",
-   "pos": "RB",
-   "proj_4wk": 24.8,
-   "proj_this_week": 5.64,
-   "status": null,
-   "team": "BUF"
-  },
-  {
-   "adds_24h": 0,
    "name": "WAS D/ST",
    "pos": "DEF",
    "proj_4wk": 24.7,
    "proj_this_week": 6.44,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Ty Johnson",
+   "pos": "RB",
+   "proj_4wk": 24.6,
+   "proj_this_week": 5.45,
+   "status": null,
+   "team": "BUF"
   },
   {
    "adds_24h": 0,
@@ -674,21 +674,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "DET D/ST",
-   "pos": "DEF",
-   "proj_4wk": 23.7,
-   "proj_this_week": 5.64,
-   "status": null,
-   "team": "DET"
-  },
-  {
-   "adds_24h": 0,
    "name": "AJ Barner",
    "pos": "TE",
    "proj_4wk": 23.7,
    "proj_this_week": 7.73,
    "status": null,
    "team": "SEA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "DET D/ST",
+   "pos": "DEF",
+   "proj_4wk": 23.7,
+   "proj_this_week": 5.64,
+   "status": null,
+   "team": "DET"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-14T19:27:25Z",
+ "generated_at": "2026-11-14T19:32:29Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -874,7 +874,7 @@
    {
     "name": "DJ Moore",
     "pid": "4983",
-    "proj": 12.23,
+    "proj": 12.22,
     "slot": "WR"
    },
    {
@@ -908,8 +908,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 104.43,
-  "current_projected": 98.97,
+  "best_projected": 104.42,
+  "current_projected": 98.96,
   "gain": 5.46,
   "problems": [],
   "source": "matchup week 10",
@@ -1040,16 +1040,16 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.587,
+    "first_seed_odds": 0.594,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
     "pf": 1250.86,
     "playoff_odds": 0.995,
     "power_rank": 2,
-    "proj_avg": 129.6,
+    "proj_avg": 129.7,
     "proj_by_week": {
-     "10": 132.81,
+     "10": 133.27,
      "11": 124.48,
      "12": 136.34,
      "13": 124.74
@@ -1061,7 +1061,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.17,
+    "first_seed_odds": 0.168,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
@@ -1070,7 +1070,7 @@
     "power_rank": 4,
     "proj_avg": 125.2,
     "proj_by_week": {
-     "10": 125.95,
+     "10": 125.89,
      "11": 120.51,
      "12": 126.63,
      "13": 127.9
@@ -1082,16 +1082,16 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.109,
+    "first_seed_odds": 0.104,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.876,
+    "playoff_odds": 0.873,
     "power_rank": 5,
-    "proj_avg": 123.8,
+    "proj_avg": 123.5,
     "proj_by_week": {
-     "10": 126.07,
+     "10": 124.9,
      "11": 114.8,
      "12": 136.35,
      "13": 117.99
@@ -1112,7 +1112,7 @@
     "power_rank": 3,
     "proj_avg": 128.8,
     "proj_by_week": {
-     "10": 131.08,
+     "10": 131.14,
      "11": 132.44,
      "12": 137.55,
      "13": 114.02
@@ -1129,7 +1129,7 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.651,
+    "playoff_odds": 0.653,
     "power_rank": 6,
     "proj_avg": 122.0,
     "proj_by_week": {
@@ -1145,16 +1145,16 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.01,
+    "first_seed_odds": 0.011,
     "losses": 5,
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.713,
+    "playoff_odds": 0.716,
     "power_rank": 1,
-    "proj_avg": 131.2,
+    "proj_avg": 131.4,
     "proj_by_week": {
-     "10": 124.54,
+     "10": 125.33,
      "11": 123.14,
      "12": 141.22,
      "13": 135.8
@@ -1171,7 +1171,7 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.394,
+    "playoff_odds": 0.393,
     "power_rank": 8,
     "proj_avg": 118.5,
     "proj_by_week": {
@@ -1187,16 +1187,16 @@
     "wins": 4
    },
    {
-    "first_seed_odds": 0.003,
+    "first_seed_odds": 0.004,
     "losses": 5,
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.4,
+    "playoff_odds": 0.399,
     "power_rank": 7,
     "proj_avg": 118.7,
     "proj_by_week": {
-     "10": 124.19,
+     "10": 124.23,
      "11": 103.02,
      "12": 123.24,
      "13": 124.44
@@ -1238,7 +1238,7 @@
     "power_rank": 10,
     "proj_avg": 101.5,
     "proj_by_week": {
-     "10": 104.43,
+     "10": 104.42,
      "11": 89.31,
      "12": 109.84,
      "13": 102.29
@@ -1349,7 +1349,7 @@
    "pid": "4983",
    "pos": "WR",
    "proj_by_week": {
-    "10": 12.23,
+    "10": 12.22,
     "11": 13.81,
     "12": 12.2,
     "13": 13.11
@@ -1804,7 +1804,7 @@
    "likelihood": "Likely",
    "partner": "Atticus Dean",
    "partner_roster_id": 10,
-   "summary": "Give DJ Moore, get Breece Hall from Atticus Dean: +1.1 pts/week for you, +1.0 for them.",
+   "summary": "Give DJ Moore, get Breece Hall from Atticus Dean: +1.2 pts/week for you, +1.0 for them.",
    "their_gain_per_week": 1.0,
    "value_ratio": 0.81,
    "why_them": [
@@ -1814,7 +1814,7 @@
     "Breece Hall would start 7 of 8 weeks for you",
     "DJ Moore starts 8 of 8 weeks for you"
    ],
-   "your_gain_per_week": 1.1
+   "your_gain_per_week": 1.2
   }
  ],
  "waivers": [
@@ -1979,7 +1979,7 @@
    "pid": "6039",
    "pos": "RB",
    "proj_by_week": {
-    "10": 5.64,
+    "10": 5.45,
     "11": 6.74,
     "12": 5.91,
     "13": 6.46
