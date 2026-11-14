@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-14T20:28:38Z UTC
+Week 10 · record 3-6 · updated 2026-11-14T20:33:43Z UTC
 
 ## Lineup check
-Current lineup projects **99.0**, best possible **104.4**.
+Current lineup projects **98.9**, best possible **104.4**.
 
 - 🔁 Start Corey Kiner (RB, NE) (11.8) over Jordyn Tyson (WR, NO) (8.1)
 - 🔁 Start Rico Dowdle (RB, PIT) (10.0) over Audric Estime (RB, NO) (8.2)
@@ -30,7 +30,7 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **99.0** – 112.4 projected · win chance **35%**
+vs **Never Going Go Scottsdale** (4-5): you **98.9** – 112.4 projected · win chance **35%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
