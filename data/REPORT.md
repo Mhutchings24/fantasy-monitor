@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-14T16:33:50Z UTC
+Week 10 · record 3-6 · updated 2026-11-14T16:38:55Z UTC
 
 ## Lineup check
 Current lineup projects **99.0**, best possible **104.4**.
@@ -16,16 +16,16 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 |---|---|---|---|---|---|---|
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +10.4 | +0.0 | 0 |
 | Devin Singletary | RB | NYG | Audric Estime | +7.2 | +0.0 | 0 |
-| Zonovan Knight | RB | ARI | Audric Estime | +6.9 | +0.0 | 28,636 |
+| Zonovan Knight | RB | ARI | Audric Estime | +6.9 | +0.0 | 28,514 |
 | Kimani Vidal | RB | LAC | Audric Estime | +4.9 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +4.5 | +0.0 | 86,544 |
+| Justice Hill | RB | BAL | Audric Estime | +4.5 | +0.0 | 82,872 |
 | Samaje Perine | RB | CIN | Audric Estime | +4.2 | +0.0 | 0 |
 | Keaton Mitchell (Questionable) | RB | LAC | Audric Estime | +4.2 | +0.0 | 0 |
 | Ty Johnson | RB | BUF | Audric Estime | +3.9 | +0.0 | 0 |
 | Alvin Kamara | RB | NO | Audric Estime | +2.9 | +0.0 | 0 |
-| Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 0 |
+| Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 15,535 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
-| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +0.3 | +0.3 | 53,685 |
+| Khalil Shakir | WR | BUF | Omar Cooper Jr. | +0.3 | +0.3 | 51,192 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
 
@@ -39,9 +39,9 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 130.1 | 100% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 125.0 | 92% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 123.4 | 88% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 6 | 121.8 | 86% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 128.8 | 91% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 122.0 | 66% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 5 | 122.0 | 67% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 130.2 | 70% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 8 | 119.0 | 40% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 119.0 | 40% |
@@ -57,7 +57,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Possible** · Give Omar Cooper Jr., get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.3 pts/week for you, -0.5 for them.
 - **Possible** · Give Jordyn Tyson, get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.2 pts/week for you, -0.5 for them.
 - **Possible** · Give Omar Cooper Jr., get Jordan Mason from I’m stuck Step Burrow: +3.0 pts/week for you, +0.0 for them.
-- **Likely** · Give DJ Moore, get Breece Hall from Atticus Dean: +1.3 pts/week for you, +0.9 for them.
+- **Likely** · Give DJ Moore, get Breece Hall from Atticus Dean: +1.3 pts/week for you, +0.8 for them.
 - **Possible** · Give Omar Cooper Jr., get David Montgomery from Monangynecologist: +2.7 pts/week for you, -0.0 for them.
 
 ## Roster
