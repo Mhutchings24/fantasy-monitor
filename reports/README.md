@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 10
+- [Sat Nov 14 · AM](2026/week-10/2026-11-14-am.md) — No Saturday news changes the plan; swaps still not made: Dowdle over Estime (High) and Kiner over Tyson (Medium, swap to Tyson if Stevenson is active at ~6 AM MT Sun); Boswell for Gay ($0) today.
 - [Fri Nov 13 · PM](2026/week-10/2026-11-13-pm.md) — Stevenson only Q: start Kiner but swap to Tyson if he's active (inactives ~6 AM MT, lock 7:30); Etienne full Fri, so Dowdle over Estime (High); Boswell for Gay ($0).
 - [Fri Nov 13 · Flash 23:06](2026/week-10/2026-11-13-flash-2306.md) — Evans (Achilles) ruled out at DAL but he's benched; hold him for Wk 11. Swaps still not made: Kiner over Tyson before Sun 7:30 AM MT, Dowdle over Estime before 11 AM MT.
 - [Fri Nov 13 · Flash 22:10](2026/week-10/2026-11-13-flash-2210.md) — Cooper re-tagged Q (ankle, full Fri, likely plays) but stays benched; swaps still not made: Kiner over Tyson before Sun 7:30 AM MT, Dowdle over Estime before 11 AM MT.
