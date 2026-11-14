@@ -1,5 +1,5 @@
 {
- "content_hash": "cb64bb560e6c44572e79900941f8321f4c5ae142",
+ "content_hash": "9d9739fa4649ecf786feecaaffad0989a787cf02",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -92,7 +92,7 @@
    "name": "Deshaun Watson",
    "pos": "QB",
    "proj_4wk": 46.6,
-   "proj_this_week": 14.89,
+   "proj_this_week": 14.93,
    "status": null,
    "team": "CLE"
   },
@@ -272,7 +272,7 @@
    "name": "Dalton Schultz",
    "pos": "TE",
    "proj_4wk": 32.5,
-   "proj_this_week": 7.68,
+   "proj_this_week": 7.71,
    "status": null,
    "team": "HOU"
   },
@@ -476,21 +476,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Samaje Perine",
-   "pos": "RB",
-   "proj_4wk": 27.1,
-   "proj_this_week": 6.08,
-   "status": null,
-   "team": "CIN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Chris Godwin Jr.",
    "pos": "WR",
    "proj_4wk": 27.1,
    "proj_this_week": 0.0,
    "status": null,
    "team": "TB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Samaje Perine",
+   "pos": "RB",
+   "proj_4wk": 27.1,
+   "proj_this_week": 6.08,
+   "status": null,
+   "team": "CIN"
   },
   {
    "adds_24h": 0,
@@ -506,7 +506,7 @@
    "name": "Dylan Sampson",
    "pos": "RB",
    "proj_4wk": 26.4,
-   "proj_this_week": 7.8,
+   "proj_this_week": 7.81,
    "status": null,
    "team": "CLE"
   },
@@ -674,21 +674,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "AJ Barner",
-   "pos": "TE",
-   "proj_4wk": 23.7,
-   "proj_this_week": 7.73,
-   "status": null,
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "DET D/ST",
    "pos": "DEF",
    "proj_4wk": 23.7,
    "proj_this_week": 5.64,
    "status": null,
    "team": "DET"
+  },
+  {
+   "adds_24h": 0,
+   "name": "AJ Barner",
+   "pos": "TE",
+   "proj_4wk": 23.7,
+   "proj_this_week": 7.73,
+   "status": null,
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -808,7 +808,7 @@
    "team": "LAR"
   }
  ],
- "generated_at": "2026-11-14T04:21:36Z",
+ "generated_at": "2026-11-14T04:26:40Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -874,7 +874,7 @@
    {
     "name": "Quinshon Judkins",
     "pid": "12512",
-    "proj": 9.88,
+    "proj": 9.87,
     "slot": "FLEX"
    },
    {
@@ -890,8 +890,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 104.43,
-  "current_projected": 98.97,
+  "best_projected": 104.42,
+  "current_projected": 98.96,
   "gain": 5.46,
   "problems": [],
   "source": "matchup week 10",
@@ -1022,7 +1022,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.583,
+    "first_seed_odds": 0.582,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1052,7 +1052,7 @@
     "power_rank": 4,
     "proj_avg": 125.1,
     "proj_by_week": {
-     "10": 125.49,
+     "10": 125.53,
      "11": 120.22,
      "12": 126.63,
      "13": 127.9
@@ -1071,9 +1071,9 @@
     "pf": 1250.38,
     "playoff_odds": 0.871,
     "power_rank": 5,
-    "proj_avg": 123.3,
+    "proj_avg": 123.4,
     "proj_by_week": {
-     "10": 124.57,
+     "10": 124.62,
      "11": 114.46,
      "12": 136.35,
      "13": 117.99
@@ -1136,7 +1136,7 @@
     "power_rank": 1,
     "proj_avg": 130.3,
     "proj_by_week": {
-     "10": 120.8,
+     "10": 120.79,
      "11": 123.28,
      "12": 141.22,
      "13": 135.8
@@ -1174,7 +1174,7 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.413,
+    "playoff_odds": 0.412,
     "power_rank": 7,
     "proj_avg": 118.8,
     "proj_by_week": {
@@ -1199,7 +1199,7 @@
     "power_rank": 8,
     "proj_avg": 118.5,
     "proj_by_week": {
-     "10": 117.19,
+     "10": 117.29,
      "11": 105.33,
      "12": 131.25,
      "13": 120.22
@@ -1220,7 +1220,7 @@
     "power_rank": 10,
     "proj_avg": 101.3,
     "proj_by_week": {
-     "10": 104.43,
+     "10": 104.42,
      "11": 88.78,
      "12": 109.84,
      "13": 102.29
@@ -1286,7 +1286,7 @@
    "pid": "12512",
    "pos": "RB",
    "proj_by_week": {
-    "10": 9.88,
+    "10": 9.87,
     "11": 0.0,
     "12": 11.88,
     "13": 11.84
@@ -1980,7 +1980,7 @@
    "pid": "12469",
    "pos": "RB",
    "proj_by_week": {
-    "10": 7.8,
+    "10": 7.81,
     "11": 0.0,
     "12": 9.37,
     "13": 9.27
