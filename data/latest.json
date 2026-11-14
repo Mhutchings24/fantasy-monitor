@@ -1,5 +1,5 @@
 {
- "content_hash": "f8059c11a21b2a21da751b84d21ed8a3e6a0d22d",
+ "content_hash": "45efec7933287f26470758d326f7dde94a3db80a",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -37,8 +37,8 @@
    "adds_24h": 0,
    "name": "Cam Ward",
    "pos": "QB",
-   "proj_4wk": 57.4,
-   "proj_this_week": 12.77,
+   "proj_4wk": 57.5,
+   "proj_this_week": 12.85,
    "status": null,
    "team": "TEN"
   },
@@ -452,7 +452,7 @@
    "name": "Elic Ayomanor",
    "pos": "WR",
    "proj_4wk": 28.0,
-   "proj_this_week": 9.02,
+   "proj_this_week": 9.08,
    "status": null,
    "team": "TEN"
   },
@@ -476,21 +476,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Samaje Perine",
-   "pos": "RB",
-   "proj_4wk": 27.1,
-   "proj_this_week": 6.08,
-   "status": null,
-   "team": "CIN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Chris Godwin Jr.",
    "pos": "WR",
    "proj_4wk": 27.1,
    "proj_this_week": 0.0,
    "status": null,
    "team": "TB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Samaje Perine",
+   "pos": "RB",
+   "proj_4wk": 27.1,
+   "proj_this_week": 6.08,
+   "status": null,
+   "team": "CIN"
   },
   {
    "adds_24h": 21320,
@@ -610,20 +610,20 @@
    "team": "BUF"
   },
   {
+   "adds_24h": 403812,
+   "name": "Chimere Dike",
+   "pos": "WR",
+   "proj_4wk": 24.4,
+   "proj_this_week": 8.61,
+   "status": null,
+   "team": "TEN"
+  },
+  {
    "adds_24h": 0,
    "name": "Gunnar Helm",
    "pos": "TE",
    "proj_4wk": 24.4,
    "proj_this_week": 7.33,
-   "status": null,
-   "team": "TEN"
-  },
-  {
-   "adds_24h": 403812,
-   "name": "Chimere Dike",
-   "pos": "WR",
-   "proj_4wk": 24.4,
-   "proj_this_week": 8.55,
    "status": null,
    "team": "TEN"
   },
@@ -721,8 +721,8 @@
    "adds_24h": 0,
    "name": "Tyjae Spears",
    "pos": "RB",
-   "proj_4wk": 23.2,
-   "proj_this_week": 3.12,
+   "proj_4wk": 23.3,
+   "proj_this_week": 3.17,
    "status": "Questionable",
    "team": "TEN"
   },
@@ -826,7 +826,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-14T21:19:34Z",
+ "generated_at": "2026-11-14T21:24:38Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1070,7 +1070,7 @@
     "power_rank": 4,
     "proj_avg": 125.2,
     "proj_by_week": {
-     "10": 125.67,
+     "10": 125.73,
      "11": 120.59,
      "12": 126.63,
      "13": 127.9
@@ -1903,7 +1903,7 @@
    "pid": "9508",
    "pos": "RB",
    "proj_by_week": {
-    "10": 3.12,
+    "10": 3.17,
     "11": 7.22,
     "12": 6.15,
     "13": 6.72
