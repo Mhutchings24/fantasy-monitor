@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-14T00:45:15Z UTC
+Week 10 · record 3-6 · updated 2026-11-14T00:50:19Z UTC
 
 ## Lineup check
 Current lineup projects **99.0**, best possible **104.4**.
@@ -24,7 +24,7 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Ty Johnson | RB | BUF | Audric Estime | +4.2 | +0.0 | 0 |
 | Alvin Kamara | RB | NO | Audric Estime | +2.9 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 0 |
-| Bo Nix | QB | DEN | Omar Cooper Jr. | +1.6 | +0.0 | 0 |
+| Bo Nix | QB | DEN | Omar Cooper Jr. | +1.7 | +0.0 | 0 |
 | Austin Ekeler | RB | WAS | Audric Estime | +0.9 | +0.0 | 29,216 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
@@ -39,14 +39,14 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.7 | 100% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 125.1 | 93% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 123.4 | 87% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 123.3 | 87% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 128.8 | 91% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 122.0 | 65% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.9 | 65% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 130.3 | 70% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 7 | 119.0 | 41% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 118.8 | 40% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 118.3 | 14% |
-| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 101.4 | 0% |
+| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 101.3 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -65,10 +65,10 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter |  | 8.7 | 0.0 | 5.8 | 6.7 |
 | Matt Gay | K | LV | starter |  | 7.9 | 7.6 | 8.5 | 0.0 |
-| Jared Goff | QB | DET | starter |  | 18.4 | 17.2 | 21.2 | 18.3 |
+| Jared Goff | QB | DET | starter |  | 18.4 | 17.1 | 21.2 | 18.3 |
 | Quinshon Judkins | RB | CLE | starter |  | 9.9 | 0.0 | 11.9 | 11.8 |
 | Audric Estime | RB | NO | starter |  | 8.2 | 2.6 | 3.0 | 2.8 |
-| George Kittle | TE | SF | starter |  | 15.3 | 12.8 | 14.2 | 15.1 |
+| George Kittle | TE | SF | starter |  | 15.3 | 12.6 | 14.2 | 15.1 |
 | DJ Moore | WR | BUF | starter |  | 12.2 | 13.5 | 12.2 | 13.1 |
 | Stefon Diggs | WR | WAS | starter |  | 10.2 | 13.2 | 13.3 | 13.1 |
 | Jordyn Tyson | WR | NO | starter |  | 8.1 | 11.0 | 11.2 | 10.5 |
@@ -76,6 +76,6 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Rico Dowdle | RB | PIT | bench |  | 10.0 | 8.4 | 7.8 | 8.2 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 0.0 | 11.0 | 16.3 |
 | Omar Cooper Jr. | WR | NYJ | bench | Questionable | 7.3 | 10.3 | 11.2 | 0.0 |
-| Keenan Allen | WR | SF | bench |  | 6.4 | 5.7 | 6.1 | 6.6 |
+| Keenan Allen | WR | SF | bench |  | 6.4 | 5.6 | 6.1 | 6.6 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
-| Mike Evans | WR | SF | bench | Out | 0.0 | 13.8 | 15.0 | 15.9 |
+| Mike Evans | WR | SF | bench | Out | 0.0 | 13.6 | 15.0 | 15.9 |

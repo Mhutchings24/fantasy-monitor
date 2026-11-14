@@ -1,5 +1,5 @@
 {
- "content_hash": "3b61d3e4222293d54b35f58d8dacfabddb7d803c",
+ "content_hash": "fe0fe178c5ed13bf95e8f05052b746a2a47ff82e",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -10,7 +10,7 @@
    "adds_24h": 52528,
    "name": "Aaron Rodgers",
    "pos": "QB",
-   "proj_4wk": 64.6,
+   "proj_4wk": 64.7,
    "proj_this_week": 17.68,
    "status": null,
    "team": "PIT"
@@ -19,7 +19,7 @@
    "adds_24h": 0,
    "name": "J.J. McCarthy",
    "pos": "QB",
-   "proj_4wk": 61.4,
+   "proj_4wk": 61.5,
    "proj_this_week": 16.5,
    "status": null,
    "team": "NYG"
@@ -82,7 +82,7 @@
    "adds_24h": 0,
    "name": "Baker Mayfield",
    "pos": "QB",
-   "proj_4wk": 48.4,
+   "proj_4wk": 48.5,
    "proj_this_week": 0.0,
    "status": null,
    "team": "TB"
@@ -118,7 +118,7 @@
    "adds_24h": 0,
    "name": "Joe Milton",
    "pos": "QB",
-   "proj_4wk": 42.0,
+   "proj_4wk": 42.1,
    "proj_this_week": 0.0,
    "status": null,
    "team": "PHI"
@@ -145,7 +145,7 @@
    "adds_24h": 67698,
    "name": "Brenton Strange",
    "pos": "TE",
-   "proj_4wk": 39.2,
+   "proj_4wk": 39.3,
    "proj_this_week": 9.91,
    "status": null,
    "team": "JAX"
@@ -262,7 +262,7 @@
    "adds_24h": 0,
    "name": "Dallas Goedert",
    "pos": "TE",
-   "proj_4wk": 32.7,
+   "proj_4wk": 32.8,
    "proj_this_week": 0.0,
    "status": null,
    "team": "PHI"
@@ -476,21 +476,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Samaje Perine",
-   "pos": "RB",
-   "proj_4wk": 27.1,
-   "proj_this_week": 6.08,
-   "status": null,
-   "team": "CIN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Chris Godwin Jr.",
    "pos": "WR",
    "proj_4wk": 27.1,
    "proj_this_week": 0.0,
    "status": null,
    "team": "TB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Samaje Perine",
+   "pos": "RB",
+   "proj_4wk": 27.1,
+   "proj_this_week": 6.08,
+   "status": null,
+   "team": "CIN"
   },
   {
    "adds_24h": 0,
@@ -808,7 +808,7 @@
    "team": "WAS"
   }
  ],
- "generated_at": "2026-11-14T00:45:15Z",
+ "generated_at": "2026-11-14T00:50:19Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1022,7 +1022,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.589,
+    "first_seed_odds": 0.59,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1053,7 +1053,7 @@
     "proj_avg": 125.1,
     "proj_by_week": {
      "10": 125.49,
-     "11": 120.36,
+     "11": 120.24,
      "12": 126.63,
      "13": 127.9
     },
@@ -1069,12 +1069,12 @@
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.873,
+    "playoff_odds": 0.872,
     "power_rank": 5,
-    "proj_avg": 123.4,
+    "proj_avg": 123.3,
     "proj_by_week": {
      "10": 124.58,
-     "11": 114.52,
+     "11": 114.44,
      "12": 136.35,
      "13": 117.99
     },
@@ -1085,7 +1085,7 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.097,
+    "first_seed_odds": 0.098,
     "losses": 4,
     "mine": false,
     "pa": 1118.82,
@@ -1095,7 +1095,7 @@
     "proj_avg": 128.8,
     "proj_by_week": {
      "10": 131.03,
-     "11": 132.73,
+     "11": 132.75,
      "12": 137.55,
      "13": 114.02
     },
@@ -1111,12 +1111,12 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.654,
+    "playoff_odds": 0.652,
     "power_rank": 6,
-    "proj_avg": 122.0,
+    "proj_avg": 121.9,
     "proj_by_week": {
      "10": 129.18,
-     "11": 117.03,
+     "11": 116.84,
      "12": 130.38,
      "13": 111.23
     },
@@ -1132,7 +1132,7 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.698,
+    "playoff_odds": 0.697,
     "power_rank": 1,
     "proj_avg": 130.3,
     "proj_by_week": {
@@ -1153,12 +1153,12 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.406,
+    "playoff_odds": 0.407,
     "power_rank": 7,
     "proj_avg": 119.0,
     "proj_by_week": {
      "10": 113.73,
-     "11": 119.98,
+     "11": 119.86,
      "12": 122.92,
      "13": 119.46
     },
@@ -1174,12 +1174,12 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.4,
+    "playoff_odds": 0.401,
     "power_rank": 8,
     "proj_avg": 118.8,
     "proj_by_week": {
      "10": 124.41,
-     "11": 103.14,
+     "11": 103.13,
      "12": 123.24,
      "13": 124.44
     },
@@ -1195,12 +1195,12 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.138,
+    "playoff_odds": 0.139,
     "power_rank": 9,
     "proj_avg": 118.3,
     "proj_by_week": {
      "10": 117.2,
-     "11": 104.53,
+     "11": 104.46,
      "12": 131.25,
      "13": 120.22
     },
@@ -1218,10 +1218,10 @@
     "pf": 978.8,
     "playoff_odds": 0.004,
     "power_rank": 10,
-    "proj_avg": 101.4,
+    "proj_avg": 101.3,
     "proj_by_week": {
      "10": 104.43,
-     "11": 89.0,
+     "11": 88.52,
      "12": 109.84,
      "13": 102.29
     },
@@ -1272,7 +1272,7 @@
    "pos": "QB",
    "proj_by_week": {
     "10": 18.39,
-    "11": 17.18,
+    "11": 17.09,
     "12": 21.18,
     "13": 18.34
    },
@@ -1317,7 +1317,7 @@
    "pos": "TE",
    "proj_by_week": {
     "10": 15.27,
-    "11": 12.82,
+    "11": 12.64,
     "12": 14.22,
     "13": 15.09
    },
@@ -1392,7 +1392,7 @@
    "pos": "RB",
    "proj_by_week": {
     "10": 9.97,
-    "11": 8.39,
+    "11": 8.38,
     "12": 7.76,
     "13": 8.22
    },
@@ -1437,7 +1437,7 @@
    "pos": "WR",
    "proj_by_week": {
     "10": 6.37,
-    "11": 5.67,
+    "11": 5.61,
     "12": 6.06,
     "13": 6.58
    },
@@ -1467,7 +1467,7 @@
    "pos": "WR",
    "proj_by_week": {
     "10": 0.0,
-    "11": 13.82,
+    "11": 13.62,
     "12": 14.96,
     "13": 15.91
    },
@@ -1804,13 +1804,13 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
-   "gain_window": 10.43,
+   "gain_window": 10.45,
    "name": "Aaron Jones Sr.",
    "pid": "4199",
    "pos": "RB",
    "proj_by_week": {
     "10": 9.27,
-    "11": 8.44,
+    "11": 8.46,
     "12": 9.95,
     "13": 10.61
    },
@@ -1994,7 +1994,7 @@
    "drop": "13276",
    "drop_name": "Omar Cooper Jr.",
    "gain_this_week": 0.0,
-   "gain_window": 1.58,
+   "gain_window": 1.67,
    "name": "Bo Nix",
    "pid": "11563",
    "pos": "QB",
