@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-14T23:47:00Z UTC
+Week 10 · record 3-6 · updated 2026-11-14T23:52:04Z UTC
 
 ## Lineup check
 Current lineup projects **98.8**, best possible **104.4**.
@@ -21,11 +21,11 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 155,835 |
 | Samaje Perine | RB | CIN | Audric Estime | +4.1 | +0.0 | 0 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +4.1 | +0.0 | 0 |
-| Ty Johnson | RB | BUF | Audric Estime | +3.5 | +0.0 | 0 |
 | Seth McGowan | RB | IND | Audric Estime | +3.4 | +0.0 | 25,536 |
 | Alvin Kamara | RB | NO | Audric Estime | +2.8 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 26,005 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
+| Aaron Rodgers | QB | PIT | Omar Cooper Jr. | +0.4 | +0.0 | 20,152 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.3 pts this week)
 
@@ -37,12 +37,12 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.4 | 100% |
+| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.3 | 100% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 125.1 | 92% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 124.5 | 87% |
-| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 129.1 | 91% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 123.9 | 87% |
+| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 129.2 | 91% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 122.0 | 64% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 131.3 | 70% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 131.6 | 70% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 8 | 118.7 | 39% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 9 | 118.5 | 40% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 120.5 | 17% |
@@ -51,8 +51,8 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
-- **Likely** · Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +4.0 pts/week for you, +0.5 for them.
-- **Possible** · Give Omar Cooper Jr., get Jonah Coleman from Glizzy Globbler : +4.1 pts/week for you, +0.5 for them.
+- **Possible** · Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +6.0 pts/week for you, -0.1 for them.
+- **Likely** · Give DJ Moore, get Jonah Coleman from Glizzy Globbler : +3.4 pts/week for you, +0.6 for them.
 - **Possible** · Give Jordyn Tyson, get Tony Pollard from I’m stuck Step Burrow: +3.8 pts/week for you, -0.4 for them.
 - **Possible** · Give Omar Cooper Jr., get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.3 pts/week for you, -0.5 for them.
 - **Possible** · Give Jordyn Tyson, get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.2 pts/week for you, -0.5 for them.
