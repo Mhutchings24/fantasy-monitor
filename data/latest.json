@@ -1,5 +1,5 @@
 {
- "content_hash": "a527ae7b90834ed8ce569f1e936d2333745eaed5",
+ "content_hash": "5fa12df291956ae9bf366bc3a3930db31cd42874",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -673,15 +673,6 @@
    "team": "CAR"
   },
   {
-   "adds_24h": 0,
-   "name": "DET D/ST",
-   "pos": "DEF",
-   "proj_4wk": 23.7,
-   "proj_this_week": 5.64,
-   "status": null,
-   "team": "DET"
-  },
-  {
    "adds_24h": 16734,
    "name": "AJ Barner",
    "pos": "TE",
@@ -689,6 +680,15 @@
    "proj_this_week": 7.73,
    "status": null,
    "team": "SEA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "DET D/ST",
+   "pos": "DEF",
+   "proj_4wk": 23.7,
+   "proj_this_week": 5.64,
+   "status": null,
+   "team": "DET"
   },
   {
    "adds_24h": 0,
@@ -817,7 +817,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-14T15:37:39Z",
+ "generated_at": "2026-11-14T15:37:50Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
