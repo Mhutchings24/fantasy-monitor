@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-14T00:30:04Z UTC
+Week 10 · record 3-6 · updated 2026-11-14T00:45:15Z UTC
 
 ## Lineup check
 Current lineup projects **99.0**, best possible **104.4**.
@@ -16,16 +16,16 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 |---|---|---|---|---|---|---|
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +10.4 | +0.0 | 0 |
 | Devin Singletary | RB | NYG | Audric Estime | +7.2 | +0.0 | 0 |
-| Zonovan Knight | RB | ARI | Audric Estime | +6.9 | +0.0 | 37,064 |
+| Zonovan Knight | RB | ARI | Audric Estime | +6.9 | +0.0 | 37,312 |
 | Kimani Vidal | RB | LAC | Audric Estime | +4.9 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +4.5 | +0.0 | 199,161 |
+| Justice Hill | RB | BAL | Audric Estime | +4.5 | +0.0 | 199,872 |
 | Samaje Perine | RB | CIN | Audric Estime | +4.2 | +0.0 | 0 |
 | Keaton Mitchell (Questionable) | RB | LAC | Audric Estime | +4.2 | +0.0 | 0 |
 | Ty Johnson | RB | BUF | Audric Estime | +4.2 | +0.0 | 0 |
 | Alvin Kamara | RB | NO | Audric Estime | +2.9 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 0 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.6 | +0.0 | 0 |
-| Austin Ekeler | RB | WAS | Audric Estime | +0.9 | +0.0 | 29,172 |
+| Austin Ekeler | RB | WAS | Audric Estime | +0.9 | +0.0 | 29,216 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
 
