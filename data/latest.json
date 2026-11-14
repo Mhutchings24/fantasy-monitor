@@ -1,5 +1,5 @@
 {
- "content_hash": "c69e08641d9e58ca32eea46b5972f62320a251ff",
+ "content_hash": "ae5221e4566e2781b1ac323ec76c099e5cb71f7e",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -92,7 +92,7 @@
    "name": "Deshaun Watson",
    "pos": "QB",
    "proj_4wk": 46.6,
-   "proj_this_week": 14.91,
+   "proj_this_week": 14.92,
    "status": null,
    "team": "CLE"
   },
@@ -476,21 +476,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Samaje Perine",
-   "pos": "RB",
-   "proj_4wk": 27.1,
-   "proj_this_week": 6.08,
-   "status": null,
-   "team": "CIN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Chris Godwin Jr.",
    "pos": "WR",
    "proj_4wk": 27.1,
    "proj_this_week": 0.0,
    "status": null,
    "team": "TB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Samaje Perine",
+   "pos": "RB",
+   "proj_4wk": 27.1,
+   "proj_this_week": 6.08,
+   "status": null,
+   "team": "CIN"
   },
   {
    "adds_24h": 18710,
@@ -817,7 +817,7 @@
    "team": "LAR"
   }
  ],
- "generated_at": "2026-11-14T10:27:18Z",
+ "generated_at": "2026-11-14T10:32:22Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -883,7 +883,7 @@
    {
     "name": "Quinshon Judkins",
     "pid": "12512",
-    "proj": 9.87,
+    "proj": 9.88,
     "slot": "FLEX"
    },
    {
@@ -899,8 +899,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 104.42,
-  "current_projected": 98.96,
+  "best_projected": 104.43,
+  "current_projected": 98.97,
   "gain": 5.46,
   "problems": [],
   "source": "matchup week 10",
@@ -1061,7 +1061,7 @@
     "power_rank": 4,
     "proj_avg": 125.1,
     "proj_by_week": {
-     "10": 125.51,
+     "10": 125.52,
      "11": 120.45,
      "12": 126.63,
      "13": 127.9
@@ -1229,7 +1229,7 @@
     "power_rank": 10,
     "proj_avg": 101.4,
     "proj_by_week": {
-     "10": 104.42,
+     "10": 104.43,
      "11": 89.1,
      "12": 109.84,
      "13": 102.29
@@ -1295,7 +1295,7 @@
    "pid": "12512",
    "pos": "RB",
    "proj_by_week": {
-    "10": 9.87,
+    "10": 9.88,
     "11": 0.0,
     "12": 11.88,
     "13": 11.84
