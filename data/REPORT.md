@@ -1,11 +1,11 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-14T07:55:26Z UTC
+Week 10 · record 3-6 · updated 2026-11-14T08:00:31Z UTC
 
 ## Lineup check
 Current lineup projects **99.0**, best possible **104.4**.
 
 - 🔁 Start Corey Kiner (RB, NE) (11.8) over Jordyn Tyson (WR, NO) (8.1)
-- 🔁 Start Rico Dowdle (RB, PIT) (9.9) over Audric Estime (RB, NO) (8.2)
+- 🔁 Start Rico Dowdle (RB, PIT) (10.0) over Audric Estime (RB, NO) (8.2)
 
 ## Waiver targets
 FAAB left: **$78** (league starting budget $100)
@@ -46,7 +46,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 118.3 | 39% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 118.8 | 41% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 8 | 118.5 | 14% |
-| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 101.4 | 0% |
+| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 101.5 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -73,7 +73,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Stefon Diggs | WR | WAS | starter |  | 10.2 | 13.2 | 13.3 | 13.1 |
 | Jordyn Tyson | WR | NO | starter |  | 8.1 | 9.9 | 11.2 | 10.5 |
 | Corey Kiner | RB | NE | bench |  | 11.8 | 0.0 | 5.1 | 4.7 |
-| Rico Dowdle | RB | PIT | bench |  | 9.9 | 8.4 | 7.8 | 8.2 |
+| Rico Dowdle | RB | PIT | bench |  | 10.0 | 8.4 | 7.8 | 8.2 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 0.0 | 11.0 | 16.3 |
 | Omar Cooper Jr. | WR | NYJ | bench | Questionable | 7.3 | 10.3 | 11.2 | 0.0 |
 | Keenan Allen | WR | SF | bench |  | 6.4 | 5.7 | 6.1 | 6.6 |

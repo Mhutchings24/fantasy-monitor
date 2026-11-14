@@ -1,5 +1,5 @@
 {
- "content_hash": "3aeee286d39dc561c58b64e73da8a48087b1c02a",
+ "content_hash": "7032ac1bd5bb9fea946ea923043e22c6dc9cefff",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -10,8 +10,8 @@
    "adds_24h": 25492,
    "name": "Aaron Rodgers",
    "pos": "QB",
-   "proj_4wk": 64.5,
-   "proj_this_week": 17.48,
+   "proj_4wk": 64.7,
+   "proj_this_week": 17.68,
    "status": null,
    "team": "PIT"
   },
@@ -136,8 +136,8 @@
    "adds_24h": 48612,
    "name": "Mike Gesicki",
    "pos": "TE",
-   "proj_4wk": 39.3,
-   "proj_this_week": 9.71,
+   "proj_4wk": 39.4,
+   "proj_this_week": 9.78,
    "status": null,
    "team": "CIN"
   },
@@ -308,7 +308,7 @@
    "name": "Chris Boswell",
    "pos": "K",
    "proj_4wk": 32.1,
-   "proj_this_week": 8.24,
+   "proj_this_week": 8.28,
    "status": null,
    "team": "PIT"
   },
@@ -470,7 +470,7 @@
    "name": "Darnell Washington",
    "pos": "TE",
    "proj_4wk": 27.5,
-   "proj_this_week": 7.55,
+   "proj_this_week": 7.56,
    "status": null,
    "team": "PIT"
   },
@@ -515,7 +515,7 @@
    "name": "CIN D/ST",
    "pos": "DEF",
    "proj_4wk": 26.4,
-   "proj_this_week": 6.29,
+   "proj_this_week": 6.31,
    "status": null,
    "team": "CIN"
   },
@@ -611,6 +611,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Trey Smack",
+   "pos": "K",
+   "proj_4wk": 24.4,
+   "proj_this_week": 7.89,
+   "status": null,
+   "team": "GB"
+  },
+  {
+   "adds_24h": 0,
    "name": "Gunnar Helm",
    "pos": "TE",
    "proj_4wk": 24.4,
@@ -626,15 +635,6 @@
    "proj_this_week": 8.55,
    "status": null,
    "team": "TEN"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Trey Smack",
-   "pos": "K",
-   "proj_4wk": 24.4,
-   "proj_this_week": 7.85,
-   "status": null,
-   "team": "GB"
   },
   {
    "adds_24h": 0,
@@ -674,21 +674,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "DET D/ST",
-   "pos": "DEF",
-   "proj_4wk": 23.7,
-   "proj_this_week": 5.64,
-   "status": null,
-   "team": "DET"
-  },
-  {
-   "adds_24h": 0,
    "name": "AJ Barner",
    "pos": "TE",
    "proj_4wk": 23.7,
    "proj_this_week": 7.73,
    "status": null,
    "team": "SEA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "DET D/ST",
+   "pos": "DEF",
+   "proj_4wk": 23.7,
+   "proj_this_week": 5.64,
+   "status": null,
+   "team": "DET"
   },
   {
    "adds_24h": 0,
@@ -812,12 +812,12 @@
    "name": "Gavin Bartholomew",
    "pos": "TE",
    "proj_4wk": 11.9,
-   "proj_this_week": 6.23,
+   "proj_this_week": 6.17,
    "status": null,
    "team": "MIN"
   }
  ],
- "generated_at": "2026-11-14T07:55:26Z",
+ "generated_at": "2026-11-14T08:00:31Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -859,7 +859,7 @@
    {
     "name": "Rico Dowdle",
     "pid": "7021",
-    "proj": 9.92,
+    "proj": 9.97,
     "slot": "RB"
    },
    {
@@ -899,9 +899,9 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 104.37,
+  "best_projected": 104.42,
   "current_projected": 98.96,
-  "gain": 5.41,
+  "gain": 5.46,
   "problems": [],
   "source": "matchup week 10",
   "swaps": [
@@ -913,7 +913,7 @@
    {
     "bench": "11579",
     "start": "7021",
-    "text": "Start Rico Dowdle (RB, PIT) (9.9) over Audric Estime (RB, NO) (8.2)"
+    "text": "Start Rico Dowdle (RB, PIT) (10.0) over Audric Estime (RB, NO) (8.2)"
    }
   ],
   "week": 10
@@ -1011,7 +1011,7 @@
   },
   "matchup": {
    "my_proj": 99.0,
-   "opp_best_possible": 113.71,
+   "opp_best_possible": 113.73,
    "opp_proj": 113.7,
    "opponent": "Never Going Go Scottsdale",
    "opponent_record": "4-5",
@@ -1031,7 +1031,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.579,
+    "first_seed_odds": 0.581,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1040,7 +1040,7 @@
     "power_rank": 2,
     "proj_avg": 129.3,
     "proj_by_week": {
-     "10": 132.27,
+     "10": 132.46,
      "11": 123.73,
      "12": 136.34,
      "13": 124.74
@@ -1057,11 +1057,11 @@
     "mine": false,
     "pa": 1053.34,
     "pf": 1091.54,
-    "playoff_odds": 0.928,
+    "playoff_odds": 0.929,
     "power_rank": 4,
     "proj_avg": 125.1,
     "proj_by_week": {
-     "10": 125.45,
+     "10": 125.53,
      "11": 120.41,
      "12": 126.63,
      "13": 127.9
@@ -1082,7 +1082,7 @@
     "power_rank": 5,
     "proj_avg": 123.4,
     "proj_by_week": {
-     "10": 124.63,
+     "10": 124.62,
      "11": 114.53,
      "12": 136.35,
      "13": 117.99
@@ -1103,7 +1103,7 @@
     "power_rank": 3,
     "proj_avg": 128.6,
     "proj_by_week": {
-     "10": 131.01,
+     "10": 131.03,
      "11": 131.8,
      "12": 137.55,
      "13": 114.02
@@ -1124,7 +1124,7 @@
     "power_rank": 6,
     "proj_avg": 121.7,
     "proj_by_week": {
-     "10": 129.15,
+     "10": 129.18,
      "11": 116.18,
      "12": 130.38,
      "13": 111.23
@@ -1141,11 +1141,11 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.699,
+    "playoff_odds": 0.7,
     "power_rank": 1,
     "proj_avg": 130.3,
     "proj_by_week": {
-     "10": 120.8,
+     "10": 120.79,
      "11": 123.34,
      "12": 141.22,
      "13": 135.8
@@ -1166,7 +1166,7 @@
     "power_rank": 9,
     "proj_avg": 118.3,
     "proj_by_week": {
-     "10": 113.71,
+     "10": 113.73,
      "11": 116.95,
      "12": 122.92,
      "13": 119.46
@@ -1183,7 +1183,7 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.412,
+    "playoff_odds": 0.411,
     "power_rank": 7,
     "proj_avg": 118.8,
     "proj_by_week": {
@@ -1208,7 +1208,7 @@
     "power_rank": 8,
     "proj_avg": 118.5,
     "proj_by_week": {
-     "10": 117.16,
+     "10": 117.29,
      "11": 105.42,
      "12": 131.25,
      "13": 120.22
@@ -1227,9 +1227,9 @@
     "pf": 978.8,
     "playoff_odds": 0.005,
     "power_rank": 10,
-    "proj_avg": 101.4,
+    "proj_avg": 101.5,
     "proj_by_week": {
-     "10": 104.37,
+     "10": 104.42,
      "11": 89.28,
      "12": 109.84,
      "13": 102.29
@@ -1400,7 +1400,7 @@
    "pid": "7021",
    "pos": "RB",
    "proj_by_week": {
-    "10": 9.92,
+    "10": 9.97,
     "11": 8.39,
     "12": 7.76,
     "13": 8.22
@@ -1703,7 +1703,7 @@
      "name": "Jordan Mason",
      "pid": "8408",
      "pos": "RB",
-     "ros_per_week": 10.8,
+     "ros_per_week": 10.7,
      "status": null,
      "team": "MIN"
     }
