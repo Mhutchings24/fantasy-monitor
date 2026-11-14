@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-14T06:41:09Z UTC
+Week 10 · record 3-6 · updated 2026-11-14T06:46:14Z UTC
 
 ## Lineup check
 Current lineup projects **99.0**, best possible **104.4**.
@@ -38,15 +38,15 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.3 | 100% |
-| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 125.0 | 93% |
+| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 125.1 | 93% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 123.4 | 87% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 128.6 | 90% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.7 | 65% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 130.3 | 70% |
-| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 118.2 | 39% |
+| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 118.3 | 39% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 118.8 | 41% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 8 | 118.5 | 14% |
-| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 101.3 | 0% |
+| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 101.4 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -68,14 +68,14 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Jared Goff | QB | DET | starter |  | 18.4 | 17.1 | 21.2 | 18.3 |
 | Quinshon Judkins | RB | CLE | starter |  | 9.9 | 0.0 | 11.9 | 11.8 |
 | Audric Estime | RB | NO | starter |  | 8.2 | 2.9 | 3.0 | 2.8 |
-| George Kittle | TE | SF | starter |  | 15.3 | 12.7 | 14.2 | 15.1 |
+| George Kittle | TE | SF | starter |  | 15.3 | 12.8 | 14.2 | 15.1 |
 | DJ Moore | WR | BUF | starter |  | 12.2 | 13.5 | 12.2 | 13.1 |
-| Stefon Diggs | WR | WAS | starter |  | 10.2 | 13.1 | 13.3 | 13.1 |
+| Stefon Diggs | WR | WAS | starter |  | 10.2 | 13.2 | 13.3 | 13.1 |
 | Jordyn Tyson | WR | NO | starter |  | 8.1 | 9.9 | 11.2 | 10.5 |
 | Corey Kiner | RB | NE | bench |  | 11.8 | 0.0 | 5.1 | 4.7 |
 | Rico Dowdle | RB | PIT | bench |  | 9.9 | 8.4 | 7.8 | 8.2 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 0.0 | 11.0 | 16.3 |
 | Omar Cooper Jr. | WR | NYJ | bench | Questionable | 7.3 | 10.3 | 11.2 | 0.0 |
-| Keenan Allen | WR | SF | bench |  | 6.4 | 5.6 | 6.1 | 6.6 |
+| Keenan Allen | WR | SF | bench |  | 6.4 | 5.7 | 6.1 | 6.6 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
-| Mike Evans | WR | SF | bench | Out | 0.0 | 13.6 | 15.0 | 15.9 |
+| Mike Evans | WR | SF | bench | Out | 0.0 | 13.8 | 15.0 | 15.9 |
