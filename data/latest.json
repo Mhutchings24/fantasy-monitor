@@ -1,5 +1,5 @@
 {
- "content_hash": "bc45693e723b43a9ac93d5c34bd9adb853067248",
+ "content_hash": "e7f76bc2c716bbc3dd0e8c68b7c7fcedcd05f0c1",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -485,21 +485,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Chris Godwin Jr.",
-   "pos": "WR",
-   "proj_4wk": 27.1,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "TB"
-  },
-  {
-   "adds_24h": 0,
    "name": "Samaje Perine",
    "pos": "RB",
    "proj_4wk": 27.1,
    "proj_this_week": 6.08,
    "status": null,
    "team": "CIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chris Godwin Jr.",
+   "pos": "WR",
+   "proj_4wk": 27.1,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "TB"
   },
   {
    "adds_24h": 23130,
@@ -826,7 +826,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-14T17:45:08Z",
+ "generated_at": "2026-11-14T17:50:12Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1020,11 +1020,11 @@
   },
   "matchup": {
    "my_proj": 99.0,
-   "opp_best_possible": 113.73,
-   "opp_proj": 113.7,
+   "opp_best_possible": 112.4,
+   "opp_proj": 112.4,
    "opponent": "Never Going Go Scottsdale",
    "opponent_record": "4-5",
-   "win_prob": 0.339
+   "win_prob": 0.352
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1082,7 +1082,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.089,
+    "first_seed_odds": 0.09,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
@@ -1129,7 +1129,7 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.669,
+    "playoff_odds": 0.671,
     "power_rank": 6,
     "proj_avg": 122.0,
     "proj_by_week": {
@@ -1171,11 +1171,11 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.405,
+    "playoff_odds": 0.399,
     "power_rank": 8,
-    "proj_avg": 119.0,
+    "proj_avg": 118.7,
     "proj_by_week": {
-     "10": 113.73,
+     "10": 112.4,
      "11": 120.06,
      "12": 122.92,
      "13": 119.46
@@ -1192,7 +1192,7 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.406,
+    "playoff_odds": 0.407,
     "power_rank": 7,
     "proj_avg": 119.0,
     "proj_by_week": {
