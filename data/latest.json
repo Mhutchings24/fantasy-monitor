@@ -1,5 +1,5 @@
 {
- "content_hash": "925c9e85ad1dbe828933cbef7d1661f19255a4b1",
+ "content_hash": "8e73f4488e3f346e73b8776771577d5c15e859b1",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -19,7 +19,7 @@
    "adds_24h": 0,
    "name": "J.J. McCarthy",
    "pos": "QB",
-   "proj_4wk": 61.6,
+   "proj_4wk": 61.7,
    "proj_this_week": 16.5,
    "status": null,
    "team": "NYG"
@@ -163,7 +163,7 @@
    "adds_24h": 0,
    "name": "Jacoby Brissett",
    "pos": "QB",
-   "proj_4wk": 38.4,
+   "proj_4wk": 38.5,
    "proj_this_week": 13.3,
    "status": null,
    "team": "BAL"
@@ -262,7 +262,7 @@
    "adds_24h": 0,
    "name": "Dallas Goedert",
    "pos": "TE",
-   "proj_4wk": 32.8,
+   "proj_4wk": 32.9,
    "proj_this_week": 0.0,
    "status": null,
    "team": "PHI"
@@ -826,7 +826,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-15T10:40:34Z",
+ "generated_at": "2026-11-15T10:50:41Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1040,7 +1040,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.59,
+    "first_seed_odds": 0.589,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1061,12 +1061,12 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.151,
+    "first_seed_odds": 0.15,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
     "pf": 1091.54,
-    "playoff_odds": 0.91,
+    "playoff_odds": 0.909,
     "power_rank": 4,
     "proj_avg": 124.0,
     "proj_by_week": {
@@ -1092,7 +1092,7 @@
     "proj_avg": 123.9,
     "proj_by_week": {
      "10": 124.81,
-     "11": 112.17,
+     "11": 112.18,
      "12": 138.85,
      "13": 119.73
     },
@@ -1103,17 +1103,17 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.103,
+    "first_seed_odds": 0.104,
     "losses": 4,
     "mine": false,
     "pa": 1118.82,
     "pf": 1169.52,
-    "playoff_odds": 0.906,
+    "playoff_odds": 0.908,
     "power_rank": 3,
-    "proj_avg": 128.6,
+    "proj_avg": 128.7,
     "proj_by_week": {
      "10": 131.34,
-     "11": 133.3,
+     "11": 133.67,
      "12": 136.66,
      "13": 112.93
     },
@@ -1129,12 +1129,12 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.648,
+    "playoff_odds": 0.647,
     "power_rank": 6,
     "proj_avg": 121.7,
     "proj_by_week": {
      "10": 129.52,
-     "11": 116.39,
+     "11": 116.4,
      "12": 129.96,
      "13": 110.82
     },
@@ -1150,12 +1150,12 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.702,
+    "playoff_odds": 0.7,
     "power_rank": 1,
     "proj_avg": 131.3,
     "proj_by_week": {
      "10": 125.26,
-     "11": 121.5,
+     "11": 121.38,
      "12": 141.57,
      "13": 136.97
     },
@@ -1176,7 +1176,7 @@
     "proj_avg": 117.5,
     "proj_by_week": {
      "10": 112.32,
-     "11": 117.52,
+     "11": 117.56,
      "12": 121.35,
      "13": 118.68
     },
@@ -1192,12 +1192,12 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.43,
+    "playoff_odds": 0.431,
     "power_rank": 8,
     "proj_avg": 119.4,
     "proj_by_week": {
      "10": 124.4,
-     "11": 103.7,
+     "11": 103.94,
      "12": 124.64,
      "13": 124.69
     },
@@ -1213,12 +1213,12 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.173,
+    "playoff_odds": 0.174,
     "power_rank": 7,
     "proj_avg": 120.5,
     "proj_by_week": {
      "10": 117.39,
-     "11": 108.01,
+     "11": 108.02,
      "12": 134.56,
      "13": 121.91
     },
@@ -1239,7 +1239,7 @@
     "proj_avg": 101.0,
     "proj_by_week": {
      "10": 104.37,
-     "11": 88.23,
+     "11": 88.19,
      "12": 109.8,
      "13": 101.66
     },
@@ -1320,7 +1320,7 @@
    "pos": "RB",
    "proj_by_week": {
     "10": 8.05,
-    "11": 2.65,
+    "11": 2.59,
     "12": 3.03,
     "13": 2.75
    },
@@ -1350,7 +1350,7 @@
    "pos": "WR",
    "proj_by_week": {
     "10": 12.17,
-    "11": 13.43,
+    "11": 13.45,
     "12": 12.07,
     "13": 13.11
    },
@@ -1820,7 +1820,7 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
-   "gain_window": 10.37,
+   "gain_window": 10.43,
    "name": "Aaron Jones Sr.",
    "pid": "4199",
    "pos": "RB",
@@ -1839,7 +1839,7 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
-   "gain_window": 6.76,
+   "gain_window": 6.82,
    "name": "Zonovan Knight",
    "pid": "8122",
    "pos": "RB",
@@ -1858,7 +1858,7 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
-   "gain_window": 4.96,
+   "gain_window": 5.02,
    "name": "Kimani Vidal",
    "pid": "11647",
    "pos": "RB",
@@ -1877,7 +1877,7 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
-   "gain_window": 4.57,
+   "gain_window": 4.63,
    "name": "Tyjae Spears",
    "pid": "9508",
    "pos": "RB",
@@ -1896,13 +1896,13 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
-   "gain_window": 4.41,
+   "gain_window": 4.46,
    "name": "Justice Hill",
    "pid": "5995",
    "pos": "RB",
    "proj_by_week": {
     "10": 7.23,
-    "11": 7.06,
+    "11": 7.05,
     "12": 6.93,
     "13": 0.0
    },
@@ -1915,7 +1915,7 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
-   "gain_window": 4.22,
+   "gain_window": 4.28,
    "name": "Keaton Mitchell",
    "pid": "9511",
    "pos": "RB",
@@ -1934,7 +1934,7 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
-   "gain_window": 4.17,
+   "gain_window": 4.23,
    "name": "Samaje Perine",
    "pid": "4147",
    "pos": "RB",
@@ -1953,7 +1953,7 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
-   "gain_window": 3.58,
+   "gain_window": 3.64,
    "name": "Ty Johnson",
    "pid": "6039",
    "pos": "RB",
@@ -1972,7 +1972,7 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
-   "gain_window": 3.42,
+   "gain_window": 3.48,
    "name": "Seth McGowan",
    "pid": "13424",
    "pos": "RB",
@@ -1991,7 +1991,7 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
-   "gain_window": 2.83,
+   "gain_window": 2.89,
    "name": "Alvin Kamara",
    "pid": "4035",
    "pos": "RB",
