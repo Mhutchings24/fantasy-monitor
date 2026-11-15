@@ -1,5 +1,5 @@
 {
- "content_hash": "85f128ef42ea33e695c6e7e7ab3b1ab2f9b306ca",
+ "content_hash": "95afb7f272c573e61875c852f9c9d9e149f3119d",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -169,15 +169,6 @@
    "team": "BAL"
   },
   {
-   "adds_24h": 46920,
-   "name": "Caleb Douglas",
-   "pos": "WR",
-   "proj_4wk": 38.4,
-   "proj_this_week": 9.25,
-   "status": null,
-   "team": "MIA"
-  },
-  {
    "adds_24h": 0,
    "name": "Chig Okonkwo",
    "pos": "TE",
@@ -185,6 +176,15 @@
    "proj_this_week": 7.38,
    "status": "Questionable",
    "team": "WAS"
+  },
+  {
+   "adds_24h": 46920,
+   "name": "Caleb Douglas",
+   "pos": "WR",
+   "proj_4wk": 38.4,
+   "proj_this_week": 9.25,
+   "status": null,
+   "team": "MIA"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-15T00:07:35Z",
+ "generated_at": "2026-11-15T00:12:40Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
