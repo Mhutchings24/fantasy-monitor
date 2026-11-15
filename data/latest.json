@@ -1,5 +1,5 @@
 {
- "content_hash": "1cefb012c915c9fc92d87abea085dfba682a273f",
+ "content_hash": "342b67755b7abb48f466cfdb86bbbf27c32db0ab",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -230,15 +230,6 @@
    "proj_this_week": 8.95,
    "status": null,
    "team": "DAL"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Ladd McConkey",
-   "pos": "WR",
-   "proj_4wk": 35.0,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -656,21 +647,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Alvin Kamara",
-   "pos": "RB",
-   "proj_4wk": 23.6,
-   "proj_this_week": 6.3,
-   "status": null,
-   "team": "NO"
-  },
-  {
-   "adds_24h": 0,
    "name": "Trey Smack",
    "pos": "K",
    "proj_4wk": 23.6,
    "proj_this_week": 7.89,
    "status": null,
    "team": "GB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Alvin Kamara",
+   "pos": "RB",
+   "proj_4wk": 23.6,
+   "proj_this_week": 6.3,
+   "status": null,
+   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -725,6 +716,15 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "CHI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Ty Johnson",
+   "pos": "RB",
+   "proj_4wk": 22.8,
+   "proj_this_week": 5.34,
+   "status": null,
+   "team": "BUF"
   },
   {
    "adds_24h": 398781,
@@ -826,7 +826,7 @@
    "team": "LV"
   }
  ],
- "generated_at": "2026-11-15T23:35:20Z",
+ "generated_at": "2026-11-15T23:40:24Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1950,6 +1950,25 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
+   "gain_window": 3.26,
+   "name": "Ty Johnson",
+   "pid": "6039",
+   "pos": "RB",
+   "proj_by_week": {
+    "10": 5.34,
+    "11": 6.17,
+    "12": 5.39,
+    "13": 5.92
+   },
+   "status": null,
+   "stream": false,
+   "team": "BUF",
+   "trending_adds_24h": 0
+  },
+  {
+   "drop": "11579",
+   "drop_name": "Audric Estime",
+   "gain_this_week": 0.0,
    "gain_window": 3.16,
    "name": "Seth McGowan",
    "pid": "13424",
@@ -2020,25 +2039,6 @@
    "status": null,
    "stream": false,
    "team": "DEN",
-   "trending_adds_24h": 0
-  },
-  {
-   "drop": "12491",
-   "drop_name": "Corey Kiner",
-   "gain_this_week": 1.02,
-   "gain_window": 1.02,
-   "name": "Hunter Henry",
-   "pid": "3214",
-   "pos": "TE",
-   "proj_by_week": {
-    "10": 10.08,
-    "11": 0.0,
-    "12": 9.7,
-    "13": 8.95
-   },
-   "status": null,
-   "stream": false,
-   "team": "NE",
    "trending_adds_24h": 0
   }
  ],
