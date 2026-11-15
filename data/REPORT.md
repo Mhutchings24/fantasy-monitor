@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-15T08:42:10Z UTC
+Week 10 · record 3-6 · updated 2026-11-15T08:47:14Z UTC
 
 ## Lineup check
 Current lineup projects **98.6**, best possible **104.4**.
@@ -38,7 +38,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.4 | 99% |
-| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 124.1 | 91% |
+| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 124.0 | 91% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 123.9 | 87% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 128.7 | 91% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.6 | 65% |
@@ -69,7 +69,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Quinshon Judkins | RB | CLE | starter |  | 9.9 | 0.0 | 11.9 | 11.8 |
 | Audric Estime | RB | NO | starter |  | 8.1 | 2.6 | 3.0 | 2.8 |
 | George Kittle | TE | SF | starter |  | 15.3 | 12.9 | 14.2 | 15.1 |
-| DJ Moore | WR | BUF | starter |  | 12.2 | 13.4 | 12.2 | 13.1 |
+| DJ Moore | WR | BUF | starter |  | 12.2 | 13.4 | 12.1 | 13.1 |
 | Stefon Diggs | WR | WAS | starter |  | 10.2 | 13.1 | 13.3 | 13.1 |
 | Jordyn Tyson | WR | NO | starter |  | 8.0 | 10.9 | 11.2 | 10.5 |
 | Corey Kiner | RB | NE | bench |  | 11.8 | 0.0 | 7.1 | 6.6 |
