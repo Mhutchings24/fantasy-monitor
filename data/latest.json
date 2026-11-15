@@ -1,5 +1,5 @@
 {
- "content_hash": "cbee3247aa7de54708b7d162a66419b75d683b21",
+ "content_hash": "3cc86793ca2f6af9d2eb50995e7a31d9d586dc22",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -169,15 +169,6 @@
    "team": "BAL"
   },
   {
-   "adds_24h": 0,
-   "name": "Chig Okonkwo",
-   "pos": "TE",
-   "proj_4wk": 38.4,
-   "proj_this_week": 7.38,
-   "status": "Questionable",
-   "team": "WAS"
-  },
-  {
    "adds_24h": 60120,
    "name": "Caleb Douglas",
    "pos": "WR",
@@ -185,6 +176,15 @@
    "proj_this_week": 9.25,
    "status": null,
    "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chig Okonkwo",
+   "pos": "TE",
+   "proj_4wk": 38.4,
+   "proj_this_week": 7.38,
+   "status": "Questionable",
+   "team": "WAS"
   },
   {
    "adds_24h": 0,
@@ -368,21 +368,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Charlie Smyth",
-   "pos": "K",
-   "proj_4wk": 29.1,
-   "proj_this_week": 8.02,
-   "status": null,
-   "team": "NO"
-  },
-  {
-   "adds_24h": 0,
    "name": "Quentin Johnston",
    "pos": "WR",
    "proj_4wk": 29.1,
    "proj_this_week": 6.91,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Charlie Smyth",
+   "pos": "K",
+   "proj_4wk": 29.1,
+   "proj_this_week": 8.02,
+   "status": null,
+   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-15T08:52:18Z",
+ "generated_at": "2026-11-15T08:57:22Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
