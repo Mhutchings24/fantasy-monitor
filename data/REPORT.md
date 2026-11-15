@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-15T12:55:38Z UTC
+Week 10 · record 3-6 · updated 2026-11-15T13:00:43Z UTC
 
 ## Lineup check
 Current lineup projects **98.7**, best possible **104.4**.
@@ -15,16 +15,16 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +10.4 | +0.0 | 0 |
-| Zonovan Knight | RB | ARI | Audric Estime | +6.8 | +0.0 | 61,028 |
+| Zonovan Knight | RB | ARI | Audric Estime | +6.8 | +0.0 | 61,608 |
 | Kimani Vidal | RB | LAC | Audric Estime | +5.0 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +4.6 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +4.5 | +0.0 | 220,698 |
+| Justice Hill | RB | BAL | Audric Estime | +4.5 | +0.0 | 223,182 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +4.3 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +4.2 | +0.0 | 0 |
 | Ty Johnson | RB | BUF | Audric Estime | +3.6 | +0.0 | 0 |
-| Seth McGowan | RB | IND | Audric Estime | +3.5 | +0.0 | 34,368 |
+| Seth McGowan | RB | IND | Audric Estime | +3.5 | +0.0 | 34,760 |
 | Alvin Kamara | RB | NO | Audric Estime | +2.9 | +0.0 | 0 |
-| Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 33,835 |
+| Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 34,215 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
@@ -40,12 +40,12 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.4 | 99% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 5 | 124.0 | 91% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.1 | 87% |
-| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 128.7 | 91% |
+| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 128.6 | 91% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.7 | 64% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 131.3 | 70% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 131.4 | 70% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 117.5 | 36% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 119.4 | 43% |
-| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 120.6 | 18% |
+| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 120.6 | 17% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 101.0 | 0% |
 
 ## Trade ideas
