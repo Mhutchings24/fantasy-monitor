@@ -1,5 +1,5 @@
 {
- "content_hash": "f5938c88abb1f79755ebd8b00e0e15b1bf70c26c",
+ "content_hash": "6351d935773ab6ca7c33407f6e37d0e66c4e0212",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -656,21 +656,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Trey Smack",
-   "pos": "K",
-   "proj_4wk": 23.6,
-   "proj_this_week": 7.89,
-   "status": null,
-   "team": "GB"
-  },
-  {
-   "adds_24h": 0,
    "name": "Alvin Kamara",
    "pos": "RB",
    "proj_4wk": 23.6,
    "proj_this_week": 6.3,
    "status": null,
    "team": "NO"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Trey Smack",
+   "pos": "K",
+   "proj_4wk": 23.6,
+   "proj_this_week": 7.89,
+   "status": null,
+   "team": "GB"
   },
   {
    "adds_24h": 0,
@@ -817,7 +817,7 @@
    "team": "HOU"
   }
  ],
- "generated_at": "2026-11-15T20:52:09Z",
+ "generated_at": "2026-11-15T20:57:13Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
