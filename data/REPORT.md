@@ -1,11 +1,10 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-15T16:52:21Z UTC
+Week 10 · record 3-6 · updated 2026-11-15T16:57:26Z UTC
 
 ## Lineup check
-Current lineup projects **98.9**, best possible **101.4**.
+Current lineup projects **100.8**, best possible **101.4**.
 
-- 🔁 Start Rico Dowdle (RB, PIT) (10.0) over Jordyn Tyson (WR, NO) (8.0)
-- 🔁 Start Omar Cooper Jr. (WR, NYJ) (8.6) over Audric Estime (RB, NO) (8.1)
+- 🔁 Start Omar Cooper Jr. (WR, NYJ) (8.6) over Jordyn Tyson (WR, NO) (8.0)
 
 ## Waiver targets
 FAAB left: **$78** (league starting budget $100)
@@ -30,7 +29,7 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **98.9** – 112.2 projected · win chance **35%**
+vs **Never Going Go Scottsdale** (4-5): you **100.8** – 112.2 projected · win chance **37%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -41,7 +40,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 5 | 124.0 | 90% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.5 | 87% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 128.6 | 90% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.5 | 63% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.6 | 63% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 132.4 | 74% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 8 | 117.2 | 36% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 119.3 | 50% |
@@ -66,13 +65,13 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | LAR D/ST | DEF | LAR | starter |  | 8.6 | 0.0 | 5.9 | 6.1 |
 | Matt Gay | K | LV | starter |  | 8.0 | 7.6 | 8.5 | 0.0 |
 | Jared Goff | QB | DET | starter |  | 18.7 | 17.2 | 21.2 | 18.3 |
+| Rico Dowdle | RB | PIT | starter |  | 10.0 | 8.4 | 7.8 | 8.2 |
 | Quinshon Judkins | RB | CLE | starter |  | 9.8 | 0.0 | 11.9 | 11.8 |
-| Audric Estime | RB | NO | starter |  | 8.1 | 2.7 | 3.0 | 2.8 |
 | George Kittle | TE | SF | starter |  | 15.3 | 12.8 | 14.2 | 15.1 |
 | DJ Moore | WR | BUF | starter |  | 12.2 | 13.4 | 12.1 | 13.1 |
 | Stefon Diggs | WR | WAS | starter |  | 10.2 | 13.1 | 13.3 | 13.1 |
 | Jordyn Tyson | WR | NO | starter |  | 8.0 | 10.6 | 11.2 | 10.5 |
-| Rico Dowdle | RB | PIT | bench |  | 10.0 | 8.4 | 7.8 | 8.2 |
+| Audric Estime | RB | NO | bench |  | 8.1 | 2.7 | 3.0 | 2.8 |
 | Corey Kiner | RB | NE | bench |  | 6.0 | 0.0 | 6.9 | 6.3 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 0.0 | 8.5 | 16.3 |
 | Omar Cooper Jr. | WR | NYJ | bench |  | 8.6 | 10.3 | 11.2 | 0.0 |

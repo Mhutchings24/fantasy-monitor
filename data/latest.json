@@ -1,5 +1,5 @@
 {
- "content_hash": "14b649f5e17300612cb6e168a2f7181b6536ef3d",
+ "content_hash": "b1eed59c0a0142ba4b19c3d4467f52d9e26992cb",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -65,7 +65,7 @@
    "name": "Geno Smith",
    "pos": "QB",
    "proj_4wk": 51.4,
-   "proj_this_week": 16.48,
+   "proj_this_week": 16.52,
    "status": null,
    "team": "NYJ"
   },
@@ -128,7 +128,7 @@
    "name": "Khalil Shakir",
    "pos": "WR",
    "proj_4wk": 40.2,
-   "proj_this_week": 10.15,
+   "proj_this_week": 10.14,
    "status": null,
    "team": "BUF"
   },
@@ -826,7 +826,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-15T16:52:21Z",
+ "generated_at": "2026-11-15T16:57:26Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -874,7 +874,7 @@
    {
     "name": "DJ Moore",
     "pid": "4983",
-    "proj": 12.18,
+    "proj": 12.17,
     "slot": "WR"
    },
    {
@@ -908,21 +908,16 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 101.43,
-  "current_projected": 98.92,
-  "gain": 2.51,
+  "best_projected": 101.42,
+  "current_projected": 100.83,
+  "gain": 0.59,
   "problems": [],
   "source": "matchup week 10",
   "swaps": [
    {
     "bench": "13281",
-    "start": "7021",
-    "text": "Start Rico Dowdle (RB, PIT) (10.0) over Jordyn Tyson (WR, NO) (8.0)"
-   },
-   {
-    "bench": "11579",
     "start": "13276",
-    "text": "Start Omar Cooper Jr. (WR, NYJ) (8.6) over Audric Estime (RB, NO) (8.1)"
+    "text": "Start Omar Cooper Jr. (WR, NYJ) (8.6) over Jordyn Tyson (WR, NO) (8.0)"
    }
   ],
   "week": 10
@@ -1019,12 +1014,12 @@
    "week": 9
   },
   "matchup": {
-   "my_proj": 98.9,
+   "my_proj": 100.8,
    "opp_best_possible": 112.29,
    "opp_proj": 112.2,
    "opponent": "Never Going Go Scottsdale",
    "opponent_record": "4-5",
-   "win_prob": 0.353
+   "win_prob": 0.374
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1040,7 +1035,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.601,
+    "first_seed_odds": 0.6,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1049,7 +1044,7 @@
     "power_rank": 2,
     "proj_avg": 129.7,
     "proj_by_week": {
-     "10": 134.76,
+     "10": 134.74,
      "11": 124.02,
      "12": 136.3,
      "13": 123.84
@@ -1070,7 +1065,7 @@
     "power_rank": 5,
     "proj_avg": 124.0,
     "proj_by_week": {
-     "10": 125.67,
+     "10": 125.71,
      "11": 118.52,
      "12": 125.37,
      "13": 126.48
@@ -1091,7 +1086,7 @@
     "power_rank": 4,
     "proj_avg": 124.5,
     "proj_by_week": {
-     "10": 129.04,
+     "10": 129.1,
      "11": 111.64,
      "12": 138.23,
      "13": 119.11
@@ -1129,11 +1124,11 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.629,
+    "playoff_odds": 0.63,
     "power_rank": 6,
-    "proj_avg": 121.5,
+    "proj_avg": 121.6,
     "proj_by_week": {
-     "10": 129.32,
+     "10": 129.53,
      "11": 115.95,
      "12": 129.96,
      "13": 110.82
@@ -1154,7 +1149,7 @@
     "power_rank": 1,
     "proj_avg": 132.4,
     "proj_by_week": {
-     "10": 130.26,
+     "10": 130.32,
      "11": 121.58,
      "12": 140.73,
      "13": 136.97
@@ -1171,7 +1166,7 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.361,
+    "playoff_odds": 0.36,
     "power_rank": 8,
     "proj_avg": 117.2,
     "proj_by_week": {
@@ -1196,7 +1191,7 @@
     "power_rank": 7,
     "proj_avg": 119.3,
     "proj_by_week": {
-     "10": 124.39,
+     "10": 124.45,
      "11": 103.61,
      "12": 124.64,
      "13": 124.69
@@ -1238,7 +1233,7 @@
     "power_rank": 10,
     "proj_avg": 100.3,
     "proj_by_week": {
-     "10": 101.43,
+     "10": 101.42,
      "11": 88.17,
      "12": 109.78,
      "13": 101.66
@@ -1300,6 +1295,21 @@
   },
   {
    "bye_this_week": false,
+   "name": "Rico Dowdle",
+   "pid": "7021",
+   "pos": "RB",
+   "proj_by_week": {
+    "10": 9.97,
+    "11": 8.37,
+    "12": 7.76,
+    "13": 8.22
+   },
+   "slot": "starter",
+   "status": null,
+   "team": "PIT"
+  },
+  {
+   "bye_this_week": false,
    "name": "Quinshon Judkins",
    "pid": "12512",
    "pos": "RB",
@@ -1312,21 +1322,6 @@
    "slot": "starter",
    "status": null,
    "team": "CLE"
-  },
-  {
-   "bye_this_week": false,
-   "name": "Audric Estime",
-   "pid": "11579",
-   "pos": "RB",
-   "proj_by_week": {
-    "10": 8.05,
-    "11": 2.68,
-    "12": 3.03,
-    "13": 2.75
-   },
-   "slot": "starter",
-   "status": null,
-   "team": "NO"
   },
   {
    "bye_this_week": false,
@@ -1349,7 +1344,7 @@
    "pid": "4983",
    "pos": "WR",
    "proj_by_week": {
-    "10": 12.18,
+    "10": 12.17,
     "11": 13.43,
     "12": 12.05,
     "13": 13.11
@@ -1390,18 +1385,18 @@
   },
   {
    "bye_this_week": false,
-   "name": "Rico Dowdle",
-   "pid": "7021",
+   "name": "Audric Estime",
+   "pid": "11579",
    "pos": "RB",
    "proj_by_week": {
-    "10": 9.97,
-    "11": 8.37,
-    "12": 7.76,
-    "13": 8.22
+    "10": 8.05,
+    "11": 2.68,
+    "12": 3.03,
+    "13": 2.75
    },
    "slot": "bench",
    "status": null,
-   "team": "PIT"
+   "team": "NO"
   },
   {
    "bye_this_week": false,
@@ -1747,7 +1742,7 @@
      "name": "Breece Hall",
      "pid": "8155",
      "pos": "RB",
-     "ros_per_week": 10.5,
+     "ros_per_week": 10.6,
      "status": null,
      "team": "NYJ"
     }
@@ -1767,7 +1762,7 @@
    "partner_roster_id": 10,
    "summary": "Give DJ Moore, get Breece Hall from Atticus Dean: +1.4 pts/week for you, +1.0 for them.",
    "their_gain_per_week": 1.0,
-   "value_ratio": 0.81,
+   "value_ratio": 0.82,
    "why_them": [
     "DJ Moore would start 8 of 8 weeks for them"
    ],
