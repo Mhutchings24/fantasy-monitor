@@ -1,5 +1,5 @@
 {
- "content_hash": "d64c0a675245bc85e65670785350e826766bf1cb",
+ "content_hash": "a0bcbc12be008f17111f36866b73163daea08a60",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -163,7 +163,7 @@
    "adds_24h": 0,
    "name": "Jacoby Brissett",
    "pos": "QB",
-   "proj_4wk": 38.5,
+   "proj_4wk": 38.4,
    "proj_this_week": 13.3,
    "status": null,
    "team": "BAL"
@@ -826,7 +826,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-15T12:50:19Z",
+ "generated_at": "2026-11-15T12:55:23Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1066,7 +1066,7 @@
     "mine": false,
     "pa": 1053.34,
     "pf": 1091.54,
-    "playoff_odds": 0.909,
+    "playoff_odds": 0.91,
     "power_rank": 5,
     "proj_avg": 124.0,
     "proj_by_week": {
@@ -1087,7 +1087,7 @@
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.869,
+    "playoff_odds": 0.87,
     "power_rank": 4,
     "proj_avg": 124.1,
     "proj_by_week": {
@@ -1103,17 +1103,17 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.104,
+    "first_seed_odds": 0.103,
     "losses": 4,
     "mine": false,
     "pa": 1118.82,
     "pf": 1169.52,
-    "playoff_odds": 0.908,
+    "playoff_odds": 0.906,
     "power_rank": 3,
-    "proj_avg": 128.7,
+    "proj_avg": 128.6,
     "proj_by_week": {
      "10": 131.47,
-     "11": 133.67,
+     "11": 133.32,
      "12": 136.66,
      "13": 112.93
     },
@@ -1145,17 +1145,17 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.011,
+    "first_seed_odds": 0.012,
     "losses": 5,
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.699,
+    "playoff_odds": 0.702,
     "power_rank": 1,
-    "proj_avg": 131.3,
+    "proj_avg": 131.4,
     "proj_by_week": {
      "10": 125.47,
-     "11": 121.38,
+     "11": 121.5,
      "12": 141.57,
      "13": 136.97
     },
@@ -1192,12 +1192,12 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.43,
+    "playoff_odds": 0.429,
     "power_rank": 8,
     "proj_avg": 119.4,
     "proj_by_week": {
      "10": 124.4,
-     "11": 103.94,
+     "11": 103.69,
      "12": 124.64,
      "13": 124.69
     },
@@ -1213,7 +1213,7 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.175,
+    "playoff_odds": 0.174,
     "power_rank": 7,
     "proj_avg": 120.6,
     "proj_by_week": {
@@ -1896,13 +1896,13 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
-   "gain_window": 4.46,
+   "gain_window": 4.47,
    "name": "Justice Hill",
    "pid": "5995",
    "pos": "RB",
    "proj_by_week": {
     "10": 7.23,
-    "11": 7.05,
+    "11": 7.06,
     "12": 6.93,
     "13": 0.0
    },
