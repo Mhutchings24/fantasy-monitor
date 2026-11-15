@@ -1,5 +1,5 @@
 {
- "content_hash": "f0ec55c8555ca7b0ff5fd51bc33db889951cc59e",
+ "content_hash": "09a53aeb15721d849db8d782f7468699e06436cb",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -350,21 +350,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Joey Slye",
-   "pos": "K",
-   "proj_4wk": 29.1,
-   "proj_this_week": 6.97,
-   "status": null,
-   "team": "TEN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Greg Dulcich",
    "pos": "TE",
    "proj_4wk": 29.1,
    "proj_this_week": 7.67,
    "status": null,
    "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Joey Slye",
+   "pos": "K",
+   "proj_4wk": 29.1,
+   "proj_this_week": 6.97,
+   "status": null,
+   "team": "TEN"
   },
   {
    "adds_24h": 0,
@@ -502,15 +502,6 @@
    "team": "KC"
   },
   {
-   "adds_24h": 0,
-   "name": "CIN D/ST",
-   "pos": "DEF",
-   "proj_4wk": 26.6,
-   "proj_this_week": 6.31,
-   "status": null,
-   "team": "CIN"
-  },
-  {
    "adds_24h": 52485,
    "name": "Dylan Sampson",
    "pos": "RB",
@@ -518,6 +509,15 @@
    "proj_this_week": 7.88,
    "status": null,
    "team": "CLE"
+  },
+  {
+   "adds_24h": 0,
+   "name": "CIN D/ST",
+   "pos": "DEF",
+   "proj_4wk": 26.6,
+   "proj_this_week": 6.31,
+   "status": null,
+   "team": "CIN"
   },
   {
    "adds_24h": 0,
@@ -817,7 +817,7 @@
    "team": "NE"
   }
  ],
- "generated_at": "2026-11-15T17:12:55Z",
+ "generated_at": "2026-11-15T17:18:00Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
