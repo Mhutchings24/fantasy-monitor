@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-15T13:21:00Z UTC
+Week 10 · record 3-6 · updated 2026-11-15T13:26:04Z UTC
 
 ## Lineup check
-Current lineup projects **98.7**, best possible **104.4**.
+Current lineup projects **98.6**, best possible **104.4**.
 
 - 🔁 Start Corey Kiner (RB, NE) (11.8) over Jordyn Tyson (WR, NO) (8.0)
 - 🔁 Start Rico Dowdle (RB, PIT) (10.0) over Audric Estime (RB, NO) (8.1)
@@ -30,7 +30,7 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **98.7** – 112.3 projected · win chance **35%**
+vs **Never Going Go Scottsdale** (4-5): you **98.6** – 112.3 projected · win chance **35%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -63,7 +63,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 10 | Wk 11 | Wk 12 | Wk 13 |
 |---|---|---|---|---|---|---|---|---|
-| LAR D/ST | DEF | LAR | starter |  | 8.7 | 0.0 | 5.9 | 6.1 |
+| LAR D/ST | DEF | LAR | starter |  | 8.6 | 0.0 | 5.9 | 6.1 |
 | Matt Gay | K | LV | starter |  | 8.0 | 7.6 | 8.5 | 0.0 |
 | Jared Goff | QB | DET | starter |  | 18.6 | 17.1 | 21.2 | 18.3 |
 | Quinshon Judkins | RB | CLE | starter |  | 9.7 | 0.0 | 11.9 | 11.8 |

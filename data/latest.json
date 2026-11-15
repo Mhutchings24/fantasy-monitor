@@ -1,5 +1,5 @@
 {
- "content_hash": "91e36d4c0ab416bfa06ef01befff21f8ff0148bc",
+ "content_hash": "a08a06e1d4966197636e79c479740016947b3a3f",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -55,8 +55,8 @@
    "adds_24h": 0,
    "name": "Carson Beck",
    "pos": "QB",
-   "proj_4wk": 52.3,
-   "proj_this_week": 11.24,
+   "proj_4wk": 52.0,
+   "proj_this_week": 10.99,
    "status": null,
    "team": "ARI"
   },
@@ -109,8 +109,8 @@
    "adds_24h": 0,
    "name": "Matthew Stafford",
    "pos": "QB",
-   "proj_4wk": 44.4,
-   "proj_this_week": 16.35,
+   "proj_4wk": 44.3,
+   "proj_this_week": 16.27,
    "status": null,
    "team": "LAR"
   },
@@ -244,8 +244,8 @@
    "adds_24h": 63140,
    "name": "Zonovan Knight",
    "pos": "RB",
-   "proj_4wk": 33.9,
-   "proj_this_week": 8.46,
+   "proj_4wk": 33.7,
+   "proj_this_week": 8.34,
    "status": null,
    "team": "ARI"
   },
@@ -407,7 +407,7 @@
    "name": "Chad Ryland",
    "pos": "K",
    "proj_4wk": 28.4,
-   "proj_this_week": 7.04,
+   "proj_this_week": 7.0,
    "status": null,
    "team": "ARI"
   },
@@ -470,7 +470,7 @@
    "name": "Reggie Virgil",
    "pos": "WR",
    "proj_4wk": 27.2,
-   "proj_this_week": 6.23,
+   "proj_this_week": 6.18,
    "status": null,
    "team": "ARI"
   },
@@ -487,8 +487,8 @@
    "adds_24h": 0,
    "name": "Elijah Higgins",
    "pos": "TE",
-   "proj_4wk": 26.9,
-   "proj_this_week": 6.26,
+   "proj_4wk": 26.8,
+   "proj_this_week": 6.16,
    "status": null,
    "team": "ARI"
   },
@@ -569,7 +569,7 @@
    "name": "Tyler Higbee",
    "pos": "TE",
    "proj_4wk": 25.5,
-   "proj_this_week": 8.53,
+   "proj_this_week": 8.52,
    "status": null,
    "team": "LAR"
   },
@@ -740,7 +740,7 @@
    "name": "Tutu Atwell",
    "pos": "WR",
    "proj_4wk": 15.7,
-   "proj_this_week": 7.46,
+   "proj_this_week": 7.45,
    "status": null,
    "team": "LAR"
   },
@@ -775,8 +775,8 @@
    "adds_24h": 43422,
    "name": "Colby Parkinson",
    "pos": "TE",
-   "proj_4wk": 16.5,
-   "proj_this_week": 7.35,
+   "proj_4wk": 16.4,
+   "proj_this_week": 7.27,
    "status": null,
    "team": "LAR"
   },
@@ -826,7 +826,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-15T13:21:00Z",
+ "generated_at": "2026-11-15T13:26:04Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -904,12 +904,12 @@
    {
     "name": "LAR D/ST",
     "pid": "LAR",
-    "proj": 8.68,
+    "proj": 8.64,
     "slot": "DEF"
    }
   ],
-  "best_projected": 104.41,
-  "current_projected": 98.68,
+  "best_projected": 104.37,
+  "current_projected": 98.64,
   "gain": 5.73,
   "problems": [],
   "source": "matchup week 10",
@@ -1019,12 +1019,12 @@
    "week": 9
   },
   "matchup": {
-   "my_proj": 98.7,
+   "my_proj": 98.6,
    "opp_best_possible": 112.32,
    "opp_proj": 112.3,
    "opponent": "Never Going Go Scottsdale",
    "opponent_record": "4-5",
-   "win_prob": 0.35
+   "win_prob": 0.349
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1049,7 +1049,7 @@
     "power_rank": 2,
     "proj_avg": 129.4,
     "proj_by_week": {
-     "10": 132.96,
+     "10": 132.91,
      "11": 124.56,
      "12": 136.31,
      "13": 123.84
@@ -1061,7 +1061,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.14,
+    "first_seed_odds": 0.141,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
@@ -1129,7 +1129,7 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.641,
+    "playoff_odds": 0.642,
     "power_rank": 6,
     "proj_avg": 121.7,
     "proj_by_week": {
@@ -1145,16 +1145,16 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.015,
+    "first_seed_odds": 0.014,
     "losses": 5,
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.728,
+    "playoff_odds": 0.727,
     "power_rank": 1,
     "proj_avg": 132.6,
     "proj_by_week": {
-     "10": 130.53,
+     "10": 130.38,
      "11": 121.5,
      "12": 141.57,
      "13": 136.97
@@ -1171,7 +1171,7 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.361,
+    "playoff_odds": 0.362,
     "power_rank": 9,
     "proj_avg": 117.5,
     "proj_by_week": {
@@ -1238,7 +1238,7 @@
     "power_rank": 10,
     "proj_avg": 101.0,
     "proj_by_week": {
-     "10": 104.41,
+     "10": 104.37,
      "11": 88.19,
      "12": 109.8,
      "13": 101.66
@@ -1259,7 +1259,7 @@
    "pid": "LAR",
    "pos": "DEF",
    "proj_by_week": {
-    "10": 8.68,
+    "10": 8.64,
     "11": 0.0,
     "12": 5.9,
     "13": 6.08
@@ -1844,7 +1844,7 @@
    "pid": "8122",
    "pos": "RB",
    "proj_by_week": {
-    "10": 8.46,
+    "10": 8.34,
     "11": 7.49,
     "12": 9.22,
     "13": 8.68
