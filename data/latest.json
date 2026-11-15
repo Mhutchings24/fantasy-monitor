@@ -1,5 +1,5 @@
 {
- "content_hash": "0a659111422c14df21b8fc1c23416533d61b2de0",
+ "content_hash": "2a63bd0b571c4fb0d3a8bf8c6ed9b66acb8ffc56",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -7,7 +7,7 @@
  },
  "free_agents": [
   {
-   "adds_24h": 45688,
+   "adds_24h": 46152,
    "name": "Aaron Rodgers",
    "pos": "QB",
    "proj_4wk": 64.8,
@@ -88,7 +88,7 @@
    "team": "TB"
   },
   {
-   "adds_24h": 51536,
+   "adds_24h": 51608,
    "name": "Deshaun Watson",
    "pos": "QB",
    "proj_4wk": 47.0,
@@ -124,7 +124,7 @@
    "team": "PHI"
   },
   {
-   "adds_24h": 80199,
+   "adds_24h": 80352,
    "name": "Khalil Shakir",
    "pos": "WR",
    "proj_4wk": 40.0,
@@ -133,7 +133,7 @@
    "team": "BUF"
   },
   {
-   "adds_24h": 95652,
+   "adds_24h": 95715,
    "name": "Brenton Strange",
    "pos": "TE",
    "proj_4wk": 39.4,
@@ -142,7 +142,7 @@
    "team": "JAX"
   },
   {
-   "adds_24h": 85100,
+   "adds_24h": 85796,
    "name": "Mike Gesicki",
    "pos": "TE",
    "proj_4wk": 39.3,
@@ -151,7 +151,7 @@
    "team": "CIN"
   },
   {
-   "adds_24h": 61404,
+   "adds_24h": 61470,
    "name": "Jakobi Meyers",
    "pos": "WR",
    "proj_4wk": 38.6,
@@ -178,7 +178,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 125472,
+   "adds_24h": 125632,
    "name": "Caleb Douglas",
    "pos": "WR",
    "proj_4wk": 38.4,
@@ -196,7 +196,7 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 38840,
+   "adds_24h": 38880,
    "name": "Malik Washington",
    "pos": "WR",
    "proj_4wk": 38.1,
@@ -205,7 +205,7 @@
    "team": "MIA"
   },
   {
-   "adds_24h": 79048,
+   "adds_24h": 80016,
    "name": "Fernando Mendoza",
    "pos": "QB",
    "proj_4wk": 37.7,
@@ -232,7 +232,7 @@
    "team": "NO"
   },
   {
-   "adds_24h": 38392,
+   "adds_24h": 39128,
    "name": "Ryan Flournoy",
    "pos": "WR",
    "proj_4wk": 35.0,
@@ -241,7 +241,7 @@
    "team": "DAL"
   },
   {
-   "adds_24h": 76640,
+   "adds_24h": 76968,
    "name": "Zonovan Knight",
    "pos": "RB",
    "proj_4wk": 33.8,
@@ -313,7 +313,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 69170,
+   "adds_24h": 69295,
    "name": "Ryan Fitzgerald",
    "pos": "K",
    "proj_4wk": 31.2,
@@ -412,7 +412,7 @@
    "team": "KC"
   },
   {
-   "adds_24h": 95228,
+   "adds_24h": 95324,
    "name": "Elic Ayomanor",
    "pos": "WR",
    "proj_4wk": 28.0,
@@ -430,7 +430,7 @@
    "team": "BUF"
   },
   {
-   "adds_24h": 76545,
+   "adds_24h": 77130,
    "name": "Darnell Washington",
    "pos": "TE",
    "proj_4wk": 27.6,
@@ -448,7 +448,7 @@
    "team": "TB"
   },
   {
-   "adds_24h": 52619,
+   "adds_24h": 52675,
    "name": "Kyle Pitts Sr.",
    "pos": "TE",
    "proj_4wk": 27.5,
@@ -475,7 +475,7 @@
    "team": "CIN"
   },
   {
-   "adds_24h": 45876,
+   "adds_24h": 45918,
    "name": "Hunter Henry",
    "pos": "TE",
    "proj_4wk": 27.1,
@@ -493,13 +493,22 @@
    "team": "ARI"
   },
   {
-   "adds_24h": 33606,
+   "adds_24h": 33651,
    "name": "Xavier Worthy",
    "pos": "WR",
    "proj_4wk": 26.8,
    "proj_this_week": 8.28,
    "status": null,
    "team": "KC"
+  },
+  {
+   "adds_24h": 50225,
+   "name": "Dylan Sampson",
+   "pos": "RB",
+   "proj_4wk": 26.6,
+   "proj_this_week": 7.88,
+   "status": null,
+   "team": "CLE"
   },
   {
    "adds_24h": 0,
@@ -509,15 +518,6 @@
    "proj_this_week": 6.31,
    "status": null,
    "team": "CIN"
-  },
-  {
-   "adds_24h": 50215,
-   "name": "Dylan Sampson",
-   "pos": "RB",
-   "proj_4wk": 26.6,
-   "proj_this_week": 7.88,
-   "status": null,
-   "team": "CLE"
   },
   {
    "adds_24h": 0,
@@ -547,7 +547,7 @@
    "team": "MIA"
   },
   {
-   "adds_24h": 38536,
+   "adds_24h": 38752,
    "name": "Pat Bryant",
    "pos": "WR",
    "proj_4wk": 26.0,
@@ -565,7 +565,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 196470,
+   "adds_24h": 197775,
    "name": "Tyler Higbee",
    "pos": "TE",
    "proj_4wk": 25.5,
@@ -727,7 +727,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 357057,
+   "adds_24h": 359460,
    "name": "Justice Hill",
    "pos": "RB",
    "proj_4wk": 21.2,
@@ -736,7 +736,7 @@
    "team": "BAL"
   },
   {
-   "adds_24h": 143150,
+   "adds_24h": 144802,
    "name": "Tutu Atwell",
    "pos": "WR",
    "proj_4wk": 15.7,
@@ -745,7 +745,7 @@
    "team": "LAR"
   },
   {
-   "adds_24h": 111918,
+   "adds_24h": 111975,
    "name": "IND D/ST",
    "pos": "DEF",
    "proj_4wk": 19.8,
@@ -754,7 +754,7 @@
    "team": "IND"
   },
   {
-   "adds_24h": 87759,
+   "adds_24h": 87885,
    "name": "Gavin Bartholomew",
    "pos": "TE",
    "proj_4wk": 12.2,
@@ -763,7 +763,7 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 74970,
+   "adds_24h": 74997,
    "name": "Ashton Dulin",
    "pos": "WR",
    "proj_4wk": 18.9,
@@ -772,7 +772,7 @@
    "team": "IND"
   },
   {
-   "adds_24h": 64698,
+   "adds_24h": 64980,
    "name": "Colby Parkinson",
    "pos": "TE",
    "proj_4wk": 16.4,
@@ -781,7 +781,7 @@
    "team": "LAR"
   },
   {
-   "adds_24h": 57685,
+   "adds_24h": 58385,
    "name": "TB D/ST",
    "pos": "DEF",
    "proj_4wk": 20.7,
@@ -790,7 +790,7 @@
    "team": "TB"
   },
   {
-   "adds_24h": 54810,
+   "adds_24h": 54820,
    "name": "Jason Sanders",
    "pos": "K",
    "proj_4wk": 22.1,
@@ -799,7 +799,7 @@
    "team": "NYJ"
   },
   {
-   "adds_24h": 47712,
+   "adds_24h": 49728,
    "name": "Seth McGowan",
    "pos": "RB",
    "proj_4wk": 20.0,
@@ -808,7 +808,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-15T18:39:32Z",
+ "generated_at": "2026-11-15T18:44:37Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1410,13 +1410,13 @@
    "pid": "13276",
    "pos": "WR",
    "proj_by_week": {
-    "10": 8.54,
+    "10": 7.26,
     "11": 10.29,
     "12": 11.22,
     "13": 0.0
    },
    "slot": "bench",
-   "status": null,
+   "status": "Questionable",
    "team": "NYJ"
   },
   {
@@ -1483,7 +1483,7 @@
    "status": null,
    "stream": true,
    "team": "CAR",
-   "trending_adds_24h": 69170
+   "trending_adds_24h": 69295
   }
  ],
  "team": {
@@ -1516,7 +1516,7 @@
    "likelihood": "Likely",
    "partner": "Glizzy Globbler ",
    "partner_roster_id": 2,
-   "summary": "Give DJ Moore, get Jonah Coleman from Glizzy Globbler : +3.6 pts/week for you, +0.8 for them.",
+   "summary": "Give DJ Moore, get Jonah Coleman from Glizzy Globbler : +3.5 pts/week for you, +0.8 for them.",
    "their_gain_per_week": 0.8,
    "value_ratio": 0.98,
    "why_them": [
@@ -1526,7 +1526,7 @@
     "Jonah Coleman would start 7 of 8 weeks for you",
     "DJ Moore starts 8 of 8 weeks for you"
    ],
-   "your_gain_per_week": 3.6
+   "your_gain_per_week": 3.5
   },
   {
    "get": [
@@ -1552,7 +1552,7 @@
    "likelihood": "Possible",
    "partner": "Glizzy Globbler ",
    "partner_roster_id": 2,
-   "summary": "Give Stefon Diggs, get Jonah Coleman from Glizzy Globbler : +4.4 pts/week for you, -0.1 for them.",
+   "summary": "Give Stefon Diggs, get Jonah Coleman from Glizzy Globbler : +4.3 pts/week for you, -0.1 for them.",
    "their_gain_per_week": -0.1,
    "value_ratio": 1.04,
    "why_them": [
@@ -1562,44 +1562,7 @@
     "Jonah Coleman would start 7 of 8 weeks for you",
     "Stefon Diggs starts 7 of 8 weeks for you"
    ],
-   "your_gain_per_week": 4.4
-  },
-  {
-   "get": [
-    {
-     "name": "Tony Pollard",
-     "pid": "5967",
-     "pos": "RB",
-     "ros_per_week": 11.8,
-     "status": null,
-     "team": "TEN"
-    }
-   ],
-   "give": [
-    {
-     "name": "Omar Cooper Jr.",
-     "pid": "13276",
-     "pos": "WR",
-     "ros_per_week": 8.8,
-     "status": null,
-     "team": "NYJ"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "I’m stuck Step Burrow",
-   "partner_roster_id": 8,
-   "summary": "Give Omar Cooper Jr., get Tony Pollard from I’m stuck Step Burrow: +4.0 pts/week for you, -0.4 for them.",
-   "their_gain_per_week": -0.4,
-   "value_ratio": 1.35,
-   "why_them": [
-    "Omar Cooper Jr. would start 1 of 8 weeks for them",
-    "Tony Pollard only starts 2 of 8 weeks on their roster"
-   ],
-   "why_you": [
-    "Tony Pollard would start 8 of 8 weeks for you",
-    "Omar Cooper Jr. starts only 0 of 8 weeks for you"
-   ],
-   "your_gain_per_week": 4.0
+   "your_gain_per_week": 4.3
   },
   {
    "get": [
@@ -1654,8 +1617,8 @@
      "name": "Omar Cooper Jr.",
      "pid": "13276",
      "pos": "WR",
-     "ros_per_week": 8.8,
-     "status": null,
+     "ros_per_week": 8.6,
+     "status": "Questionable",
      "team": "NYJ"
     }
    ],
@@ -1664,7 +1627,7 @@
    "partner_roster_id": 4,
    "summary": "Give Omar Cooper Jr., get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.3 pts/week for you, -0.5 for them.",
    "their_gain_per_week": -0.5,
-   "value_ratio": 1.22,
+   "value_ratio": 1.24,
    "why_them": [
     "Omar Cooper Jr. would start 0 of 8 weeks for them",
     "Zach Charbonnet only starts 1 of 8 weeks on their roster"
@@ -1711,6 +1674,43 @@
     "Jordyn Tyson starts only 2 of 8 weeks for you"
    ],
    "your_gain_per_week": 3.3
+  },
+  {
+   "get": [
+    {
+     "name": "Jordan Mason",
+     "pid": "8408",
+     "pos": "RB",
+     "ros_per_week": 10.8,
+     "status": null,
+     "team": "MIN"
+    }
+   ],
+   "give": [
+    {
+     "name": "Omar Cooper Jr.",
+     "pid": "13276",
+     "pos": "WR",
+     "ros_per_week": 8.6,
+     "status": "Questionable",
+     "team": "NYJ"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "I’m stuck Step Burrow",
+   "partner_roster_id": 8,
+   "summary": "Give Omar Cooper Jr., get Jordan Mason from I’m stuck Step Burrow: +3.0 pts/week for you, -0.2 for them.",
+   "their_gain_per_week": -0.2,
+   "value_ratio": 1.26,
+   "why_them": [
+    "Omar Cooper Jr. would start 0 of 8 weeks for them",
+    "Jordan Mason only starts 1 of 8 weeks on their roster"
+   ],
+   "why_you": [
+    "Jordan Mason would start 8 of 8 weeks for you",
+    "Omar Cooper Jr. starts only 0 of 8 weeks for you"
+   ],
+   "your_gain_per_week": 3.0
   },
   {
    "get": [
@@ -1822,7 +1822,7 @@
    "status": null,
    "stream": false,
    "team": "ARI",
-   "trending_adds_24h": 76640
+   "trending_adds_24h": 76968
   },
   {
    "drop": "11579",
@@ -1879,7 +1879,7 @@
    "status": null,
    "stream": false,
    "team": "BAL",
-   "trending_adds_24h": 357057
+   "trending_adds_24h": 359460
   },
   {
    "drop": "11579",
@@ -1955,7 +1955,7 @@
    "status": null,
    "stream": false,
    "team": "IND",
-   "trending_adds_24h": 47712
+   "trending_adds_24h": 49728
   },
   {
    "drop": "11579",
@@ -1993,7 +1993,7 @@
    "status": null,
    "stream": false,
    "team": "CLE",
-   "trending_adds_24h": 50215
+   "trending_adds_24h": 50225
   },
   {
    "drop": "11579",

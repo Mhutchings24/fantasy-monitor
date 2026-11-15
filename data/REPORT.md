@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-15T18:39:32Z UTC
+Week 10 · record 3-6 · updated 2026-11-15T18:44:37Z UTC
 
 ## Lineup check
 Current lineup projects **101.9**, best possible **101.9**.
@@ -14,16 +14,16 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +10.6 | +0.2 | 0 |
-| Zonovan Knight | RB | ARI | Audric Estime | +6.8 | +0.0 | 76,640 |
+| Zonovan Knight | RB | ARI | Audric Estime | +6.8 | +0.0 | 76,968 |
 | Kimani Vidal | RB | LAC | Audric Estime | +4.8 | +0.0 | 0 |
 | Tyjae Spears | RB | TEN | Audric Estime | +4.5 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 357,057 |
+| Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 359,460 |
 | Samaje Perine | RB | CIN | Audric Estime | +4.1 | +0.0 | 0 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +4.1 | +0.0 | 0 |
 | Ty Johnson | RB | BUF | Audric Estime | +3.5 | +0.0 | 0 |
-| Seth McGowan | RB | IND | Audric Estime | +3.4 | +0.0 | 47,712 |
+| Seth McGowan | RB | IND | Audric Estime | +3.4 | +0.0 | 49,728 |
 | Alvin Kamara | RB | NO | Audric Estime | +2.8 | +0.0 | 0 |
-| Dylan Sampson | RB | CLE | Corey Kiner | +2.7 | +0.0 | 50,215 |
+| Dylan Sampson | RB | CLE | Corey Kiner | +2.7 | +0.0 | 50,225 |
 | Austin Ekeler | RB | WAS | Audric Estime | +2.3 | +0.0 | 0 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.6 pts this week)
@@ -50,12 +50,12 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
-- **Likely** · Give DJ Moore, get Jonah Coleman from Glizzy Globbler : +3.6 pts/week for you, +0.8 for them.
-- **Possible** · Give Stefon Diggs, get Jonah Coleman from Glizzy Globbler : +4.4 pts/week for you, -0.1 for them.
-- **Possible** · Give Omar Cooper Jr., get Tony Pollard from I’m stuck Step Burrow: +4.0 pts/week for you, -0.4 for them.
+- **Likely** · Give DJ Moore, get Jonah Coleman from Glizzy Globbler : +3.5 pts/week for you, +0.8 for them.
+- **Possible** · Give Stefon Diggs, get Jonah Coleman from Glizzy Globbler : +4.3 pts/week for you, -0.1 for them.
 - **Possible** · Give Jordyn Tyson, get Tony Pollard from I’m stuck Step Burrow: +3.9 pts/week for you, -0.4 for them.
 - **Possible** · Give Omar Cooper Jr., get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.3 pts/week for you, -0.5 for them.
 - **Possible** · Give Jordyn Tyson, get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.3 pts/week for you, -0.5 for them.
+- **Possible** · Give Omar Cooper Jr., get Jordan Mason from I’m stuck Step Burrow: +3.0 pts/week for you, -0.2 for them.
 - **Likely** · Give DJ Moore, get Breece Hall from Atticus Dean: +1.4 pts/week for you, +1.0 for them.
 - **Likely** · Give Mike Evans, get Ollie Gordon II from Bradsbaconisundercooked: +1.2 pts/week for you, +0.8 for them.
 
@@ -74,7 +74,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Audric Estime | RB | NO | bench |  | 7.8 | 2.7 | 3.0 | 2.8 |
 | Corey Kiner | RB | NE | bench |  | 6.0 | 0.0 | 6.9 | 6.3 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 0.0 | 8.5 | 16.3 |
-| Omar Cooper Jr. | WR | NYJ | bench |  | 8.5 | 10.3 | 11.2 | 0.0 |
+| Omar Cooper Jr. | WR | NYJ | bench | Questionable | 7.3 | 10.3 | 11.2 | 0.0 |
 | Keenan Allen | WR | SF | bench |  | 6.4 | 5.7 | 6.1 | 6.6 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
 | Mike Evans | WR | SF | bench | Out | 0.0 | 13.1 | 15.0 | 15.9 |
