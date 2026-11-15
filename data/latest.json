@@ -1,5 +1,5 @@
 {
- "content_hash": "86a1f9680f15027570bc36d634a3f93a42d53b06",
+ "content_hash": "45befaa15189c01e1da9257ad0b5e2309fcb7346",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -397,8 +397,8 @@
    "adds_24h": 50283,
    "name": "Hunter Henry",
    "pos": "TE",
-   "proj_4wk": 28.6,
-   "proj_this_week": 9.98,
+   "proj_4wk": 28.7,
+   "proj_this_week": 10.01,
    "status": null,
    "team": "NE"
   },
@@ -614,7 +614,7 @@
    "name": "DET D/ST",
    "pos": "DEF",
    "proj_4wk": 24.0,
-   "proj_this_week": 5.64,
+   "proj_this_week": 5.67,
    "status": null,
    "team": "DET"
   },
@@ -803,7 +803,7 @@
    "name": "Mack Hollins",
    "pos": "WR",
    "proj_4wk": 14.9,
-   "proj_this_week": 8.08,
+   "proj_this_week": 8.1,
    "status": null,
    "team": "NE"
   },
@@ -826,7 +826,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-15T11:54:31Z",
+ "generated_at": "2026-11-15T11:59:35Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -856,7 +856,7 @@
    {
     "name": "Jared Goff",
     "pid": "3163",
-    "proj": 18.39,
+    "proj": 18.49,
     "slot": "QB"
    },
    {
@@ -908,8 +908,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 104.37,
-  "current_projected": 98.63,
+  "best_projected": 104.47,
+  "current_projected": 98.73,
   "gain": 5.74,
   "problems": [],
   "source": "matchup week 10",
@@ -1019,12 +1019,12 @@
    "week": 9
   },
   "matchup": {
-   "my_proj": 98.6,
+   "my_proj": 98.7,
    "opp_best_possible": 112.32,
    "opp_proj": 112.3,
    "opponent": "Never Going Go Scottsdale",
    "opponent_record": "4-5",
-   "win_prob": 0.349
+   "win_prob": 0.35
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1040,7 +1040,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.589,
+    "first_seed_odds": 0.59,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1049,7 +1049,7 @@
     "power_rank": 2,
     "proj_avg": 129.4,
     "proj_by_week": {
-     "10": 132.91,
+     "10": 132.94,
      "11": 124.56,
      "12": 136.31,
      "13": 123.84
@@ -1112,7 +1112,7 @@
     "power_rank": 3,
     "proj_avg": 128.7,
     "proj_by_week": {
-     "10": 131.34,
+     "10": 131.4,
      "11": 133.67,
      "12": 136.66,
      "13": 112.93
@@ -1145,16 +1145,16 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.011,
+    "first_seed_odds": 0.012,
     "losses": 5,
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.7,
+    "playoff_odds": 0.701,
     "power_rank": 1,
     "proj_avg": 131.3,
     "proj_by_week": {
-     "10": 125.26,
+     "10": 125.42,
      "11": 121.38,
      "12": 141.57,
      "13": 136.97
@@ -1217,7 +1217,7 @@
     "power_rank": 7,
     "proj_avg": 120.5,
     "proj_by_week": {
-     "10": 117.39,
+     "10": 117.64,
      "11": 108.02,
      "12": 134.56,
      "13": 121.91
@@ -1238,7 +1238,7 @@
     "power_rank": 10,
     "proj_avg": 101.0,
     "proj_by_week": {
-     "10": 104.37,
+     "10": 104.47,
      "11": 88.19,
      "12": 109.8,
      "13": 101.66
@@ -1289,7 +1289,7 @@
    "pid": "3163",
    "pos": "QB",
    "proj_by_week": {
-    "10": 18.39,
+    "10": 18.49,
     "11": 17.09,
     "12": 21.18,
     "13": 18.34
