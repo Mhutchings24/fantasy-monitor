@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-15T06:12:18Z UTC
+Week 10 · record 3-6 · updated 2026-11-15T06:24:01Z UTC
 
 ## Lineup check
 Current lineup projects **98.6**, best possible **104.3**.
@@ -15,33 +15,33 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +10.4 | +0.0 | 0 |
-| Zonovan Knight | RB | ARI | Audric Estime | +6.8 | +0.0 | 55,476 |
+| Zonovan Knight | RB | ARI | Audric Estime | +6.8 | +0.0 | 55,728 |
 | Kimani Vidal | RB | LAC | Audric Estime | +5.0 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +4.6 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 191,754 |
+| Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 193,185 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +4.2 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +4.2 | +0.0 | 0 |
 | Ty Johnson | RB | BUF | Audric Estime | +3.6 | +0.0 | 0 |
-| Seth McGowan | RB | IND | Audric Estime | +3.4 | +0.0 | 30,584 |
+| Seth McGowan | RB | IND | Audric Estime | +3.4 | +0.0 | 30,784 |
 | Alvin Kamara | RB | NO | Audric Estime | +2.8 | +0.0 | 0 |
-| Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 30,265 |
+| Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 30,440 |
 | Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.3 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **98.6** – 112.3 projected · win chance **35%**
+vs **Never Going Go Scottsdale** (4-5): you **98.6** – 112.4 projected · win chance **35%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.5 | 100% |
+| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.5 | 99% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 124.2 | 91% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 5 | 124.1 | 87% |
-| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 128.6 | 90% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.7 | 65% |
+| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 128.6 | 91% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.7 | 64% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 131.3 | 70% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 117.5 | 36% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 119.3 | 43% |
