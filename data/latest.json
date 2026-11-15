@@ -1,5 +1,5 @@
 {
- "content_hash": "5a5f96b082d38ed7dc8ff41df933b9da61987ee5",
+ "content_hash": "d84e5dbb1f76df0160ec7dc06352e3f64908d3d3",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -593,6 +593,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Tyjae Spears",
+   "pos": "RB",
+   "proj_4wk": 24.6,
+   "proj_this_week": 5.69,
+   "status": null,
+   "team": "TEN"
+  },
+  {
+   "adds_24h": 0,
    "name": "Gunnar Helm",
    "pos": "TE",
    "proj_4wk": 24.4,
@@ -617,15 +626,6 @@
    "proj_this_week": 6.5,
    "status": null,
    "team": "NYG"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Tyjae Spears",
-   "pos": "RB",
-   "proj_4wk": 23.7,
-   "proj_this_week": 4.84,
-   "status": "Questionable",
-   "team": "TEN"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-15T16:42:11Z",
+ "generated_at": "2026-11-15T16:47:17Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -890,9 +890,9 @@
     "slot": "TE"
    },
    {
-    "name": "Audric Estime",
-    "pid": "11579",
-    "proj": 8.05,
+    "name": "Omar Cooper Jr.",
+    "pid": "13276",
+    "proj": 8.56,
     "slot": "FLEX"
    },
    {
@@ -908,9 +908,9 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 100.92,
+  "best_projected": 101.43,
   "current_projected": 98.92,
-  "gain": 2.0,
+  "gain": 2.51,
   "problems": [],
   "source": "matchup week 10",
   "swaps": [
@@ -918,6 +918,11 @@
     "bench": "13281",
     "start": "7021",
     "text": "Start Rico Dowdle (RB, PIT) (10.0) over Jordyn Tyson (WR, NO) (8.0)"
+   },
+   {
+    "bench": "11579",
+    "start": "13276",
+    "text": "Start Omar Cooper Jr. (WR, NYJ) (8.6) over Audric Estime (RB, NO) (8.1)"
    }
   ],
   "week": 10
@@ -1035,16 +1040,16 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.585,
+    "first_seed_odds": 0.596,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
     "pf": 1250.86,
-    "playoff_odds": 0.992,
+    "playoff_odds": 0.993,
     "power_rank": 2,
-    "proj_avg": 129.3,
+    "proj_avg": 129.8,
     "proj_by_week": {
-     "10": 132.89,
+     "10": 134.76,
      "11": 124.23,
      "12": 136.3,
      "13": 123.84
@@ -1056,7 +1061,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.141,
+    "first_seed_odds": 0.138,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
@@ -1077,7 +1082,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.129,
+    "first_seed_odds": 0.125,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
@@ -1098,12 +1103,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.103,
+    "first_seed_odds": 0.1,
     "losses": 4,
     "mine": false,
     "pa": 1118.82,
     "pf": 1169.52,
-    "playoff_odds": 0.901,
+    "playoff_odds": 0.898,
     "power_rank": 3,
     "proj_avg": 128.6,
     "proj_by_week": {
@@ -1119,12 +1124,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.019,
+    "first_seed_odds": 0.018,
     "losses": 4,
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.625,
+    "playoff_odds": 0.626,
     "power_rank": 6,
     "proj_avg": 121.5,
     "proj_by_week": {
@@ -1145,7 +1150,7 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.744,
+    "playoff_odds": 0.746,
     "power_rank": 1,
     "proj_avg": 132.6,
     "proj_by_week": {
@@ -1166,7 +1171,7 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.361,
+    "playoff_odds": 0.36,
     "power_rank": 8,
     "proj_avg": 117.3,
     "proj_by_week": {
@@ -1187,7 +1192,7 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.502,
+    "playoff_odds": 0.501,
     "power_rank": 7,
     "proj_avg": 119.3,
     "proj_by_week": {
@@ -1229,11 +1234,11 @@
     "mine": true,
     "pa": 1088.3,
     "pf": 978.8,
-    "playoff_odds": 0.004,
+    "playoff_odds": 0.005,
     "power_rank": 10,
-    "proj_avg": 100.1,
+    "proj_avg": 100.3,
     "proj_by_week": {
-     "10": 100.92,
+     "10": 101.43,
      "11": 88.2,
      "12": 109.78,
      "13": 101.66
@@ -1434,13 +1439,13 @@
    "pid": "13276",
    "pos": "WR",
    "proj_by_week": {
-    "10": 7.28,
+    "10": 8.56,
     "11": 10.31,
     "12": 11.22,
     "13": 0.0
    },
    "slot": "bench",
-   "status": "Questionable",
+   "status": null,
    "team": "NYJ"
   },
   {
@@ -1601,6 +1606,43 @@
    ],
    "give": [
     {
+     "name": "Omar Cooper Jr.",
+     "pid": "13276",
+     "pos": "WR",
+     "ros_per_week": 8.8,
+     "status": null,
+     "team": "NYJ"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "I’m stuck Step Burrow",
+   "partner_roster_id": 8,
+   "summary": "Give Omar Cooper Jr., get Tony Pollard from I’m stuck Step Burrow: +4.1 pts/week for you, -0.4 for them.",
+   "their_gain_per_week": -0.4,
+   "value_ratio": 1.35,
+   "why_them": [
+    "Omar Cooper Jr. would start 1 of 8 weeks for them",
+    "Tony Pollard only starts 2 of 8 weeks on their roster"
+   ],
+   "why_you": [
+    "Tony Pollard would start 8 of 8 weeks for you",
+    "Omar Cooper Jr. starts only 1 of 8 weeks for you"
+   ],
+   "your_gain_per_week": 4.1
+  },
+  {
+   "get": [
+    {
+     "name": "Tony Pollard",
+     "pid": "5967",
+     "pos": "RB",
+     "ros_per_week": 11.8,
+     "status": null,
+     "team": "TEN"
+    }
+   ],
+   "give": [
+    {
      "name": "Jordyn Tyson",
      "pid": "13281",
      "pos": "WR",
@@ -1641,26 +1683,26 @@
      "name": "Omar Cooper Jr.",
      "pid": "13276",
      "pos": "WR",
-     "ros_per_week": 8.6,
-     "status": "Questionable",
+     "ros_per_week": 8.8,
+     "status": null,
      "team": "NYJ"
     }
    ],
    "likelihood": "Possible",
    "partner": "Gibbs me Nabers 😵‍💫",
    "partner_roster_id": 4,
-   "summary": "Give Omar Cooper Jr., get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.5 pts/week for you, -0.5 for them.",
+   "summary": "Give Omar Cooper Jr., get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.4 pts/week for you, -0.5 for them.",
    "their_gain_per_week": -0.5,
-   "value_ratio": 1.24,
+   "value_ratio": 1.22,
    "why_them": [
     "Omar Cooper Jr. would start 0 of 8 weeks for them",
     "Zach Charbonnet only starts 1 of 8 weeks on their roster"
    ],
    "why_you": [
     "Zach Charbonnet would start 7 of 8 weeks for you",
-    "Omar Cooper Jr. starts only 0 of 8 weeks for you"
+    "Omar Cooper Jr. starts only 1 of 8 weeks for you"
    ],
-   "your_gain_per_week": 3.5
+   "your_gain_per_week": 3.4
   },
   {
    "get": [
@@ -1686,7 +1728,7 @@
    "likelihood": "Possible",
    "partner": "Gibbs me Nabers 😵‍💫",
    "partner_roster_id": 4,
-   "summary": "Give Jordyn Tyson, get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.4 pts/week for you, -0.5 for them.",
+   "summary": "Give Jordyn Tyson, get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.3 pts/week for you, -0.5 for them.",
    "their_gain_per_week": -0.5,
    "value_ratio": 1.02,
    "why_them": [
@@ -1697,44 +1739,7 @@
     "Zach Charbonnet would start 7 of 8 weeks for you",
     "Jordyn Tyson starts only 1 of 8 weeks for you"
    ],
-   "your_gain_per_week": 3.4
-  },
-  {
-   "get": [
-    {
-     "name": "Jordan Mason",
-     "pid": "8408",
-     "pos": "RB",
-     "ros_per_week": 10.8,
-     "status": null,
-     "team": "MIN"
-    }
-   ],
-   "give": [
-    {
-     "name": "Omar Cooper Jr.",
-     "pid": "13276",
-     "pos": "WR",
-     "ros_per_week": 8.6,
-     "status": "Questionable",
-     "team": "NYJ"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "I’m stuck Step Burrow",
-   "partner_roster_id": 8,
-   "summary": "Give Omar Cooper Jr., get Jordan Mason from I’m stuck Step Burrow: +3.1 pts/week for you, -0.2 for them.",
-   "their_gain_per_week": -0.2,
-   "value_ratio": 1.25,
-   "why_them": [
-    "Omar Cooper Jr. would start 0 of 8 weeks for them",
-    "Jordan Mason only starts 1 of 8 weeks on their roster"
-   ],
-   "why_you": [
-    "Jordan Mason would start 8 of 8 weeks for you",
-    "Omar Cooper Jr. starts only 0 of 8 weeks for you"
-   ],
-   "your_gain_per_week": 3.1
+   "your_gain_per_week": 3.3
   },
   {
    "get": [
@@ -1796,7 +1801,7 @@
    "likelihood": "Likely",
    "partner": "Bradsbaconisundercooked",
    "partner_roster_id": 1,
-   "summary": "Give Mike Evans, get Ollie Gordon II from Bradsbaconisundercooked: +1.4 pts/week for you, +0.8 for them.",
+   "summary": "Give Mike Evans, get Ollie Gordon II from Bradsbaconisundercooked: +1.3 pts/week for you, +0.8 for them.",
    "their_gain_per_week": 0.8,
    "value_ratio": 0.98,
    "why_them": [
@@ -1806,15 +1811,15 @@
     "Ollie Gordon II would start 8 of 8 weeks for you",
     "Mike Evans starts 7 of 8 weeks for you"
    ],
-   "your_gain_per_week": 1.4
+   "your_gain_per_week": 1.3
   }
  ],
  "waivers": [
   {
    "drop": "11579",
    "drop_name": "Audric Estime",
-   "gain_this_week": 1.22,
-   "gain_window": 11.55,
+   "gain_this_week": 0.71,
+   "gain_window": 11.04,
    "name": "Aaron Jones Sr.",
    "pid": "4199",
    "pos": "RB",
@@ -1832,8 +1837,8 @@
   {
    "drop": "11579",
    "drop_name": "Audric Estime",
-   "gain_this_week": 0.29,
-   "gain_window": 7.07,
+   "gain_this_week": 0.0,
+   "gain_window": 6.78,
    "name": "Zonovan Knight",
    "pid": "8122",
    "pos": "RB",
@@ -1849,8 +1854,8 @@
    "trending_adds_24h": 79280
   },
   {
-   "drop": "12491",
-   "drop_name": "Corey Kiner",
+   "drop": "11579",
+   "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
    "gain_window": 4.92,
    "name": "Kimani Vidal",
@@ -1868,27 +1873,27 @@
    "trending_adds_24h": 0
   },
   {
-   "drop": "12491",
-   "drop_name": "Corey Kiner",
+   "drop": "11579",
+   "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
    "gain_window": 4.53,
    "name": "Tyjae Spears",
    "pid": "9508",
    "pos": "RB",
    "proj_by_week": {
-    "10": 4.84,
+    "10": 5.69,
     "11": 7.22,
     "12": 6.15,
     "13": 5.51
    },
-   "status": "Questionable",
+   "status": null,
    "stream": false,
    "team": "TEN",
    "trending_adds_24h": 0
   },
   {
-   "drop": "12491",
-   "drop_name": "Corey Kiner",
+   "drop": "11579",
+   "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
    "gain_window": 4.37,
    "name": "Justice Hill",
@@ -1906,8 +1911,8 @@
    "trending_adds_24h": 331560
   },
   {
-   "drop": "12491",
-   "drop_name": "Corey Kiner",
+   "drop": "11579",
+   "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
    "gain_window": 4.18,
    "name": "Keaton Mitchell",
@@ -1925,8 +1930,8 @@
    "trending_adds_24h": 0
   },
   {
-   "drop": "12491",
-   "drop_name": "Corey Kiner",
+   "drop": "11579",
+   "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
    "gain_window": 4.13,
    "name": "Samaje Perine",
@@ -1944,8 +1949,8 @@
    "trending_adds_24h": 0
   },
   {
-   "drop": "12491",
-   "drop_name": "Corey Kiner",
+   "drop": "11579",
+   "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
    "gain_window": 3.54,
    "name": "Ty Johnson",
@@ -1963,8 +1968,8 @@
    "trending_adds_24h": 0
   },
   {
-   "drop": "12491",
-   "drop_name": "Corey Kiner",
+   "drop": "11579",
+   "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
    "gain_window": 3.38,
    "name": "Seth McGowan",
@@ -1982,8 +1987,8 @@
    "trending_adds_24h": 46544
   },
   {
-   "drop": "12491",
-   "drop_name": "Corey Kiner",
+   "drop": "11579",
+   "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
    "gain_window": 2.83,
    "name": "Alvin Kamara",
@@ -2022,8 +2027,8 @@
   {
    "drop": "11579",
    "drop_name": "Audric Estime",
-   "gain_this_week": 0.42,
-   "gain_window": 2.67,
+   "gain_this_week": 0.0,
+   "gain_window": 2.25,
    "name": "Austin Ekeler",
    "pid": "4663",
    "pos": "RB",
