@@ -1,5 +1,5 @@
 {
- "content_hash": "3c227972515ddd2ba5687e1dfb5244b1c02588b6",
+ "content_hash": "b743e805c2898f857e4e5f2e1887094b60ec4027",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -127,7 +127,7 @@
    "adds_24h": 76986,
    "name": "Khalil Shakir",
    "pos": "WR",
-   "proj_4wk": 39.9,
+   "proj_4wk": 39.8,
    "proj_this_week": 10.02,
    "status": null,
    "team": "BUF"
@@ -278,21 +278,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Dallas Goedert",
-   "pos": "TE",
-   "proj_4wk": 32.8,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "PHI"
-  },
-  {
-   "adds_24h": 0,
    "name": "Dalton Schultz",
    "pos": "TE",
    "proj_4wk": 32.8,
    "proj_this_week": 7.97,
    "status": null,
    "team": "HOU"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Dallas Goedert",
+   "pos": "TE",
+   "proj_4wk": 32.8,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "PHI"
   },
   {
    "adds_24h": 0,
@@ -494,21 +494,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Xavier Worthy",
-   "pos": "WR",
-   "proj_4wk": 26.9,
-   "proj_this_week": 8.28,
-   "status": null,
-   "team": "KC"
-  },
-  {
-   "adds_24h": 0,
    "name": "Elijah Higgins",
    "pos": "TE",
    "proj_4wk": 26.9,
    "proj_this_week": 6.16,
    "status": null,
    "team": "ARI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Xavier Worthy",
+   "pos": "WR",
+   "proj_4wk": 26.8,
+   "proj_this_week": 8.28,
+   "status": null,
+   "team": "KC"
   },
   {
    "adds_24h": 0,
@@ -640,7 +640,7 @@
    "adds_24h": 0,
    "name": "AJ Barner",
    "pos": "TE",
-   "proj_4wk": 23.8,
+   "proj_4wk": 23.7,
    "proj_this_week": 7.77,
    "status": null,
    "team": "SEA"
@@ -656,21 +656,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Trey Smack",
-   "pos": "K",
-   "proj_4wk": 23.6,
-   "proj_this_week": 7.89,
-   "status": null,
-   "team": "GB"
-  },
-  {
-   "adds_24h": 0,
    "name": "Alvin Kamara",
    "pos": "RB",
    "proj_4wk": 23.6,
    "proj_this_week": 6.3,
    "status": null,
    "team": "NO"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Trey Smack",
+   "pos": "K",
+   "proj_4wk": 23.6,
+   "proj_this_week": 7.89,
+   "status": null,
+   "team": "GB"
   },
   {
    "adds_24h": 0,
@@ -721,7 +721,7 @@
    "adds_24h": 0,
    "name": "Ty Johnson",
    "pos": "RB",
-   "proj_4wk": 22.9,
+   "proj_4wk": 22.8,
    "proj_this_week": 5.34,
    "status": null,
    "team": "BUF"
@@ -748,7 +748,7 @@
    "adds_24h": 88785,
    "name": "Gavin Bartholomew",
    "pos": "TE",
-   "proj_4wk": 12.2,
+   "proj_4wk": 12.3,
    "proj_this_week": 6.23,
    "status": null,
    "team": "MIN"
@@ -817,7 +817,7 @@
    "team": "HOU"
   }
  ],
- "generated_at": "2026-11-15T20:42:01Z",
+ "generated_at": "2026-11-15T20:47:05Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1020,7 +1020,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.563,
+    "first_seed_odds": 0.564,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1031,7 +1031,7 @@
     "proj_by_week": {
      "10": 132.9,
      "11": 124.83,
-     "12": 136.33,
+     "12": 136.32,
      "13": 123.84
     },
     "rank": 1,
@@ -1041,18 +1041,18 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.182,
+    "first_seed_odds": 0.181,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
     "pf": 1091.54,
     "playoff_odds": 0.93,
     "power_rank": 5,
-    "proj_avg": 124.1,
+    "proj_avg": 124.0,
     "proj_by_week": {
      "10": 125.76,
-     "11": 118.43,
-     "12": 125.61,
+     "11": 118.48,
+     "12": 125.47,
      "13": 126.48
     },
     "rank": 2,
@@ -1072,9 +1072,9 @@
     "proj_avg": 124.9,
     "proj_by_week": {
      "10": 129.34,
-     "11": 111.64,
-     "12": 138.73,
-     "13": 119.73
+     "11": 111.69,
+     "12": 138.83,
+     "13": 119.71
     },
     "rank": 3,
     "roster_id": 10,
@@ -1090,12 +1090,12 @@
     "pf": 1169.52,
     "playoff_odds": 0.911,
     "power_rank": 2,
-    "proj_avg": 128.6,
+    "proj_avg": 128.5,
     "proj_by_week": {
      "10": 132.03,
      "11": 132.6,
      "12": 136.66,
-     "13": 112.93
+     "13": 112.9
     },
     "rank": 4,
     "roster_id": 4,
@@ -1114,7 +1114,7 @@
     "proj_avg": 121.6,
     "proj_by_week": {
      "10": 129.79,
-     "11": 115.78,
+     "11": 115.88,
      "12": 129.96,
      "13": 110.82
     },
@@ -1135,7 +1135,7 @@
     "proj_avg": 128.1,
     "proj_by_week": {
      "10": 112.24,
-     "11": 121.58,
+     "11": 121.59,
      "12": 141.57,
      "13": 136.97
     },
@@ -1156,7 +1156,7 @@
     "proj_avg": 114.6,
     "proj_by_week": {
      "10": 111.39,
-     "11": 113.14,
+     "11": 113.16,
      "12": 118.02,
      "13": 115.78
     },
@@ -1172,12 +1172,12 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.543,
+    "playoff_odds": 0.544,
     "power_rank": 7,
     "proj_avg": 119.5,
     "proj_by_week": {
      "10": 124.94,
-     "11": 103.84,
+     "11": 103.88,
      "12": 124.64,
      "13": 124.69
     },
@@ -1219,8 +1219,8 @@
     "proj_avg": 100.4,
     "proj_by_week": {
      "10": 102.01,
-     "11": 88.11,
-     "12": 109.9,
+     "11": 88.24,
+     "12": 109.81,
      "13": 101.66
     },
     "rank": 10,
@@ -1285,7 +1285,7 @@
    "pos": "RB",
    "proj_by_week": {
     "10": 9.97,
-    "11": 8.38,
+    "11": 8.39,
     "12": 7.76,
     "13": 8.22
    },
@@ -1315,7 +1315,7 @@
    "pos": "TE",
    "proj_by_week": {
     "10": 15.35,
-    "11": 12.79,
+    "11": 12.85,
     "12": 14.22,
     "13": 15.09
    },
@@ -1331,7 +1331,7 @@
    "proj_by_week": {
     "10": 12.04,
     "11": 13.13,
-    "12": 12.17,
+    "12": 12.08,
     "13": 13.11
    },
    "slot": "starter",
@@ -1420,7 +1420,7 @@
    "pos": "WR",
    "proj_by_week": {
     "10": 6.44,
-    "11": 5.65,
+    "11": 5.68,
     "12": 6.06,
     "13": 6.58
    },
@@ -1465,7 +1465,7 @@
    "pos": "WR",
    "proj_by_week": {
     "10": 0.0,
-    "11": 13.1,
+    "11": 13.16,
     "12": 14.96,
     "13": 15.91
    },
@@ -1634,8 +1634,8 @@
    "likelihood": "Likely",
    "partner": "Never Going Go Scottsdale",
    "partner_roster_id": 6,
-   "summary": "Give Mike Evans, get Saquon Barkley from Never Going Go Scottsdale: +2.2 pts/week for you, +0.5 for them.",
-   "their_gain_per_week": 0.5,
+   "summary": "Give Mike Evans, get Saquon Barkley from Never Going Go Scottsdale: +2.2 pts/week for you, +0.6 for them.",
+   "their_gain_per_week": 0.6,
    "value_ratio": 0.97,
    "why_them": [
     "Mike Evans would start 7 of 8 weeks for them"
@@ -1753,7 +1753,7 @@
    "likelihood": "Likely",
    "partner": "Atticus Dean",
    "partner_roster_id": 10,
-   "summary": "Give DJ Moore, get Breece Hall from Atticus Dean: +1.4 pts/week for you, +1.0 for them.",
+   "summary": "Give DJ Moore, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +1.0 for them.",
    "their_gain_per_week": 1.0,
    "value_ratio": 0.82,
    "why_them": [
@@ -1763,7 +1763,7 @@
     "Breece Hall would start 7 of 8 weeks for you",
     "DJ Moore starts 8 of 8 weeks for you"
    ],
-   "your_gain_per_week": 1.4
+   "your_gain_per_week": 1.5
   },
   {
    "get": [
@@ -1948,7 +1948,7 @@
    "proj_by_week": {
     "10": 5.34,
     "11": 6.17,
-    "12": 5.44,
+    "12": 5.41,
     "13": 5.92
    },
    "status": null,
