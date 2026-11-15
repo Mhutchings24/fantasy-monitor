@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 10
+- [Sun Nov 15 · AM](2026/week-10/2026-11-15-am.md) — Stevenson active, Kiner correctly benched (locked); still to do: start Dowdle over Estime before 11:00 AM MT (High), keep Tyson FLEX, add Boswell for Gay ($0); ~47% win chance.
 - [Sat Nov 14 · PM](2026/week-10/2026-11-14-pm.md) — Etienne activated, so Dowdle over Estime (High); NE didn't elevate an RB (Stevenson ~60%): Kiner over Tyson for now, swap to Tyson if Stevenson is active at ~6 AM MT (or if you can't check); Boswell for Gay ($0).
 - [Sat Nov 14 · AM](2026/week-10/2026-11-14-am.md) — No Saturday news changes the plan; swaps still not made: Dowdle over Estime (High) and Kiner over Tyson (Medium, swap to Tyson if Stevenson is active at ~6 AM MT Sun); Boswell for Gay ($0) today.
 - [Fri Nov 13 · PM](2026/week-10/2026-11-13-pm.md) — Stevenson only Q: start Kiner but swap to Tyson if he's active (inactives ~6 AM MT, lock 7:30); Etienne full Fri, so Dowdle over Estime (High); Boswell for Gay ($0).
