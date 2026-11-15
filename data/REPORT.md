@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-15T22:44:16Z UTC
+Week 10 · record 3-6 · updated 2026-11-15T22:49:22Z UTC
 
 ## Lineup check
 Current lineup projects **102.0**, best possible **102.0**.
@@ -37,14 +37,14 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 1 | 129.5 | 99% |
-| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 5 | 124.0 | 93% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.3 | 88% |
+| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 124.0 | 93% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 6 | 121.1 | 85% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 2 | 128.6 | 91% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.7 | 66% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 5 | 121.7 | 70% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 3 | 128.0 | 66% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 114.6 | 31% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 118.9 | 53% |
-| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 8 | 114.8 | 11% |
+| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 8 | 114.7 | 11% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 100.4 | 1% |
 
 ## Trade ideas
@@ -68,7 +68,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Rico Dowdle | RB | PIT | starter |  | 10.0 | 8.4 | 7.8 | 8.2 |
 | Quinshon Judkins | RB | CLE | starter |  | 9.9 | 0.0 | 11.9 | 11.8 |
 | George Kittle | TE | SF | starter |  | 15.3 | 12.8 | 14.2 | 15.1 |
-| DJ Moore | WR | BUF | starter |  | 12.0 | 13.1 | 12.0 | 13.1 |
+| DJ Moore | WR | BUF | starter |  | 12.0 | 13.2 | 12.0 | 13.1 |
 | Stefon Diggs | WR | WAS | starter |  | 10.2 | 13.1 | 13.3 | 13.1 |
 | Jordyn Tyson | WR | NO | starter |  | 9.1 | 10.9 | 11.2 | 10.5 |
 | Audric Estime | RB | NO | bench |  | 7.8 | 2.9 | 3.0 | 2.8 |

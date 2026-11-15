@@ -1,5 +1,5 @@
 {
- "content_hash": "2d0bcdab9e5bacb1252ea94e41f1c7ef13b645ee",
+ "content_hash": "b744a46a0525945aa5364339e59ad71629c3e150",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -118,7 +118,7 @@
    "adds_24h": 73656,
    "name": "Khalil Shakir",
    "pos": "WR",
-   "proj_4wk": 39.7,
+   "proj_4wk": 39.8,
    "proj_this_week": 10.02,
    "status": null,
    "team": "BUF"
@@ -181,7 +181,7 @@
    "adds_24h": 125304,
    "name": "Caleb Douglas",
    "pos": "WR",
-   "proj_4wk": 38.1,
+   "proj_4wk": 38.2,
    "proj_this_week": 9.25,
    "status": null,
    "team": "MIA"
@@ -278,21 +278,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Dalton Schultz",
-   "pos": "TE",
-   "proj_4wk": 32.8,
-   "proj_this_week": 7.97,
-   "status": null,
-   "team": "HOU"
-  },
-  {
-   "adds_24h": 0,
    "name": "Dallas Goedert",
    "pos": "TE",
    "proj_4wk": 32.8,
    "proj_this_week": 0.0,
    "status": null,
    "team": "PHI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Dalton Schultz",
+   "pos": "TE",
+   "proj_4wk": 32.8,
+   "proj_this_week": 7.97,
+   "status": null,
+   "team": "HOU"
   },
   {
    "adds_24h": 0,
@@ -511,15 +511,6 @@
    "team": "KC"
   },
   {
-   "adds_24h": 0,
-   "name": "CIN D/ST",
-   "pos": "DEF",
-   "proj_4wk": 26.6,
-   "proj_this_week": 6.31,
-   "status": null,
-   "team": "CIN"
-  },
-  {
    "adds_24h": 43500,
    "name": "Dylan Sampson",
    "pos": "RB",
@@ -527,6 +518,15 @@
    "proj_this_week": 7.88,
    "status": null,
    "team": "CLE"
+  },
+  {
+   "adds_24h": 0,
+   "name": "CIN D/ST",
+   "pos": "DEF",
+   "proj_4wk": 26.6,
+   "proj_this_week": 6.31,
+   "status": null,
+   "team": "CIN"
   },
   {
    "adds_24h": 0,
@@ -656,21 +656,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Trey Smack",
-   "pos": "K",
-   "proj_4wk": 23.6,
-   "proj_this_week": 7.89,
-   "status": null,
-   "team": "GB"
-  },
-  {
-   "adds_24h": 0,
    "name": "Alvin Kamara",
    "pos": "RB",
    "proj_4wk": 23.6,
    "proj_this_week": 6.3,
    "status": null,
    "team": "NO"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Trey Smack",
+   "pos": "K",
+   "proj_4wk": 23.6,
+   "proj_this_week": 7.89,
+   "status": null,
+   "team": "GB"
   },
   {
    "adds_24h": 0,
@@ -817,7 +817,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-15T22:44:16Z",
+ "generated_at": "2026-11-15T22:49:22Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1020,7 +1020,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.567,
+    "first_seed_odds": 0.579,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1030,7 +1030,7 @@
     "proj_avg": 129.5,
     "proj_by_week": {
      "10": 133.08,
-     "11": 124.83,
+     "11": 124.84,
      "12": 136.31,
      "13": 123.84
     },
@@ -1041,17 +1041,17 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.183,
+    "first_seed_odds": 0.188,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
     "pf": 1091.54,
     "playoff_odds": 0.93,
-    "power_rank": 5,
+    "power_rank": 4,
     "proj_avg": 124.0,
     "proj_by_week": {
      "10": 125.76,
-     "11": 118.48,
+     "11": 118.53,
      "12": 125.31,
      "13": 126.48
     },
@@ -1062,16 +1062,16 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.118,
+    "first_seed_odds": 0.087,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.88,
-    "power_rank": 4,
-    "proj_avg": 124.3,
+    "playoff_odds": 0.846,
+    "power_rank": 6,
+    "proj_avg": 121.1,
     "proj_by_week": {
-     "10": 127.0,
+     "10": 114.11,
      "11": 111.69,
      "12": 138.81,
      "13": 119.71
@@ -1083,17 +1083,17 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.097,
+    "first_seed_odds": 0.103,
     "losses": 4,
     "mine": false,
     "pa": 1118.82,
     "pf": 1169.52,
-    "playoff_odds": 0.911,
+    "playoff_odds": 0.913,
     "power_rank": 2,
     "proj_avg": 128.6,
     "proj_by_week": {
      "10": 132.26,
-     "11": 132.6,
+     "11": 132.62,
      "12": 136.66,
      "13": 112.9
     },
@@ -1104,17 +1104,17 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.02,
+    "first_seed_odds": 0.026,
     "losses": 4,
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.66,
-    "power_rank": 6,
+    "playoff_odds": 0.696,
+    "power_rank": 5,
     "proj_avg": 121.7,
     "proj_by_week": {
      "10": 130.02,
-     "11": 115.88,
+     "11": 115.9,
      "12": 129.96,
      "13": 110.82
     },
@@ -1125,7 +1125,7 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.007,
+    "first_seed_odds": 0.008,
     "losses": 5,
     "mine": false,
     "pa": 1129.44,
@@ -1151,12 +1151,12 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.311,
+    "playoff_odds": 0.31,
     "power_rank": 9,
     "proj_avg": 114.6,
     "proj_by_week": {
      "10": 111.28,
-     "11": 113.16,
+     "11": 113.23,
      "12": 118.02,
      "13": 115.78
     },
@@ -1167,7 +1167,7 @@
     "wins": 4
    },
    {
-    "first_seed_odds": 0.006,
+    "first_seed_odds": 0.007,
     "losses": 5,
     "mine": false,
     "pa": 1171.68,
@@ -1177,7 +1177,7 @@
     "proj_avg": 118.9,
     "proj_by_week": {
      "10": 122.54,
-     "11": 103.88,
+     "11": 103.87,
      "12": 124.64,
      "13": 124.69
     },
@@ -1193,12 +1193,12 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.112,
+    "playoff_odds": 0.111,
     "power_rank": 8,
-    "proj_avg": 114.8,
+    "proj_avg": 114.7,
     "proj_by_week": {
      "10": 94.78,
-     "11": 107.77,
+     "11": 107.72,
      "12": 134.56,
      "13": 121.91
     },
@@ -1219,7 +1219,7 @@
     "proj_avg": 100.4,
     "proj_by_week": {
      "10": 101.97,
-     "11": 88.24,
+     "11": 88.25,
      "12": 109.75,
      "13": 101.66
     },
@@ -1285,7 +1285,7 @@
    "pos": "RB",
    "proj_by_week": {
     "10": 9.97,
-    "11": 8.39,
+    "11": 8.38,
     "12": 7.76,
     "13": 8.22
    },
@@ -1330,7 +1330,7 @@
    "pos": "WR",
    "proj_by_week": {
     "10": 12.04,
-    "11": 13.13,
+    "11": 13.15,
     "12": 12.02,
     "13": 13.11
    },
@@ -1360,7 +1360,7 @@
    "pos": "WR",
    "proj_by_week": {
     "10": 9.06,
-    "11": 10.89,
+    "11": 10.92,
     "12": 11.25,
     "13": 10.48
    },
