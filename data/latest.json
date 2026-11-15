@@ -1,5 +1,5 @@
 {
- "content_hash": "6351d935773ab6ca7c33407f6e37d0e66c4e0212",
+ "content_hash": "39ed5434da0b6b8c7cc4f629e82fdb70decd24cb",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -59,15 +59,6 @@
    "proj_this_week": 11.0,
    "status": null,
    "team": "ARI"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Geno Smith",
-   "pos": "QB",
-   "proj_4wk": 48.9,
-   "proj_this_week": 13.98,
-   "status": "Questionable",
-   "team": "NYJ"
   },
   {
    "adds_24h": 0,
@@ -232,6 +223,15 @@
    "team": "NO"
   },
   {
+   "adds_24h": 68712,
+   "name": "Ryan Flournoy",
+   "pos": "WR",
+   "proj_4wk": 35.0,
+   "proj_this_week": 8.95,
+   "status": null,
+   "team": "DAL"
+  },
+  {
    "adds_24h": 0,
    "name": "Ladd McConkey",
    "pos": "WR",
@@ -241,13 +241,13 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 68712,
-   "name": "Ryan Flournoy",
-   "pos": "WR",
-   "proj_4wk": 35.0,
-   "proj_this_week": 8.88,
-   "status": null,
-   "team": "DAL"
+   "adds_24h": 0,
+   "name": "Geno Smith",
+   "pos": "QB",
+   "proj_4wk": 34.9,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "NYJ"
   },
   {
    "adds_24h": 76328,
@@ -335,7 +335,7 @@
    "name": "Eddy Pineiro",
    "pos": "K",
    "proj_4wk": 31.1,
-   "proj_this_week": 8.01,
+   "proj_this_week": 7.97,
    "status": null,
    "team": "SF"
   },
@@ -532,8 +532,8 @@
    "adds_24h": 0,
    "name": "SF D/ST",
    "pos": "DEF",
-   "proj_4wk": 26.5,
-   "proj_this_week": 6.19,
+   "proj_4wk": 26.4,
+   "proj_this_week": 6.16,
    "status": null,
    "team": "SF"
   },
@@ -794,7 +794,7 @@
    "name": "Demarcus Robinson",
    "pos": "WR",
    "proj_4wk": 16.7,
-   "proj_this_week": 7.99,
+   "proj_this_week": 8.0,
    "status": null,
    "team": "SF"
   },
@@ -817,7 +817,7 @@
    "team": "HOU"
   }
  ],
- "generated_at": "2026-11-15T20:57:13Z",
+ "generated_at": "2026-11-15T21:02:17Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -877,7 +877,7 @@
    {
     "name": "George Kittle",
     "pid": "4217",
-    "proj": 15.35,
+    "proj": 15.37,
     "slot": "TE"
    },
    {
@@ -899,8 +899,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 102.01,
-  "current_projected": 102.01,
+  "best_projected": 102.03,
+  "current_projected": 102.03,
   "gain": 0.0,
   "problems": [],
   "source": "matchup week 10",
@@ -1000,7 +1000,7 @@
   },
   "matchup": {
    "my_proj": 102.0,
-   "opp_best_possible": 111.39,
+   "opp_best_possible": 111.38,
    "opp_proj": 110.3,
    "opponent": "Never Going Go Scottsdale",
    "opponent_record": "4-5",
@@ -1029,7 +1029,7 @@
     "power_rank": 1,
     "proj_avg": 129.5,
     "proj_by_week": {
-     "10": 132.9,
+     "10": 133.08,
      "11": 124.83,
      "12": 136.32,
      "13": 123.84
@@ -1041,7 +1041,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.181,
+    "first_seed_odds": 0.182,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
@@ -1062,16 +1062,16 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.124,
+    "first_seed_odds": 0.123,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.885,
+    "playoff_odds": 0.884,
     "power_rank": 4,
     "proj_avg": 124.9,
     "proj_by_week": {
-     "10": 129.34,
+     "10": 129.28,
      "11": 111.69,
      "12": 138.83,
      "13": 119.71
@@ -1090,9 +1090,9 @@
     "pf": 1169.52,
     "playoff_odds": 0.911,
     "power_rank": 2,
-    "proj_avg": 128.5,
+    "proj_avg": 128.6,
     "proj_by_week": {
-     "10": 132.03,
+     "10": 132.26,
      "11": 132.6,
      "12": 136.66,
      "13": 112.9
@@ -1109,11 +1109,11 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.649,
+    "playoff_odds": 0.65,
     "power_rank": 6,
-    "proj_avg": 121.6,
+    "proj_avg": 121.7,
     "proj_by_week": {
-     "10": 129.79,
+     "10": 130.02,
      "11": 115.88,
      "12": 129.96,
      "13": 110.82
@@ -1130,7 +1130,7 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.667,
+    "playoff_odds": 0.666,
     "power_rank": 3,
     "proj_avg": 128.1,
     "proj_by_week": {
@@ -1155,7 +1155,7 @@
     "power_rank": 9,
     "proj_avg": 114.6,
     "proj_by_week": {
-     "10": 111.39,
+     "10": 111.38,
      "11": 113.16,
      "12": 118.02,
      "13": 115.78
@@ -1176,7 +1176,7 @@
     "power_rank": 7,
     "proj_avg": 119.5,
     "proj_by_week": {
-     "10": 124.94,
+     "10": 124.98,
      "11": 103.88,
      "12": 124.64,
      "13": 124.69
@@ -1218,7 +1218,7 @@
     "power_rank": 10,
     "proj_avg": 100.4,
     "proj_by_week": {
-     "10": 102.01,
+     "10": 102.03,
      "11": 88.24,
      "12": 109.81,
      "13": 101.66
@@ -1314,7 +1314,7 @@
    "pid": "4217",
    "pos": "TE",
    "proj_by_week": {
-    "10": 15.35,
+    "10": 15.37,
     "11": 12.85,
     "12": 14.22,
     "13": 15.09
@@ -1419,7 +1419,7 @@
    "pid": "1479",
    "pos": "WR",
    "proj_by_week": {
-    "10": 6.44,
+    "10": 6.45,
     "11": 5.68,
     "12": 6.06,
     "13": 6.58

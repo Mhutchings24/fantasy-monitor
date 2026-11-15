@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-15T20:57:13Z UTC
+Week 10 · record 3-6 · updated 2026-11-15T21:02:17Z UTC
 
 ## Lineup check
 Current lineup projects **102.0**, best possible **102.0**.
@@ -39,8 +39,8 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 1 | 129.5 | 99% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 5 | 124.0 | 93% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.9 | 88% |
-| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 2 | 128.5 | 91% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.6 | 65% |
+| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 2 | 128.6 | 91% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.7 | 65% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 3 | 128.1 | 67% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 114.6 | 31% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 119.5 | 54% |
@@ -67,14 +67,14 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Jared Goff | QB | DET | starter |  | 18.7 | 17.2 | 21.2 | 18.3 |
 | Rico Dowdle | RB | PIT | starter |  | 10.0 | 8.4 | 7.8 | 8.2 |
 | Quinshon Judkins | RB | CLE | starter |  | 9.9 | 0.0 | 11.9 | 11.8 |
-| George Kittle | TE | SF | starter |  | 15.3 | 12.8 | 14.2 | 15.1 |
+| George Kittle | TE | SF | starter |  | 15.4 | 12.8 | 14.2 | 15.1 |
 | DJ Moore | WR | BUF | starter |  | 12.0 | 13.1 | 12.1 | 13.1 |
 | Stefon Diggs | WR | WAS | starter |  | 10.2 | 13.1 | 13.3 | 13.1 |
 | Jordyn Tyson | WR | NO | starter |  | 9.1 | 10.9 | 11.2 | 10.5 |
 | Audric Estime | RB | NO | bench |  | 7.8 | 2.9 | 3.0 | 2.8 |
 | Corey Kiner | RB | NE | bench |  | 6.0 | 0.0 | 7.1 | 6.6 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 0.0 | 8.5 | 16.3 |
-| Keenan Allen | WR | SF | bench |  | 6.4 | 5.7 | 6.1 | 6.6 |
+| Keenan Allen | WR | SF | bench |  | 6.5 | 5.7 | 6.1 | 6.6 |
 | Omar Cooper Jr. | WR | NYJ | bench | Out | 0.0 | 10.3 | 11.2 | 0.0 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
 | Mike Evans | WR | SF | bench | Out | 0.0 | 13.2 | 15.0 | 15.9 |
