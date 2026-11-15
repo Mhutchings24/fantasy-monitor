@@ -1,5 +1,5 @@
 {
- "content_hash": "b9fef72ef24b13d0720dc4aebf0d7f6b3d3b2fbe",
+ "content_hash": "dfffdc25bc83ad56b00ae8c6b89da4507b42fe6d",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -511,15 +511,6 @@
    "team": "KC"
   },
   {
-   "adds_24h": 43565,
-   "name": "Dylan Sampson",
-   "pos": "RB",
-   "proj_4wk": 26.6,
-   "proj_this_week": 7.88,
-   "status": null,
-   "team": "CLE"
-  },
-  {
    "adds_24h": 0,
    "name": "CIN D/ST",
    "pos": "DEF",
@@ -527,6 +518,15 @@
    "proj_this_week": 6.31,
    "status": null,
    "team": "CIN"
+  },
+  {
+   "adds_24h": 43565,
+   "name": "Dylan Sampson",
+   "pos": "RB",
+   "proj_4wk": 26.6,
+   "proj_this_week": 7.88,
+   "status": null,
+   "team": "CLE"
   },
   {
    "adds_24h": 0,
@@ -656,21 +656,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Alvin Kamara",
-   "pos": "RB",
-   "proj_4wk": 23.6,
-   "proj_this_week": 6.3,
-   "status": null,
-   "team": "NO"
-  },
-  {
-   "adds_24h": 0,
    "name": "Trey Smack",
    "pos": "K",
    "proj_4wk": 23.6,
    "proj_this_week": 7.89,
    "status": null,
    "team": "GB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Alvin Kamara",
+   "pos": "RB",
+   "proj_4wk": 23.6,
+   "proj_this_week": 6.3,
+   "status": null,
+   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -817,7 +817,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-15T22:54:28Z",
+ "generated_at": "2026-11-15T22:59:34Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
