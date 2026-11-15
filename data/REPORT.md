@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-15T22:49:22Z UTC
+Week 10 · record 3-6 · updated 2026-11-15T22:54:28Z UTC
 
 ## Lineup check
 Current lineup projects **102.0**, best possible **102.0**.
@@ -14,17 +14,17 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +10.3 | +0.2 | 0 |
-| Zonovan Knight | RB | ARI | Audric Estime | +6.6 | +0.0 | 70,428 |
+| Zonovan Knight | RB | ARI | Audric Estime | +6.6 | +0.0 | 70,444 |
 | Kimani Vidal | RB | LAC | Audric Estime | +4.6 | +0.0 | 0 |
 | Tyjae Spears | RB | TEN | Audric Estime | +4.3 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +4.2 | +0.0 | 392,859 |
+| Justice Hill | RB | BAL | Audric Estime | +4.2 | +0.0 | 395,577 |
 | Samaje Perine | RB | CIN | Audric Estime | +3.9 | +0.0 | 0 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +3.9 | +0.0 | 0 |
-| Seth McGowan | RB | IND | Audric Estime | +3.2 | +0.0 | 97,760 |
+| Seth McGowan | RB | IND | Audric Estime | +3.2 | +0.0 | 99,608 |
 | Alvin Kamara | RB | NO | Audric Estime | +2.9 | +0.0 | 0 |
-| Dylan Sampson | RB | CLE | Corey Kiner | +2.7 | +0.0 | 43,500 |
+| Dylan Sampson | RB | CLE | Corey Kiner | +2.7 | +0.0 | 43,565 |
 | Bo Nix | QB | DEN | Corey Kiner | +1.4 | +0.0 | 0 |
-| Hunter Henry | TE | NE | Corey Kiner | +1.0 | +1.0 | 35,130 |
+| Hunter Henry | TE | NE | Corey Kiner | +1.0 | +1.0 | 0 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.6 pts this week)
 
@@ -55,7 +55,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Possible** · Give Jordyn Tyson, get Tony Pollard from I’m stuck Step Burrow: +3.9 pts/week for you, -0.4 for them.
 - **Likely** · Give Mike Evans, get Saquon Barkley from Never Going Go Scottsdale: +2.2 pts/week for you, +0.6 for them.
 - **Possible** · Give Jordyn Tyson, get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.3 pts/week for you, -0.5 for them.
-- **Likely** · Give Jared Goff + Jordyn Tyson, get Brock Purdy from Never Going Go Scottsdale: +1.6 pts/week for you, +0.6 for them.
+- **Likely** · Give Jared Goff + Jordyn Tyson, get Brock Purdy from Never Going Go Scottsdale: +1.6 pts/week for you, +0.8 for them.
 - **Likely** · Give DJ Moore, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +1.0 for them.
 - **Possible** · Give Jordyn Tyson, get Jordan Mason from I’m stuck Step Burrow: +2.9 pts/week for you, -0.2 for them.
 
