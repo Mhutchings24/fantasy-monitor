@@ -1,5 +1,5 @@
 {
- "content_hash": "f1c45fbfa17879a7952931af69ed4ffb7477bcf9",
+ "content_hash": "cea8786ebb1aa2e5dfb43bd6c2f506fee9e03502",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -11,7 +11,7 @@
    "name": "Aaron Rodgers",
    "pos": "QB",
    "proj_4wk": 64.8,
-   "proj_this_week": 17.63,
+   "proj_this_week": 17.68,
    "status": null,
    "team": "PIT"
   },
@@ -65,7 +65,7 @@
    "name": "Geno Smith",
    "pos": "QB",
    "proj_4wk": 51.6,
-   "proj_this_week": 16.47,
+   "proj_this_week": 16.48,
    "status": null,
    "team": "NYJ"
   },
@@ -100,8 +100,8 @@
    "adds_24h": 0,
    "name": "Michael Penix Jr.",
    "pos": "QB",
-   "proj_4wk": 45.6,
-   "proj_this_week": 15.07,
+   "proj_4wk": 45.5,
+   "proj_this_week": 15.03,
    "status": null,
    "team": "ATL"
   },
@@ -674,21 +674,21 @@
   },
   {
    "adds_24h": 0,
+   "name": "Devaughn Vele",
+   "pos": "WR",
+   "proj_4wk": 23.3,
+   "proj_this_week": 7.83,
+   "status": null,
+   "team": "NO"
+  },
+  {
+   "adds_24h": 0,
    "name": "LAC D/ST",
    "pos": "DEF",
    "proj_4wk": 23.3,
    "proj_this_week": 5.71,
    "status": null,
    "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Devaughn Vele",
-   "pos": "WR",
-   "proj_4wk": 23.3,
-   "proj_this_week": 7.77,
-   "status": null,
-   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-15T16:11:33Z",
+ "generated_at": "2026-11-15T16:16:37Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1035,7 +1035,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.584,
+    "first_seed_odds": 0.585,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1044,7 +1044,7 @@
     "power_rank": 2,
     "proj_avg": 129.3,
     "proj_by_week": {
-     "10": 132.82,
+     "10": 132.89,
      "11": 124.23,
      "12": 136.3,
      "13": 123.84
@@ -1084,9 +1084,9 @@
     "pf": 1250.38,
     "playoff_odds": 0.873,
     "power_rank": 4,
-    "proj_avg": 124.9,
+    "proj_avg": 125.0,
     "proj_by_week": {
-     "10": 129.02,
+     "10": 129.04,
      "11": 112.17,
      "12": 138.86,
      "13": 119.73
@@ -1098,12 +1098,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.104,
+    "first_seed_odds": 0.103,
     "losses": 4,
     "mine": false,
     "pa": 1118.82,
     "pf": 1169.52,
-    "playoff_odds": 0.902,
+    "playoff_odds": 0.901,
     "power_rank": 3,
     "proj_avg": 128.6,
     "proj_by_week": {
@@ -1128,7 +1128,7 @@
     "power_rank": 6,
     "proj_avg": 121.5,
     "proj_by_week": {
-     "10": 129.33,
+     "10": 129.32,
      "11": 115.9,
      "12": 129.96,
      "13": 110.82
@@ -1145,11 +1145,11 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.745,
+    "playoff_odds": 0.744,
     "power_rank": 1,
-    "proj_avg": 132.7,
+    "proj_avg": 132.6,
     "proj_by_week": {
-     "10": 130.33,
+     "10": 130.26,
      "11": 121.76,
      "12": 141.57,
      "13": 136.97
@@ -1191,7 +1191,7 @@
     "power_rank": 7,
     "proj_avg": 119.3,
     "proj_by_week": {
-     "10": 124.4,
+     "10": 124.39,
      "11": 103.63,
      "12": 124.64,
      "13": 124.69
@@ -1208,11 +1208,11 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.094,
+    "playoff_odds": 0.095,
     "power_rank": 9,
     "proj_avg": 114.9,
     "proj_by_week": {
-     "10": 94.77,
+     "10": 94.78,
      "11": 108.18,
      "12": 134.56,
      "13": 121.91
