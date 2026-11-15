@@ -1,5 +1,5 @@
 {
- "content_hash": "ce0ed72071a893b02ed63cd0d9bf594c6c84ec32",
+ "content_hash": "28f9210139aedc97fe0e291c3a05fc159ad65175",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -230,6 +230,15 @@
    "proj_this_week": 8.34,
    "status": null,
    "team": "NO"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Ladd McConkey",
+   "pos": "WR",
+   "proj_4wk": 35.0,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "LAC"
   },
   {
    "adds_24h": 42912,
@@ -502,15 +511,6 @@
    "team": "ARI"
   },
   {
-   "adds_24h": 0,
-   "name": "CIN D/ST",
-   "pos": "DEF",
-   "proj_4wk": 26.6,
-   "proj_this_week": 6.31,
-   "status": null,
-   "team": "CIN"
-  },
-  {
    "adds_24h": 48130,
    "name": "Dylan Sampson",
    "pos": "RB",
@@ -518,6 +518,15 @@
    "proj_this_week": 7.88,
    "status": null,
    "team": "CLE"
+  },
+  {
+   "adds_24h": 0,
+   "name": "CIN D/ST",
+   "pos": "DEF",
+   "proj_4wk": 26.6,
+   "proj_this_week": 6.31,
+   "status": null,
+   "team": "CIN"
   },
   {
    "adds_24h": 0,
@@ -718,15 +727,6 @@
    "team": "BUF"
   },
   {
-   "adds_24h": 0,
-   "name": "Austin Ekeler",
-   "pos": "RB",
-   "proj_4wk": 22.7,
-   "proj_this_week": 8.47,
-   "status": null,
-   "team": "WAS"
-  },
-  {
    "adds_24h": 362295,
    "name": "Justice Hill",
    "pos": "RB",
@@ -734,15 +734,6 @@
    "proj_this_week": 7.23,
    "status": null,
    "team": "BAL"
-  },
-  {
-   "adds_24h": 149835,
-   "name": "Tutu Atwell",
-   "pos": "WR",
-   "proj_4wk": 15.7,
-   "proj_this_week": 7.51,
-   "status": null,
-   "team": "LAR"
   },
   {
    "adds_24h": 108900,
@@ -817,7 +808,7 @@
    "team": "HOU"
   }
  ],
- "generated_at": "2026-11-15T19:56:03Z",
+ "generated_at": "2026-11-15T20:01:07Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1001,10 +992,10 @@
   "matchup": {
    "my_proj": 102.0,
    "opp_best_possible": 111.25,
-   "opp_proj": 102.7,
+   "opp_proj": 110.2,
    "opponent": "Never Going Go Scottsdale",
    "opponent_record": "4-5",
-   "win_prob": 0.492
+   "win_prob": 0.408
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1020,12 +1011,12 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.58,
+    "first_seed_odds": 0.575,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
     "pf": 1250.86,
-    "playoff_odds": 0.993,
+    "playoff_odds": 0.994,
     "power_rank": 2,
     "proj_avg": 129.5,
     "proj_by_week": {
@@ -1041,12 +1032,12 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.154,
+    "first_seed_odds": 0.16,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
     "pf": 1091.54,
-    "playoff_odds": 0.911,
+    "playoff_odds": 0.916,
     "power_rank": 5,
     "proj_avg": 124.1,
     "proj_by_week": {
@@ -1062,12 +1053,12 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.125,
+    "first_seed_odds": 0.127,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.874,
+    "playoff_odds": 0.881,
     "power_rank": 4,
     "proj_avg": 124.9,
     "proj_by_week": {
@@ -1083,7 +1074,7 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.102,
+    "first_seed_odds": 0.101,
     "losses": 4,
     "mine": false,
     "pa": 1118.82,
@@ -1109,7 +1100,7 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.632,
+    "playoff_odds": 0.642,
     "power_rank": 6,
     "proj_avg": 121.6,
     "proj_by_week": {
@@ -1130,7 +1121,7 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.721,
+    "playoff_odds": 0.725,
     "power_rank": 1,
     "proj_avg": 131.1,
     "proj_by_week": {
@@ -1146,19 +1137,19 @@
     "wins": 4
    },
    {
-    "first_seed_odds": 0.003,
+    "first_seed_odds": 0.001,
     "losses": 5,
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.351,
-    "power_rank": 8,
-    "proj_avg": 116.8,
+    "playoff_odds": 0.302,
+    "power_rank": 9,
+    "proj_avg": 114.5,
     "proj_by_week": {
      "10": 111.25,
-     "11": 116.1,
-     "12": 121.35,
-     "13": 118.68
+     "11": 113.14,
+     "12": 118.02,
+     "13": 115.78
     },
     "rank": 7,
     "roster_id": 6,
@@ -1172,7 +1163,7 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.51,
+    "playoff_odds": 0.53,
     "power_rank": 7,
     "proj_avg": 119.5,
     "proj_by_week": {
@@ -1193,8 +1184,8 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.096,
-    "power_rank": 9,
+    "playoff_odds": 0.098,
+    "power_rank": 8,
     "proj_avg": 114.8,
     "proj_by_week": {
      "10": 94.78,
@@ -1613,6 +1604,42 @@
   {
    "get": [
     {
+     "name": "Saquon Barkley",
+     "pid": "4866",
+     "pos": "RB",
+     "ros_per_week": 12.9,
+     "status": null,
+     "team": "PHI"
+    }
+   ],
+   "give": [
+    {
+     "name": "Mike Evans",
+     "pid": "2216",
+     "pos": "WR",
+     "ros_per_week": 13.3,
+     "status": "Out",
+     "team": "SF"
+    }
+   ],
+   "likelihood": "Likely",
+   "partner": "Never Going Go Scottsdale",
+   "partner_roster_id": 6,
+   "summary": "Give Mike Evans, get Saquon Barkley from Never Going Go Scottsdale: +2.2 pts/week for you, +0.5 for them.",
+   "their_gain_per_week": 0.5,
+   "value_ratio": 0.97,
+   "why_them": [
+    "Mike Evans would start 7 of 8 weeks for them"
+   ],
+   "why_you": [
+    "Saquon Barkley would start 7 of 8 weeks for you",
+    "Mike Evans starts 7 of 8 weeks for you"
+   ],
+   "your_gain_per_week": 2.2
+  },
+  {
+   "get": [
+    {
      "name": "Zach Charbonnet",
      "pid": "9753",
      "pos": "RB",
@@ -1687,6 +1714,52 @@
   {
    "get": [
     {
+     "name": "Brock Purdy",
+     "pid": "8183",
+     "pos": "QB",
+     "ros_per_week": 20.9,
+     "status": null,
+     "team": "SF"
+    }
+   ],
+   "give": [
+    {
+     "name": "Jared Goff",
+     "pid": "3163",
+     "pos": "QB",
+     "ros_per_week": 19.1,
+     "status": null,
+     "team": "DET"
+    },
+    {
+     "name": "Jordyn Tyson",
+     "pid": "13281",
+     "pos": "WR",
+     "ros_per_week": 10.6,
+     "status": null,
+     "team": "NO"
+    }
+   ],
+   "likelihood": "Likely",
+   "partner": "Never Going Go Scottsdale",
+   "partner_roster_id": 6,
+   "summary": "Give Jared Goff + Jordyn Tyson, get Brock Purdy from Never Going Go Scottsdale: +1.6 pts/week for you, +0.6 for them.",
+   "their_gain_per_week": 0.6,
+   "value_ratio": 0.7,
+   "why_them": [
+    "Jared Goff would start 8 of 8 weeks for them",
+    "Jordyn Tyson would start 8 of 8 weeks for them"
+   ],
+   "why_you": [
+    "Brock Purdy would start 8 of 8 weeks for you",
+    "Jared Goff starts 8 of 8 weeks for you",
+    "Jordyn Tyson starts only 2 of 8 weeks for you"
+   ],
+   "your_gain_per_week": 1.6
+  },
+  {
+   "get": [
+    {
      "name": "Jordan Mason",
      "pid": "8408",
      "pos": "RB",
@@ -1720,78 +1793,6 @@
     "Omar Cooper Jr. starts only 0 of 8 weeks for you"
    ],
    "your_gain_per_week": 3.0
-  },
-  {
-   "get": [
-    {
-     "name": "Breece Hall",
-     "pid": "8155",
-     "pos": "RB",
-     "ros_per_week": 10.5,
-     "status": null,
-     "team": "NYJ"
-    }
-   ],
-   "give": [
-    {
-     "name": "DJ Moore",
-     "pid": "4983",
-     "pos": "WR",
-     "ros_per_week": 12.9,
-     "status": null,
-     "team": "BUF"
-    }
-   ],
-   "likelihood": "Likely",
-   "partner": "Atticus Dean",
-   "partner_roster_id": 10,
-   "summary": "Give DJ Moore, get Breece Hall from Atticus Dean: +1.4 pts/week for you, +1.0 for them.",
-   "their_gain_per_week": 1.0,
-   "value_ratio": 0.82,
-   "why_them": [
-    "DJ Moore would start 8 of 8 weeks for them"
-   ],
-   "why_you": [
-    "Breece Hall would start 7 of 8 weeks for you",
-    "DJ Moore starts 8 of 8 weeks for you"
-   ],
-   "your_gain_per_week": 1.4
-  },
-  {
-   "get": [
-    {
-     "name": "Ollie Gordon II",
-     "pid": "12495",
-     "pos": "RB",
-     "ros_per_week": 13.0,
-     "status": null,
-     "team": "MIA"
-    }
-   ],
-   "give": [
-    {
-     "name": "Mike Evans",
-     "pid": "2216",
-     "pos": "WR",
-     "ros_per_week": 13.3,
-     "status": "Out",
-     "team": "SF"
-    }
-   ],
-   "likelihood": "Likely",
-   "partner": "Bradsbaconisundercooked",
-   "partner_roster_id": 1,
-   "summary": "Give Mike Evans, get Ollie Gordon II from Bradsbaconisundercooked: +1.3 pts/week for you, +0.7 for them.",
-   "their_gain_per_week": 0.7,
-   "value_ratio": 0.98,
-   "why_them": [
-    "Mike Evans would start 7 of 8 weeks for them"
-   ],
-   "why_you": [
-    "Ollie Gordon II would start 8 of 8 weeks for you",
-    "Mike Evans starts 7 of 8 weeks for you"
-   ],
-   "your_gain_per_week": 1.3
   }
  ],
  "waivers": [
@@ -2005,22 +2006,22 @@
    "trending_adds_24h": 48130
   },
   {
-   "drop": "11579",
-   "drop_name": "Audric Estime",
+   "drop": "12491",
+   "drop_name": "Corey Kiner",
    "gain_this_week": 0.0,
-   "gain_window": 2.03,
-   "name": "Austin Ekeler",
-   "pid": "4663",
-   "pos": "RB",
+   "gain_window": 1.37,
+   "name": "Bo Nix",
+   "pid": "11563",
+   "pos": "QB",
    "proj_by_week": {
-    "10": 8.47,
-    "11": 4.94,
-    "12": 4.57,
-    "13": 4.75
+    "10": 0.0,
+    "11": 17.48,
+    "12": 15.98,
+    "13": 19.41
    },
    "status": null,
    "stream": false,
-   "team": "WAS",
+   "team": "DEN",
    "trending_adds_24h": 0
   }
  ],
