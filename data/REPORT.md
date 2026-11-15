@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-15T19:50:58Z UTC
+Week 10 · record 3-6 · updated 2026-11-15T19:56:03Z UTC
 
 ## Lineup check
-Current lineup projects **101.9**, best possible **101.9**.
+Current lineup projects **102.0**, best possible **102.0**.
 
 - ✅ Your lineup is already the best one available.
 
@@ -14,14 +14,14 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +10.3 | +0.2 | 0 |
-| Zonovan Knight | RB | ARI | Audric Estime | +6.6 | +0.0 | 74,462 |
+| Zonovan Knight | RB | ARI | Audric Estime | +6.6 | +0.0 | 74,900 |
 | Kimani Vidal | RB | LAC | Audric Estime | +4.6 | +0.0 | 0 |
 | Tyjae Spears | RB | TEN | Audric Estime | +4.3 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +4.2 | +0.0 | 358,785 |
+| Justice Hill | RB | BAL | Audric Estime | +4.2 | +0.0 | 362,295 |
 | Samaje Perine | RB | CIN | Audric Estime | +3.9 | +0.0 | 0 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +3.9 | +0.0 | 0 |
 | Ty Johnson | RB | BUF | Audric Estime | +3.3 | +0.0 | 0 |
-| Seth McGowan | RB | IND | Audric Estime | +3.2 | +0.0 | 69,792 |
+| Seth McGowan | RB | IND | Audric Estime | +3.2 | +0.0 | 71,584 |
 | Alvin Kamara | RB | NO | Audric Estime | +2.9 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.7 | +0.0 | 48,130 |
 | Austin Ekeler | RB | WAS | Audric Estime | +2.0 | +0.0 | 0 |
@@ -29,7 +29,7 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.6 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **101.9** – 112.5 projected · win chance **38%**
+vs **Never Going Go Scottsdale** (4-5): you **102.0** – 102.7 projected · win chance **49%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -38,11 +38,11 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.5 | 99% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 5 | 124.1 | 91% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.8 | 87% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.9 | 87% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 128.6 | 91% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.6 | 63% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 131.1 | 72% |
-| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 8 | 117.2 | 36% |
+| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 8 | 116.8 | 35% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 119.5 | 51% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 114.8 | 10% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 100.4 | 0% |
@@ -53,7 +53,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Likely** · Give Stefon Diggs, get Jonah Coleman from Glizzy Globbler : +4.3 pts/week for you, +0.5 for them.
 - **Possible** · Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +5.8 pts/week for you, +0.1 for them.
 - **Possible** · Give Jordyn Tyson, get Tony Pollard from I’m stuck Step Burrow: +3.9 pts/week for you, -0.4 for them.
-- **Possible** · Give Omar Cooper Jr., get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.3 pts/week for you, -0.5 for them.
+- **Possible** · Give Omar Cooper Jr., get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.4 pts/week for you, -0.5 for them.
 - **Possible** · Give Jordyn Tyson, get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.3 pts/week for you, -0.5 for them.
 - **Possible** · Give Omar Cooper Jr., get Jordan Mason from I’m stuck Step Burrow: +3.0 pts/week for you, -0.2 for them.
 - **Likely** · Give DJ Moore, get Breece Hall from Atticus Dean: +1.4 pts/week for you, +1.0 for them.
