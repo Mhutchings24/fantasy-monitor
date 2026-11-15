@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-15T15:51:16Z UTC
+Week 10 · record 3-6 · updated 2026-11-15T15:56:21Z UTC
 
 ## Lineup check
-Current lineup projects **98.8**, best possible **100.8**.
+Current lineup projects **98.7**, best possible **100.7**.
 
 - 🔁 Start Rico Dowdle (RB, PIT) (10.0) over Jordyn Tyson (WR, NO) (8.0)
 
@@ -13,23 +13,23 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Aaron Jones Sr. | RB | MIN | Audric Estime | +11.6 | +1.2 | 0 |
-| Zonovan Knight | RB | ARI | Audric Estime | +7.1 | +0.3 | 75,676 |
-| Kimani Vidal | RB | LAC | Corey Kiner | +4.9 | +0.0 | 0 |
-| Tyjae Spears (Questionable) | RB | TEN | Corey Kiner | +4.5 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Corey Kiner | +4.4 | +0.0 | 303,840 |
-| Keaton Mitchell | RB | LAC | Corey Kiner | +4.2 | +0.0 | 0 |
-| Samaje Perine | RB | CIN | Corey Kiner | +4.1 | +0.0 | 0 |
-| Ty Johnson | RB | BUF | Corey Kiner | +3.5 | +0.0 | 0 |
-| Seth McGowan | RB | IND | Corey Kiner | +3.4 | +0.0 | 43,888 |
-| Alvin Kamara | RB | NO | Corey Kiner | +2.8 | +0.0 | 0 |
+| Aaron Jones Sr. | RB | MIN | Audric Estime | +11.6 | +1.3 | 0 |
+| Zonovan Knight | RB | ARI | Audric Estime | +7.1 | +0.4 | 75,676 |
+| Kimani Vidal | RB | LAC | Audric Estime | +4.9 | +0.0 | 0 |
+| Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +4.5 | +0.0 | 0 |
+| Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 303,840 |
+| Keaton Mitchell | RB | LAC | Audric Estime | +4.2 | +0.0 | 0 |
+| Samaje Perine | RB | CIN | Audric Estime | +4.1 | +0.0 | 0 |
+| Ty Johnson | RB | BUF | Audric Estime | +3.5 | +0.0 | 0 |
+| Seth McGowan | RB | IND | Audric Estime | +3.4 | +0.0 | 43,888 |
+| Alvin Kamara | RB | NO | Audric Estime | +2.8 | +0.0 | 0 |
+| Austin Ekeler | RB | WAS | Audric Estime | +2.7 | +0.5 | 0 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.7 | +0.0 | 44,995 |
-| Austin Ekeler | RB | WAS | Audric Estime | +2.7 | +0.4 | 0 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
 
 ## This week's matchup
-vs **Never Going Go Scottsdale** (4-5): you **98.8** – 112.2 projected · win chance **35%**
+vs **Never Going Go Scottsdale** (4-5): you **98.7** – 112.2 projected · win chance **35%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -38,13 +38,13 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.3 | 99% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 5 | 124.0 | 90% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 125.0 | 88% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 125.0 | 87% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 128.6 | 90% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.5 | 62% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 132.7 | 73% |
-| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 117.3 | 36% |
-| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 119.3 | 44% |
-| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 119.8 | 16% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 132.7 | 75% |
+| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 8 | 117.3 | 36% |
+| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 119.4 | 50% |
+| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 114.9 | 9% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 100.1 | 0% |
 
 ## Trade ideas
@@ -66,7 +66,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Matt Gay | K | LV | starter |  | 8.0 | 7.6 | 8.5 | 0.0 |
 | Jared Goff | QB | DET | starter |  | 18.7 | 17.2 | 21.2 | 18.3 |
 | Quinshon Judkins | RB | CLE | starter |  | 9.7 | 0.0 | 11.9 | 11.8 |
-| Audric Estime | RB | NO | starter |  | 8.1 | 2.7 | 3.0 | 2.8 |
+| Audric Estime | RB | NO | starter |  | 8.0 | 2.7 | 3.0 | 2.8 |
 | George Kittle | TE | SF | starter |  | 15.3 | 12.8 | 14.2 | 15.1 |
 | DJ Moore | WR | BUF | starter |  | 12.2 | 13.4 | 12.1 | 13.1 |
 | Stefon Diggs | WR | WAS | starter |  | 10.2 | 13.1 | 13.3 | 13.1 |
