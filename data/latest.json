@@ -1,5 +1,5 @@
 {
- "content_hash": "a4019cab75fb03729e7ad2abc1bbc48b4dfe35f6",
+ "content_hash": "d4d2fe0b9cd989d705dc9925d2ed7d8a0555cc28",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -128,7 +128,7 @@
    "name": "Khalil Shakir",
    "pos": "WR",
    "proj_4wk": 40.2,
-   "proj_this_week": 10.14,
+   "proj_this_week": 10.15,
    "status": null,
    "team": "BUF"
   },
@@ -712,8 +712,8 @@
    "adds_24h": 0,
    "name": "Ty Johnson",
    "pos": "RB",
-   "proj_4wk": 22.9,
-   "proj_this_week": 5.38,
+   "proj_4wk": 23.0,
+   "proj_this_week": 5.44,
    "status": null,
    "team": "BUF"
   },
@@ -758,7 +758,7 @@
    "name": "Gavin Bartholomew",
    "pos": "TE",
    "proj_4wk": 12.2,
-   "proj_this_week": 6.23,
+   "proj_this_week": 6.17,
    "status": null,
    "team": "MIN"
   },
@@ -826,7 +826,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-15T15:30:49Z",
+ "generated_at": "2026-11-15T15:36:05Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -874,7 +874,7 @@
    {
     "name": "DJ Moore",
     "pid": "4983",
-    "proj": 12.17,
+    "proj": 12.18,
     "slot": "WR"
    },
    {
@@ -908,8 +908,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 100.77,
-  "current_projected": 98.77,
+  "best_projected": 100.78,
+  "current_projected": 98.78,
   "gain": 2.0,
   "problems": [],
   "source": "matchup week 10",
@@ -1035,7 +1035,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.586,
+    "first_seed_odds": 0.585,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1044,7 +1044,7 @@
     "power_rank": 2,
     "proj_avg": 129.3,
     "proj_by_week": {
-     "10": 132.87,
+     "10": 132.88,
      "11": 124.23,
      "12": 136.3,
      "13": 123.84
@@ -1056,7 +1056,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.14,
+    "first_seed_odds": 0.141,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
@@ -1065,7 +1065,7 @@
     "power_rank": 5,
     "proj_avg": 124.0,
     "proj_by_week": {
-     "10": 125.57,
+     "10": 125.63,
      "11": 118.59,
      "12": 125.37,
      "13": 126.48
@@ -1187,7 +1187,7 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.44,
+    "playoff_odds": 0.441,
     "power_rank": 8,
     "proj_avg": 119.3,
     "proj_by_week": {
@@ -1233,7 +1233,7 @@
     "power_rank": 10,
     "proj_avg": 100.1,
     "proj_by_week": {
-     "10": 100.77,
+     "10": 100.78,
      "11": 88.2,
      "12": 109.78,
      "13": 101.66
@@ -1344,7 +1344,7 @@
    "pid": "4983",
    "pos": "WR",
    "proj_by_week": {
-    "10": 12.17,
+    "10": 12.18,
     "11": 13.45,
     "12": 12.05,
     "13": 13.11
@@ -1952,7 +1952,7 @@
    "pid": "6039",
    "pos": "RB",
    "proj_by_week": {
-    "10": 5.38,
+    "10": 5.44,
     "11": 6.23,
     "12": 5.4,
     "13": 5.92
