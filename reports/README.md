@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 10
+- [Sun Nov 15 · Game day 12:55](2026/week-10/2026-11-15-gameday-1255.md) — No changes needed for the late games: Kittle, LAR D/ST, Gay, Dowdle all untagged. Optional: Boswell for Gay ($0) before 2:05 PM MT. Dowdle pivot (if inactive ~4:50 PM MT): Justice Hill (MNF).
 - [Sun Nov 15 · Flash 19:03](2026/week-10/2026-11-15-flash-1903.md) — Cooper (bench) hurt his ankle in-game, questionable to return; no move needed, Tyson stays at FLEX. Watch his Week 11 status.
 - [Sun Nov 15 · Flash 17:04](2026/week-10/2026-11-15-flash-1704.md) — Cooper active (Wilson, Mitchell too); Dowdle swap done. Optional: Cooper over Tyson at FLEX (+0.6, Low) and Boswell for Gay ($0) before 11:00 AM MT.
 - [Sun Nov 15 · Game day 09:43](2026/week-10/2026-11-15-gameday-0943.md) — Etienne active: start Dowdle over Estime before 11:00 AM MT (High); add Boswell for Gay ($0); Judkins, Moore, Tyson active.
