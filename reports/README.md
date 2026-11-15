@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 10
+- [Sun Nov 15 · Flash 19:03](2026/week-10/2026-11-15-flash-1903.md) — Cooper (bench) hurt his ankle in-game, questionable to return; no move needed, Tyson stays at FLEX. Watch his Week 11 status.
 - [Sun Nov 15 · Flash 17:04](2026/week-10/2026-11-15-flash-1704.md) — Cooper active (Wilson, Mitchell too); Dowdle swap done. Optional: Cooper over Tyson at FLEX (+0.6, Low) and Boswell for Gay ($0) before 11:00 AM MT.
 - [Sun Nov 15 · Game day 09:43](2026/week-10/2026-11-15-gameday-0943.md) — Etienne active: start Dowdle over Estime before 11:00 AM MT (High); add Boswell for Gay ($0); Judkins, Moore, Tyson active.
 - [Sun Nov 15 · AM](2026/week-10/2026-11-15-am.md) — Stevenson active, Kiner correctly benched (locked); still to do: start Dowdle over Estime before 11:00 AM MT (High), keep Tyson FLEX, add Boswell for Gay ($0); ~47% win chance.
