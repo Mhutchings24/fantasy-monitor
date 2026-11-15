@@ -1,5 +1,5 @@
 {
- "content_hash": "d741f83787b110dccbb91cee462e6ba19204a96a",
+ "content_hash": "d5fc43588acc810e8bcde669263b7288768ca49b",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -413,15 +413,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Reggie Virgil",
-   "pos": "WR",
-   "proj_4wk": 28.2,
-   "proj_this_week": 6.23,
-   "status": null,
-   "team": "ARI"
-  },
-  {
-   "adds_24h": 0,
    "name": "Harrison Butker",
    "pos": "K",
    "proj_4wk": 28.1,
@@ -473,6 +464,15 @@
    "proj_this_week": 9.22,
    "status": null,
    "team": "ATL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Reggie Virgil",
+   "pos": "WR",
+   "proj_4wk": 27.2,
+   "proj_this_week": 6.23,
+   "status": null,
+   "team": "ARI"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-15T03:50:19Z",
+ "generated_at": "2026-11-15T03:55:24Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1155,7 +1155,7 @@
     "proj_avg": 131.3,
     "proj_by_week": {
      "10": 125.17,
-     "11": 121.52,
+     "11": 121.58,
      "12": 141.57,
      "13": 136.97
     },
