@@ -1,38 +1,21 @@
-# Week 10 game-day check · Sun 9:43 AM MT
-_Conorrhea · No Fun League · 1 PM ET window · data as of 9:41 AM MT (fresh monitor run 43736908689 succeeded)_
+# Flash: Cooper is active; FLEX call vs. Tyson is a coin flip
+_Conorrhea · No Fun League · Week 10 · 10:04 AM MT Sun Nov 15 (fresh monitor run 43738907755, data 17:03 UTC)_
 
-## Make these moves now
-- **Lineup change: start Rico Dowdle, bench Audric Estime. Deadline 11:00 AM MT (1:00 PM ET)**, when Estime's NO–CAR game locks. **Travis Etienne is active** (ESPN, 11:31 AM ET), so Estime is the third back in a three-way split. Confidence **High**. This swap is still not made.
-  - Put Dowdle in Estime's FLEX spot. **Don't** take the app's suggestion to bench Tyson for Dowdle: that keeps Estime in.
-- **Add Chris Boswell (K, PIT), drop Matt Gay. $0, free agent.** Still unowned. Boswell locks at **6:20 PM MT** (PIT @ CIN), but the drop only works while Gay's game hasn't started, so do it now. Fitzgerald (CAR) is equal this week but locks at 11:00 AM MT.
-- **Keep everything else.** Judkins, Moore and Tyson are not on any inactive list. Cooper stays benched.
+## What changed
+- **Omar Cooper Jr. (WR, NYJ) is active vs. BUF** and Sleeper has dropped his injury tag. CBS/RotoWire, NBC Sports and Draft Sharks all confirm him active.
+- **The Jets' WR room is full.** Garrett Wilson and Adonai Mitchell are both active too (Draft Sharks, NBC Sports). That caps Cooper's target share.
+- **You made the Dowdle swap.** Rico Dowdle is now starting and Audric Estime is benched. Good.
+- **The app now suggests Cooper (8.6) over Jordyn Tyson (8.0) at FLEX.** That's +0.6 projected. Both play at **11:00 AM MT** (BUF @ NYJ and CAR @ NO).
+- Matt Gay is still your kicker. Chris Boswell (PIT, 8.3 proj) is still a free agent.
 
-## Inactives and late news
-| Player | Game (ET) | Status | Source (time ET) |
-|---|---|---|---|
-| Travis Etienne (affects Estime) | NO vs CAR, 1:00 | **Active** | ESPN/Katherine Terrell (11:31 AM); Draft Sharks (11:34 AM) |
-| Audric Estime (start → bench) | NO vs CAR, 1:00 | Active, demoted role | Not on Saints inactives (ESPN, 11:31 AM) |
-| Jordyn Tyson (FLEX) | NO vs CAR, 1:00 | Active (not on list) | Saints inactives: Z. Wilson, McCoy, Fuaga, Reid, Donaldson, Ford (ESPN, 11:31 AM) |
-| Quinshon Judkins (RB) | HOU @ CLE, 1:00 | Active (not on list) | Browns Wire inactives (11:37 AM) |
-| DJ Moore (WR) | BUF @ NYJ, 1:00 | No tag; Bills list not yet posted in sources read | FantasyPros (checked ~11:50 AM) |
-| Omar Cooper Jr. (bench) | BUF @ NYJ, 1:00 | Expected to play; not on Jets list so far (only Wallace) | Jet Press (9:30 AM); FantasyPros (~11:50 AM) |
-| Garrett Wilson (affects Cooper) | BUF @ NYJ, 1:00 | Cleared protocol, expected to play | Jet Press (9:30 AM) |
-| Jared Goff | DET vs NE, Munich | Locked, playing | — |
-| Stefon Diggs | Thu (final) | ~20 PPR banked | — |
-
-My estimates: Moore ~97% to play (no tag all week). Etienne's workload is unclear in his first game since Week 3 (Draft Sharks), but even a reduced share cuts Estime's floor more than it cuts Tyson's.
-
-## Still to decide
-- **After 11:00 AM MT** only Kittle (SF @ DAL, 2:25 PM MT), LAR D/ST (@ ARI, 2:05 PM MT), and Dowdle + the kicker (PIT @ CIN, 6:20 PM MT) are unlocked. None has a tag. Evans is the only 49ers inactive listed (FantasyPros).
-- **No bench pivot remains** after 11:00 AM MT (Estime, Cooper, Allen, Kiner all lock or are locked). The 49ers/Rams inactives (~2:30 PM ET) and Steelers inactives (~6:50 PM ET) are the next checks; nothing points to a scratch.
-- If Moore were a surprise inactive before 1 PM ET, Cooper is the swap.
+## What to do
+1. **Optional, Low confidence: start Cooper over Tyson at FLEX before 11:00 AM MT.** The projections favor Cooper slightly. With Wilson and Mitchell active, though, his role is no bigger than the projection already assumes. Etienne being active doesn't change Tyson's WR role. Leaving Tyson in is fine too; don't miss other moves over this one.
+2. **Add Chris Boswell, drop Matt Gay ($0) before 11:00 AM MT** to be safe. That's +0.3 this week and a better kicker for the rest of the season (32.6 vs. Gay's lower 4-week projection; Gay has a Week 13 bye).
+3. Nothing else. Kittle, the LAR D/ST and Dowdle play later, and none of them has a tag.
 
 ## Sources
-- Sleeper league data via monitor (`data/latest.json`, 2026-11-15T16:41Z; fresh run 43736908689 succeeded)
-- [ESPN/Katherine Terrell: Saints inactives, Etienne active (Nov 15, 11:31 AM ET)](https://www.espn.com/contributor/katherine-terrell/bae5a228db46d)
-- [Draft Sharks: Travis Etienne active (Nov 15, 11:34 AM ET)](https://www.draftsharks.com/fantasy-football-news/84220/travis-etienne-active)
-- [SI: Is Travis Etienne Jr. playing today? (Nov 15, 6:35 AM ET)](https://www.si.com/betting/travis-etienne-jr-injury-update-betting-impact-for-panthers-vs-saints-in-nfl-week-10-2026)
-- [Browns Wire via Yahoo: Browns Week 10 inactives (Nov 15, 11:37 AM ET)](https://sports.yahoo.com/articles/browns-week-10-inactives-whos-163712090.html)
-- [The Jet Press: Jets inactives vs Bills, Wilson update (Nov 15, 9:30 AM ET)](https://thejetpress.com/jets-inactives-list-week-10-game-bills-garrett-wilson-injury-update-01m7fqmgt7dn)
-- [FantasyPros: 2026 NFL inactives (checked ~11:50 AM ET)](https://www.fantasypros.com/nfl/players/inactives.php)
-- [ESPN: Week 10 inactives live page (Nov 14)](https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50462045/fantasy-football-injuries-nfl-week-10-inactive-active)
+- [CBS Sports/RotoWire: Jets' Omar Cooper active Sunday](https://www.cbssports.com/fantasy/football/news/jets-omar-cooper-active-sunday/)
+- [NBC Sports: Cooper, Mitchell both active vs Bills in Week 10 (Nov 15)](https://www.nbcsports.com/fantasy/football/player-news/2026-11-15/cooper-mitchell-both-active-vs-bills-in-week-10)
+- [Draft Sharks: Garrett Wilson, Omar Cooper & Adonai Mitchell active](https://www.draftsharks.com/fantasy-football-news/84221/garrett-wilson-omar-cooper-adonai-mitchell-active)
+- [RotoWire: Omar Cooper active Sunday](https://www.rotowire.com/football/headlines/omar-cooper-news-active-sunday-647829)
+- Monitor data: `data/latest.json` (2026-11-15T17:03Z): lineup, swaps, free agents.
