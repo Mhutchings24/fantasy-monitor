@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-15T22:39:10Z UTC
+Week 10 · record 3-6 · updated 2026-11-15T22:44:16Z UTC
 
 ## Lineup check
 Current lineup projects **102.0**, best possible **102.0**.
@@ -14,17 +14,17 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +10.3 | +0.2 | 0 |
-| Zonovan Knight | RB | ARI | Audric Estime | +6.6 | +0.0 | 70,416 |
+| Zonovan Knight | RB | ARI | Audric Estime | +6.6 | +0.0 | 70,428 |
 | Kimani Vidal | RB | LAC | Audric Estime | +4.6 | +0.0 | 0 |
 | Tyjae Spears | RB | TEN | Audric Estime | +4.3 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +4.2 | +0.0 | 389,304 |
+| Justice Hill | RB | BAL | Audric Estime | +4.2 | +0.0 | 392,859 |
 | Samaje Perine | RB | CIN | Audric Estime | +3.9 | +0.0 | 0 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +3.9 | +0.0 | 0 |
-| Seth McGowan | RB | IND | Audric Estime | +3.2 | +0.0 | 95,792 |
+| Seth McGowan | RB | IND | Audric Estime | +3.2 | +0.0 | 97,760 |
 | Alvin Kamara | RB | NO | Audric Estime | +2.9 | +0.0 | 0 |
-| Dylan Sampson | RB | CLE | Corey Kiner | +2.7 | +0.0 | 43,445 |
+| Dylan Sampson | RB | CLE | Corey Kiner | +2.7 | +0.0 | 43,500 |
 | Bo Nix | QB | DEN | Corey Kiner | +1.4 | +0.0 | 0 |
-| Hunter Henry | TE | NE | Corey Kiner | +1.0 | +1.0 | 35,088 |
+| Hunter Henry | TE | NE | Corey Kiner | +1.0 | +1.0 | 35,130 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.6 pts this week)
 
@@ -68,7 +68,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Rico Dowdle | RB | PIT | starter |  | 10.0 | 8.4 | 7.8 | 8.2 |
 | Quinshon Judkins | RB | CLE | starter |  | 9.9 | 0.0 | 11.9 | 11.8 |
 | George Kittle | TE | SF | starter |  | 15.3 | 12.8 | 14.2 | 15.1 |
-| DJ Moore | WR | BUF | starter |  | 12.0 | 13.1 | 12.1 | 13.1 |
+| DJ Moore | WR | BUF | starter |  | 12.0 | 13.1 | 12.0 | 13.1 |
 | Stefon Diggs | WR | WAS | starter |  | 10.2 | 13.1 | 13.3 | 13.1 |
 | Jordyn Tyson | WR | NO | starter |  | 9.1 | 10.9 | 11.2 | 10.5 |
 | Audric Estime | RB | NO | bench |  | 7.8 | 2.9 | 3.0 | 2.8 |
