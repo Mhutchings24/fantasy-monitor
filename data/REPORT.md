@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-15T13:41:17Z UTC
+Week 10 · record 3-6 · updated 2026-11-15T13:46:21Z UTC
 
 ## Lineup check
 Current lineup projects **98.6**, best possible **104.4**.
@@ -15,7 +15,7 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +10.4 | +0.0 | 0 |
-| Zonovan Knight | RB | ARI | Audric Estime | +6.8 | +0.0 | 64,120 |
+| Zonovan Knight | RB | ARI | Audric Estime | +6.9 | +0.0 | 64,120 |
 | Kimani Vidal | RB | LAC | Audric Estime | +5.0 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +4.6 | +0.0 | 0 |
 | Justice Hill | RB | BAL | Audric Estime | +4.5 | +0.0 | 236,367 |
@@ -25,7 +25,7 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Seth McGowan | RB | IND | Audric Estime | +3.5 | +0.0 | 36,168 |
 | Alvin Kamara | RB | NO | Audric Estime | +2.9 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Omar Cooper Jr. | +2.7 | +0.0 | 35,750 |
-| Bo Nix | QB | DEN | Omar Cooper Jr. | +1.8 | +0.0 | 0 |
+| Bo Nix | QB | DEN | Omar Cooper Jr. | +1.7 | +0.0 | 0 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
 
@@ -38,11 +38,11 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.4 | 99% |
-| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 5 | 124.0 | 90% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.1 | 87% |
+| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 5 | 124.1 | 90% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 4 | 124.2 | 87% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 128.6 | 90% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 6 | 121.7 | 64% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 132.6 | 73% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 132.7 | 73% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 117.5 | 36% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 119.4 | 42% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 120.6 | 17% |
@@ -65,7 +65,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter |  | 8.6 | 0.0 | 5.9 | 6.1 |
 | Matt Gay | K | LV | starter |  | 8.0 | 7.6 | 8.5 | 0.0 |
-| Jared Goff | QB | DET | starter |  | 18.6 | 17.1 | 21.2 | 18.3 |
+| Jared Goff | QB | DET | starter |  | 18.6 | 17.2 | 21.2 | 18.3 |
 | Quinshon Judkins | RB | CLE | starter |  | 9.7 | 0.0 | 11.9 | 11.8 |
 | Audric Estime | RB | NO | starter |  | 8.1 | 2.6 | 3.0 | 2.8 |
 | George Kittle | TE | SF | starter |  | 15.3 | 12.9 | 14.2 | 15.1 |
