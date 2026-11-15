@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-15T14:34:54Z UTC
+Week 10 · record 3-6 · updated 2026-11-15T14:45:11Z UTC
 
 ## Lineup check
 Current lineup projects **98.8**, best possible **100.8**.
@@ -14,17 +14,17 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +11.7 | +1.2 | 0 |
-| Zonovan Knight | RB | ARI | Audric Estime | +7.2 | +0.3 | 69,548 |
+| Zonovan Knight | RB | ARI | Audric Estime | +7.2 | +0.3 | 70,760 |
 | Kimani Vidal | RB | LAC | Corey Kiner | +5.0 | +0.0 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Corey Kiner | +4.6 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Corey Kiner | +4.5 | +0.0 | 262,845 |
+| Justice Hill | RB | BAL | Corey Kiner | +4.5 | +0.0 | 268,740 |
 | Keaton Mitchell | RB | LAC | Corey Kiner | +4.3 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Corey Kiner | +4.2 | +0.0 | 0 |
 | Ty Johnson | RB | BUF | Corey Kiner | +3.6 | +0.0 | 0 |
-| Seth McGowan | RB | IND | Corey Kiner | +3.5 | +0.0 | 40,000 |
+| Seth McGowan | RB | IND | Corey Kiner | +3.5 | +0.0 | 40,648 |
 | Alvin Kamara | RB | NO | Corey Kiner | +2.9 | +0.0 | 0 |
-| Dylan Sampson | RB | CLE | Corey Kiner | +2.7 | +0.0 | 39,905 |
-| Khalil Shakir | WR | BUF | Corey Kiner | +2.1 | +2.1 | 58,383 |
+| Dylan Sampson | RB | CLE | Corey Kiner | +2.7 | +0.0 | 40,910 |
+| Khalil Shakir | WR | BUF | Corey Kiner | +2.1 | +2.1 | 59,760 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.4 pts this week)
 
