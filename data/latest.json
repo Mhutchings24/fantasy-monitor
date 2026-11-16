@@ -1,5 +1,5 @@
 {
- "content_hash": "b5dcf48c31814c71f5bb776e127f273f005696d6",
+ "content_hash": "96b62ad128d8ba1c107e88f4ee8febfeb3bc7884",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -10,8 +10,8 @@
    "adds_24h": 54572,
    "name": "Aaron Rodgers",
    "pos": "QB",
-   "proj_4wk": 64.8,
-   "proj_this_week": 17.77,
+   "proj_4wk": 64.7,
+   "proj_this_week": 17.68,
    "status": null,
    "team": "PIT"
   },
@@ -137,7 +137,7 @@
    "name": "Mike Gesicki",
    "pos": "TE",
    "proj_4wk": 39.3,
-   "proj_this_week": 9.8,
+   "proj_this_week": 9.78,
    "status": null,
    "team": "CIN"
   },
@@ -290,7 +290,7 @@
    "name": "Chris Boswell",
    "pos": "K",
    "proj_4wk": 32.6,
-   "proj_this_week": 8.31,
+   "proj_this_week": 8.28,
    "status": null,
    "team": "PIT"
   },
@@ -335,7 +335,7 @@
    "name": "Pat Freiermuth",
    "pos": "TE",
    "proj_4wk": 31.0,
-   "proj_this_week": 7.61,
+   "proj_this_week": 7.55,
    "status": "Questionable",
    "team": "PIT"
   },
@@ -479,7 +479,7 @@
    "name": "Samaje Perine",
    "pos": "RB",
    "proj_4wk": 27.1,
-   "proj_this_week": 6.09,
+   "proj_this_week": 6.08,
    "status": null,
    "team": "CIN"
   },
@@ -502,15 +502,6 @@
    "team": "ARI"
   },
   {
-   "adds_24h": 0,
-   "name": "CIN D/ST",
-   "pos": "DEF",
-   "proj_4wk": 26.6,
-   "proj_this_week": 6.34,
-   "status": null,
-   "team": "CIN"
-  },
-  {
    "adds_24h": 42465,
    "name": "Dylan Sampson",
    "pos": "RB",
@@ -518,6 +509,15 @@
    "proj_this_week": 7.88,
    "status": null,
    "team": "CLE"
+  },
+  {
+   "adds_24h": 0,
+   "name": "CIN D/ST",
+   "pos": "DEF",
+   "proj_4wk": 26.6,
+   "proj_this_week": 6.31,
+   "status": null,
+   "team": "CIN"
   },
   {
    "adds_24h": 0,
@@ -647,21 +647,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Trey Smack",
-   "pos": "K",
-   "proj_4wk": 23.6,
-   "proj_this_week": 7.89,
-   "status": null,
-   "team": "GB"
-  },
-  {
-   "adds_24h": 0,
    "name": "Alvin Kamara",
    "pos": "RB",
    "proj_4wk": 23.6,
    "proj_this_week": 6.3,
    "status": null,
    "team": "NO"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Trey Smack",
+   "pos": "K",
+   "proj_4wk": 23.6,
+   "proj_this_week": 7.89,
+   "status": null,
+   "team": "GB"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "LV"
   }
  ],
- "generated_at": "2026-11-15T23:55:37Z",
+ "generated_at": "2026-11-16T00:00:41Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1009,11 +1009,11 @@
   },
   "matchup": {
    "my_proj": 102.0,
-   "opp_best_possible": 111.36,
-   "opp_proj": 110.3,
+   "opp_best_possible": 111.29,
+   "opp_proj": 110.2,
    "opponent": "Never Going Go Scottsdale",
    "opponent_record": "4-5",
-   "win_prob": 0.407
+   "win_prob": 0.408
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1038,7 +1038,7 @@
     "power_rank": 1,
     "proj_avg": 129.5,
     "proj_by_week": {
-     "10": 133.22,
+     "10": 133.08,
      "11": 124.82,
      "12": 136.31,
      "13": 123.84
@@ -1057,9 +1057,9 @@
     "pf": 1091.54,
     "playoff_odds": 0.931,
     "power_rank": 4,
-    "proj_avg": 124.1,
+    "proj_avg": 124.0,
     "proj_by_week": {
-     "10": 125.85,
+     "10": 125.76,
      "11": 118.6,
      "12": 125.31,
      "13": 126.48
@@ -1101,7 +1101,7 @@
     "power_rank": 2,
     "proj_avg": 128.6,
     "proj_by_week": {
-     "10": 132.29,
+     "10": 132.26,
      "11": 132.71,
      "12": 136.66,
      "13": 112.9
@@ -1113,16 +1113,16 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.027,
+    "first_seed_odds": 0.026,
     "losses": 4,
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.698,
+    "playoff_odds": 0.697,
     "power_rank": 5,
-    "proj_avg": 121.8,
+    "proj_avg": 121.7,
     "proj_by_week": {
-     "10": 130.1,
+     "10": 130.02,
      "11": 116.18,
      "12": 129.96,
      "13": 110.82
@@ -1164,7 +1164,7 @@
     "power_rank": 9,
     "proj_avg": 114.6,
     "proj_by_week": {
-     "10": 111.36,
+     "10": 111.29,
      "11": 113.23,
      "12": 118.02,
      "13": 115.78
@@ -1181,11 +1181,11 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.528,
+    "playoff_odds": 0.529,
     "power_rank": 7,
     "proj_avg": 118.9,
     "proj_by_week": {
-     "10": 122.53,
+     "10": 122.54,
      "11": 103.87,
      "12": 124.64,
      "13": 124.69
@@ -1204,9 +1204,9 @@
     "pf": 1084.42,
     "playoff_odds": 0.11,
     "power_rank": 8,
-    "proj_avg": 114.8,
+    "proj_avg": 114.7,
     "proj_by_week": {
-     "10": 94.9,
+     "10": 94.78,
      "11": 107.72,
      "12": 134.56,
      "13": 121.91
@@ -1917,7 +1917,7 @@
    "pid": "4147",
    "pos": "RB",
    "proj_by_week": {
-    "10": 6.09,
+    "10": 6.08,
     "11": 6.82,
     "12": 7.49,
     "13": 6.74
