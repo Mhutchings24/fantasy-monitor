@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-16T21:41:12Z UTC
+Week 10 · record 3-6 · updated 2026-11-16T21:46:17Z UTC
 
 ## Lineup check
 Current lineup projects **101.9**, best possible **101.9**.
@@ -66,7 +66,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Matt Gay | K | LV | starter |  | 8.0 | 7.3 | 8.5 | 0.0 |
 | Jared Goff | QB | DET | starter |  | 18.7 | 17.1 | 21.4 | 18.8 |
 | Quinshon Judkins | RB | CLE | starter |  | 9.9 | 0.0 | 12.3 | 12.0 |
-| Rico Dowdle | RB | PIT | starter |  | 9.9 | 8.5 | 7.7 | 8.3 |
+| Rico Dowdle | RB | PIT | starter |  | 9.9 | 8.4 | 7.7 | 8.3 |
 | George Kittle | TE | SF | starter |  | 15.3 | 12.6 | 13.7 | 14.7 |
 | DJ Moore | WR | BUF | starter |  | 12.0 | 13.5 | 12.4 | 13.7 |
 | Stefon Diggs | WR | WAS | starter |  | 10.2 | 13.2 | 13.6 | 13.3 |

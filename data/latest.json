@@ -1,5 +1,5 @@
 {
- "content_hash": "47f8c88860f15320e869f73bb66758d5e819083a",
+ "content_hash": "b636f0745edb70cc8851845e166f60fad7a82e9d",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -10,7 +10,7 @@
    "adds_24h": 23384,
    "name": "Aaron Rodgers",
    "pos": "QB",
-   "proj_4wk": 64.1,
+   "proj_4wk": 64.0,
    "proj_this_week": 17.49,
    "status": null,
    "team": "PIT"
@@ -109,7 +109,7 @@
    "adds_24h": 0,
    "name": "Joe Milton",
    "pos": "QB",
-   "proj_4wk": 42.1,
+   "proj_4wk": 42.0,
    "proj_this_week": 0.0,
    "status": null,
    "team": "PHI"
@@ -296,15 +296,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Pat Freiermuth",
-   "pos": "TE",
-   "proj_4wk": 32.6,
-   "proj_this_week": 8.88,
-   "status": null,
-   "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
    "name": "Antonio Williams",
    "pos": "WR",
    "proj_4wk": 32.6,
@@ -318,6 +309,15 @@
    "pos": "K",
    "proj_4wk": 32.5,
    "proj_this_week": 8.24,
+   "status": null,
+   "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Pat Freiermuth",
+   "pos": "TE",
+   "proj_4wk": 31.9,
+   "proj_this_week": 8.88,
    "status": null,
    "team": "PIT"
   },
@@ -484,15 +484,6 @@
    "team": "CIN"
   },
   {
-   "adds_24h": 0,
-   "name": "Xavier Worthy",
-   "pos": "WR",
-   "proj_4wk": 26.5,
-   "proj_this_week": 8.28,
-   "status": null,
-   "team": "KC"
-  },
-  {
    "adds_24h": 83056,
    "name": "Pat Bryant",
    "pos": "WR",
@@ -500,6 +491,15 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "DEN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Xavier Worthy",
+   "pos": "WR",
+   "proj_4wk": 26.5,
+   "proj_this_week": 8.28,
+   "status": null,
+   "team": "KC"
   },
   {
    "adds_24h": 0,
@@ -844,7 +844,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-16T21:41:12Z",
+ "generated_at": "2026-11-16T21:46:17Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1157,7 +1157,7 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.693,
+    "playoff_odds": 0.694,
     "power_rank": 3,
     "proj_avg": 128.7,
     "proj_by_week": {
@@ -1178,12 +1178,12 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.338,
+    "playoff_odds": 0.337,
     "power_rank": 8,
     "proj_avg": 115.7,
     "proj_by_week": {
      "10": 111.36,
-     "11": 115.93,
+     "11": 115.87,
      "12": 119.24,
      "13": 116.45
     },
@@ -1246,7 +1246,7 @@
     "proj_avg": 101.4,
     "proj_by_week": {
      "10": 101.91,
-     "11": 90.47,
+     "11": 90.35,
      "12": 110.41,
      "13": 102.91
     },
@@ -1327,7 +1327,7 @@
    "pos": "RB",
    "proj_by_week": {
     "10": 9.91,
-    "11": 8.48,
+    "11": 8.36,
     "12": 7.7,
     "13": 8.32
    },
@@ -1662,7 +1662,7 @@
    "partner_roster_id": 6,
    "summary": "Give Mike Evans, get Saquon Barkley from Never Going Go Scottsdale: +2.8 pts/week for you, +0.4 for them.",
    "their_gain_per_week": 0.4,
-   "value_ratio": 0.98,
+   "value_ratio": 0.97,
    "why_them": [
     "Mike Evans would start 7 of 8 weeks for them"
    ],
