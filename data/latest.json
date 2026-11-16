@@ -1,5 +1,5 @@
 {
- "content_hash": "56726d60f2c4393eee333dd35961e200cbca450e",
+ "content_hash": "9396a26ccb38a55b4c74921a7c8f0e0f01489052",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -154,7 +154,7 @@
    "adds_24h": 0,
    "name": "Aaron Jones Sr.",
    "pos": "RB",
-   "proj_4wk": 38.3,
+   "proj_4wk": 38.4,
    "proj_this_week": 9.27,
    "status": null,
    "team": "MIN"
@@ -208,7 +208,7 @@
    "adds_24h": 163464,
    "name": "Fernando Mendoza",
    "pos": "QB",
-   "proj_4wk": 37.3,
+   "proj_4wk": 37.2,
    "proj_this_week": 11.75,
    "status": null,
    "team": "LV"
@@ -514,7 +514,7 @@
    "adds_24h": 0,
    "name": "SF D/ST",
    "pos": "DEF",
-   "proj_4wk": 26.4,
+   "proj_4wk": 26.5,
    "proj_this_week": 6.16,
    "status": null,
    "team": "SF"
@@ -529,15 +529,6 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 72472,
-   "name": "Pat Bryant",
-   "pos": "WR",
-   "proj_4wk": 26.0,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "DEN"
-  },
-  {
    "adds_24h": 0,
    "name": "Zane Gonzalez",
    "pos": "K",
@@ -545,6 +536,15 @@
    "proj_this_week": 6.73,
    "status": null,
    "team": "MIA"
+  },
+  {
+   "adds_24h": 72472,
+   "name": "Pat Bryant",
+   "pos": "WR",
+   "proj_4wk": 26.0,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "DEN"
   },
   {
    "adds_24h": 0,
@@ -835,7 +835,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-16T07:48:57Z",
+ "generated_at": "2026-11-16T07:54:01Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1066,10 +1066,10 @@
     "pf": 1091.54,
     "playoff_odds": 0.929,
     "power_rank": 4,
-    "proj_avg": 124.0,
+    "proj_avg": 124.1,
     "proj_by_week": {
      "10": 125.81,
-     "11": 118.63,
+     "11": 118.7,
      "12": 125.24,
      "13": 126.48
     },
@@ -1080,17 +1080,17 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.086,
+    "first_seed_odds": 0.085,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
     "playoff_odds": 0.839,
     "power_rank": 6,
-    "proj_avg": 120.5,
+    "proj_avg": 120.6,
     "proj_by_week": {
      "10": 114.11,
-     "11": 109.55,
+     "11": 109.62,
      "12": 138.82,
      "13": 119.71
     },
@@ -1106,7 +1106,7 @@
     "mine": false,
     "pa": 1118.82,
     "pf": 1169.52,
-    "playoff_odds": 0.917,
+    "playoff_odds": 0.916,
     "power_rank": 2,
     "proj_avg": 128.9,
     "proj_by_week": {
@@ -1127,12 +1127,12 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.701,
+    "playoff_odds": 0.703,
     "power_rank": 5,
-    "proj_avg": 122.0,
+    "proj_avg": 122.1,
     "proj_by_week": {
      "10": 129.87,
-     "11": 117.5,
+     "11": 117.74,
      "12": 129.96,
      "13": 110.82
     },
@@ -1143,7 +1143,7 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.008,
+    "first_seed_odds": 0.009,
     "losses": 5,
     "mine": false,
     "pa": 1129.44,
@@ -1153,7 +1153,7 @@
     "proj_avg": 127.9,
     "proj_by_week": {
      "10": 112.06,
-     "11": 120.97,
+     "11": 121.04,
      "12": 141.57,
      "13": 136.97
     },
@@ -1169,12 +1169,12 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.315,
+    "playoff_odds": 0.317,
     "power_rank": 9,
-    "proj_avg": 114.8,
+    "proj_avg": 114.9,
     "proj_by_week": {
      "10": 111.29,
-     "11": 114.19,
+     "11": 114.6,
      "12": 118.02,
      "13": 115.78
     },
@@ -1190,12 +1190,12 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.528,
+    "playoff_odds": 0.525,
     "power_rank": 7,
     "proj_avg": 119.0,
     "proj_by_week": {
      "10": 122.54,
-     "11": 104.29,
+     "11": 104.31,
      "12": 124.64,
      "13": 124.69
     },
@@ -1234,10 +1234,10 @@
     "pf": 978.8,
     "playoff_odds": 0.006,
     "power_rank": 10,
-    "proj_avg": 100.7,
+    "proj_avg": 100.8,
     "proj_by_week": {
      "10": 101.91,
-     "11": 89.65,
+     "11": 89.83,
      "12": 109.75,
      "13": 101.66
     },
@@ -1273,7 +1273,7 @@
    "pos": "K",
    "proj_by_week": {
     "10": 7.99,
-    "11": 7.37,
+    "11": 7.34,
     "12": 8.49,
     "13": 0.0
    },
@@ -1333,7 +1333,7 @@
    "pos": "TE",
    "proj_by_week": {
     "10": 15.31,
-    "11": 12.63,
+    "11": 12.74,
     "12": 14.22,
     "13": 15.09
    },
@@ -1438,7 +1438,7 @@
    "pos": "WR",
    "proj_by_week": {
     "10": 7.01,
-    "11": 5.61,
+    "11": 5.63,
     "12": 6.06,
     "13": 6.58
    },
@@ -1483,7 +1483,7 @@
    "pos": "WR",
    "proj_by_week": {
     "10": 0.0,
-    "11": 12.94,
+    "11": 13.04,
     "12": 14.96,
     "13": 15.91
    },
@@ -1579,8 +1579,8 @@
    "likelihood": "Likely",
    "partner": "Glizzy Globbler ",
    "partner_roster_id": 2,
-   "summary": "Give Stefon Diggs, get Jonah Coleman from Glizzy Globbler : +4.6 pts/week for you, +1.2 for them.",
-   "their_gain_per_week": 1.2,
+   "summary": "Give Stefon Diggs, get Jonah Coleman from Glizzy Globbler : +4.6 pts/week for you, +1.1 for them.",
+   "their_gain_per_week": 1.1,
    "value_ratio": 1.04,
    "why_them": [
     "Stefon Diggs would start 2 of 8 weeks for them"
@@ -1825,13 +1825,13 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 0.21,
-   "gain_window": 8.39,
+   "gain_window": 8.45,
    "name": "Aaron Jones Sr.",
    "pid": "4199",
    "pos": "RB",
    "proj_by_week": {
     "10": 9.27,
-    "11": 8.52,
+    "11": 8.58,
     "12": 9.95,
     "13": 10.61
    },
@@ -1977,13 +1977,13 @@
    "drop": "12491",
    "drop_name": "Corey Kiner",
    "gain_this_week": 0.0,
-   "gain_window": 1.56,
+   "gain_window": 1.59,
    "name": "Bo Nix",
    "pid": "11563",
    "pos": "QB",
    "proj_by_week": {
     "10": 0.0,
-    "11": 17.7,
+    "11": 17.73,
     "12": 15.98,
     "13": 19.41
    },
