@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-16T16:50:58Z UTC
+Week 10 · record 3-6 · updated 2026-11-16T17:27:26Z UTC
 
 ## Lineup check
 Current lineup projects **101.9**, best possible **101.9**.
@@ -14,17 +14,17 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +8.4 | +0.2 | 0 |
-| Zonovan Knight | RB | ARI | Audric Estime | +3.8 | +0.0 | 25,578 |
+| Zonovan Knight | RB | ARI | Audric Estime | +3.8 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.6 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +2.6 | +0.0 | 0 |
 | Tyjae Spears | RB | TEN | Audric Estime | +2.4 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +2.3 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +2.1 | +0.0 | 333,378 |
+| Justice Hill | RB | BAL | Audric Estime | +2.1 | +0.0 | 337,437 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +1.9 | +0.0 | 0 |
-| Bo Nix | QB | DEN | Corey Kiner | +1.6 | +0.0 | 32,928 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.4 | +0.0 | 53,104 |
+| Bo Nix | QB | DEN | Corey Kiner | +1.6 | +0.0 | 33,978 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.4 | +0.0 | 54,000 |
 | Ty Johnson | RB | BUF | Audric Estime | +1.3 | +0.0 | 0 |
-| Seth McGowan | RB | IND | Audric Estime | +1.1 | +0.0 | 209,992 |
+| Seth McGowan | RB | IND | Audric Estime | +1.1 | +0.0 | 214,936 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.6 pts this week)
 
@@ -40,7 +40,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 124.2 | 95% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 6 | 120.6 | 84% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 2 | 129.1 | 92% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 5 | 122.2 | 70% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 5 | 122.2 | 71% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 3 | 127.9 | 67% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 8 | 115.0 | 32% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 119.2 | 53% |
