@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-16T17:52:51Z UTC
+Week 10 · record 3-6 · updated 2026-11-16T17:57:57Z UTC
 
 ## Lineup check
 Current lineup projects **101.9**, best possible **101.9**.
@@ -19,12 +19,12 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Kimani Vidal | RB | LAC | Audric Estime | +2.7 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +2.5 | +0.0 | 0 |
 | Tyjae Spears | RB | TEN | Audric Estime | +2.5 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +2.2 | +0.0 | 283,509 |
+| Justice Hill | RB | BAL | Audric Estime | +2.2 | +0.0 | 284,904 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +1.8 | +0.0 | 0 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.4 | +0.0 | 52,056 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.4 | +0.0 | 52,336 |
 | Ty Johnson | RB | BUF | Audric Estime | +1.3 | +0.0 | 0 |
-| Bo Nix | QB | DEN | Corey Kiner | +1.2 | +0.0 | 33,024 |
-| Seth McGowan | RB | IND | Audric Estime | +1.2 | +0.0 | 213,200 |
+| Bo Nix | QB | DEN | Corey Kiner | +1.2 | +0.0 | 33,432 |
+| Seth McGowan | RB | IND | Audric Estime | +1.2 | +0.0 | 214,968 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.6 pts this week)
 
@@ -39,9 +39,9 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 1 | 129.1 | 99% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 124.6 | 95% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 6 | 120.8 | 84% |
-| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 128.8 | 91% |
+| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 128.7 | 91% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 5 | 121.9 | 70% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 2 | 128.8 | 69% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 2 | 128.7 | 69% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 8 | 115.0 | 32% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 118.9 | 52% |
 | 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 109.5 | 7% |
