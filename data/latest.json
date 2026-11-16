@@ -1,5 +1,5 @@
 {
- "content_hash": "33b94563dd2dfcf5242df2f5ced3c3d11cfdb6fe",
+ "content_hash": "cf02c34539478ea9001b689b5c6d54fc467a4e9b",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -250,15 +250,6 @@
    "team": "NYG"
   },
   {
-   "adds_24h": 95356,
-   "name": "Elic Ayomanor",
-   "pos": "WR",
-   "proj_4wk": 33.1,
-   "proj_this_week": 9.01,
-   "status": null,
-   "team": "TEN"
-  },
-  {
    "adds_24h": 59454,
    "name": "Zonovan Knight",
    "pos": "RB",
@@ -266,6 +257,15 @@
    "proj_this_week": 8.33,
    "status": null,
    "team": "ARI"
+  },
+  {
+   "adds_24h": 95356,
+   "name": "Elic Ayomanor",
+   "pos": "WR",
+   "proj_4wk": 33.1,
+   "proj_this_week": 9.01,
+   "status": null,
+   "team": "TEN"
   },
   {
    "adds_24h": 0,
@@ -656,21 +656,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "DEN D/ST",
-   "pos": "DEF",
-   "proj_4wk": 23.6,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "DEN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Trey Smack",
    "pos": "K",
    "proj_4wk": 23.6,
    "proj_this_week": 7.89,
    "status": null,
    "team": "GB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "DEN D/ST",
+   "pos": "DEF",
+   "proj_4wk": 23.6,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "DEN"
   },
   {
    "adds_24h": 0,
@@ -835,7 +835,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-16T04:32:55Z",
+ "generated_at": "2026-11-16T04:37:59Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
