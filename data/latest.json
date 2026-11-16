@@ -1,5 +1,5 @@
 {
- "content_hash": "f37a5fbd53dc152d315de274a22b2ccdfaac442b",
+ "content_hash": "952545b937e6ec4af42d3b8780d941b94b30a2ff",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -269,21 +269,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Drew Stevens",
-   "pos": "K",
-   "proj_4wk": 32.8,
-   "proj_this_week": 7.74,
-   "status": null,
-   "team": "WAS"
-  },
-  {
-   "adds_24h": 0,
    "name": "Dalton Schultz",
    "pos": "TE",
    "proj_4wk": 32.8,
    "proj_this_week": 7.97,
    "status": null,
    "team": "HOU"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Drew Stevens",
+   "pos": "K",
+   "proj_4wk": 32.8,
+   "proj_this_week": 7.74,
+   "status": null,
+   "team": "WAS"
   },
   {
    "adds_24h": 0,
@@ -476,18 +476,9 @@
   },
   {
    "adds_24h": 0,
-   "name": "Reggie Virgil",
-   "pos": "WR",
-   "proj_4wk": 27.1,
-   "proj_this_week": 6.2,
-   "status": null,
-   "team": "ARI"
-  },
-  {
-   "adds_24h": 0,
    "name": "Xavier Worthy",
    "pos": "WR",
-   "proj_4wk": 26.9,
+   "proj_4wk": 26.8,
    "proj_this_week": 8.28,
    "status": null,
    "team": "KC"
@@ -629,6 +620,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Devaughn Vele",
+   "pos": "WR",
+   "proj_4wk": 24.1,
+   "proj_this_week": 7.37,
+   "status": null,
+   "team": "NO"
+  },
+  {
+   "adds_24h": 0,
    "name": "AJ Barner",
    "pos": "TE",
    "proj_4wk": 23.7,
@@ -683,21 +683,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Riley Patterson",
-   "pos": "K",
-   "proj_4wk": 23.2,
-   "proj_this_week": 7.91,
-   "status": null,
-   "team": "BAL"
-  },
-  {
-   "adds_24h": 0,
    "name": "Cairo Santos",
    "pos": "K",
    "proj_4wk": 23.2,
    "proj_this_week": 0.0,
    "status": null,
    "team": "CHI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Riley Patterson",
+   "pos": "K",
+   "proj_4wk": 23.2,
+   "proj_this_week": 7.91,
+   "status": null,
+   "team": "BAL"
   },
   {
    "adds_24h": 0,
@@ -710,21 +710,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Devaughn Vele",
-   "pos": "WR",
-   "proj_4wk": 22.9,
-   "proj_this_week": 7.37,
-   "status": null,
-   "team": "NO"
-  },
-  {
-   "adds_24h": 0,
    "name": "Ty Johnson",
    "pos": "RB",
    "proj_4wk": 22.9,
    "proj_this_week": 5.34,
    "status": null,
    "team": "BUF"
+  },
+  {
+   "adds_24h": 0,
+   "name": "DAL D/ST",
+   "pos": "DEF",
+   "proj_4wk": 22.8,
+   "proj_this_week": 4.19,
+   "status": null,
+   "team": "DAL"
   },
   {
    "adds_24h": 423036,
@@ -826,7 +826,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-16T02:46:30Z",
+ "generated_at": "2026-11-16T02:51:34Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1029,19 +1029,19 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.582,
+    "first_seed_odds": 0.575,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
     "pf": 1250.86,
     "playoff_odds": 0.993,
     "power_rank": 1,
-    "proj_avg": 129.6,
+    "proj_avg": 129.3,
     "proj_by_week": {
      "10": 133.15,
      "11": 125.21,
-     "12": 136.31,
-     "13": 123.84
+     "12": 135.75,
+     "13": 123.21
     },
     "rank": 1,
     "roster_id": 9,
@@ -1050,7 +1050,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.183,
+    "first_seed_odds": 0.185,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
@@ -1061,7 +1061,7 @@
     "proj_by_week": {
      "10": 125.81,
      "11": 118.99,
-     "12": 125.31,
+     "12": 125.24,
      "13": 126.48
     },
     "rank": 2,
@@ -1071,18 +1071,18 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.086,
+    "first_seed_odds": 0.088,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.842,
+    "playoff_odds": 0.844,
     "power_rank": 6,
     "proj_avg": 121.0,
     "proj_by_week": {
      "10": 114.11,
      "11": 111.53,
-     "12": 138.81,
+     "12": 138.82,
      "13": 119.71
     },
     "rank": 3,
@@ -1092,7 +1092,7 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.107,
+    "first_seed_odds": 0.109,
     "losses": 4,
     "mine": false,
     "pa": 1118.82,
@@ -1113,7 +1113,7 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.028,
+    "first_seed_odds": 0.029,
     "losses": 4,
     "mine": false,
     "pa": 958.02,
@@ -1139,7 +1139,7 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.653,
+    "playoff_odds": 0.652,
     "power_rank": 3,
     "proj_avg": 127.9,
     "proj_by_week": {
@@ -1160,7 +1160,7 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.319,
+    "playoff_odds": 0.318,
     "power_rank": 9,
     "proj_avg": 115.0,
     "proj_by_week": {
@@ -1181,7 +1181,7 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.526,
+    "playoff_odds": 0.527,
     "power_rank": 7,
     "proj_avg": 119.1,
     "proj_by_week": {
@@ -1340,7 +1340,7 @@
    "proj_by_week": {
     "10": 12.04,
     "11": 13.25,
-    "12": 12.02,
+    "12": 11.98,
     "13": 13.11
    },
    "slot": "starter",
@@ -1370,8 +1370,8 @@
    "proj_by_week": {
     "10": 9.06,
     "11": 10.79,
-    "12": 11.25,
-    "13": 10.48
+    "12": 12.02,
+    "13": 11.2
    },
    "slot": "starter",
    "status": null,
@@ -1526,7 +1526,7 @@
      "name": "Jordyn Tyson",
      "pid": "13281",
      "pos": "WR",
-     "ros_per_week": 10.6,
+     "ros_per_week": 11.0,
      "status": null,
      "team": "NO"
     }
@@ -1534,17 +1534,17 @@
    "likelihood": "Likely",
    "partner": "Glizzy Globbler ",
    "partner_roster_id": 2,
-   "summary": "Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +5.9 pts/week for you, +1.0 for them.",
+   "summary": "Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +5.7 pts/week for you, +1.0 for them.",
    "their_gain_per_week": 1.0,
-   "value_ratio": 1.2,
+   "value_ratio": 1.15,
    "why_them": [
     "Jordyn Tyson would start 2 of 8 weeks for them"
    ],
    "why_you": [
     "Jonah Coleman would start 7 of 8 weeks for you",
-    "Jordyn Tyson starts only 2 of 8 weeks for you"
+    "Jordyn Tyson starts only 3 of 8 weeks for you"
    ],
-   "your_gain_per_week": 5.9
+   "your_gain_per_week": 5.7
   },
   {
    "get": [
@@ -1570,7 +1570,7 @@
    "likelihood": "Likely",
    "partner": "Glizzy Globbler ",
    "partner_roster_id": 2,
-   "summary": "Give Stefon Diggs, get Jonah Coleman from Glizzy Globbler : +4.4 pts/week for you, +1.4 for them.",
+   "summary": "Give Stefon Diggs, get Jonah Coleman from Glizzy Globbler : +4.7 pts/week for you, +1.4 for them.",
    "their_gain_per_week": 1.4,
    "value_ratio": 1.04,
    "why_them": [
@@ -1580,44 +1580,7 @@
     "Jonah Coleman would start 7 of 8 weeks for you",
     "Stefon Diggs starts 7 of 8 weeks for you"
    ],
-   "your_gain_per_week": 4.4
-  },
-  {
-   "get": [
-    {
-     "name": "Tony Pollard",
-     "pid": "5967",
-     "pos": "RB",
-     "ros_per_week": 11.8,
-     "status": null,
-     "team": "TEN"
-    }
-   ],
-   "give": [
-    {
-     "name": "Jordyn Tyson",
-     "pid": "13281",
-     "pos": "WR",
-     "ros_per_week": 10.6,
-     "status": null,
-     "team": "NO"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "I’m stuck Step Burrow",
-   "partner_roster_id": 8,
-   "summary": "Give Jordyn Tyson, get Tony Pollard from I’m stuck Step Burrow: +3.9 pts/week for you, -0.4 for them.",
-   "their_gain_per_week": -0.4,
-   "value_ratio": 1.12,
-   "why_them": [
-    "Jordyn Tyson would start 1 of 8 weeks for them",
-    "Tony Pollard only starts 2 of 8 weeks on their roster"
-   ],
-   "why_you": [
-    "Tony Pollard would start 8 of 8 weeks for you",
-    "Jordyn Tyson starts only 2 of 8 weeks for you"
-   ],
-   "your_gain_per_week": 3.9
+   "your_gain_per_week": 4.7
   },
   {
    "get": [
@@ -1643,7 +1606,7 @@
    "likelihood": "Likely",
    "partner": "Never Going Go Scottsdale",
    "partner_roster_id": 6,
-   "summary": "Give Mike Evans, get Saquon Barkley from Never Going Go Scottsdale: +2.2 pts/week for you, +0.6 for them.",
+   "summary": "Give Mike Evans, get Saquon Barkley from Never Going Go Scottsdale: +2.6 pts/week for you, +0.6 for them.",
    "their_gain_per_week": 0.6,
    "value_ratio": 0.97,
    "why_them": [
@@ -1653,17 +1616,17 @@
     "Saquon Barkley would start 7 of 8 weeks for you",
     "Mike Evans starts 7 of 8 weeks for you"
    ],
-   "your_gain_per_week": 2.2
+   "your_gain_per_week": 2.6
   },
   {
    "get": [
     {
-     "name": "Zach Charbonnet",
-     "pid": "9753",
+     "name": "Tony Pollard",
+     "pid": "5967",
      "pos": "RB",
-     "ros_per_week": 10.7,
+     "ros_per_week": 11.8,
      "status": null,
-     "team": "SEA"
+     "team": "TEN"
     }
    ],
    "give": [
@@ -1671,90 +1634,7 @@
      "name": "Jordyn Tyson",
      "pid": "13281",
      "pos": "WR",
-     "ros_per_week": 10.6,
-     "status": null,
-     "team": "NO"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "Gibbs me Nabers 😵‍💫",
-   "partner_roster_id": 4,
-   "summary": "Give Jordyn Tyson, get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.3 pts/week for you, -0.5 for them.",
-   "their_gain_per_week": -0.5,
-   "value_ratio": 1.01,
-   "why_them": [
-    "Jordyn Tyson would start 0 of 8 weeks for them",
-    "Zach Charbonnet only starts 1 of 8 weeks on their roster"
-   ],
-   "why_you": [
-    "Zach Charbonnet would start 7 of 8 weeks for you",
-    "Jordyn Tyson starts only 2 of 8 weeks for you"
-   ],
-   "your_gain_per_week": 3.3
-  },
-  {
-   "get": [
-    {
-     "name": "Brock Purdy",
-     "pid": "8183",
-     "pos": "QB",
-     "ros_per_week": 20.9,
-     "status": null,
-     "team": "SF"
-    }
-   ],
-   "give": [
-    {
-     "name": "Jared Goff",
-     "pid": "3163",
-     "pos": "QB",
-     "ros_per_week": 19.1,
-     "status": null,
-     "team": "DET"
-    },
-    {
-     "name": "Jordyn Tyson",
-     "pid": "13281",
-     "pos": "WR",
-     "ros_per_week": 10.6,
-     "status": null,
-     "team": "NO"
-    }
-   ],
-   "likelihood": "Likely",
-   "partner": "Never Going Go Scottsdale",
-   "partner_roster_id": 6,
-   "summary": "Give Jared Goff + Jordyn Tyson, get Brock Purdy from Never Going Go Scottsdale: +1.6 pts/week for you, +0.7 for them.",
-   "their_gain_per_week": 0.7,
-   "value_ratio": 0.7,
-   "why_them": [
-    "Jared Goff would start 8 of 8 weeks for them",
-    "Jordyn Tyson would start 8 of 8 weeks for them"
-   ],
-   "why_you": [
-    "Brock Purdy would start 8 of 8 weeks for you",
-    "Jared Goff starts 8 of 8 weeks for you",
-    "Jordyn Tyson starts only 2 of 8 weeks for you"
-   ],
-   "your_gain_per_week": 1.6
-  },
-  {
-   "get": [
-    {
-     "name": "Jordan Mason",
-     "pid": "8408",
-     "pos": "RB",
-     "ros_per_week": 10.8,
-     "status": null,
-     "team": "MIN"
-    }
-   ],
-   "give": [
-    {
-     "name": "Jordyn Tyson",
-     "pid": "13281",
-     "pos": "WR",
-     "ros_per_week": 10.6,
+     "ros_per_week": 11.0,
      "status": null,
      "team": "NO"
     }
@@ -1762,18 +1642,54 @@
    "likelihood": "Possible",
    "partner": "I’m stuck Step Burrow",
    "partner_roster_id": 8,
-   "summary": "Give Jordyn Tyson, get Jordan Mason from I’m stuck Step Burrow: +3.0 pts/week for you, -0.2 for them.",
-   "their_gain_per_week": -0.2,
-   "value_ratio": 1.02,
+   "summary": "Give Jordyn Tyson, get Tony Pollard from I’m stuck Step Burrow: +3.8 pts/week for you, -0.4 for them.",
+   "their_gain_per_week": -0.4,
+   "value_ratio": 1.07,
    "why_them": [
-    "Jordyn Tyson would start 0 of 8 weeks for them",
-    "Jordan Mason only starts 1 of 8 weeks on their roster"
+    "Jordyn Tyson would start 1 of 8 weeks for them",
+    "Tony Pollard only starts 2 of 8 weeks on their roster"
    ],
    "why_you": [
-    "Jordan Mason would start 8 of 8 weeks for you",
-    "Jordyn Tyson starts only 2 of 8 weeks for you"
+    "Tony Pollard would start 8 of 8 weeks for you",
+    "Jordyn Tyson starts only 3 of 8 weeks for you"
    ],
-   "your_gain_per_week": 3.0
+   "your_gain_per_week": 3.8
+  },
+  {
+   "get": [
+    {
+     "name": "Breece Hall",
+     "pid": "8155",
+     "pos": "RB",
+     "ros_per_week": 10.5,
+     "status": null,
+     "team": "NYJ"
+    }
+   ],
+   "give": [
+    {
+     "name": "Jordyn Tyson",
+     "pid": "13281",
+     "pos": "WR",
+     "ros_per_week": 11.0,
+     "status": null,
+     "team": "NO"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "Atticus Dean",
+   "partner_roster_id": 10,
+   "summary": "Give Jordyn Tyson, get Breece Hall from Atticus Dean: +3.6 pts/week for you, -0.5 for them.",
+   "their_gain_per_week": -0.5,
+   "value_ratio": 0.95,
+   "why_them": [
+    "Jordyn Tyson would start 4 of 8 weeks for them"
+   ],
+   "why_you": [
+    "Breece Hall would start 7 of 8 weeks for you",
+    "Jordyn Tyson starts only 3 of 8 weeks for you"
+   ],
+   "your_gain_per_week": 3.6
   },
   {
    "get": [
@@ -1799,7 +1715,7 @@
    "likelihood": "Likely",
    "partner": "Atticus Dean",
    "partner_roster_id": 10,
-   "summary": "Give DJ Moore, get Breece Hall from Atticus Dean: +1.4 pts/week for you, +1.0 for them.",
+   "summary": "Give DJ Moore, get Breece Hall from Atticus Dean: +1.7 pts/week for you, +1.0 for them.",
    "their_gain_per_week": 1.0,
    "value_ratio": 0.81,
    "why_them": [
@@ -1807,9 +1723,82 @@
    ],
    "why_you": [
     "Breece Hall would start 7 of 8 weeks for you",
-    "DJ Moore starts 8 of 8 weeks for you"
+    "DJ Moore starts 7 of 8 weeks for you"
    ],
-   "your_gain_per_week": 1.4
+   "your_gain_per_week": 1.7
+  },
+  {
+   "get": [
+    {
+     "name": "Zach Charbonnet",
+     "pid": "9753",
+     "pos": "RB",
+     "ros_per_week": 10.7,
+     "status": null,
+     "team": "SEA"
+    }
+   ],
+   "give": [
+    {
+     "name": "Jordyn Tyson",
+     "pid": "13281",
+     "pos": "WR",
+     "ros_per_week": 11.0,
+     "status": null,
+     "team": "NO"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "Gibbs me Nabers 😵‍💫",
+   "partner_roster_id": 4,
+   "summary": "Give Jordyn Tyson, get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.2 pts/week for you, -0.5 for them.",
+   "their_gain_per_week": -0.5,
+   "value_ratio": 0.97,
+   "why_them": [
+    "Jordyn Tyson would start 0 of 8 weeks for them",
+    "Zach Charbonnet only starts 1 of 8 weeks on their roster"
+   ],
+   "why_you": [
+    "Zach Charbonnet would start 7 of 8 weeks for you",
+    "Jordyn Tyson starts only 3 of 8 weeks for you"
+   ],
+   "your_gain_per_week": 3.2
+  },
+  {
+   "get": [
+    {
+     "name": "Ollie Gordon II",
+     "pid": "12495",
+     "pos": "RB",
+     "ros_per_week": 13.0,
+     "status": null,
+     "team": "MIA"
+    }
+   ],
+   "give": [
+    {
+     "name": "Mike Evans",
+     "pid": "2216",
+     "pos": "WR",
+     "ros_per_week": 13.3,
+     "status": "Out",
+     "team": "SF"
+    }
+   ],
+   "likelihood": "Likely",
+   "partner": "Bradsbaconisundercooked",
+   "partner_roster_id": 1,
+   "summary": "Give Mike Evans, get Ollie Gordon II from Bradsbaconisundercooked: +1.6 pts/week for you, +0.8 for them.",
+   "their_gain_per_week": 0.8,
+   "value_ratio": 0.98,
+   "why_them": [
+    "Mike Evans would start 7 of 8 weeks for them"
+   ],
+   "why_you": [
+    "Ollie Gordon II would start 8 of 8 weeks for you",
+    "Mike Evans starts 7 of 8 weeks for you"
+   ],
+   "your_gain_per_week": 1.6
   }
  ],
  "waivers": [
@@ -1957,7 +1946,7 @@
    "proj_by_week": {
     "10": 5.34,
     "11": 6.22,
-    "12": 5.39,
+    "12": 5.38,
     "13": 5.92
    },
    "status": null,

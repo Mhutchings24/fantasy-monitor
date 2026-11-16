@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-16T02:46:30Z UTC
+Week 10 · record 3-6 · updated 2026-11-16T02:51:34Z UTC
 
 ## Lineup check
 Current lineup projects **101.9**, best possible **101.9**.
@@ -36,7 +36,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 1 | 129.6 | 99% |
+| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 1 | 129.3 | 99% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 124.1 | 93% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 6 | 121.0 | 84% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 2 | 129.0 | 92% |
@@ -50,14 +50,14 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
-- **Likely** · Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +5.9 pts/week for you, +1.0 for them.
-- **Likely** · Give Stefon Diggs, get Jonah Coleman from Glizzy Globbler : +4.4 pts/week for you, +1.4 for them.
-- **Possible** · Give Jordyn Tyson, get Tony Pollard from I’m stuck Step Burrow: +3.9 pts/week for you, -0.4 for them.
-- **Likely** · Give Mike Evans, get Saquon Barkley from Never Going Go Scottsdale: +2.2 pts/week for you, +0.6 for them.
-- **Possible** · Give Jordyn Tyson, get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.3 pts/week for you, -0.5 for them.
-- **Likely** · Give Jared Goff + Jordyn Tyson, get Brock Purdy from Never Going Go Scottsdale: +1.6 pts/week for you, +0.7 for them.
-- **Possible** · Give Jordyn Tyson, get Jordan Mason from I’m stuck Step Burrow: +3.0 pts/week for you, -0.2 for them.
-- **Likely** · Give DJ Moore, get Breece Hall from Atticus Dean: +1.4 pts/week for you, +1.0 for them.
+- **Likely** · Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +5.7 pts/week for you, +1.0 for them.
+- **Likely** · Give Stefon Diggs, get Jonah Coleman from Glizzy Globbler : +4.7 pts/week for you, +1.4 for them.
+- **Likely** · Give Mike Evans, get Saquon Barkley from Never Going Go Scottsdale: +2.6 pts/week for you, +0.6 for them.
+- **Possible** · Give Jordyn Tyson, get Tony Pollard from I’m stuck Step Burrow: +3.8 pts/week for you, -0.4 for them.
+- **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +3.6 pts/week for you, -0.5 for them.
+- **Likely** · Give DJ Moore, get Breece Hall from Atticus Dean: +1.7 pts/week for you, +1.0 for them.
+- **Possible** · Give Jordyn Tyson, get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.2 pts/week for you, -0.5 for them.
+- **Likely** · Give Mike Evans, get Ollie Gordon II from Bradsbaconisundercooked: +1.6 pts/week for you, +0.8 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 10 | Wk 11 | Wk 12 | Wk 13 |
@@ -70,7 +70,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | George Kittle | TE | SF | starter |  | 15.3 | 13.0 | 14.2 | 15.1 |
 | DJ Moore | WR | BUF | starter |  | 12.0 | 13.2 | 12.0 | 13.1 |
 | Stefon Diggs | WR | WAS | starter |  | 10.2 | 13.1 | 13.3 | 13.1 |
-| Jordyn Tyson | WR | NO | starter |  | 9.1 | 10.8 | 11.2 | 10.5 |
+| Jordyn Tyson | WR | NO | starter |  | 9.1 | 10.8 | 12.0 | 11.2 |
 | Audric Estime | RB | NO | bench |  | 7.8 | 2.7 | 3.0 | 2.8 |
 | Corey Kiner | RB | NE | bench |  | 6.0 | 0.0 | 7.1 | 6.6 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 0.0 | 8.5 | 16.3 |
