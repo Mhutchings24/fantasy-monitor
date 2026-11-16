@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-16T18:49:59Z UTC
+Week 10 · record 3-6 · updated 2026-11-16T18:55:02Z UTC
 
 ## Lineup check
 Current lineup projects **101.9**, best possible **101.9**.
@@ -50,14 +50,14 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
-- **Likely** · Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +5.8 pts/week for you, +0.5 for them.
-- **Likely** · Give Stefon Diggs, get Jonah Coleman from Glizzy Globbler : +5.0 pts/week for you, +0.8 for them.
-- **Likely** · Give Mike Evans, get Saquon Barkley from Never Going Go Scottsdale: +2.8 pts/week for you, +0.5 for them.
+- **Likely** · Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +5.8 pts/week for you, +0.4 for them.
+- **Likely** · Give Stefon Diggs, get Jonah Coleman from Glizzy Globbler : +4.9 pts/week for you, +0.8 for them.
+- **Likely** · Give Mike Evans, get Saquon Barkley from Never Going Go Scottsdale: +2.8 pts/week for you, +0.4 for them.
 - **Likely** · Give Stefon Diggs, get Breece Hall from Atticus Dean: +2.5 pts/week for you, +0.5 for them.
-- **Possible** · Give Jordyn Tyson, get Tony Pollard from I’m stuck Step Burrow: +3.8 pts/week for you, -0.4 for them.
+- **Possible** · Give Jordyn Tyson, get Tony Pollard from I’m stuck Step Burrow: +3.9 pts/week for you, -0.4 for them.
 - **Likely** · Give Jordyn Tyson, get David Montgomery from Monangynecologist: +2.2 pts/week for you, +0.4 for them.
-- **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +3.3 pts/week for you, -0.2 for them.
-- **Possible** · Give Mike Evans + Rico Dowdle, get Jaylen Warren from Monangynecologist: +3.2 pts/week for you, -0.3 for them.
+- **Possible** · Give Mike Evans, get Jaylen Warren from Monangynecologist: +3.6 pts/week for you, -0.4 for them.
+- **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +3.4 pts/week for you, -0.3 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 10 | Wk 11 | Wk 12 | Wk 13 |

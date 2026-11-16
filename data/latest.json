@@ -1,5 +1,5 @@
 {
- "content_hash": "3daed70d2002d7c6d1b3c908b01ba6422d121da8",
+ "content_hash": "cea42ecc1e8b9e87014c41f2d4c0f88831b1d0a2",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -844,7 +844,7 @@
    "team": "WAS"
   }
  ],
- "generated_at": "2026-11-16T18:49:59Z",
+ "generated_at": "2026-11-16T18:55:02Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1552,8 +1552,8 @@
    "likelihood": "Likely",
    "partner": "Glizzy Globbler ",
    "partner_roster_id": 2,
-   "summary": "Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +5.8 pts/week for you, +0.5 for them.",
-   "their_gain_per_week": 0.5,
+   "summary": "Give Jordyn Tyson, get Jonah Coleman from Glizzy Globbler : +5.8 pts/week for you, +0.4 for them.",
+   "their_gain_per_week": 0.4,
    "value_ratio": 1.14,
    "why_them": [
     "Jordyn Tyson would start 2 of 8 weeks for them"
@@ -1588,9 +1588,9 @@
    "likelihood": "Likely",
    "partner": "Glizzy Globbler ",
    "partner_roster_id": 2,
-   "summary": "Give Stefon Diggs, get Jonah Coleman from Glizzy Globbler : +5.0 pts/week for you, +0.8 for them.",
+   "summary": "Give Stefon Diggs, get Jonah Coleman from Glizzy Globbler : +4.9 pts/week for you, +0.8 for them.",
    "their_gain_per_week": 0.8,
-   "value_ratio": 1.06,
+   "value_ratio": 1.05,
    "why_them": [
     "Stefon Diggs would start 3 of 8 weeks for them"
    ],
@@ -1598,7 +1598,7 @@
     "Jonah Coleman would start 7 of 8 weeks for you",
     "Stefon Diggs starts 7 of 8 weeks for you"
    ],
-   "your_gain_per_week": 5.0
+   "your_gain_per_week": 4.9
   },
   {
    "get": [
@@ -1606,7 +1606,7 @@
      "name": "Saquon Barkley",
      "pid": "4866",
      "pos": "RB",
-     "ros_per_week": 13.0,
+     "ros_per_week": 13.1,
      "status": null,
      "team": "PHI"
     }
@@ -1624,9 +1624,9 @@
    "likelihood": "Likely",
    "partner": "Never Going Go Scottsdale",
    "partner_roster_id": 6,
-   "summary": "Give Mike Evans, get Saquon Barkley from Never Going Go Scottsdale: +2.8 pts/week for you, +0.5 for them.",
-   "their_gain_per_week": 0.5,
-   "value_ratio": 0.97,
+   "summary": "Give Mike Evans, get Saquon Barkley from Never Going Go Scottsdale: +2.8 pts/week for you, +0.4 for them.",
+   "their_gain_per_week": 0.4,
+   "value_ratio": 0.98,
    "why_them": [
     "Mike Evans would start 7 of 8 weeks for them"
    ],
@@ -1642,7 +1642,7 @@
      "name": "Breece Hall",
      "pid": "8155",
      "pos": "RB",
-     "ros_per_week": 10.4,
+     "ros_per_week": 10.5,
      "status": null,
      "team": "NYJ"
     }
@@ -1678,7 +1678,7 @@
      "name": "Tony Pollard",
      "pid": "5967",
      "pos": "RB",
-     "ros_per_week": 12.0,
+     "ros_per_week": 12.1,
      "status": null,
      "team": "TEN"
     }
@@ -1696,18 +1696,18 @@
    "likelihood": "Possible",
    "partner": "I’m stuck Step Burrow",
    "partner_roster_id": 8,
-   "summary": "Give Jordyn Tyson, get Tony Pollard from I’m stuck Step Burrow: +3.8 pts/week for you, -0.4 for them.",
+   "summary": "Give Jordyn Tyson, get Tony Pollard from I’m stuck Step Burrow: +3.9 pts/week for you, -0.4 for them.",
    "their_gain_per_week": -0.4,
    "value_ratio": 1.06,
    "why_them": [
     "Jordyn Tyson would start 1 of 8 weeks for them",
-    "Tony Pollard only starts 2 of 8 weeks on their roster"
+    "Tony Pollard only starts 3 of 8 weeks on their roster"
    ],
    "why_you": [
     "Tony Pollard would start 8 of 8 weeks for you",
     "Jordyn Tyson starts only 2 of 8 weeks for you"
    ],
-   "your_gain_per_week": 3.8
+   "your_gain_per_week": 3.9
   },
   {
    "get": [
@@ -1749,10 +1749,46 @@
   {
    "get": [
     {
+     "name": "Jaylen Warren",
+     "pid": "8228",
+     "pos": "RB",
+     "ros_per_week": 15.0,
+     "status": null,
+     "team": "PIT"
+    }
+   ],
+   "give": [
+    {
+     "name": "Mike Evans",
+     "pid": "2216",
+     "pos": "WR",
+     "ros_per_week": 13.4,
+     "status": "Out",
+     "team": "SF"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "Monangynecologist",
+   "partner_roster_id": 5,
+   "summary": "Give Mike Evans, get Jaylen Warren from Monangynecologist: +3.6 pts/week for you, -0.4 for them.",
+   "their_gain_per_week": -0.4,
+   "value_ratio": 1.12,
+   "why_them": [
+    "Mike Evans would start 7 of 8 weeks for them"
+   ],
+   "why_you": [
+    "Jaylen Warren would start 8 of 8 weeks for you",
+    "Mike Evans starts 7 of 8 weeks for you"
+   ],
+   "your_gain_per_week": 3.6
+  },
+  {
+   "get": [
+    {
      "name": "Breece Hall",
      "pid": "8155",
      "pos": "RB",
-     "ros_per_week": 10.4,
+     "ros_per_week": 10.5,
      "status": null,
      "team": "NYJ"
     }
@@ -1770,9 +1806,9 @@
    "likelihood": "Possible",
    "partner": "Atticus Dean",
    "partner_roster_id": 10,
-   "summary": "Give Jordyn Tyson, get Breece Hall from Atticus Dean: +3.3 pts/week for you, -0.2 for them.",
-   "their_gain_per_week": -0.2,
-   "value_ratio": 0.91,
+   "summary": "Give Jordyn Tyson, get Breece Hall from Atticus Dean: +3.4 pts/week for you, -0.3 for them.",
+   "their_gain_per_week": -0.3,
+   "value_ratio": 0.92,
    "why_them": [
     "Jordyn Tyson would start 7 of 8 weeks for them"
    ],
@@ -1780,53 +1816,7 @@
     "Breece Hall would start 7 of 8 weeks for you",
     "Jordyn Tyson starts only 2 of 8 weeks for you"
    ],
-   "your_gain_per_week": 3.3
-  },
-  {
-   "get": [
-    {
-     "name": "Jaylen Warren",
-     "pid": "8228",
-     "pos": "RB",
-     "ros_per_week": 15.0,
-     "status": null,
-     "team": "PIT"
-    }
-   ],
-   "give": [
-    {
-     "name": "Mike Evans",
-     "pid": "2216",
-     "pos": "WR",
-     "ros_per_week": 13.4,
-     "status": "Out",
-     "team": "SF"
-    },
-    {
-     "name": "Rico Dowdle",
-     "pid": "7021",
-     "pos": "RB",
-     "ros_per_week": 8.5,
-     "status": null,
-     "team": "PIT"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "Monangynecologist",
-   "partner_roster_id": 5,
-   "summary": "Give Mike Evans + Rico Dowdle, get Jaylen Warren from Monangynecologist: +3.2 pts/week for you, -0.3 for them.",
-   "their_gain_per_week": -0.3,
-   "value_ratio": 0.69,
-   "why_them": [
-    "Mike Evans would start 7 of 8 weeks for them",
-    "Rico Dowdle would start 1 of 8 weeks for them"
-   ],
-   "why_you": [
-    "Jaylen Warren would start 8 of 8 weeks for you",
-    "Mike Evans starts 7 of 8 weeks for you",
-    "Rico Dowdle starts 8 of 8 weeks for you"
-   ],
-   "your_gain_per_week": 3.2
+   "your_gain_per_week": 3.4
   }
  ],
  "waivers": [
