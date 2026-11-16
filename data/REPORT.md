@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-16T00:46:29Z UTC
+Week 10 · record 3-6 · updated 2026-11-16T00:51:34Z UTC
 
 ## Lineup check
 Current lineup projects **102.0**, best possible **102.0**.
@@ -13,18 +13,18 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Aaron Jones Sr. | RB | MIN | Audric Estime | +10.3 | +0.2 | 0 |
-| Zonovan Knight | RB | ARI | Audric Estime | +6.5 | +0.0 | 65,856 |
-| Kimani Vidal | RB | LAC | Audric Estime | +4.6 | +0.0 | 0 |
-| Tyjae Spears | RB | TEN | Audric Estime | +4.3 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +4.2 | +0.0 | 413,109 |
-| Samaje Perine | RB | CIN | Audric Estime | +3.9 | +0.0 | 0 |
-| Keaton Mitchell | RB | LAC | Audric Estime | +3.9 | +0.0 | 0 |
-| Ty Johnson | RB | BUF | Audric Estime | +3.3 | +0.0 | 0 |
-| Seth McGowan | RB | IND | Audric Estime | +3.2 | +0.0 | 119,280 |
-| Alvin Kamara | RB | NO | Audric Estime | +2.9 | +0.0 | 0 |
+| Aaron Jones Sr. | RB | MIN | Audric Estime | +10.6 | +0.2 | 0 |
+| Zonovan Knight | RB | ARI | Audric Estime | +6.3 | +0.0 | 65,856 |
+| Kimani Vidal | RB | LAC | Audric Estime | +4.8 | +0.0 | 0 |
+| Tyjae Spears | RB | TEN | Audric Estime | +4.6 | +0.0 | 0 |
+| Justice Hill | RB | BAL | Audric Estime | +4.4 | +0.0 | 413,109 |
+| Samaje Perine | RB | CIN | Audric Estime | +4.1 | +0.0 | 0 |
+| Keaton Mitchell | RB | LAC | Audric Estime | +4.1 | +0.0 | 0 |
+| Ty Johnson | RB | BUF | Audric Estime | +3.5 | +0.0 | 0 |
+| Seth McGowan | RB | IND | Audric Estime | +3.4 | +0.0 | 119,280 |
+| Alvin Kamara | RB | NO | Audric Estime | +2.8 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.7 | +0.0 | 41,595 |
-| Bo Nix | QB | DEN | Corey Kiner | +1.4 | +0.0 | 0 |
+| Bo Nix | QB | DEN | Corey Kiner | +1.5 | +0.0 | 0 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.6 pts this week)
 
@@ -36,15 +36,15 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 1 | 129.5 | 99% |
-| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 124.0 | 93% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 6 | 121.2 | 85% |
-| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 2 | 128.6 | 91% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 5 | 121.7 | 70% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 3 | 128.0 | 66% |
-| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 114.6 | 31% |
-| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 118.9 | 53% |
-| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 8 | 114.7 | 11% |
+| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 1 | 129.4 | 99% |
+| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 124.1 | 93% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 6 | 121.1 | 84% |
+| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 2 | 128.9 | 92% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 5 | 122.1 | 70% |
+| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 3 | 127.8 | 65% |
+| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 114.9 | 32% |
+| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 119.0 | 52% |
+| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 8 | 114.9 | 11% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 100.4 | 1% |
 
 ## Trade ideas
@@ -55,26 +55,26 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Possible** · Give Jordyn Tyson, get Tony Pollard from I’m stuck Step Burrow: +3.9 pts/week for you, -0.4 for them.
 - **Likely** · Give Mike Evans, get Saquon Barkley from Never Going Go Scottsdale: +2.2 pts/week for you, +0.6 for them.
 - **Possible** · Give Jordyn Tyson, get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +3.3 pts/week for you, -0.5 for them.
-- **Likely** · Give Jared Goff + Jordyn Tyson, get Brock Purdy from Never Going Go Scottsdale: +1.6 pts/week for you, +0.8 for them.
-- **Likely** · Give DJ Moore, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +1.0 for them.
-- **Possible** · Give Jordyn Tyson, get Jordan Mason from I’m stuck Step Burrow: +2.9 pts/week for you, -0.2 for them.
+- **Likely** · Give Jared Goff + Jordyn Tyson, get Brock Purdy from Never Going Go Scottsdale: +1.6 pts/week for you, +0.7 for them.
+- **Possible** · Give Jordyn Tyson, get Jordan Mason from I’m stuck Step Burrow: +3.0 pts/week for you, -0.2 for them.
+- **Likely** · Give DJ Moore, get Breece Hall from Atticus Dean: +1.4 pts/week for you, +1.0 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 10 | Wk 11 | Wk 12 | Wk 13 |
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter |  | 8.7 | 0.0 | 5.9 | 6.1 |
-| Matt Gay | K | LV | starter |  | 8.0 | 7.6 | 8.5 | 0.0 |
+| Matt Gay | K | LV | starter |  | 8.0 | 7.5 | 8.5 | 0.0 |
 | Jared Goff | QB | DET | starter |  | 18.7 | 17.2 | 21.2 | 18.3 |
 | Rico Dowdle | RB | PIT | starter |  | 10.0 | 8.4 | 7.8 | 8.2 |
 | Quinshon Judkins | RB | CLE | starter |  | 9.9 | 0.0 | 11.9 | 11.8 |
-| George Kittle | TE | SF | starter |  | 15.3 | 12.8 | 14.2 | 15.1 |
+| George Kittle | TE | SF | starter |  | 15.3 | 13.0 | 14.2 | 15.1 |
 | DJ Moore | WR | BUF | starter |  | 12.0 | 13.2 | 12.0 | 13.1 |
 | Stefon Diggs | WR | WAS | starter |  | 10.2 | 13.1 | 13.3 | 13.1 |
-| Jordyn Tyson | WR | NO | starter |  | 9.1 | 10.9 | 11.2 | 10.5 |
-| Audric Estime | RB | NO | bench |  | 7.8 | 2.9 | 3.0 | 2.8 |
+| Jordyn Tyson | WR | NO | starter |  | 9.1 | 10.8 | 11.2 | 10.5 |
+| Audric Estime | RB | NO | bench |  | 7.8 | 2.7 | 3.0 | 2.8 |
 | Corey Kiner | RB | NE | bench |  | 6.0 | 0.0 | 7.1 | 6.6 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 0.0 | 8.5 | 16.3 |
 | Keenan Allen | WR | SF | bench |  | 7.0 | 5.7 | 6.1 | 6.6 |
-| Omar Cooper Jr. | WR | NYJ | bench | Out | 0.0 | 10.3 | 11.2 | 0.0 |
+| Omar Cooper Jr. | WR | NYJ | bench | Out | 0.0 | 9.9 | 11.2 | 0.0 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
-| Mike Evans | WR | SF | bench | Out | 0.0 | 13.2 | 15.0 | 15.9 |
+| Mike Evans | WR | SF | bench | Out | 0.0 | 13.3 | 15.0 | 15.9 |
