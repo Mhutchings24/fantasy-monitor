@@ -1,5 +1,5 @@
 {
- "content_hash": "19d89771a25767954090687ee9493a1364390951",
+ "content_hash": "dd46219db1c5836a9e20dd2a4f415b929da65dc4",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -160,15 +160,6 @@
    "team": "JAX"
   },
   {
-   "adds_24h": 0,
-   "name": "Chig Okonkwo",
-   "pos": "TE",
-   "proj_4wk": 38.5,
-   "proj_this_week": 7.38,
-   "status": "Questionable",
-   "team": "WAS"
-  },
-  {
    "adds_24h": 29408,
    "name": "Malik Washington",
    "pos": "WR",
@@ -176,6 +167,15 @@
    "proj_this_week": 9.42,
    "status": null,
    "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chig Okonkwo",
+   "pos": "TE",
+   "proj_4wk": 38.5,
+   "proj_this_week": 7.38,
+   "status": "Questionable",
+   "team": "WAS"
   },
   {
    "adds_24h": 60424,
@@ -503,21 +503,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Xavier Worthy",
-   "pos": "WR",
-   "proj_4wk": 26.5,
-   "proj_this_week": 8.28,
-   "status": null,
-   "team": "KC"
-  },
-  {
-   "adds_24h": 0,
    "name": "SF D/ST",
    "pos": "DEF",
    "proj_4wk": 26.5,
    "proj_this_week": 6.16,
    "status": null,
    "team": "SF"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Xavier Worthy",
+   "pos": "WR",
+   "proj_4wk": 26.5,
+   "proj_this_week": 8.28,
+   "status": null,
+   "team": "KC"
   },
   {
    "adds_24h": 0,
@@ -844,7 +844,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-16T23:51:54Z",
+ "generated_at": "2026-11-16T23:56:01Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
