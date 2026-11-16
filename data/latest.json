@@ -1,5 +1,5 @@
 {
- "content_hash": "13bcf85aea14a232e8388b630027fbf81eee664f",
+ "content_hash": "73408517c307b7f44830bbc61e0c9a96af5a84af",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -502,15 +502,6 @@
    "team": "ARI"
   },
   {
-   "adds_24h": 42625,
-   "name": "Dylan Sampson",
-   "pos": "RB",
-   "proj_4wk": 26.6,
-   "proj_this_week": 7.88,
-   "status": null,
-   "team": "CLE"
-  },
-  {
    "adds_24h": 0,
    "name": "CIN D/ST",
    "pos": "DEF",
@@ -518,6 +509,15 @@
    "proj_this_week": 6.31,
    "status": null,
    "team": "CIN"
+  },
+  {
+   "adds_24h": 42625,
+   "name": "Dylan Sampson",
+   "pos": "RB",
+   "proj_4wk": 26.6,
+   "proj_this_week": 7.88,
+   "status": null,
+   "team": "CLE"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "LV"
   }
  ],
- "generated_at": "2026-11-16T00:16:07Z",
+ "generated_at": "2026-11-16T00:21:11Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
