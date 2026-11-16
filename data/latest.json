@@ -1,5 +1,5 @@
 {
- "content_hash": "c746c5803b0b40139774866f7ce24c2bec43b42d",
+ "content_hash": "cc55ac1a21018369394dba2375a1449ff12bf3e9",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -118,7 +118,7 @@
    "adds_24h": 0,
    "name": "Khalil Shakir",
    "pos": "WR",
-   "proj_4wk": 40.2,
+   "proj_4wk": 40.1,
    "proj_this_week": 10.02,
    "status": null,
    "team": "BUF"
@@ -494,15 +494,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Xavier Worthy",
-   "pos": "WR",
-   "proj_4wk": 26.5,
-   "proj_this_week": 8.28,
-   "status": null,
-   "team": "KC"
-  },
-  {
-   "adds_24h": 0,
    "name": "Elijah Higgins",
    "pos": "TE",
    "proj_4wk": 26.5,
@@ -518,6 +509,15 @@
    "proj_this_week": 6.16,
    "status": null,
    "team": "SF"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Xavier Worthy",
+   "pos": "WR",
+   "proj_4wk": 26.5,
+   "proj_this_week": 8.28,
+   "status": null,
+   "team": "KC"
   },
   {
    "adds_24h": 0,
@@ -692,21 +692,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Ty Johnson",
-   "pos": "RB",
-   "proj_4wk": 23.0,
-   "proj_this_week": 5.34,
-   "status": null,
-   "team": "BUF"
-  },
-  {
-   "adds_24h": 0,
    "name": "DAL D/ST",
    "pos": "DEF",
    "proj_4wk": 22.9,
    "proj_this_week": 4.19,
    "status": null,
    "team": "DAL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Ty Johnson",
+   "pos": "RB",
+   "proj_4wk": 22.9,
+   "proj_this_week": 5.34,
+   "status": null,
+   "team": "BUF"
   },
   {
    "adds_24h": 29420,
@@ -844,7 +844,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-16T22:44:46Z",
+ "generated_at": "2026-11-16T22:49:50Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1047,7 +1047,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.541,
+    "first_seed_odds": 0.542,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1058,7 +1058,7 @@
     "proj_by_week": {
      "10": 133.15,
      "11": 125.08,
-     "12": 134.66,
+     "12": 134.69,
      "13": 122.87
     },
     "rank": 1,
@@ -1068,7 +1068,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.254,
+    "first_seed_odds": 0.253,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
@@ -1079,7 +1079,7 @@
     "proj_by_week": {
      "10": 125.81,
      "11": 120.0,
-     "12": 126.23,
+     "12": 126.06,
      "13": 126.8
     },
     "rank": 2,
@@ -1096,11 +1096,11 @@
     "pf": 1250.38,
     "playoff_odds": 0.815,
     "power_rank": 7,
-    "proj_avg": 118.4,
+    "proj_avg": 118.5,
     "proj_by_week": {
      "10": 114.11,
      "11": 101.27,
-     "12": 139.04,
+     "12": 139.16,
      "13": 119.33
     },
     "rank": 3,
@@ -1136,7 +1136,7 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.691,
+    "playoff_odds": 0.69,
     "power_rank": 5,
     "proj_avg": 121.7,
     "proj_by_week": {
@@ -1178,7 +1178,7 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.338,
+    "playoff_odds": 0.337,
     "power_rank": 8,
     "proj_avg": 115.8,
     "proj_by_week": {
@@ -1247,7 +1247,7 @@
     "proj_by_week": {
      "10": 101.91,
      "11": 90.31,
-     "12": 110.41,
+     "12": 110.28,
      "13": 102.91
     },
     "rank": 10,
@@ -1358,7 +1358,7 @@
    "proj_by_week": {
     "10": 12.04,
     "11": 13.53,
-    "12": 12.45,
+    "12": 12.32,
     "13": 13.74
    },
    "slot": "starter",
@@ -2021,7 +2021,7 @@
    "proj_by_week": {
     "10": 5.34,
     "11": 6.14,
-    "12": 5.47,
+    "12": 5.37,
     "13": 6.05
    },
    "status": null,
