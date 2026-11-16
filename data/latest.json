@@ -1,5 +1,5 @@
 {
- "content_hash": "5fbd86f4ffbb98068398e854e229e38830408d2b",
+ "content_hash": "3d6b09e8bcfb50a42045e13f201df856e088fba5",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -484,15 +484,6 @@
    "team": "CIN"
   },
   {
-   "adds_24h": 86008,
-   "name": "Pat Bryant",
-   "pos": "WR",
-   "proj_4wk": 26.5,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "DEN"
-  },
-  {
    "adds_24h": 0,
    "name": "Xavier Worthy",
    "pos": "WR",
@@ -500,6 +491,15 @@
    "proj_this_week": 8.28,
    "status": null,
    "team": "KC"
+  },
+  {
+   "adds_24h": 86008,
+   "name": "Pat Bryant",
+   "pos": "WR",
+   "proj_4wk": 26.5,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "DEN"
   },
   {
    "adds_24h": 0,
@@ -844,7 +844,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-16T22:24:28Z",
+ "generated_at": "2026-11-16T22:29:32Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
