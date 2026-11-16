@@ -1,5 +1,5 @@
 {
- "content_hash": "c735bdace43a481b64ad08395b64c03a74036da2",
+ "content_hash": "93fcf6d80b1bc6374bd572eae87bd296d5479526",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -250,15 +250,6 @@
    "team": "NYG"
   },
   {
-   "adds_24h": 93812,
-   "name": "Elic Ayomanor",
-   "pos": "WR",
-   "proj_4wk": 33.1,
-   "proj_this_week": 9.01,
-   "status": null,
-   "team": "TEN"
-  },
-  {
    "adds_24h": 59394,
    "name": "Zonovan Knight",
    "pos": "RB",
@@ -266,6 +257,15 @@
    "proj_this_week": 8.33,
    "status": null,
    "team": "ARI"
+  },
+  {
+   "adds_24h": 93812,
+   "name": "Elic Ayomanor",
+   "pos": "WR",
+   "proj_4wk": 33.1,
+   "proj_this_week": 9.01,
+   "status": null,
+   "team": "TEN"
   },
   {
    "adds_24h": 0,
@@ -835,7 +835,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-16T03:57:27Z",
+ "generated_at": "2026-11-16T04:02:31Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
