@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 10
+- [Mon Nov 16 · AM](2026/week-10/2026-11-16-am.md) — Week 10 done for you (~131–141 est.; Dowdle quiet). Tue claims: Aaron Jones $5–8 (drop Estime), BUF D/ST $1 (drop Kiner), Boswell $0–1 (drop Gay); Cooper ~15% Wk 11; send Tyson for Coleman today.
 - [Sun Nov 15 · PM](2026/week-10/2026-11-15-pm.md) — Dowdle active for SNF, nothing left to set (~128–134 pts before him). Tue claims: Aaron Jones $5–8 (drop Estime), BUF D/ST $1 (drop Kiner), Boswell $0–1 (drop Gay); Cooper ~25% Wk 11; send Tyson for Coleman.
 - [Sun Nov 15 · Flash 21:06](2026/week-10/2026-11-15-flash-2106.md) — Cooper (bench) ruled out for the rest of Week 10 with another ankle injury; no lineup change needed. Check his Week 11/IR status before waivers.
 - [Sun Nov 15 · Game day 12:55](2026/week-10/2026-11-15-gameday-1255.md) — No changes needed for the late games: Kittle, LAR D/ST, Gay, Dowdle all untagged. Optional: Boswell for Gay ($0) before 2:05 PM MT. Dowdle pivot (if inactive ~4:50 PM MT): Justice Hill (MNF).
