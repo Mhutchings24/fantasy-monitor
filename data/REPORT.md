@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-16T09:52:15Z UTC
+Week 10 · record 3-6 · updated 2026-11-16T09:57:19Z UTC
 
 ## Lineup check
 Current lineup projects **101.9**, best possible **101.9**.
@@ -14,7 +14,7 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +8.4 | +0.2 | 0 |
-| Zonovan Knight | RB | ARI | Audric Estime | +3.8 | +0.0 | 50,712 |
+| Zonovan Knight | RB | ARI | Audric Estime | +3.9 | +0.0 | 50,712 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.6 | +0.0 | 33,975 |
 | Kimani Vidal | RB | LAC | Audric Estime | +2.6 | +0.0 | 0 |
 | Tyjae Spears | RB | TEN | Audric Estime | +2.4 | +0.0 | 0 |
@@ -38,7 +38,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 1 | 129.0 | 99% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 124.1 | 93% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 6 | 120.6 | 84% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 6 | 120.5 | 84% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 2 | 128.9 | 92% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 5 | 122.1 | 70% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 3 | 127.9 | 65% |

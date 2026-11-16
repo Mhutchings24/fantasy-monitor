@@ -1,5 +1,5 @@
 {
- "content_hash": "aa5f0d83899e11ac619d79e31346a2bfaede1f1e",
+ "content_hash": "5fc4b05bb999597b09fc3e8a555e85023ca3c249",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -55,7 +55,7 @@
    "adds_24h": 0,
    "name": "Carson Beck",
    "pos": "QB",
-   "proj_4wk": 51.0,
+   "proj_4wk": 51.2,
    "proj_this_week": 11.0,
    "status": null,
    "team": "ARI"
@@ -262,7 +262,7 @@
    "adds_24h": 50712,
    "name": "Zonovan Knight",
    "pos": "RB",
-   "proj_4wk": 33.1,
+   "proj_4wk": 33.2,
    "proj_this_week": 8.33,
    "status": null,
    "team": "ARI"
@@ -433,7 +433,7 @@
    "adds_24h": 0,
    "name": "Harrison Butker",
    "pos": "K",
-   "proj_4wk": 28.2,
+   "proj_4wk": 28.1,
    "proj_this_week": 7.05,
    "status": null,
    "team": "KC"
@@ -493,6 +493,15 @@
    "team": "CIN"
   },
   {
+   "adds_24h": 0,
+   "name": "Elijah Higgins",
+   "pos": "TE",
+   "proj_4wk": 26.6,
+   "proj_this_week": 6.16,
+   "status": null,
+   "team": "ARI"
+  },
+  {
    "adds_24h": 33975,
    "name": "Dylan Sampson",
    "pos": "RB",
@@ -500,15 +509,6 @@
    "proj_this_week": 7.88,
    "status": null,
    "team": "CLE"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Elijah Higgins",
-   "pos": "TE",
-   "proj_4wk": 26.5,
-   "proj_this_week": 6.16,
-   "status": null,
-   "team": "ARI"
   },
   {
    "adds_24h": 0,
@@ -835,7 +835,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-16T09:52:15Z",
+ "generated_at": "2026-11-16T09:57:19Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1048,7 +1048,7 @@
     "proj_avg": 129.0,
     "proj_by_week": {
      "10": 133.15,
-     "11": 123.78,
+     "11": 123.81,
      "12": 135.7,
      "13": 123.21
     },
@@ -1069,7 +1069,7 @@
     "proj_avg": 124.1,
     "proj_by_week": {
      "10": 125.81,
-     "11": 118.77,
+     "11": 118.79,
      "12": 125.36,
      "13": 126.48
     },
@@ -1085,12 +1085,12 @@
     "mine": false,
     "pa": 1235.52,
     "pf": 1250.38,
-    "playoff_odds": 0.839,
+    "playoff_odds": 0.838,
     "power_rank": 6,
-    "proj_avg": 120.6,
+    "proj_avg": 120.5,
     "proj_by_week": {
      "10": 114.11,
-     "11": 109.61,
+     "11": 109.49,
      "12": 138.85,
      "13": 119.71
     },
@@ -1153,7 +1153,7 @@
     "proj_avg": 127.9,
     "proj_by_week": {
      "10": 112.06,
-     "11": 121.04,
+     "11": 121.19,
      "12": 141.57,
      "13": 136.97
     },
@@ -1190,7 +1190,7 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.523,
+    "playoff_odds": 0.522,
     "power_rank": 7,
     "proj_avg": 119.0,
     "proj_by_week": {
@@ -1211,7 +1211,7 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.117,
+    "playoff_odds": 0.118,
     "power_rank": 8,
     "proj_avg": 115.1,
     "proj_by_week": {
@@ -1844,13 +1844,13 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
-   "gain_window": 3.79,
+   "gain_window": 3.87,
    "name": "Zonovan Knight",
    "pid": "8122",
    "pos": "RB",
    "proj_by_week": {
     "10": 8.33,
-    "11": 6.87,
+    "11": 6.95,
     "12": 9.22,
     "13": 8.68
    },
