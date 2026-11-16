@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-16T13:50:00Z UTC
+Week 10 · record 3-6 · updated 2026-11-16T13:55:05Z UTC
 
 ## Lineup check
 Current lineup projects **101.9**, best possible **101.9**.
@@ -36,11 +36,11 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 1 | 129.0 | 99% |
+| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.0 | 99% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 124.1 | 93% |
 | 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 6 | 120.6 | 84% |
-| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 2 | 128.9 | 92% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 5 | 122.1 | 70% |
+| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 1 | 129.0 | 92% |
+| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 5 | 122.2 | 70% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 3 | 127.9 | 65% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 114.9 | 32% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 7 | 119.0 | 52% |
