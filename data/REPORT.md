@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-17T03:45:36Z UTC
+Week 10 · record 3-6 · updated 2026-11-17T03:55:44Z UTC
 
 ## Lineup check
 Current lineup projects **101.9**, best possible **101.9**.
@@ -18,13 +18,13 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Tyjae Spears | RB | TEN | Audric Estime | +2.8 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +2.7 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +2.5 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +2.4 | +0.0 | 146,358 |
+| Justice Hill | RB | BAL | Audric Estime | +2.4 | +0.0 | 147,519 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.2 | +0.0 | 0 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +1.8 | +0.0 | 0 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +0.0 | 40,240 |
-| Seth McGowan | RB | IND | Audric Estime | +1.5 | +0.0 | 211,880 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +0.0 | 40,560 |
+| Seth McGowan | RB | IND | Audric Estime | +1.5 | +0.0 | 214,720 |
 | Ty Johnson | RB | BUF | Audric Estime | +1.4 | +0.0 | 0 |
-| Bo Nix | QB | DEN | Corey Kiner | +1.3 | +0.0 | 36,306 |
+| Bo Nix | QB | DEN | Corey Kiner | +1.3 | +0.0 | 36,792 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.6 pts this week)
 
@@ -38,7 +38,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 2 | 129.2 | 99% |
 | 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 124.6 | 94% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 7 | 118.6 | 83% |
+| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 7 | 118.7 | 83% |
 | 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 3 | 128.8 | 91% |
 | 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 5 | 118.9 | 62% |
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 133.2 | 77% |
