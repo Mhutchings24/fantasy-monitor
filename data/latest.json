@@ -1,5 +1,5 @@
 {
- "content_hash": "28a3a36577f23f853554e21306785b9784bcb744",
+ "content_hash": "8eb91207c2a45a61cc3170e3b91b627452a0329f",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -124,15 +124,6 @@
    "team": "LV"
   },
   {
-   "adds_24h": 56568,
-   "name": "Malik Washington",
-   "pos": "WR",
-   "proj_4wk": 39.9,
-   "proj_this_week": 8.94,
-   "status": null,
-   "team": "MIA"
-  },
-  {
    "adds_24h": 0,
    "name": "Aaron Jones Sr.",
    "pos": "RB",
@@ -140,6 +131,15 @@
    "proj_this_week": 8.85,
    "status": null,
    "team": "MIN"
+  },
+  {
+   "adds_24h": 56568,
+   "name": "Malik Washington",
+   "pos": "WR",
+   "proj_4wk": 39.9,
+   "proj_this_week": 8.94,
+   "status": null,
+   "team": "MIA"
   },
   {
    "adds_24h": 125256,
@@ -557,21 +557,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Darnell Washington",
-   "pos": "TE",
-   "proj_4wk": 27.0,
-   "proj_this_week": 6.9,
-   "status": null,
-   "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
    "name": "Keaton Mitchell",
    "pos": "RB",
    "proj_4wk": 27.0,
    "proj_this_week": 6.69,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "proj_4wk": 27.0,
+   "proj_this_week": 6.9,
+   "status": null,
+   "team": "PIT"
   },
   {
    "adds_24h": 300411,
@@ -826,7 +826,7 @@
    "team": "CIN"
   }
  ],
- "generated_at": "2026-11-17T15:45:28Z",
+ "generated_at": "2026-11-17T15:52:03Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
