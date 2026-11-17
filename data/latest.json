@@ -1,5 +1,5 @@
 {
- "content_hash": "7ea7ee13ea53b64f9b0f7de18f8393d10c095887",
+ "content_hash": "da771137f03c7d7238685ab88aa7877576379c98",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -124,15 +124,6 @@
    "team": "LV"
   },
   {
-   "adds_24h": 31672,
-   "name": "Malik Washington",
-   "pos": "WR",
-   "proj_4wk": 39.9,
-   "proj_this_week": 8.93,
-   "status": null,
-   "team": "MIA"
-  },
-  {
    "adds_24h": 0,
    "name": "Aaron Jones Sr.",
    "pos": "RB",
@@ -140,6 +131,15 @@
    "proj_this_week": 8.84,
    "status": null,
    "team": "MIN"
+  },
+  {
+   "adds_24h": 31672,
+   "name": "Malik Washington",
+   "pos": "WR",
+   "proj_4wk": 39.9,
+   "proj_this_week": 8.93,
+   "status": null,
+   "team": "MIA"
   },
   {
    "adds_24h": 66512,
@@ -467,21 +467,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Jake Elliott",
-   "pos": "K",
-   "proj_4wk": 28.4,
-   "proj_this_week": 6.88,
-   "status": null,
-   "team": "PHI"
-  },
-  {
-   "adds_24h": 0,
    "name": "Cade Otton",
    "pos": "TE",
    "proj_4wk": 28.4,
    "proj_this_week": 7.39,
    "status": null,
    "team": "TB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Jake Elliott",
+   "pos": "K",
+   "proj_4wk": 28.4,
+   "proj_this_week": 6.88,
+   "status": null,
+   "team": "PHI"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-17T06:04:16Z",
+ "generated_at": "2026-11-17T06:14:24Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
