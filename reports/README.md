@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 11
+- [Tue Nov 17 · Weekly](2026/week-11/2026-11-17-weekly.md) — Start Estime over Judkins now. Claims: Aaron Jones $6–10 (drop Estime), KC D/ST $1–3 (drop LAR), Bates $0–1 (drop Gay). ~35–40% win chance vs Bradsgay after claims; playoff odds 0.2%.
 - [Tue Nov 17 · Flash 06:05](2026/week-11/2026-11-17-flash-0605.md) — Week 11: Judkins and LAR D/ST are on bye in your lineup. Start Estime now; claim Aaron Jones $5–8 (drop Estime), KC D/ST $1 ahead of BUF (drop LAR), Boswell $0–1. 17% win chance as set.
 
 ## 2026 · Week 10
