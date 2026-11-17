@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-17T17:18:03Z UTC
+Week 11 · record 3-7 · updated 2026-11-17T17:28:11Z UTC
 
 ## Lineup check
 Current lineup projects **82.9**, best possible **87.6**.
@@ -16,17 +16,17 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +11.4 | +4.1 | 0 |
-| Zonovan Knight | RB | ARI | Audric Estime | +4.1 | +2.2 | 0 |
+| Zonovan Knight | RB | ARI | Audric Estime | +4.4 | +2.5 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +3.5 | +3.0 | 0 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.9 | +0.0 | 0 |
 | Tyjae Spears | RB | TEN | Audric Estime | +2.8 | +2.8 | 0 |
-| Samaje Perine | RB | CIN | Audric Estime | +2.6 | +2.6 | 52,908 |
-| Justice Hill | RB | BAL | Audric Estime | +2.4 | +2.4 | 175,005 |
+| Samaje Perine | RB | CIN | Audric Estime | +2.6 | +2.6 | 54,432 |
+| Justice Hill | RB | BAL | Audric Estime | +2.4 | +2.4 | 177,993 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +2.0 | +2.0 | 0 |
-| Kenny Gainwell | RB | TB | Audric Estime | +1.9 | +1.9 | 81,576 |
-| Bo Nix | QB | DEN | Corey Kiner | +1.6 | +1.1 | 204,486 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 74,696 |
-| Seth McGowan | RB | IND | Audric Estime | +1.5 | +1.5 | 505,632 |
+| Kenny Gainwell | RB | TB | Audric Estime | +1.9 | +1.9 | 83,544 |
+| Bo Nix | QB | DEN | Corey Kiner | +1.6 | +1.1 | 209,826 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 75,856 |
+| Seth McGowan | RB | IND | Audric Estime | +1.5 | +1.5 | 516,424 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+12.4 pts this week)
 
@@ -42,7 +42,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 5 | 122.6 | 98% |
 | 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 7 | 119.6 | 96% |
-| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 3 | 125.1 | 99% |
+| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 3 | 125.2 | 99% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 128.9 | 96% |
 | 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 4 | 122.9 | 62% |
 | 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 116.2 | 54% |
