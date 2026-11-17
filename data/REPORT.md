@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-17T14:43:45Z UTC
+Week 11 · record 3-7 · updated 2026-11-17T14:48:49Z UTC
 
 ## Lineup check
 Current lineup projects **83.2**, best possible **87.9**.
@@ -20,13 +20,13 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 | Kimani Vidal | RB | LAC | Audric Estime | +3.5 | +2.9 | 0 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.9 | +0.0 | 0 |
 | Tyjae Spears | RB | TEN | Audric Estime | +2.8 | +2.8 | 0 |
-| Samaje Perine | RB | CIN | Audric Estime | +2.6 | +2.6 | 35,976 |
-| Justice Hill | RB | BAL | Audric Estime | +2.4 | +2.4 | 153,738 |
-| Kenny Gainwell | RB | TB | Audric Estime | +2.1 | +2.1 | 56,744 |
+| Samaje Perine | RB | CIN | Audric Estime | +2.6 | +2.6 | 37,032 |
+| Justice Hill | RB | BAL | Audric Estime | +2.4 | +2.4 | 155,682 |
+| Kenny Gainwell | RB | TB | Audric Estime | +2.1 | +2.1 | 58,408 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +2.0 | +2.0 | 0 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 60,392 |
-| Seth McGowan | RB | IND | Audric Estime | +1.5 | +1.5 | 390,616 |
-| Bo Nix | QB | DEN | Corey Kiner | +1.4 | +0.8 | 135,918 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 61,440 |
+| Seth McGowan | RB | IND | Audric Estime | +1.5 | +1.5 | 398,528 |
+| Bo Nix | QB | DEN | Corey Kiner | +1.4 | +0.8 | 140,142 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+12.4 pts this week)
 
@@ -44,9 +44,9 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 7 | 119.6 | 96% |
 | 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 3 | 125.1 | 99% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 128.8 | 96% |
-| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 4 | 122.8 | 63% |
+| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 4 | 122.8 | 62% |
 | 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 116.2 | 54% |
-| 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 6 | 119.9 | 38% |
+| 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 6 | 120.0 | 38% |
 | 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 130.2 | 46% |
 | 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 8 | 117.3 | 10% |
 | 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 102.4 | 0% |
@@ -57,7 +57,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Likely** · Give Stefon Diggs, get Rhamondre Stevenson from Atticus Dean: +1.8 pts/week for you, +1.1 for them.
 - **Likely** · Give Stefon Diggs, get Breece Hall from Atticus Dean: +1.8 pts/week for you, +0.7 for them.
 - **Possible** · Give Mike Evans, get Jonah Coleman from Monangynecologist: +3.3 pts/week for you, +0.0 for them.
-- **Possible** · Give Mike Evans + Omar Cooper Jr., get Jonah Coleman from Monangynecologist: +3.3 pts/week for you, +0.0 for them.
+- **Possible** · Give Mike Evans + Omar Cooper Jr., get Jonah Coleman from Monangynecologist: +3.3 pts/week for you, -0.0 for them.
 - **Possible** · Give Jordyn Tyson, get Tony Pollard from I’m stuck Step Burrow: +3.2 pts/week for you, -0.4 for them.
 - **Possible** · Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +2.4 pts/week for you, -0.2 for them.
 - **Possible** · Give Omar Cooper Jr., get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +2.2 pts/week for you, -0.4 for them.
