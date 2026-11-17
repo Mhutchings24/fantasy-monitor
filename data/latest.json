@@ -1,5 +1,5 @@
 {
- "content_hash": "511debe29158467e80c75f79e09fb6f909a54a35",
+ "content_hash": "e2552f71fa7b10ff945242517f4f405fee64797c",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -296,21 +296,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Chris Boswell",
-   "pos": "K",
-   "proj_4wk": 32.5,
-   "proj_this_week": 8.24,
-   "status": null,
-   "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
    "name": "Antonio Williams",
    "pos": "WR",
    "proj_4wk": 32.5,
    "proj_this_week": 7.92,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chris Boswell",
+   "pos": "K",
+   "proj_4wk": 32.5,
+   "proj_this_week": 8.24,
+   "status": null,
+   "team": "PIT"
   },
   {
    "adds_24h": 0,
@@ -844,7 +844,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-17T04:52:10Z",
+ "generated_at": "2026-11-17T04:57:16Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
