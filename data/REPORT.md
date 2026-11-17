@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-17T16:02:12Z UTC
+Week 11 · record 3-7 · updated 2026-11-17T16:07:17Z UTC
 
 ## Lineup check
-Current lineup projects **82.9**, best possible **87.6**.
+Current lineup projects **82.8**, best possible **87.5**.
 
 - ⚠️ Quinshon Judkins (RB, CLE) is on bye
 - ⚠️ LAR D/ST (DEF, LAR) is on bye
@@ -20,20 +20,20 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 | Kimani Vidal | RB | LAC | Audric Estime | +3.5 | +3.0 | 0 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.9 | +0.0 | 0 |
 | Tyjae Spears | RB | TEN | Audric Estime | +2.8 | +2.8 | 0 |
-| Samaje Perine | RB | CIN | Audric Estime | +2.6 | +2.6 | 43,468 |
-| Justice Hill | RB | BAL | Audric Estime | +2.4 | +2.4 | 160,902 |
+| Samaje Perine | RB | CIN | Audric Estime | +2.6 | +2.6 | 44,324 |
+| Justice Hill | RB | BAL | Audric Estime | +2.4 | +2.4 | 162,639 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +2.0 | +2.0 | 0 |
-| Kenny Gainwell | RB | TB | Audric Estime | +1.9 | +1.9 | 68,808 |
-| Bo Nix | QB | DEN | Corey Kiner | +1.7 | +1.1 | 164,730 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 66,440 |
-| Seth McGowan | RB | IND | Audric Estime | +1.5 | +1.5 | 438,976 |
+| Kenny Gainwell | RB | TB | Audric Estime | +1.9 | +1.9 | 70,136 |
+| Bo Nix | QB | DEN | Corey Kiner | +1.7 | +1.1 | 168,408 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 67,304 |
+| Seth McGowan | RB | IND | Audric Estime | +1.5 | +1.5 | 445,680 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+12.4 pts this week)
 
 **K stream this week:** add Jake Bates for Matt Gay (+1.3 pts this week)
 
 ## This week's matchup
-vs **Bradsgay** (6-4): you **82.9** – 115.0 projected · win chance **18%**
+vs **Bradsgay** (6-4): you **82.8** – 115.0 projected · win chance **18%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -48,7 +48,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 116.2 | 54% |
 | 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 6 | 119.9 | 38% |
 | 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 130.1 | 46% |
-| 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 8 | 117.3 | 10% |
+| 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 8 | 117.2 | 10% |
 | 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 102.3 | 0% |
 
 ## Trade ideas
@@ -73,7 +73,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Quinshon Judkins | RB | CLE | starter | BYE | 0.0 | 12.3 | 12.0 | 11.2 |
 | George Kittle | TE | SF | starter |  | 12.6 | 13.7 | 14.7 | 13.9 |
 | DJ Moore | WR | BUF | starter |  | 13.2 | 12.6 | 13.7 | 13.1 |
-| Stefon Diggs | WR | WAS | starter |  | 13.1 | 13.6 | 13.3 | 12.3 |
+| Stefon Diggs | WR | WAS | starter |  | 13.0 | 13.6 | 13.3 | 12.3 |
 | Jordyn Tyson | WR | NO | starter |  | 11.4 | 12.1 | 11.4 | 11.0 |
 | Audric Estime | RB | NO | bench |  | 4.7 | 3.0 | 2.6 | 3.0 |
 | Corey Kiner | RB | NE | bench | BYE | 0.0 | 7.2 | 6.5 | 6.4 |
