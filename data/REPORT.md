@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-6 · updated 2026-11-17T05:32:51Z UTC
+Week 11 · record 3-7 · updated 2026-11-17T05:43:58Z UTC
 
 ## Lineup check
 Current lineup projects **83.2**, best possible **87.9**.
@@ -33,23 +33,23 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 **K stream this week:** add Chris Boswell for Matt Gay (+0.9 pts this week)
 
 ## This week's matchup
-vs **Bradsgay** (6-3): you **83.2** – 116.4 projected · win chance **17%**
+vs **Bradsgay** (6-4): you **83.2** – 116.4 projected · win chance **17%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 6-3 | 1250.9 | 1226.5 | 3 | 125.5 | 100% |
-| 2 | I’m stuck Step Burrow | 6-3 | 1091.5 | 1053.3 | 4 | 122.5 | 96% |
-| 3 | Atticus Dean | 5-4 | 1250.4 | 1235.5 | 6 | 119.9 | 91% |
-| 4 | Gibbs me Nabers 😵‍💫 | 5-4 | 1169.5 | 1118.8 | 2 | 129.1 | 91% |
-| 5 | Monangynecologist | 5-4 | 1069.1 | 958.0 | 5 | 120.0 | 68% |
-| 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 130.6 | 69% |
-| 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 9 | 116.4 | 29% |
-| 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 8 | 116.5 | 36% |
-| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 7 | 117.3 | 21% |
-| 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 102.3 | 0% |
+| 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 4 | 122.5 | 98% |
+| 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 6 | 119.9 | 96% |
+| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 3 | 125.5 | 99% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 129.1 | 96% |
+| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 9 | 116.4 | 49% |
+| 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 8 | 116.5 | 56% |
+| 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 5 | 120.0 | 46% |
+| 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 130.6 | 48% |
+| 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 7 | 117.3 | 11% |
+| 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 102.3 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).

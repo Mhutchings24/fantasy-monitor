@@ -1,5 +1,5 @@
 {
- "content_hash": "b4b0216a1dd40b7756d20ee6cd4898f104170d04",
+ "content_hash": "5b88ba634b49d4fd208014c7e68293fb94280f76",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -124,15 +124,6 @@
    "team": "LV"
   },
   {
-   "adds_24h": 30272,
-   "name": "Malik Washington",
-   "pos": "WR",
-   "proj_4wk": 39.9,
-   "proj_this_week": 8.93,
-   "status": null,
-   "team": "MIA"
-  },
-  {
    "adds_24h": 0,
    "name": "Aaron Jones Sr.",
    "pos": "RB",
@@ -140,6 +131,15 @@
    "proj_this_week": 8.84,
    "status": null,
    "team": "MIN"
+  },
+  {
+   "adds_24h": 30272,
+   "name": "Malik Washington",
+   "pos": "WR",
+   "proj_4wk": 39.9,
+   "proj_this_week": 8.93,
+   "status": null,
+   "team": "MIA"
   },
   {
    "adds_24h": 63512,
@@ -826,7 +826,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-17T05:32:51Z",
+ "generated_at": "2026-11-17T05:43:58Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1029,7 +1029,7 @@
    "opp_best_possible": 124.38,
    "opp_proj": 116.4,
    "opponent": "Bradsgay",
-   "opponent_record": "6-3",
+   "opponent_record": "6-4",
    "win_prob": 0.174
   },
   "playoff": {
@@ -1045,33 +1045,12 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.55,
+    "first_seed_odds": 0.424,
     "losses": 3,
     "mine": false,
-    "pa": 1226.5,
-    "pf": 1250.86,
-    "playoff_odds": 0.998,
-    "power_rank": 3,
-    "proj_avg": 125.5,
-    "proj_by_week": {
-     "11": 124.38,
-     "12": 134.68,
-     "13": 122.87,
-     "14": 119.88
-    },
-    "rank": 1,
-    "roster_id": 9,
-    "team": "Bradsgay",
-    "ties": 0,
-    "wins": 6
-   },
-   {
-    "first_seed_odds": 0.277,
-    "losses": 3,
-    "mine": false,
-    "pa": 1053.34,
-    "pf": 1091.54,
-    "playoff_odds": 0.957,
+    "pa": 1170.04,
+    "pf": 1210.18,
+    "playoff_odds": 0.982,
     "power_rank": 4,
     "proj_avg": 122.5,
     "proj_by_week": {
@@ -1080,19 +1059,19 @@
      "13": 126.8,
      "14": 126.75
     },
-    "rank": 2,
+    "rank": 1,
     "roster_id": 8,
     "team": "I’m stuck Step Burrow",
     "ties": 0,
-    "wins": 6
+    "wins": 7
    },
    {
-    "first_seed_odds": 0.086,
+    "first_seed_odds": 0.145,
     "losses": 4,
     "mine": false,
-    "pa": 1235.52,
-    "pf": 1250.38,
-    "playoff_odds": 0.906,
+    "pa": 1317.2,
+    "pf": 1399.62,
+    "playoff_odds": 0.963,
     "power_rank": 6,
     "proj_avg": 119.9,
     "proj_by_week": {
@@ -1101,19 +1080,40 @@
      "13": 119.33,
      "14": 143.07
     },
-    "rank": 3,
+    "rank": 2,
     "roster_id": 10,
     "team": "Atticus Dean",
     "ties": 0,
-    "wins": 5
+    "wins": 6
    },
    {
-    "first_seed_odds": 0.062,
+    "first_seed_odds": 0.293,
     "losses": 4,
     "mine": false,
-    "pa": 1118.82,
-    "pf": 1169.52,
-    "playoff_odds": 0.909,
+    "pa": 1360.82,
+    "pf": 1378.72,
+    "playoff_odds": 0.99,
+    "power_rank": 3,
+    "proj_avg": 125.5,
+    "proj_by_week": {
+     "11": 124.38,
+     "12": 134.68,
+     "13": 122.87,
+     "14": 119.88
+    },
+    "rank": 3,
+    "roster_id": 9,
+    "team": "Bradsgay",
+    "ties": 0,
+    "wins": 6
+   },
+   {
+    "first_seed_odds": 0.12,
+    "losses": 4,
+    "mine": false,
+    "pa": 1246.68,
+    "pf": 1303.84,
+    "playoff_odds": 0.964,
     "power_rank": 2,
     "proj_avg": 129.1,
     "proj_by_week": {
@@ -1126,57 +1126,15 @@
     "roster_id": 4,
     "team": "Gibbs me Nabers 😵‍💫",
     "ties": 0,
-    "wins": 5
-   },
-   {
-    "first_seed_odds": 0.016,
-    "losses": 4,
-    "mine": false,
-    "pa": 958.02,
-    "pf": 1069.08,
-    "playoff_odds": 0.679,
-    "power_rank": 5,
-    "proj_avg": 120.0,
-    "proj_by_week": {
-     "11": 114.6,
-     "12": 128.43,
-     "13": 112.02,
-     "14": 125.01
-    },
-    "rank": 5,
-    "roster_id": 5,
-    "team": "Monangynecologist",
-    "ties": 0,
-    "wins": 5
+    "wins": 6
    },
    {
     "first_seed_odds": 0.006,
     "losses": 5,
     "mine": false,
-    "pa": 1129.44,
-    "pf": 1119.28,
-    "playoff_odds": 0.688,
-    "power_rank": 1,
-    "proj_avg": 130.6,
-    "proj_by_week": {
-     "11": 124.6,
-     "12": 142.18,
-     "13": 137.55,
-     "14": 118.05
-    },
-    "rank": 6,
-    "roster_id": 2,
-    "team": "Glizzy Globbler ",
-    "ties": 0,
-    "wins": 4
-   },
-   {
-    "first_seed_odds": 0.001,
-    "losses": 5,
-    "mine": false,
-    "pa": 1095.28,
-    "pf": 1076.3,
-    "playoff_odds": 0.29,
+    "pa": 1236.3,
+    "pf": 1220.66,
+    "playoff_odds": 0.491,
     "power_rank": 9,
     "proj_avg": 116.4,
     "proj_by_week": {
@@ -1185,19 +1143,19 @@
      "13": 116.45,
      "14": 116.41
     },
-    "rank": 7,
+    "rank": 5,
     "roster_id": 6,
     "team": "Never Going Go Scottsdale",
     "ties": 0,
-    "wins": 4
+    "wins": 5
    },
    {
-    "first_seed_odds": 0.002,
+    "first_seed_odds": 0.007,
     "losses": 5,
     "mine": false,
-    "pa": 1171.68,
-    "pf": 1076.08,
-    "playoff_odds": 0.355,
+    "pa": 1293.6,
+    "pf": 1206.58,
+    "playoff_odds": 0.561,
     "power_rank": 8,
     "proj_avg": 116.5,
     "proj_by_week": {
@@ -1206,19 +1164,61 @@
      "13": 123.15,
      "14": 113.7
     },
-    "rank": 8,
+    "rank": 6,
     "roster_id": 1,
     "team": "Bradsbaconisundercooked",
     "ties": 0,
-    "wins": 4
+    "wins": 5
+   },
+   {
+    "first_seed_odds": 0.004,
+    "losses": 5,
+    "mine": false,
+    "pa": 1107.26,
+    "pf": 1150.76,
+    "playoff_odds": 0.456,
+    "power_rank": 5,
+    "proj_avg": 120.0,
+    "proj_by_week": {
+     "11": 114.6,
+     "12": 128.43,
+     "13": 112.02,
+     "14": 125.01
+    },
+    "rank": 7,
+    "roster_id": 5,
+    "team": "Monangynecologist",
+    "ties": 0,
+    "wins": 5
    },
    {
     "first_seed_odds": 0.0,
     "losses": 6,
     "mine": false,
-    "pa": 1089.36,
-    "pf": 1084.42,
-    "playoff_odds": 0.214,
+    "pa": 1248.08,
+    "pf": 1235.98,
+    "playoff_odds": 0.48,
+    "power_rank": 1,
+    "proj_avg": 130.6,
+    "proj_by_week": {
+     "11": 124.6,
+     "12": 142.18,
+     "13": 137.55,
+     "14": 118.05
+    },
+    "rank": 8,
+    "roster_id": 2,
+    "team": "Glizzy Globbler ",
+    "ties": 0,
+    "wins": 4
+   },
+   {
+    "first_seed_odds": 0.0,
+    "losses": 7,
+    "mine": false,
+    "pa": 1219.86,
+    "pf": 1206.34,
+    "playoff_odds": 0.113,
     "power_rank": 7,
     "proj_avg": 117.3,
     "proj_by_week": {
@@ -1235,11 +1235,11 @@
    },
    {
     "first_seed_odds": 0.0,
-    "losses": 6,
+    "losses": 7,
     "mine": true,
-    "pa": 1088.3,
-    "pf": 978.8,
-    "playoff_odds": 0.004,
+    "pa": 1232.66,
+    "pf": 1119.82,
+    "playoff_odds": 0.002,
     "power_rank": 10,
     "proj_avg": 102.3,
     "proj_by_week": {
@@ -1541,7 +1541,7 @@
  ],
  "team": {
   "name": "Conorrhea ",
-  "record": "3-6",
+  "record": "3-7",
   "roster_id": 7
  },
  "trades": [
