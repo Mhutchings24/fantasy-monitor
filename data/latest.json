@@ -1,5 +1,5 @@
 {
- "content_hash": "2b9cec0604fc03526b66cc52359692fe3fe59a2b",
+ "content_hash": "64cc70a3997f42179dc8d94502bc2fcc27aecf90",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -656,21 +656,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "LAC D/ST",
-   "pos": "DEF",
-   "proj_4wk": 24.7,
-   "proj_this_week": 7.03,
-   "status": null,
-   "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
    "name": "CAR D/ST",
    "pos": "DEF",
    "proj_4wk": 24.7,
    "proj_this_week": 7.42,
    "status": null,
    "team": "CAR"
+  },
+  {
+   "adds_24h": 0,
+   "name": "LAC D/ST",
+   "pos": "DEF",
+   "proj_4wk": 24.7,
+   "proj_this_week": 7.03,
+   "status": null,
+   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -799,7 +799,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-17T22:42:11Z",
+ "generated_at": "2026-11-17T22:47:16Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
