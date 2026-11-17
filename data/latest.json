@@ -1,5 +1,5 @@
 {
- "content_hash": "ec20c737c8c1398b4d7567b63bab2abae92ce814",
+ "content_hash": "3f48baf3c299cc9a4ca119739826e108a6c7f35d",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -19,7 +19,7 @@
    "adds_24h": 24870,
    "name": "J.J. McCarthy",
    "pos": "QB",
-   "proj_4wk": 62.6,
+   "proj_4wk": 62.7,
    "proj_this_week": 16.5,
    "status": null,
    "team": "NYG"
@@ -28,7 +28,7 @@
    "adds_24h": 0,
    "name": "Cam Ward",
    "pos": "QB",
-   "proj_4wk": 58.0,
+   "proj_4wk": 58.1,
    "proj_this_week": 12.66,
    "status": null,
    "team": "TEN"
@@ -124,15 +124,6 @@
    "team": "CIN"
   },
   {
-   "adds_24h": 0,
-   "name": "Khalil Shakir",
-   "pos": "WR",
-   "proj_4wk": 39.7,
-   "proj_this_week": 10.02,
-   "status": null,
-   "team": "BUF"
-  },
-  {
    "adds_24h": 40896,
    "name": "Brenton Strange",
    "pos": "TE",
@@ -140,6 +131,15 @@
    "proj_this_week": 9.93,
    "status": null,
    "team": "JAX"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Khalil Shakir",
+   "pos": "WR",
+   "proj_4wk": 39.7,
+   "proj_this_week": 10.02,
+   "status": null,
+   "team": "BUF"
   },
   {
    "adds_24h": 0,
@@ -208,7 +208,7 @@
    "adds_24h": 139408,
    "name": "Ryan Flournoy",
    "pos": "WR",
-   "proj_4wk": 36.6,
+   "proj_4wk": 36.7,
    "proj_this_week": 8.95,
    "status": null,
    "team": "DAL"
@@ -296,21 +296,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Chris Boswell",
-   "pos": "K",
-   "proj_4wk": 32.5,
-   "proj_this_week": 8.24,
-   "status": null,
-   "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
    "name": "Antonio Williams",
    "pos": "WR",
    "proj_4wk": 32.5,
    "proj_this_week": 7.92,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chris Boswell",
+   "pos": "K",
+   "proj_4wk": 32.5,
+   "proj_this_week": 8.24,
+   "status": null,
+   "team": "PIT"
   },
   {
    "adds_24h": 0,
@@ -379,7 +379,7 @@
    "adds_24h": 0,
    "name": "Joey Slye",
    "pos": "K",
-   "proj_4wk": 29.3,
+   "proj_4wk": 29.4,
    "proj_this_week": 6.97,
    "status": null,
    "team": "TEN"
@@ -595,7 +595,7 @@
    "adds_24h": 0,
    "name": "Gunnar Helm",
    "pos": "TE",
-   "proj_4wk": 24.3,
+   "proj_4wk": 24.4,
    "proj_this_week": 7.31,
    "status": null,
    "team": "TEN"
@@ -844,7 +844,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-17T04:41:59Z",
+ "generated_at": "2026-11-17T04:47:05Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1047,7 +1047,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.565,
+    "first_seed_odds": 0.566,
     "losses": 3,
     "mine": false,
     "pa": 1226.5,
@@ -1057,7 +1057,7 @@
     "proj_avg": 129.2,
     "proj_by_week": {
      "10": 133.15,
-     "11": 126.06,
+     "11": 126.26,
      "12": 134.68,
      "13": 122.87
     },
@@ -1068,7 +1068,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.21,
+    "first_seed_odds": 0.209,
     "losses": 3,
     "mine": false,
     "pa": 1053.34,
@@ -1078,7 +1078,7 @@
     "proj_avg": 124.6,
     "proj_by_week": {
      "10": 125.81,
-     "11": 119.95,
+     "11": 119.94,
      "12": 125.87,
      "13": 126.8
     },
@@ -1089,7 +1089,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.076,
+    "first_seed_odds": 0.075,
     "losses": 4,
     "mine": false,
     "pa": 1235.52,
@@ -1117,10 +1117,10 @@
     "pf": 1169.52,
     "playoff_odds": 0.912,
     "power_rank": 3,
-    "proj_avg": 128.8,
+    "proj_avg": 128.9,
     "proj_by_week": {
      "10": 131.91,
-     "11": 134.42,
+     "11": 134.72,
      "12": 135.75,
      "13": 113.11
     },
@@ -1136,7 +1136,7 @@
     "mine": false,
     "pa": 958.02,
     "pf": 1069.08,
-    "playoff_odds": 0.622,
+    "playoff_odds": 0.621,
     "power_rank": 5,
     "proj_avg": 118.9,
     "proj_by_week": {
@@ -1157,12 +1157,12 @@
     "mine": false,
     "pa": 1129.44,
     "pf": 1119.28,
-    "playoff_odds": 0.774,
+    "playoff_odds": 0.773,
     "power_rank": 1,
-    "proj_avg": 133.2,
+    "proj_avg": 133.3,
     "proj_by_week": {
      "10": 128.82,
-     "11": 124.45,
+     "11": 124.6,
      "12": 142.18,
      "13": 137.55
     },
@@ -1178,12 +1178,12 @@
     "mine": false,
     "pa": 1095.28,
     "pf": 1076.3,
-    "playoff_odds": 0.34,
+    "playoff_odds": 0.343,
     "power_rank": 8,
-    "proj_avg": 115.7,
+    "proj_avg": 115.8,
     "proj_by_week": {
      "10": 111.36,
-     "11": 115.82,
+     "11": 115.98,
      "12": 119.24,
      "13": 116.45
     },
@@ -1199,12 +1199,12 @@
     "mine": false,
     "pa": 1171.68,
     "pf": 1076.08,
-    "playoff_odds": 0.508,
+    "playoff_odds": 0.506,
     "power_rank": 6,
     "proj_avg": 118.7,
     "proj_by_week": {
      "10": 122.54,
-     "11": 105.47,
+     "11": 105.45,
      "12": 123.55,
      "13": 123.15
     },
@@ -1220,12 +1220,12 @@
     "mine": false,
     "pa": 1089.36,
     "pf": 1084.42,
-    "playoff_odds": 0.074,
+    "playoff_odds": 0.073,
     "power_rank": 9,
     "proj_avg": 110.5,
     "proj_by_week": {
      "10": 94.85,
-     "11": 111.36,
+     "11": 111.33,
      "12": 112.88,
      "13": 122.77
     },
@@ -1243,10 +1243,10 @@
     "pf": 978.8,
     "playoff_odds": 0.006,
     "power_rank": 10,
-    "proj_avg": 101.3,
+    "proj_avg": 101.2,
     "proj_by_week": {
      "10": 101.91,
-     "11": 89.96,
+     "11": 89.88,
      "12": 110.25,
      "13": 102.91
     },
@@ -1327,7 +1327,7 @@
    "pos": "RB",
    "proj_by_week": {
     "10": 9.91,
-    "11": 8.36,
+    "11": 8.37,
     "12": 7.77,
     "13": 8.32
    },
@@ -1357,7 +1357,7 @@
    "pos": "WR",
    "proj_by_week": {
     "10": 12.04,
-    "11": 13.22,
+    "11": 13.13,
     "12": 12.22,
     "13": 13.74
    },
@@ -1387,7 +1387,7 @@
    "pos": "WR",
    "proj_by_week": {
     "10": 9.06,
-    "11": 11.47,
+    "11": 11.46,
     "12": 12.14,
     "13": 11.36
    },
@@ -1873,13 +1873,13 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
-   "gain_window": 2.75,
+   "gain_window": 2.76,
    "name": "Tyjae Spears",
    "pid": "9508",
    "pos": "RB",
    "proj_by_week": {
     "10": 5.69,
-    "11": 7.46,
+    "11": 7.47,
     "12": 6.21,
     "13": 5.44
    },
@@ -1892,13 +1892,13 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
-   "gain_window": 2.71,
+   "gain_window": 2.7,
    "name": "Samaje Perine",
    "pid": "4147",
    "pos": "RB",
    "proj_by_week": {
     "10": 6.08,
-    "11": 7.42,
+    "11": 7.41,
     "12": 7.77,
     "13": 7.06
    },
@@ -1987,13 +1987,13 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
-   "gain_window": 1.54,
+   "gain_window": 1.53,
    "name": "Alvin Kamara",
    "pid": "4035",
    "pos": "RB",
    "proj_by_week": {
     "10": 6.3,
-    "11": 6.25,
+    "11": 6.24,
     "12": 6.09,
     "13": 5.48
    },
@@ -2025,13 +2025,13 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 0.0,
-   "gain_window": 1.36,
+   "gain_window": 1.35,
    "name": "Ty Johnson",
    "pid": "6039",
    "pos": "RB",
    "proj_by_week": {
     "10": 5.34,
-    "11": 6.07,
+    "11": 6.06,
     "12": 5.34,
     "13": 6.05
    },
