@@ -1,5 +1,5 @@
 {
- "content_hash": "da038f4edc6223c84ca585cc1845858cf549be85",
+ "content_hash": "2ad92791e602cfc2836c2845d710eb1845ffae16",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -484,15 +484,6 @@
    "team": "CIN"
   },
   {
-   "adds_24h": 82872,
-   "name": "Pat Bryant",
-   "pos": "WR",
-   "proj_4wk": 26.5,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "DEN"
-  },
-  {
    "adds_24h": 0,
    "name": "Elijah Higgins",
    "pos": "TE",
@@ -727,6 +718,15 @@
    "team": "DEN"
   },
   {
+   "adds_24h": 0,
+   "name": "Andre Szmyt",
+   "pos": "K",
+   "proj_4wk": 22.6,
+   "proj_this_week": 7.67,
+   "status": null,
+   "team": "CLE"
+  },
+  {
    "adds_24h": 198264,
    "name": "Seth McGowan",
    "pos": "RB",
@@ -844,7 +844,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-17T00:44:27Z",
+ "generated_at": "2026-11-17T00:49:32Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
