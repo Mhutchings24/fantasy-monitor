@@ -1,5 +1,5 @@
 {
- "content_hash": "09bc867540fa3f82e1de3789a1ad02de6f62f027",
+ "content_hash": "6d19dd3eedb59c49329daa496f0f7854125863a3",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -557,21 +557,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Darnell Washington",
-   "pos": "TE",
-   "proj_4wk": 27.0,
-   "proj_this_week": 6.9,
-   "status": null,
-   "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
    "name": "Keaton Mitchell",
    "pos": "RB",
    "proj_4wk": 27.0,
    "proj_this_week": 6.69,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "proj_4wk": 27.0,
+   "proj_this_week": 6.9,
+   "status": null,
+   "team": "PIT"
   },
   {
    "adds_24h": 254376,
@@ -835,7 +835,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-17T14:38:40Z",
+ "generated_at": "2026-11-17T14:43:45Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
