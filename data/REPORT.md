@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-17T21:05:10Z UTC
+Week 11 · record 3-7 · updated 2026-11-17T21:10:15Z UTC
 
 ## Lineup check
 Current lineup projects **82.5**, best possible **87.3**.
@@ -19,14 +19,14 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 | Zonovan Knight | RB | ARI | Audric Estime | +4.0 | +2.5 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +3.5 | +3.0 | 0 |
 | Tyjae Spears | RB | TEN | Audric Estime | +2.8 | +2.8 | 0 |
-| Samaje Perine | RB | CIN | Audric Estime | +2.7 | +2.7 | 69,204 |
+| Samaje Perine | RB | CIN | Audric Estime | +2.7 | +2.7 | 69,860 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.6 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 183,357 |
+| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 184,599 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +2.0 | +2.0 | 0 |
-| Kenny Gainwell | RB | TB | Audric Estime | +1.9 | +1.9 | 107,328 |
-| Bo Nix | QB | DEN | Corey Kiner | +1.6 | +1.1 | 266,280 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 86,144 |
-| Seth McGowan | RB | IND | Audric Estime | +1.5 | +1.5 | 604,336 |
+| Kenny Gainwell | RB | TB | Audric Estime | +1.8 | +1.8 | 108,520 |
+| Bo Nix | QB | DEN | Corey Kiner | +1.6 | +1.1 | 268,794 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 86,744 |
+| Seth McGowan | RB | IND | Audric Estime | +1.5 | +1.5 | 609,472 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+12.4 pts this week)
 
@@ -55,10 +55,10 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
 - **Likely** · Give Stefon Diggs, get Breece Hall from Atticus Dean: +1.8 pts/week for you, +0.7 for them.
-- **Likely** · Give Stefon Diggs, get Rhamondre Stevenson from Atticus Dean: +1.8 pts/week for you, +1.1 for them.
 - **Possible** · Give Jordyn Tyson, get Tony Pollard from I’m stuck Step Burrow: +3.3 pts/week for you, -0.5 for them.
-- **Possible** · Give Mike Evans, get Jaylen Warren from Monangynecologist: +3.2 pts/week for you, +0.0 for them.
-- **Possible** · Give Mike Evans + Omar Cooper Jr., get Jaylen Warren from Monangynecologist: +3.2 pts/week for you, -0.0 for them.
+- **Likely** · Give Stefon Diggs, get Rhamondre Stevenson from Atticus Dean: +1.8 pts/week for you, +1.1 for them.
+- **Possible** · Give Mike Evans, get Jaylen Warren from Monangynecologist: +3.2 pts/week for you, -0.1 for them.
+- **Possible** · Give Mike Evans + Omar Cooper Jr., get Jaylen Warren from Monangynecologist: +3.2 pts/week for you, -0.1 for them.
 - **Possible** · Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +2.3 pts/week for you, -0.2 for them.
 - **Possible** · Give Omar Cooper Jr., get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +2.2 pts/week for you, -0.4 for them.
 - **Possible** · Give DJ Moore, get Ollie Gordon II from Bradsbaconisundercooked: +1.9 pts/week for you, -0.3 for them.
@@ -78,7 +78,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Audric Estime | RB | NO | bench |  | 4.7 | 3.0 | 2.6 | 3.0 |
 | Corey Kiner | RB | NE | bench | BYE | 0.0 | 7.2 | 6.5 | 6.4 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 8.2 | 15.8 | 13.6 |
-| Keenan Allen | WR | SF | bench |  | 5.8 | 6.0 | 6.5 | 6.1 |
+| Keenan Allen | WR | SF | bench |  | 5.7 | 6.0 | 6.5 | 6.1 |
 | Omar Cooper Jr. | WR | NYJ | bench | Out | 0.0 | 11.2 | 0.0 | 9.6 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
 | Mike Evans | WR | SF | bench | Out | 0.0 | 15.0 | 16.0 | 15.2 |
