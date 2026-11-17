@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-17T14:54:43Z UTC
+Week 11 · record 3-7 · updated 2026-11-17T14:59:48Z UTC
 
 ## Lineup check
-Current lineup projects **83.2**, best possible **87.9**.
+Current lineup projects **83.0**, best possible **87.7**.
 
 - ⚠️ Quinshon Judkins (RB, CLE) is on bye
 - ⚠️ LAR D/ST (DEF, LAR) is on bye
@@ -17,23 +17,23 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 |---|---|---|---|---|---|---|
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +11.4 | +4.1 | 0 |
 | Zonovan Knight | RB | ARI | Audric Estime | +4.3 | +2.4 | 0 |
-| Kimani Vidal | RB | LAC | Audric Estime | +3.5 | +2.9 | 0 |
+| Kimani Vidal | RB | LAC | Audric Estime | +3.5 | +3.0 | 0 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.9 | +0.0 | 0 |
 | Tyjae Spears | RB | TEN | Audric Estime | +2.8 | +2.8 | 0 |
-| Samaje Perine | RB | CIN | Audric Estime | +2.6 | +2.6 | 37,032 |
-| Justice Hill | RB | BAL | Audric Estime | +2.4 | +2.4 | 155,682 |
-| Kenny Gainwell | RB | TB | Audric Estime | +2.1 | +2.1 | 58,408 |
+| Samaje Perine | RB | CIN | Audric Estime | +2.6 | +2.6 | 38,088 |
+| Justice Hill | RB | BAL | Audric Estime | +2.4 | +2.4 | 158,022 |
+| Kenny Gainwell | RB | TB | Audric Estime | +2.0 | +2.0 | 60,112 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +2.0 | +2.0 | 0 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 61,440 |
-| Seth McGowan | RB | IND | Audric Estime | +1.5 | +1.5 | 398,528 |
-| Bo Nix | QB | DEN | Corey Kiner | +1.4 | +0.8 | 140,142 |
+| Bo Nix | QB | DEN | Corey Kiner | +1.6 | +1.0 | 144,078 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 62,440 |
+| Seth McGowan | RB | IND | Audric Estime | +1.5 | +1.5 | 405,520 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+12.4 pts this week)
 
-**K stream this week:** add Jake Bates for Matt Gay (+1.4 pts this week)
+**K stream this week:** add Jake Bates for Matt Gay (+1.3 pts this week)
 
 ## This week's matchup
-vs **Bradsgay** (6-4): you **83.2** – 114.9 projected · win chance **18%**
+vs **Bradsgay** (6-4): you **83.0** – 114.9 projected · win chance **18%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -46,18 +46,18 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 128.8 | 96% |
 | 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 4 | 122.8 | 62% |
 | 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 116.2 | 54% |
-| 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 6 | 120.0 | 38% |
+| 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 6 | 119.9 | 38% |
 | 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 130.2 | 46% |
 | 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 8 | 117.3 | 10% |
-| 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 102.4 | 0% |
+| 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 102.3 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
 - **Likely** · Give Stefon Diggs, get Rhamondre Stevenson from Atticus Dean: +1.8 pts/week for you, +1.1 for them.
-- **Likely** · Give Stefon Diggs, get Breece Hall from Atticus Dean: +1.8 pts/week for you, +0.7 for them.
 - **Possible** · Give Mike Evans, get Jonah Coleman from Monangynecologist: +3.3 pts/week for you, +0.0 for them.
 - **Possible** · Give Mike Evans + Omar Cooper Jr., get Jonah Coleman from Monangynecologist: +3.3 pts/week for you, -0.0 for them.
+- **Likely** · Give Stefon Diggs, get Breece Hall from Atticus Dean: +1.8 pts/week for you, +0.7 for them.
 - **Possible** · Give Jordyn Tyson, get Tony Pollard from I’m stuck Step Burrow: +3.2 pts/week for you, -0.4 for them.
 - **Possible** · Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +2.4 pts/week for you, -0.2 for them.
 - **Possible** · Give Omar Cooper Jr., get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +2.2 pts/week for you, -0.4 for them.
@@ -68,7 +68,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter | BYE | 0.0 | 5.9 | 6.1 | 5.9 |
 | Matt Gay | K | LV | starter |  | 7.4 | 8.5 | 0.0 | 9.0 |
-| Jared Goff | QB | DET | starter |  | 17.1 | 21.4 | 18.8 | 19.7 |
+| Jared Goff | QB | DET | starter |  | 16.9 | 21.4 | 18.8 | 19.7 |
 | Rico Dowdle | RB | PIT | starter |  | 8.4 | 7.8 | 8.3 | 7.7 |
 | Quinshon Judkins | RB | CLE | starter | BYE | 0.0 | 12.3 | 12.0 | 11.2 |
 | George Kittle | TE | SF | starter |  | 12.6 | 13.7 | 14.7 | 13.9 |
