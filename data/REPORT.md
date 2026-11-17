@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-17T00:14:01Z UTC
+Week 10 · record 3-6 · updated 2026-11-17T00:24:09Z UTC
 
 ## Lineup check
 Current lineup projects **101.9**, best possible **101.9**.
@@ -18,13 +18,13 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Kimani Vidal | RB | LAC | Audric Estime | +2.9 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +2.8 | +0.0 | 0 |
 | Tyjae Spears | RB | TEN | Audric Estime | +2.8 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +2.4 | +0.0 | 183,591 |
+| Justice Hill | RB | BAL | Audric Estime | +2.4 | +0.0 | 185,877 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.3 | +0.0 | 0 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +2.0 | +0.0 | 0 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +0.0 | 45,312 |
-| Seth McGowan | RB | IND | Audric Estime | +1.5 | +0.0 | 205,376 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +0.0 | 45,648 |
+| Seth McGowan | RB | IND | Audric Estime | +1.5 | +0.0 | 207,280 |
 | Ty Johnson | RB | BUF | Audric Estime | +1.4 | +0.0 | 0 |
-| Bo Nix | QB | DEN | Corey Kiner | +1.3 | +0.0 | 35,616 |
+| Bo Nix | QB | DEN | Corey Kiner | +1.3 | +0.0 | 35,898 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.6 pts this week)
 
