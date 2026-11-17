@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 10 · record 3-6 · updated 2026-11-17T00:49:32Z UTC
+Week 10 · record 3-6 · updated 2026-11-17T00:54:36Z UTC
 
 ## Lineup check
 Current lineup projects **101.9**, best possible **101.9**.
@@ -18,13 +18,13 @@ Gain = extra projected starting points over weeks 10–13 after the swap.
 | Kimani Vidal | RB | LAC | Audric Estime | +2.9 | +0.0 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +2.8 | +0.0 | 0 |
 | Tyjae Spears | RB | TEN | Audric Estime | +2.8 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +2.4 | +0.0 | 168,498 |
+| Justice Hill | RB | BAL | Audric Estime | +2.4 | +0.0 | 169,443 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.3 | +0.0 | 0 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +2.0 | +0.0 | 0 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +0.0 | 42,008 |
-| Seth McGowan | RB | IND | Audric Estime | +1.5 | +0.0 | 198,264 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +0.0 | 42,200 |
+| Seth McGowan | RB | IND | Audric Estime | +1.5 | +0.0 | 199,920 |
 | Ty Johnson | RB | BUF | Audric Estime | +1.4 | +0.0 | 0 |
-| Bo Nix | QB | DEN | Corey Kiner | +1.3 | +0.0 | 34,476 |
+| Bo Nix | QB | DEN | Corey Kiner | +1.3 | +0.0 | 34,752 |
 
 **K stream this week:** add Ryan Fitzgerald for Matt Gay (+0.6 pts this week)
 
@@ -44,7 +44,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 6 | Glizzy Globbler  | 4-5 | 1119.3 | 1129.4 | 1 | 133.3 | 77% |
 | 7 | Never Going Go Scottsdale | 4-5 | 1076.3 | 1095.3 | 8 | 115.8 | 35% |
 | 8 | Bradsbaconisundercooked | 4-5 | 1076.1 | 1171.7 | 6 | 118.5 | 50% |
-| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 110.5 | 8% |
+| 9 | Touch of the Downs | 3-6 | 1084.4 | 1089.4 | 9 | 110.6 | 8% |
 | 10 | **Conorrhea ** | 3-6 | 978.8 | 1088.3 | 10 | 101.4 | 1% |
 
 ## Trade ideas
@@ -53,7 +53,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Likely** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +3.4 pts/week for you, +0.7 for them.
 - **Likely** · Give Mike Evans, get Saquon Barkley from Never Going Go Scottsdale: +2.8 pts/week for you, +0.4 for them.
 - **Likely** · Give Mike Evans, get Jonah Coleman from Monangynecologist: +2.7 pts/week for you, +0.6 for them.
-- **Likely** · Give Stefon Diggs, get Rhamondre Stevenson from Atticus Dean: +2.5 pts/week for you, +0.7 for them.
+- **Likely** · Give Stefon Diggs, get Rhamondre Stevenson from Atticus Dean: +2.5 pts/week for you, +0.8 for them.
 - **Possible** · Give Jordyn Tyson, get Tony Pollard from I’m stuck Step Burrow: +3.9 pts/week for you, -0.4 for them.
 - **Likely** · Give Jordyn Tyson, get David Montgomery from Monangynecologist: +2.2 pts/week for you, +0.5 for them.
 - **Possible** · Give Mike Evans + Rico Dowdle, get Javonte Williams from Glizzy Globbler : +3.6 pts/week for you, -0.5 for them.
@@ -69,7 +69,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Rico Dowdle | RB | PIT | starter |  | 9.9 | 8.4 | 7.7 | 8.3 |
 | George Kittle | TE | SF | starter |  | 15.3 | 12.6 | 13.7 | 14.7 |
 | DJ Moore | WR | BUF | starter |  | 12.0 | 13.5 | 12.3 | 13.7 |
-| Stefon Diggs | WR | WAS | starter |  | 10.2 | 13.1 | 13.6 | 13.3 |
+| Stefon Diggs | WR | WAS | starter |  | 10.2 | 13.2 | 13.6 | 13.3 |
 | Jordyn Tyson | WR | NO | starter |  | 9.1 | 11.5 | 12.1 | 11.4 |
 | Audric Estime | RB | NO | bench |  | 7.8 | 4.7 | 3.0 | 2.6 |
 | Corey Kiner | RB | NE | bench |  | 6.0 | 0.0 | 7.2 | 6.5 |
