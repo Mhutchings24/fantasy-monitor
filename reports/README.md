@@ -3,6 +3,9 @@
 Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
+## 2026 · Week 11
+- [Tue Nov 17 · Flash 06:05](2026/week-11/2026-11-17-flash-0605.md) — Week 11: Judkins and LAR D/ST are on bye in your lineup. Start Estime now; claim Aaron Jones $5–8 (drop Estime), KC D/ST $1 ahead of BUF (drop LAR), Boswell $0–1. 17% win chance as set.
+
 ## 2026 · Week 10
 - [Mon Nov 16 · PM](2026/week-10/2026-11-16-pm.md) — Coleman traded away, so the Tyson offer is dead: offer Tyson for Breece Hall instead (Medium). Tue claims unchanged: Aaron Jones $5–8 (drop Estime), BUF D/ST $1 (drop Kiner), Boswell $0–1 (drop Gay). Evans ~55% Wk 11.
 - [Mon Nov 16 · Game day 16:52](2026/week-10/2026-11-16-gameday-1652.md) — No changes needed: no players in LAC @ BAL tonight; Week 10 is set. Tue claims unchanged (Aaron Jones $5–8, BUF D/ST $1, Boswell $0–1).
