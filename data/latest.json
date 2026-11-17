@@ -1,5 +1,5 @@
 {
- "content_hash": "abcfcf32c35b57ac6b32fe7121be86453c2e80ae",
+ "content_hash": "48fa746cc8d3a4493f0373f25b4dcaa608f4c3e2",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -124,15 +124,6 @@
    "team": "LV"
   },
   {
-   "adds_24h": 74136,
-   "name": "Malik Washington",
-   "pos": "WR",
-   "proj_4wk": 39.9,
-   "proj_this_week": 8.93,
-   "status": null,
-   "team": "MIA"
-  },
-  {
    "adds_24h": 0,
    "name": "Aaron Jones Sr.",
    "pos": "RB",
@@ -140,6 +131,15 @@
    "proj_this_week": 8.84,
    "status": null,
    "team": "MIN"
+  },
+  {
+   "adds_24h": 74136,
+   "name": "Malik Washington",
+   "pos": "WR",
+   "proj_4wk": 39.9,
+   "proj_this_week": 8.93,
+   "status": null,
+   "team": "MIA"
   },
   {
    "adds_24h": 170176,
@@ -808,7 +808,7 @@
    "team": null
   }
  ],
- "generated_at": "2026-11-17T19:30:00Z",
+ "generated_at": "2026-11-17T19:35:05Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
