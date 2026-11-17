@@ -1,5 +1,5 @@
 {
- "content_hash": "e0ab06e0b1752ea542f5f59e90f548d8b94f3202",
+ "content_hash": "d0ab573ace048ce75d190335fa56f7f0acc6e2ae",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -7,7 +7,7 @@
  },
  "free_agents": [
   {
-   "adds_24h": 252480,
+   "adds_24h": 255300,
    "name": "Bo Nix",
    "pos": "QB",
    "proj_4wk": 71.0,
@@ -61,7 +61,7 @@
    "team": "NYG"
   },
   {
-   "adds_24h": 46668,
+   "adds_24h": 47268,
    "name": "Joe Milton",
    "pos": "QB",
    "proj_4wk": 56.6,
@@ -79,7 +79,7 @@
    "team": "SEA"
   },
   {
-   "adds_24h": 89864,
+   "adds_24h": 90472,
    "name": "Deshaun Watson",
    "pos": "QB",
    "proj_4wk": 45.4,
@@ -115,13 +115,22 @@
    "team": "PHI"
   },
   {
-   "adds_24h": 53576,
+   "adds_24h": 54088,
    "name": "Fernando Mendoza",
    "pos": "QB",
    "proj_4wk": 41.3,
    "proj_this_week": 12.17,
    "status": null,
    "team": "LV"
+  },
+  {
+   "adds_24h": 75312,
+   "name": "Malik Washington",
+   "pos": "WR",
+   "proj_4wk": 39.9,
+   "proj_this_week": 8.93,
+   "status": null,
+   "team": "MIA"
   },
   {
    "adds_24h": 0,
@@ -133,16 +142,7 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 74768,
-   "name": "Malik Washington",
-   "pos": "WR",
-   "proj_4wk": 39.9,
-   "proj_this_week": 8.93,
-   "status": null,
-   "team": "MIA"
-  },
-  {
-   "adds_24h": 172120,
+   "adds_24h": 174168,
    "name": "Caleb Douglas",
    "pos": "WR",
    "proj_4wk": 39.9,
@@ -151,7 +151,7 @@
    "team": "MIA"
   },
   {
-   "adds_24h": 50607,
+   "adds_24h": 51147,
    "name": "Khalil Shakir",
    "pos": "WR",
    "proj_4wk": 39.7,
@@ -160,7 +160,7 @@
    "team": "BUF"
   },
   {
-   "adds_24h": 106236,
+   "adds_24h": 106938,
    "name": "Brenton Strange",
    "pos": "TE",
    "proj_4wk": 39.6,
@@ -169,7 +169,7 @@
    "team": "JAX"
   },
   {
-   "adds_24h": 112812,
+   "adds_24h": 113932,
    "name": "Mike Gesicki",
    "pos": "TE",
    "proj_4wk": 39.4,
@@ -232,7 +232,7 @@
    "team": "BAL"
   },
   {
-   "adds_24h": 57438,
+   "adds_24h": 57984,
    "name": "Chris Godwin Jr.",
    "pos": "WR",
    "proj_4wk": 35.5,
@@ -268,7 +268,7 @@
    "team": "HOU"
   },
   {
-   "adds_24h": 54848,
+   "adds_24h": 55344,
    "name": "Jake Bates",
    "pos": "K",
    "proj_4wk": 33.8,
@@ -286,7 +286,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 111060,
+   "adds_24h": 112167,
    "name": "Courtland Sutton",
    "pos": "WR",
    "proj_4wk": 33.0,
@@ -322,7 +322,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 223568,
+   "adds_24h": 225824,
    "name": "Elic Ayomanor",
    "pos": "WR",
    "proj_4wk": 31.9,
@@ -331,7 +331,7 @@
    "team": "TEN"
   },
   {
-   "adds_24h": 213892,
+   "adds_24h": 216209,
    "name": "Cairo Santos",
    "pos": "K",
    "proj_4wk": 31.0,
@@ -349,7 +349,7 @@
    "team": "PIT"
   },
   {
-   "adds_24h": 49952,
+   "adds_24h": 50441,
    "name": "DEN D/ST",
    "pos": "DEF",
    "proj_4wk": 30.8,
@@ -367,7 +367,7 @@
    "team": "SF"
   },
   {
-   "adds_24h": 91854,
+   "adds_24h": 92015,
    "name": "Quentin Johnston",
    "pos": "WR",
    "proj_4wk": 30.6,
@@ -448,7 +448,7 @@
    "team": "KC"
   },
   {
-   "adds_24h": 65572,
+   "adds_24h": 66228,
    "name": "Samaje Perine",
    "pos": "RB",
    "proj_4wk": 28.8,
@@ -502,7 +502,7 @@
    "team": "KC"
   },
   {
-   "adds_24h": 581304,
+   "adds_24h": 587096,
    "name": "Ryan Flournoy",
    "pos": "WR",
    "proj_4wk": 27.7,
@@ -511,7 +511,7 @@
    "team": "DAL"
   },
   {
-   "adds_24h": 90152,
+   "adds_24h": 90977,
    "name": "CHI D/ST",
    "pos": "DEF",
    "proj_4wk": 27.6,
@@ -520,7 +520,7 @@
    "team": "CHI"
   },
   {
-   "adds_24h": 102922,
+   "adds_24h": 103850,
    "name": "BUF D/ST",
    "pos": "DEF",
    "proj_4wk": 27.4,
@@ -565,7 +565,7 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 142435,
+   "adds_24h": 143585,
    "name": "TB D/ST",
    "pos": "DEF",
    "proj_4wk": 27.0,
@@ -583,7 +583,7 @@
    "team": "PIT"
   },
   {
-   "adds_24h": 471051,
+   "adds_24h": 475425,
    "name": "DET D/ST",
    "pos": "DEF",
    "proj_4wk": 26.9,
@@ -682,7 +682,7 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 1131642,
+   "adds_24h": 1143531,
    "name": "Michael Mayer",
    "pos": "TE",
    "proj_4wk": 24.2,
@@ -691,7 +691,7 @@
    "team": "LV"
   },
   {
-   "adds_24h": 102168,
+   "adds_24h": 103192,
    "name": "Kenny Gainwell",
    "pos": "RB",
    "proj_4wk": 24.2,
@@ -727,7 +727,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 936299,
+   "adds_24h": 945623,
    "name": "Xavier Hutchinson",
    "pos": "WR",
    "proj_4wk": 21.6,
@@ -736,7 +736,7 @@
    "team": "HOU"
   },
   {
-   "adds_24h": 582920,
+   "adds_24h": 588392,
    "name": "Seth McGowan",
    "pos": "RB",
    "proj_4wk": 19.9,
@@ -745,7 +745,7 @@
    "team": "IND"
   },
   {
-   "adds_24h": 541233,
+   "adds_24h": 545985,
    "name": "Mark Andrews",
    "pos": "TE",
    "proj_4wk": 19.9,
@@ -754,7 +754,7 @@
    "team": "BAL"
   },
   {
-   "adds_24h": 181368,
+   "adds_24h": 182889,
    "name": "Justice Hill",
    "pos": "RB",
    "proj_4wk": 20.7,
@@ -763,7 +763,7 @@
    "team": "BAL"
   },
   {
-   "adds_24h": 135216,
+   "adds_24h": 136620,
    "name": "Gavin Bartholomew",
    "pos": "TE",
    "proj_4wk": 8.1,
@@ -772,7 +772,7 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 83440,
+   "adds_24h": 84064,
    "name": "Alvin Kamara",
    "pos": "RB",
    "proj_4wk": 23.6,
@@ -781,7 +781,7 @@
    "team": "NO"
   },
   {
-   "adds_24h": 79795,
+   "adds_24h": 80475,
    "name": "Jason Sanders",
    "pos": "K",
    "proj_4wk": 21.9,
@@ -790,7 +790,7 @@
    "team": "NYJ"
   },
   {
-   "adds_24h": 65492,
+   "adds_24h": 66004,
    "name": "Tre' Harris",
    "pos": "WR",
    "proj_4wk": 20.6,
@@ -799,7 +799,7 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 49083,
+   "adds_24h": 49461,
    "name": "Jimmy Garoppolo",
    "pos": "QB",
    "proj_4wk": 0.0,
@@ -808,7 +808,7 @@
    "team": null
   }
  ],
- "generated_at": "2026-11-17T20:06:02Z",
+ "generated_at": "2026-11-17T20:11:09Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1518,7 +1518,7 @@
    "status": null,
    "stream": true,
    "team": "DET",
-   "trending_adds_24h": 54848
+   "trending_adds_24h": 55344
   }
  ],
  "team": {
@@ -1942,7 +1942,7 @@
    "status": null,
    "stream": false,
    "team": "CIN",
-   "trending_adds_24h": 65572
+   "trending_adds_24h": 66228
   },
   {
    "drop": "11579",
@@ -1961,7 +1961,7 @@
    "status": null,
    "stream": false,
    "team": "BAL",
-   "trending_adds_24h": 181368
+   "trending_adds_24h": 182889
   },
   {
    "drop": "11579",
@@ -1999,7 +1999,7 @@
    "status": null,
    "stream": false,
    "team": "TB",
-   "trending_adds_24h": 102168
+   "trending_adds_24h": 103192
   },
   {
    "drop": "12491",
@@ -2018,7 +2018,7 @@
    "status": null,
    "stream": false,
    "team": "DEN",
-   "trending_adds_24h": 252480
+   "trending_adds_24h": 255300
   },
   {
    "drop": "11579",
@@ -2037,7 +2037,7 @@
    "status": null,
    "stream": false,
    "team": "NO",
-   "trending_adds_24h": 83440
+   "trending_adds_24h": 84064
   },
   {
    "drop": "11579",
@@ -2056,7 +2056,7 @@
    "status": null,
    "stream": false,
    "team": "IND",
-   "trending_adds_24h": 582920
+   "trending_adds_24h": 588392
   }
  ],
  "week": 11,
