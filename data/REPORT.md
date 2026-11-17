@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-17T22:26:57Z UTC
+Week 11 · record 3-7 · updated 2026-11-17T22:32:02Z UTC
 
 ## Lineup check
-Current lineup projects **82.5**, best possible **87.3**.
+Current lineup projects **82.5**, best possible **87.2**.
 
 - ⚠️ Quinshon Judkins (RB, CLE) is on bye
 - ⚠️ LAR D/ST (DEF, LAR) is on bye
@@ -18,22 +18,22 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +11.4 | +4.1 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +3.5 | +3.0 | 0 |
 | Zonovan Knight | RB | ARI | Audric Estime | +3.5 | +2.5 | 0 |
-| Samaje Perine | RB | CIN | Audric Estime | +3.0 | +2.7 | 75,480 |
+| Samaje Perine | RB | CIN | Audric Estime | +3.0 | +2.7 | 76,308 |
 | Tyjae Spears | RB | TEN | Audric Estime | +2.9 | +2.9 | 0 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.6 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 190,980 |
+| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 192,789 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +2.0 | +2.0 | 0 |
-| Kenny Gainwell | RB | TB | Audric Estime | +1.8 | +1.8 | 117,520 |
-| Bo Nix | QB | DEN | Corey Kiner | +1.6 | +1.1 | 287,262 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 90,336 |
-| Seth McGowan | RB | IND | Audric Estime | +1.5 | +1.5 | 642,272 |
+| Kenny Gainwell | RB | TB | Audric Estime | +1.8 | +1.8 | 118,752 |
+| Bo Nix | QB | DEN | Corey Kiner | +1.6 | +1.1 | 289,986 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 90,840 |
+| Seth McGowan | RB | IND | Audric Estime | +1.5 | +1.5 | 648,096 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+12.4 pts this week)
 
 **K stream this week:** add Jake Bates for Matt Gay (+1.3 pts this week)
 
 ## This week's matchup
-vs **Bradsgay** (6-4): you **82.5** – 115.8 projected · win chance **17%**
+vs **Bradsgay** (6-4): you **82.5** – 115.7 projected · win chance **17%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
