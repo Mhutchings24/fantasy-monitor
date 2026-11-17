@@ -1,5 +1,5 @@
 {
- "content_hash": "8e141016b1d68fc2f638847b9270c48f8650e808",
+ "content_hash": "bd02d3a94f3e5d3d973411622a4bbb4a8aecf0a3",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -44,15 +44,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Baker Mayfield",
-   "pos": "QB",
-   "proj_4wk": 60.1,
-   "proj_this_week": 12.15,
-   "status": "Questionable",
-   "team": "TB"
-  },
-  {
-   "adds_24h": 0,
    "name": "J.J. McCarthy",
    "pos": "QB",
    "proj_4wk": 59.2,
@@ -77,6 +68,15 @@
    "proj_this_week": 0.0,
    "status": "Out",
    "team": "SEA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Baker Mayfield",
+   "pos": "QB",
+   "proj_4wk": 47.9,
+   "proj_this_week": 0.0,
+   "status": "Questionable",
+   "team": "TB"
   },
   {
    "adds_24h": 92032,
@@ -227,7 +227,7 @@
    "name": "Chris Godwin Jr.",
    "pos": "WR",
    "proj_4wk": 34.8,
-   "proj_this_week": 8.39,
+   "proj_this_week": 8.4,
    "status": null,
    "team": "TB"
   },
@@ -541,8 +541,8 @@
    "adds_24h": 0,
    "name": "Cade Otton",
    "pos": "TE",
-   "proj_4wk": 27.7,
-   "proj_this_week": 6.77,
+   "proj_4wk": 27.8,
+   "proj_this_week": 6.84,
    "status": null,
    "team": "TB"
   },
@@ -665,21 +665,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "CAR D/ST",
-   "pos": "DEF",
-   "proj_4wk": 24.7,
-   "proj_this_week": 7.42,
-   "status": null,
-   "team": "CAR"
-  },
-  {
-   "adds_24h": 0,
    "name": "LAC D/ST",
    "pos": "DEF",
    "proj_4wk": 24.7,
    "proj_this_week": 7.03,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "CAR D/ST",
+   "pos": "DEF",
+   "proj_4wk": 24.7,
+   "proj_this_week": 7.42,
+   "status": null,
+   "team": "CAR"
   },
   {
    "adds_24h": 0,
@@ -718,13 +718,13 @@
    "team": "LV"
   },
   {
-   "adds_24h": 123232,
-   "name": "Kenny Gainwell",
-   "pos": "RB",
-   "proj_4wk": 24.1,
-   "proj_this_week": 6.44,
+   "adds_24h": 0,
+   "name": "Malachi Fields",
+   "pos": "WR",
+   "proj_4wk": 24.0,
+   "proj_this_week": 6.29,
    "status": null,
-   "team": "TB"
+   "team": "NYG"
   },
   {
    "adds_24h": 1120392,
@@ -772,6 +772,15 @@
    "team": "MIN"
   },
   {
+   "adds_24h": 123232,
+   "name": "Kenny Gainwell",
+   "pos": "RB",
+   "proj_4wk": 24.0,
+   "proj_this_week": 6.28,
+   "status": null,
+   "team": "TB"
+  },
+  {
    "adds_24h": 92352,
    "name": "Alvin Kamara",
    "pos": "RB",
@@ -799,7 +808,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-17T23:12:11Z",
+ "generated_at": "2026-11-17T23:17:15Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1086,7 +1095,7 @@
     "mine": false,
     "pa": 1246.68,
     "pf": 1303.84,
-    "playoff_odds": 0.961,
+    "playoff_odds": 0.96,
     "power_rank": 2,
     "proj_avg": 128.0,
     "proj_by_week": {
@@ -1170,11 +1179,11 @@
     "mine": false,
     "pa": 1248.08,
     "pf": 1235.98,
-    "playoff_odds": 0.458,
+    "playoff_odds": 0.459,
     "power_rank": 1,
     "proj_avg": 130.3,
     "proj_by_week": {
-     "11": 123.31,
+     "11": 123.52,
      "12": 142.73,
      "13": 137.55,
      "14": 117.54
@@ -1995,13 +2004,13 @@
   {
    "drop": "11579",
    "drop_name": "Audric Estime",
-   "gain_this_week": 1.73,
-   "gain_window": 1.73,
+   "gain_this_week": 1.57,
+   "gain_window": 1.57,
    "name": "Kenny Gainwell",
    "pid": "7567",
    "pos": "RB",
    "proj_by_week": {
-    "11": 6.44,
+    "11": 6.28,
     "12": 6.15,
     "13": 6.12,
     "14": 5.4

@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-17T23:12:11Z UTC
+Week 11 · record 3-7 · updated 2026-11-17T23:17:15Z UTC
 
 ## Lineup check
 Current lineup projects **82.4**, best possible **87.1**.
@@ -24,7 +24,7 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 | Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 194,193 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +2.0 | +2.0 | 0 |
 | Bo Nix | QB | DEN | Corey Kiner | +1.8 | +1.2 | 299,586 |
-| Kenny Gainwell | RB | TB | Audric Estime | +1.7 | +1.7 | 123,232 |
+| Kenny Gainwell | RB | TB | Audric Estime | +1.6 | +1.6 | 123,232 |
 | Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 92,352 |
 | Seth McGowan | RB | IND | Audric Estime | +1.5 | +1.5 | 663,800 |
 
