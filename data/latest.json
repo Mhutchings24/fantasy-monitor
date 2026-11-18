@@ -1,5 +1,5 @@
 {
- "content_hash": "981e38e6259fe530bd3f50807c541859c79c4a9b",
+ "content_hash": "6b0c4e95b56f28c2f4fad00913f3611a620539dd",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -439,15 +439,6 @@
    "team": "CAR"
   },
   {
-   "adds_24h": 126628,
-   "name": "Samaje Perine",
-   "pos": "RB",
-   "proj_4wk": 29.5,
-   "proj_this_week": 7.46,
-   "status": null,
-   "team": "CIN"
-  },
-  {
    "adds_24h": 0,
    "name": "KC D/ST",
    "pos": "DEF",
@@ -455,6 +446,15 @@
    "proj_this_week": 12.4,
    "status": null,
    "team": "KC"
+  },
+  {
+   "adds_24h": 126628,
+   "name": "Samaje Perine",
+   "pos": "RB",
+   "proj_4wk": 29.5,
+   "proj_this_week": 7.46,
+   "status": null,
+   "team": "CIN"
   },
   {
    "adds_24h": 0,
@@ -656,21 +656,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "LAC D/ST",
-   "pos": "DEF",
-   "proj_4wk": 24.7,
-   "proj_this_week": 7.03,
-   "status": null,
-   "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
    "name": "CAR D/ST",
    "pos": "DEF",
    "proj_4wk": 24.7,
    "proj_this_week": 7.42,
    "status": null,
    "team": "CAR"
+  },
+  {
+   "adds_24h": 0,
+   "name": "LAC D/ST",
+   "pos": "DEF",
+   "proj_4wk": 24.7,
+   "proj_this_week": 7.03,
+   "status": null,
+   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -781,7 +781,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-18T09:39:42Z",
+ "generated_at": "2026-11-18T09:44:46Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
