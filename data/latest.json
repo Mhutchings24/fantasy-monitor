@@ -1,5 +1,5 @@
 {
- "content_hash": "f62b0619a15fc9f6c0456c197f4e4877bc1ace1f",
+ "content_hash": "9e163c54c651552f0c0c505ed2d98268fa300e87",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -160,15 +160,6 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 117744,
-   "name": "Malik Washington",
-   "pos": "WR",
-   "proj_4wk": 39.6,
-   "proj_this_week": 8.95,
-   "status": null,
-   "team": "MIA"
-  },
-  {
    "adds_24h": 94374,
    "name": "Khalil Shakir",
    "pos": "WR",
@@ -176,6 +167,15 @@
    "proj_this_week": 10.3,
    "status": null,
    "team": "BUF"
+  },
+  {
+   "adds_24h": 117744,
+   "name": "Malik Washington",
+   "pos": "WR",
+   "proj_4wk": 39.6,
+   "proj_this_week": 8.95,
+   "status": null,
+   "team": "MIA"
   },
   {
    "adds_24h": 0,
@@ -772,7 +772,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-18T14:19:54Z",
+ "generated_at": "2026-11-18T14:24:59Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
