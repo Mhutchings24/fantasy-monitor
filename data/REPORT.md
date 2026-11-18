@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-18T09:49:49Z UTC
+Week 11 · record 3-7 · updated 2026-11-18T09:54:53Z UTC
 
 ## Lineup check
 Current lineup projects **82.2**, best possible **87.2**.
@@ -19,14 +19,14 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 | Jordan Mason | RB | MIN | Audric Estime | +13.1 | +4.1 | 0 |
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +11.3 | +4.0 | 0 |
 | Zonovan Knight | RB | ARI | Audric Estime | +3.4 | +2.5 | 0 |
-| Samaje Perine | RB | CIN | Audric Estime | +3.0 | +2.8 | 127,076 |
+| Samaje Perine | RB | CIN | Audric Estime | +3.0 | +2.8 | 127,508 |
 | Tyjae Spears | RB | TEN | Audric Estime | +2.8 | +2.8 | 0 |
 | Drake Maye (Out) | QB | NE | Corey Kiner | +2.7 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 260,685 |
+| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 261,405 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.4 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +2.2 | +2.2 | 0 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 111,576 |
-| Kenny Gainwell | RB | TB | Audric Estime | +1.5 | +1.5 | 193,288 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 111,848 |
+| Kenny Gainwell | RB | TB | Audric Estime | +1.5 | +1.5 | 193,968 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +1.2 | +1.2 | 0 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+12.4 pts this week)
