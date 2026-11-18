@@ -1,5 +1,5 @@
 {
- "content_hash": "0a7918430b447d241a6d9826a92c2290be90f75d",
+ "content_hash": "28837a25cd874d9cfe3346ed98008ffb192b05ca",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -160,15 +160,6 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 115160,
-   "name": "Malik Washington",
-   "pos": "WR",
-   "proj_4wk": 39.6,
-   "proj_this_week": 8.95,
-   "status": null,
-   "team": "MIA"
-  },
-  {
    "adds_24h": 84492,
    "name": "Khalil Shakir",
    "pos": "WR",
@@ -176,6 +167,15 @@
    "proj_this_week": 10.3,
    "status": null,
    "team": "BUF"
+  },
+  {
+   "adds_24h": 115160,
+   "name": "Malik Washington",
+   "pos": "WR",
+   "proj_4wk": 39.6,
+   "proj_this_week": 8.95,
+   "status": null,
+   "team": "MIA"
   },
   {
    "adds_24h": 0,
@@ -422,21 +422,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Wil Lutz",
-   "pos": "K",
-   "proj_4wk": 29.9,
-   "proj_this_week": 7.77,
-   "status": null,
-   "team": "DEN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Ryan Fitzgerald",
    "pos": "K",
    "proj_4wk": 29.9,
    "proj_this_week": 7.7,
    "status": null,
    "team": "CAR"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Wil Lutz",
+   "pos": "K",
+   "proj_4wk": 29.9,
+   "proj_this_week": 7.77,
+   "status": null,
+   "team": "DEN"
   },
   {
    "adds_24h": 130444,
@@ -772,7 +772,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-18T11:08:15Z",
+ "generated_at": "2026-11-18T11:13:20Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
