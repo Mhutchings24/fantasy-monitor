@@ -1,132 +1,118 @@
-# Week 11 check-in · Tue Nov 17
-_Conorrhea · No Fun League · record 3-7 · 10th of 10 · playoff odds 0.2% · data as of 7:36 AM MT (fresh monitor run 44104982701 succeeded)_
+# Week 11 · Tue Nov 17 PM report
+_Conorrhea · No Fun League · record 3-7 · data as of 5:40 PM MT (fresh monitor run 44209241634 succeeded)_
 
-**Fix first.** Your saved lineup still starts **Judkins (CLE, bye)** and **LAR D/ST (bye)**. That's two empty slots. Start **Estime** at RB now as a placeholder, then file the claims below.
+**Still not fixed.** Your saved lineup still starts **Judkins (CLE, bye)** and **LAR D/ST (bye)**. Start **Estime** for Judkins now so the slot isn't empty if a claim fails.
 
-## Last week
-**Lost 141.0–144.4 to Never Going Go Scottsdale**, a 3.3-point loss.
+## Bottom line
+- **Start Estime over Judkins now** (placeholder, 4.7 vs 0.0). **High.**
+- **File the claims before waivers run tonight:** Aaron Jones Sr. **$6–10** (drop Estime), KC D/ST **$1–3** (drop LAR), Jake Bates **$0–1** (drop Gay). Backups: Vidal $1–2, BUF D/ST $1.
+- **No news today changes the plan.** Jones is still free (0 adds in 24h) and scored a TD last week.
+- **Evans: ~45% for Week 11 (est.), down from ~50%.** Shanahan: "Just not sure yet." Keep Tyson at FLEX unless Evans is full on Friday.
+- **Cooper Jr.:** still no imaging result. ~10% for Week 11 (est.). He's the first cut if you need a roster spot.
 
-- **Who carried you:** Goff 22.4, Diggs 20.3, Moore 19.4, Tyson 19.0, LAR D/ST 17.0.
-- **Who let you down:** Rico Dowdle, 5.4 points on 7 touches (5-26 rushing, 2-8 receiving). He's still the No. 2 back behind Warren (RotoWire, Nov 15).
-- **Bench points left on the table: none.** Allen (11.1) was on your bench, but he couldn't replace Dowdle at RB, and your WRs and FLEX all scored 19+. Your bench RBs, Kiner (2.5) and Estime (2.1), scored less than Dowdle.
-- **The lesson:** your WRs are now a strength and RB2 is the hole. Spend this week's FAAB on RBs, not on another receiver.
-
-## Where you stand
-- **Standings:** 10th, 3-7, and last in points for (1,119.8). Three teams are 5-5: Scottsdale, Bradsbacon (6th) and Monangynecologist. You're **2 games back of 6th with 4 games left**.
-- **Playoff odds: 0.2%** (4,000 simulations). They were 2% a week ago, and the Week 10 loss cost most of that.
-- **Record you'd need:** 7-7 (4-0 from here), plus help from two or three of the 5-5 teams. Your points tiebreak is the league's worst, so 7-7 likely isn't enough even then.
-- **Schedule:** the monitor only lists this week's opponent. You're projected lowest in the league again for Weeks 12–14 (102–111 per week), but that rises once Judkins, Jacobs and Evans return.
-- **What it means:** FAAB has almost no future value. Spend freely this week. A small reserve only covers injuries.
-
-## This week
-**Opponent: Bradsgay (6-4, 3rd, 99% playoff odds).**
-- Monitor projection: **you 83.2 as set vs them 114.9.** Their best possible lineup is 123.0.
-- **With the claims below** (Jones, KC D/ST, Bates), you'd be about **105.8**. That's roughly a **35–40% win chance (est.)**, up from 18%.
-- **You're the underdog, so favor ceiling.** Prefer starters with big target shares and shootout games over safe low-ceiling plays.
-- The monitor doesn't carry Bradsgay's roster or injuries. Check their lineup in Sleeper before Sunday.
-
-**Early lineup plan (assuming the claims win):**
+## Recommended lineup
+Assumes the three claims win. If Jones fails, Estime (or Vidal, if that claim wins) plays RB2.
 
 | Slot | Player | Game (ET) | Proj | Plays? | Confidence | Why |
 |---|---|---|---|---|---|---|
-| QB | Jared Goff | TB @ DET · Sun 1:00 | 17.1 | 95%+ | High | DET is a 5.5-point favorite, total 46.5. 22.4 pts last week |
-| RB | **Aaron Jones Sr.** (claim) | MIN @ SF · Sun 8:20 (Mexico City) | 8.9 | ~95% | Medium | Near-even split with Mason. Total 45.5, close spread |
-| RB | Rico Dowdle | PIT @ PHI · Sun 1:00 | 8.4 | 95%+ | Low | Only 7 touches last week. PIT is a 4.5-point underdog, total 38.5. The only other healthy RB is Estime |
-| WR | DJ Moore | MIA @ BUF · Sun 1:00 | 13.2 | 95%+ | High | 19.4 last week. BUF -16.5. Blowout risk caps his volume late |
-| WR | Stefon Diggs | CIN @ WAS · Mon 8:15 | 13.1 | 95%+ | High | 30% target share, 20.3 last week. CIN games score a lot |
-| TE | George Kittle | MIN @ SF · Sun 8:20 | 12.6 | 95%+ | High | No injury tag |
-| FLEX | Jordyn Tyson | NO @ CHI · Sun 1:00 | 11.5 | 95%+ | Medium | 13 targets in Week 10. NO is a 10.5-point underdog (total 49.5), so they'll throw. That's the ceiling you want |
-| K | **Jake Bates** (claim) | TB @ DET · Sun 1:00 | 8.8 | — | Low | DET's offense in a 46.5 total. Gay (7.4) has LV @ DEN, a low total, and a Week 13 bye |
-| DEF | **KC D/ST** (claim) | ARI @ KC · Sun 1:00 | 12.4 | — | Medium | No. 1 streamer at RotoBaller, FanDuel and Game Haus. ARI starts rookie Carson Beck (108 yds, 2 INT, 5 sacks in his debut). KC -16.5 |
+| QB | Jared Goff | TB @ DET · Sun 1:00 | 16.7 | 95%+ | High | 22.4 last week. DET favored at home (-5.5, total 46.5 as of Nov 16) |
+| RB | **Aaron Jones Sr.** (claim) | MIN @ SF · Sun 8:20 | 8.8 | ~95% | Medium | 11-47-1 in Week 10. Splits work with Mason, but scores. No injury tag |
+| RB | Rico Dowdle | PIT @ PHI · Sun 1:00 | 8.4 | 95%+ | Low | Only 7 touches last week as Warren's backup. PIT total 38.5. No better RB on hand |
+| WR | Stefon Diggs | CIN @ WAS · Mon 8:15 | 13.2 | 95%+ | High | 30% target share, 20.3 last week |
+| WR | DJ Moore | MIA @ BUF · Sun 1:00 | 13.2 | 95%+ | High | 19.4 last week. BUF -16.5, so fourth-quarter volume may dry up |
+| TE | George Kittle | MIN @ SF · Sun 8:20 | 12.5 | 95%+ | High | No injury tag in Sleeper |
+| FLEX | Jordyn Tyson | NO @ CHI · Sun 1:00 | 11.0 | 95%+ | Medium | 13 targets in Week 10. NO a 10.5-point underdog, so they'll throw. Best ceiling of your flex options |
+| K | **Jake Bates** (claim) | TB @ DET · Sun 1:00 | 8.6 | — | Low | DET offense, dome. Gay has LV @ DEN and a Week 13 bye |
+| DEF | **KC D/ST** (claim) | ARI @ KC · Sun 1:00 | 12.4 | — | Medium | Consensus No. 1 stream. ARI starts rookie QB Carson Beck. KC -16.5 |
 
-**Bench after claims:** Judkins (bye), Kiner (bye), Allen, Evans, Cooper.
+**Bench:** Judkins (bye), Kiner (bye), Allen, Evans, Cooper (Out).
 
-**Decisions to revisit later in the week:**
-1. **Evans or Tyson at FLEX.**
-   - Shanahan says SF is "hoping" Evans practices this week (Nov 16). He hasn't practiced since his Week 6 injury, and NFL Network's Garafolo said he "has a chance" to play Sunday.
-   - **~50% to play (est.)**, likely on a snap count.
-   - **Keep Tyson unless Evans is a full practice participant Friday.** Even then, Tyson's 13-target role is the better ceiling bet than Evans' first game back.
-   - If you do start Evans: Allen plays in the same SNF game, so he's your pivot until 6:20 PM MT Sunday.
-2. **Dowdle or a waiver RB.**
-   - If the Jones claim fails, Vidal or Spears (7.5–7.7 projected) beats Estime, but not Dowdle by enough to matter. See the waiver plan.
-3. **Late games.**
-   - Jones and Kittle play SNF, and Diggs plays MNF.
-   - Allen (SNF) is your only bench player still unlocked by then, and he's a WR. If Jones is a surprise inactive, there's no RB pivot. That risk is low: he has no injury tag.
+## This week's matchup
+**Bradsgay (6-4, 3rd, 99% playoff odds).**
+- Monitor: **you 82.4 as set vs them 116.0** (their best is 124.2). Win chance **17%**.
+- **With the three claims: about 106 for you.** That's roughly a **35% win chance (est.)**.
+- You're a clear underdog, so lean on ceiling: Tyson over a returning Evans, Jones over a safe low-ceiling back.
+- The monitor doesn't carry Bradsgay's roster or injury news. Check their lineup in Sleeper Saturday.
 
-## Waiver plan
-You have **$78 FAAB**. Playoff odds are 0.2%, so keep only about **$40** for injury emergencies. Aaron Jones had **0 adds in the last 24h** in your league, so you shouldn't need to overpay.
+## Key decisions
+### RB2 after waivers: Jones, Dowdle or Estime
+- **Jones (Nov 17, FantasyPros):** 11 carries, 47 yards, 1 TD and 1 catch in Week 10 at GB. He's "difficult to trust" sharing with Mason, and under 100 total yards in each of his last four. FantasyPros ECR: RB23.
+- **Dowdle:** 7 touches, 5.4 points last week. Clear No. 2 behind Warren (RotoWire, Nov 15).
+- **Estime:** third on NO's depth chart, 4.7 projected.
+- **Call:** start Jones and Dowdle if the claim wins. **Medium.** Floor 4–5 for both, but Jones has the better TD odds in a 45.5 total.
+- **What changes it:** a Jones injury tag Wednesday–Friday, or a Warren injury (Dowdle becomes a must-start).
 
-| Priority | Add | Drop | Bid | Why |
+### FLEX: Tyson or Evans
+- **Evans (Nov 16–17):** Shanahan is "hoping" Evans practices this week but is "just not sure yet." He's flying in tonight to join the team for the Colorado Springs practices before Mexico City (NY Post via Yahoo, Nov 17). GM Lynch said the focus is on Evans being "fully healed" for the playoffs (Nov 14).
+- He has missed the last three games with Achilles tendinitis, and hasn't practiced since Week 6.
+- **~45% to play (est.)**, and likely on a snap count if he does.
+- **Tyson:** 13 targets last week, NO trailing script.
+- **Call: Tyson. Medium-high.** Only flip if Evans is a **full** participant Friday and has no tag.
+- If you do start Evans, Allen plays in the same SNF game. He's your pivot until **6:20 PM MT Sunday**.
+
+### Late-game risk
+- Jones and Kittle play SNF, and Diggs plays MNF.
+- Allen (WR, SNF) is the only bench player still unlocked then. There's **no RB pivot** if Jones is a surprise inactive. That's low risk: he has no tag.
+
+## Injury watch
+| Player | Status | Latest news (date) | Chance to play | Next update |
 |---|---|---|---|---|
-| 1 | **Aaron Jones Sr.** (RB, MIN) | Audric Estime | **$6–10** | Monitor's top add: +4.1 this week, +11.4 over Weeks 11–14. Starting RB in a near-even split with Mason. Estime is third on NO's depth chart (4.7 projected). **Medium** |
-| 2 | **KC D/ST** | LAR D/ST | **$1–3** | Fills the bye. +12.4 this week. KC is also playable later (about 5.7 per week), so dropping LAR (about 5.9) costs nothing. **Medium-high** |
-| 3 | **Jake Bates** (K, DET) | Matt Gay | **$0–1** | +1.4 this week. He also covers Gay's Week 13 bye. **Low** |
-| 4 | Kimani Vidal (RB, LAC) | Audric Estime | $1–2 | Backup only. It processes only if the Jones claim fails, since Estime is then still on your roster. 7.7 projected vs NYJ, but he's in a committee with Mitchell |
-| 5 | BUF D/ST | LAR D/ST | $1 | Backup only, if KC goes elsewhere. BUF hosts MIA (Kyle McCord at QB), -16.5. RotoBaller's No. 4 for the week |
+| Mike Evans (SF) | Out (Sleeper, stale) | "Just not sure yet" on practice; rejoining team tonight (Nov 17) | ~45% (est.) | SF practice report Wed |
+| Omar Cooper Jr. (NYJ) | Out | Imaging Nov 16, result not reported. "Hard-pressed" to play vs LAC (RotoWire, Nov 17). Third ankle roll-up this season | ~10% (est.) | NYJ practice report Wed |
+| Josh Jacobs (GB) | Out (bye week) | Finger surgery Nov 13. Rapoport: 2–3 weeks, Week 12 vs LAR targeted (Nov 15). Not on IR | 0% Wk 11 · ~55% Wk 12 (est.) | GB practice next week |
+| Davante Adams (LAR) | IR | Rams eye Weeks 12–13 (PFR, Nov 13). LAR on bye Wk 11 | 0% Wk 11 | LAR practice window next week |
+| Judkins, Kiner | Bye | — | 0% Wk 11 | — |
 
-- **Chris Boswell** (PIT) is a fine kicker backup to Bates, but PIT's game total is only 38.5.
-- **Keep Kiner for now.** Judkins and Jacobs aren't certain for Week 12, and Kiner projects about 7 per week in Weeks 12–14.
-- **Cooper Jr.:** there's still no imaging result on his re-injured right ankle (Jets, Nov 16). He's the next cut if it's another multi-week sprain, and NYJ also has a Week 13 bye.
-- **Skip:**
-  - Seth McGowan: 390k adds elsewhere but only 6.2 projected, and IND has a Week 13 bye.
-  - Justice Hill: BAL has a Week 13 bye.
-  - Zonovan Knight: in the ARI committee, and ARI has a Week 14 bye.
-  - Emari Demercado, Kaelon Black, Konata Mumpfield: all already rostered in your league.
+## Waivers & FAAB
+$78 left. Playoff odds 0.2%, so keep ~$40 and spend the rest freely.
 
-## Trade ideas
-These are ideas. Don't send any of them without checking the partner's needs first. At 0.2% odds, trades only matter for pride and spoiler value, so don't trade away your best WR.
+| Add | Drop | Bid | Why |
+|---|---|---|---|
+| **Aaron Jones Sr.** (RB, MIN) | Audric Estime | **$6–10** | +4.1 this week, +11.4 over Weeks 11–14. Scored last week. 0 adds in 24h, so no bidding war expected. **Medium** |
+| **KC D/ST** | LAR D/ST | **$1–3** | +12.4 this week vs a rookie QB. Fills the bye; LAR's rest-of-season value (~6/wk) is matched by KC. **Medium-high** |
+| **Jake Bates** (K, DET) | Matt Gay | **$0–1** | +1.3 this week, and covers Gay's Week 13 bye. **Low** |
+| Kimani Vidal (RB, LAC) | Audric Estime | $1–2 | Backup claim. Only processes if Jones fails. 7.7 projected vs NYJ, in a committee |
+| BUF D/ST | LAR D/ST | $1 | Backup if KC goes elsewhere. Hosts MIA, -16.5 |
 
-1. **Tyson for Breece Hall (Atticus Dean, 6-4): still worth offering, Low.**
-   - Hall had 11-41 rushing and 4-67 receiving in Week 10, and his receiving work keeps him ahead of Braelon Allen (RotoWire, Nov 15).
-   - The Jets' QB situation is a mess (Geno Smith's ankle, rookie Klubnik), and NYJ has a Week 13 bye.
-   - Atticus Dean projects only 77 this week, so a WR who plays Week 11 may tempt them.
-   - Message: _"Tyson for Hall? Tyson just had 13 targets and you need a Week 11 starter."_
-2. **Diggs for Rhamondre Stevenson or Breece Hall (engine's top two, +1.8 per week): reject.**
-   - Diggs is your top WR (20.3 last week, 30% target share). Your RB hole is fixed more cheaply with Jones.
-   - Stevenson is also on bye in Week 11.
-3. **Evans for Jonah Coleman (Monangynecologist): reject.**
-   - The engine shows +0.0 for them, and they just traded for Coleman.
-   - Evans may return this week, so you'd be selling at his lowest value.
+- **Keep Kiner** through Week 12 in case Jacobs or Judkins isn't ready.
+- **Skip** McGowan (6.2 projected, IND Week 13 bye), Justice Hill (BAL Week 13 bye), Knight (ARI committee, Week 14 bye), Bo Nix (Goff is fine).
 
-## Roster health
-- **Judkins (CLE):** bye Week 11. Back as your RB1 in Week 12 (12.3 projected), though Sampson takes a large share.
-- **Josh Jacobs:** reserve slot. GB is on bye Week 11. He had finger surgery and was given up to 3 weeks (AP, Nov 9), so **Week 12 is realistic (~60%, est.)**. Sleeper projects 8.1 for Week 12 and 15.8 for Week 13. Hold.
-- **Mike Evans:** hold. ~50% for Week 11 (est.), and more likely for Week 12. See the FLEX decision above.
-- **Davante Adams:** IR (hamstring). The Rams eye Weeks 12–13 (PFR, Nov 13), and LAR is on bye Week 11. Hold. Week 13 is the more likely return.
-- **Omar Cooper Jr.:** ~10% for Week 11 (est.). Cut him if the imaging shows a multi-week injury.
-- **Keenan Allen:** hold as your SNF pivot. He's WR4–5 for you until someone else gets hurt.
-- **Kiner:** hold through Week 12. Re-check once Jacobs' status is clear.
-- **Byes ahead:**
-  - **Week 13:** BAL, IND, LV, NYJ. That hits Gay (dropped if the Bates claim wins) and Cooper.
-  - **Week 14:** check ARI before adding Cardinals players.
+## Trades
+Engine ideas are unchanged since this morning. At 0.2% playoff odds, these are pride and spoiler moves.
+- **Evans for Jonah Coleman (Monangynecologist): reject.** They lose value in the deal (-0.2), and Evans' value is at its lowest just before a possible return.
+- **Diggs for Breece Hall or Stevenson (Atticus Dean): reject.** Diggs is your best WR, and Stevenson is on bye this week. The Jones claim fixes RB more cheaply.
+- **Still worth a try:** Tyson for Breece Hall (from this morning's check-in). **Low.**
+
+## Kicker & defense
+KC D/ST vs ARI's rookie QB is the play ($1–3), with BUF as the backup. Bates over Gay for a slightly better week and the Week 13 bye cover.
+
+## Looking ahead
+- **Week 12:** Judkins and Kiner return. Jacobs ~55% (est.). Evans more likely than this week.
+- **Week 13:** BAL, IND, LV, NYJ byes. That hits Gay (dropped if Bates wins) and Cooper.
+- **Adams:** Week 13 is the more likely return. Hold.
+- **Cooper:** cut him first if imaging shows a multi-week sprain.
 
 ## Changes since last report
-_Compared with the Tue Nov 17 6:05 AM flash._
-- **Monitor refreshed** (run 44104982701, 7:36 AM MT). Same numbers: 83.2 as set, 87.9 best, vs Bradsgay 114.9.
-- **The Jones bid moved from $5–8 to $6–10.** Playoff odds fell to 0.2%, so FAAB has almost no future value.
-- **KC D/ST is now confirmed as the top stream.** RotoBaller, FanDuel and Game Haus all rank KC No. 1 vs ARI's rookie QB. KC is now priority 2 at $1–3, and BUF is the backup.
-- **Kicker changed: Bates (DET) over Boswell (PIT).** Bates projects 8.8 vs Boswell's 8.2, and PIT's game total is only 38.5.
-- **Drops changed:** drop LAR for KC and keep Kiner, instead of dropping Kiner for BUF.
-- **Evans: ~55% → ~50%.** There's still no report of him actually practicing.
+_Compared with the Tue Nov 17 AM weekly check-in._
+- **Fresh monitor run** (44209241634, 5:40 PM MT). You 82.4 as set (was 83.2), Bradsgay 116.0 (was 114.9). Win chance as set still 17%.
+- **Lineup still unfixed:** Judkins and LAR D/ST still in the starting lineup.
+- **Evans: ~50% → ~45%.** Shanahan's "just not sure yet" and Lynch's playoffs focus point to caution. No practice yet.
+- **Jones confirmed:** TD in Week 10, still unclaimed. Bid unchanged.
+- **Jacobs, Adams, Cooper:** no new reports since the morning.
+- **Claims and bids unchanged.**
 
 ## Sources
-- Sleeper league data via monitor (`data/latest.json`, 2026-11-17T14:36Z; fresh run 44104982701 succeeded)
-- [Yahoo/HEAVY: 49ers injury update on Mike Evans (Nov 16)](https://sports.yahoo.com/articles/49ers-injury-wr-mike-evans-012031760.html)
-- [Yahoo/USA Today: Evans may be available for Week 11 (Nov 16)](https://sports.yahoo.com/articles/mike-evans-may-available-week-222422433.html)
-- [TWSN: 49ers eye Evans' return to practice (Nov 16)](https://twsn.net/2026/11/16/san-francisco-49ers-eye-mike-evans-return-to-practice-ahead-of-vikings-game)
-- [Fox Sports: Mike Evans news](https://www.foxsports.com/nfl/mike-evans-player) — RotoWire and Garafolo notes
-- [Fox Sports: Omar Cooper Jr. news](https://www.foxsports.com/nfl/omar-cooper-player) — imaging Monday, "hard-pressed" to play
-- [CBS: Cooper headed for imaging on ankle (Nov 16)](https://www.cbssports.com/fantasy/football/news/jets-omar-cooper-headed-for-imaging-on-ankle/)
+- Sleeper league data via monitor (`data/latest.json`, 2026-11-18T00:40Z; fresh run 44209241634 succeeded)
+- [Yahoo/NY Post: 49ers make necessary Mike Evans move (Nov 17)](https://sports.yahoo.com/articles/49ers-necessary-mike-evans-move-013557845.html)
+- [CBS/RotoWire: Mike Evans poised to practice this week (Nov 16)](https://www.cbssports.com/fantasy/football/news/49ers-mike-evans-poised-to-practice-this-week/)
+- [SI Jets On SI: Jets injury outlook to begin Week 11 (Nov 17)](https://www.si.com/nfl/jets/onsi/breaking-down-jets-injury-outlook-begin-week-11-who-s-hurt-who-could-return-chargers-01m7knyn4he8)
+- [Fox Sports/RotoWire: Omar Cooper Jr. news (Nov 17)](https://www.foxsports.com/nfl/omar-cooper-player)
+- [FantasyPros: Aaron Jones Sr. news (Nov 17)](https://www.fantasypros.com/nfl/players/aaron-jones.php)
+- [Heavy: Jacobs targets Week 12 return (Nov 15)](https://heavy.com/sports/nfl/green-bay-packers/packers-josh-jacobs-finger-surgery-return-week-12/)
+- [RotoBaller: Jacobs could return vs Rams in Week 12 (Nov 15)](https://www.rotoballer.com/player-news/josh-jacobs-targeting-week-12-return/1994469)
+- [Athlon: Jacobs return target after surgery (Nov 14)](https://athlonsports.com/nfl/packers-josh-jacobs-finger-surgery-return-timeline)
+- [Draft Sharks: Tyson eased in for first game back (Nov 9)](https://www.draftsharks.com/fantasy-football-news/84080/jordyn-tyson-eased-in-for-first-game-back-from-hamstring-injury)
 - [RotoWire: Rico Dowdle news (Nov 15)](https://www.rotowire.com/football/player/rico-dowdle-14657)
-- [RotoWire: Breece Hall news (Nov 15)](https://www.rotowire.com/football/player/breece-hall-15810)
-- [Covers: Week 11 odds and lines (as of Nov 16)](https://www.covers.com/nfl/week-11-odds-opening-lines-2026)
-- [RotoBaller: Week 11 DEF streamers and rankings (Nov 16)](https://www.rotoballer.com/week-11-defense-def-streamers-starters-and-rankings-2026-fantasy-tiers-rankings/1995734)
-- [RotoBaller: Defenses to start in Week 11 (Nov 12)](https://www.rotoballer.com/defenses-def-to-start-in-week-11-2026-best-fantasy-football-streaming-options/1990781)
-- [FanDuel: 3 defenses to stream in Week 11 (Nov 16)](https://www.fanduel.com/research/fantasy-football-3-defenses-to-stream-for-nfl-week-11)
-- [The Game Haus: defenses to stream in Week 11 (Nov 16)](https://thegamehaus.com/fantasy-football/fantasy-football-defenses-to-stream-week-11/2026/11/16/)
-- [RotoBaller: Week 11 FAAB advice](https://www.rotoballer.com/faab-waiver-wire-advice-week-11-fantasy-pickups-2026/1995747)
-- [NFL.com: Week 11 waiver wire](https://www.nfl.com/news/2026-nfl-fantasy-football-waiver-wire-week-11-wr-keenan-allen-rb-seth-mcgowan-among-top-targets)
-- [Fantasy Six Pack: Week 11 waiver pickups (Nov 16)](https://fantasysixpack.net/2026-fantasy-football-waiver-wire-week-11/)
-- [Sun Papers/AP: Jacobs out up to three weeks (Nov 9)](https://thesunpapers.com/2026/11/09/packers-running-back-josh-jacobs-to-have-finger-surgery-out-up-to-three-weeks/)
+- [Covers: Week 11 odds (as of Nov 16; couldn't be refetched this run)](https://www.covers.com/nfl/week-11-odds-opening-lines-2026)
 - [PFR: Adams return in play Weeks 12–13 (Nov 13)](https://www.profootballrumors.com/2026/11/rams-will-not-place-puka-nacua-on-ir-week-13-davante-adams-return-in-play)
-- Note: player news pages on Fox Sports and CBS for Moore, Diggs, Kittle, Goff, Tyson and Aaron Jones couldn't be fetched this run. Their health calls rest on Sleeper (no injury tags as of 7:36 AM MT) and the Nov 16 reports.
+- Note: no fresh 2026 news found today for Goff, Moore, Diggs, Kittle or Tyson. Their calls rest on Sleeper (no injury tags as of 5:40 PM MT). Odds are from the Nov 16 Covers page, since it couldn't be fetched this run.
