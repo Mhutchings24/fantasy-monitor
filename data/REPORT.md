@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-18T15:21:29Z UTC
+Week 11 · record 3-7 · updated 2026-11-18T15:26:33Z UTC
 
 ## Lineup check
 Current lineup projects **82.3**, best possible **87.3**.
@@ -18,15 +18,15 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 |---|---|---|---|---|---|---|
 | Jordan Mason | RB | MIN | Audric Estime | +13.2 | +4.2 | 0 |
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +11.4 | +4.0 | 0 |
-| Zonovan Knight | RB | ARI | Audric Estime | +3.5 | +2.5 | 0 |
-| Samaje Perine | RB | CIN | Audric Estime | +3.3 | +2.9 | 153,528 |
+| Zonovan Knight | RB | ARI | Audric Estime | +3.7 | +2.7 | 0 |
+| Samaje Perine | RB | CIN | Audric Estime | +3.3 | +2.9 | 155,404 |
 | Tyjae Spears | RB | TEN | Audric Estime | +2.8 | +2.8 | 0 |
 | Drake Maye (Out) | QB | NE | Corey Kiner | +2.7 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.7 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +2.6 | +2.6 | 284,130 |
+| Justice Hill | RB | BAL | Audric Estime | +2.6 | +2.6 | 286,461 |
 | Kimani Vidal | RB | LAC | Audric Estime | +2.2 | +2.2 | 0 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 116,736 |
-| Kenny Gainwell | RB | TB | Audric Estime | +1.5 | +1.5 | 205,696 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 117,848 |
+| Kenny Gainwell | RB | TB | Audric Estime | +1.5 | +1.5 | 207,000 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +1.2 | +1.2 | 0 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+12.4 pts this week)
@@ -41,7 +41,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 6 | 125.4 | 97% |
+| 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 6 | 125.3 | 97% |
 | 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 3 | 126.8 | 96% |
 | 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 4 | 126.5 | 99% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 129.3 | 95% |
