@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-18T15:26:33Z UTC
+Week 11 · record 3-7 · updated 2026-11-18T15:31:38Z UTC
 
 ## Lineup check
 Current lineup projects **82.3**, best possible **87.3**.
@@ -16,7 +16,6 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Jordan Mason | RB | MIN | Audric Estime | +13.2 | +4.2 | 0 |
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +11.4 | +4.0 | 0 |
 | Zonovan Knight | RB | ARI | Audric Estime | +3.7 | +2.7 | 0 |
 | Samaje Perine | RB | CIN | Audric Estime | +3.3 | +2.9 | 155,404 |
@@ -28,6 +27,7 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 | Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 117,848 |
 | Kenny Gainwell | RB | TB | Audric Estime | +1.5 | +1.5 | 207,000 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +1.2 | +1.2 | 0 |
+| Woody Marks (Doubtful) | RB | HOU | Corey Kiner | +1.1 | +0.0 | 0 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+12.4 pts this week)
 
@@ -60,9 +60,9 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Likely** · Give Mike Evans, get Jaylen Warren from Monangynecologist: +3.4 pts/week for you, +0.3 for them.
 - **Likely** · Give Stefon Diggs, get Breece Hall from Atticus Dean: +2.5 pts/week for you, +1.8 for them.
 - **Possible** · Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +3.1 pts/week for you, -0.5 for them.
+- **Likely** · Give Stefon Diggs, get Jordan Mason from Glizzy Globbler : +1.3 pts/week for you, +0.4 for them.
 - **Possible** · Give DJ Moore, get Ollie Gordon II from Bradsbaconisundercooked: +2.5 pts/week for you, -0.2 for them.
 - **Likely** · Give Mike Evans, get Ollie Gordon II from Bradsbaconisundercooked: +1.0 pts/week for you, +1.3 for them.
-- **Possible** · Give DJ Moore, get Tony Pollard from I’m stuck Step Burrow: +2.2 pts/week for you, -0.5 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 11 | Wk 12 | Wk 13 | Wk 14 |
