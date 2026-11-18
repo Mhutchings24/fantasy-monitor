@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-18T00:45:33Z UTC
+Week 11 · record 3-7 · updated 2026-11-18T00:50:39Z UTC
 
 ## Lineup check
 Current lineup projects **82.4**, best possible **87.1**.
@@ -18,15 +18,15 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +11.4 | +4.1 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +3.5 | +3.0 | 0 |
 | Zonovan Knight | RB | ARI | Audric Estime | +3.5 | +2.5 | 0 |
-| Samaje Perine | RB | CIN | Audric Estime | +3.0 | +2.8 | 86,140 |
+| Samaje Perine | RB | CIN | Audric Estime | +3.0 | +2.8 | 86,972 |
 | Tyjae Spears | RB | TEN | Audric Estime | +2.9 | +2.9 | 0 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.6 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 198,432 |
+| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 200,367 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +2.0 | +2.0 | 0 |
-| Bo Nix | QB | DEN | Corey Kiner | +1.8 | +1.2 | 322,470 |
-| Kenny Gainwell | RB | TB | Audric Estime | +1.6 | +1.6 | 134,072 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 95,552 |
-| Seth McGowan | RB | IND | Audric Estime | +1.5 | +1.5 | 696,200 |
+| Bo Nix | QB | DEN | Corey Kiner | +1.8 | +1.2 | 325,608 |
+| Kenny Gainwell | RB | TB | Audric Estime | +1.6 | +1.6 | 135,312 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 96,408 |
+| Seth McGowan | RB | IND | Audric Estime | +1.5 | +1.5 | 702,488 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+12.4 pts this week)
 
@@ -47,7 +47,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 5 | 121.5 | 60% |
 | 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 116.9 | 55% |
 | 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 6 | 120.2 | 39% |
-| 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 130.3 | 46% |
+| 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 129.7 | 45% |
 | 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 8 | 118.6 | 12% |
 | 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 101.2 | 0% |
 
