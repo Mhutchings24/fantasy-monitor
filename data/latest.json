@@ -1,5 +1,5 @@
 {
- "content_hash": "a32106c52cdb914d198eb747cf58be9b8ad05f46",
+ "content_hash": "27422800b8ab65a79fab8ed6fae5ebab64d9946b",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -10,7 +10,7 @@
    "adds_24h": 360564,
    "name": "Bo Nix",
    "pos": "QB",
-   "proj_4wk": 71.0,
+   "proj_4wk": 70.9,
    "proj_this_week": 17.89,
    "status": null,
    "team": "DEN"
@@ -19,7 +19,7 @@
    "adds_24h": 0,
    "name": "Aaron Rodgers",
    "pos": "QB",
-   "proj_4wk": 62.2,
+   "proj_4wk": 62.1,
    "proj_this_week": 17.26,
    "status": null,
    "team": "PIT"
@@ -151,15 +151,6 @@
    "team": "MIA"
   },
   {
-   "adds_24h": 71766,
-   "name": "Khalil Shakir",
-   "pos": "WR",
-   "proj_4wk": 39.6,
-   "proj_this_week": 10.28,
-   "status": null,
-   "team": "BUF"
-  },
-  {
    "adds_24h": 142029,
    "name": "Brenton Strange",
    "pos": "TE",
@@ -167,6 +158,15 @@
    "proj_this_week": 9.15,
    "status": null,
    "team": "JAX"
+  },
+  {
+   "adds_24h": 71766,
+   "name": "Khalil Shakir",
+   "pos": "WR",
+   "proj_4wk": 39.6,
+   "proj_this_week": 10.28,
+   "status": null,
+   "team": "BUF"
   },
   {
    "adds_24h": 0,
@@ -298,7 +298,7 @@
    "adds_24h": 183186,
    "name": "Courtland Sutton",
    "pos": "WR",
-   "proj_4wk": 33.0,
+   "proj_4wk": 32.9,
    "proj_this_week": 7.99,
    "status": null,
    "team": "DEN"
@@ -548,21 +548,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Darnell Washington",
-   "pos": "TE",
-   "proj_4wk": 27.4,
-   "proj_this_week": 6.9,
-   "status": null,
-   "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
    "name": "Kimani Vidal",
    "pos": "RB",
    "proj_4wk": 27.3,
    "proj_this_week": 6.9,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "proj_4wk": 27.3,
+   "proj_this_week": 6.9,
+   "status": null,
+   "team": "PIT"
   },
   {
    "adds_24h": 0,
@@ -799,7 +799,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-18T02:43:53Z",
+ "generated_at": "2026-11-18T02:48:57Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1028,7 +1028,7 @@
     "proj_avg": 123.2,
     "proj_by_week": {
      "11": 111.34,
-     "12": 128.09,
+     "12": 128.07,
      "13": 126.8,
      "14": 126.75
     },
@@ -1049,7 +1049,7 @@
     "proj_avg": 119.7,
     "proj_by_week": {
      "11": 77.22,
-     "12": 139.22,
+     "12": 139.29,
      "13": 119.33,
      "14": 143.07
     },
@@ -1067,10 +1067,10 @@
     "pf": 1378.72,
     "playoff_odds": 0.99,
     "power_rank": 3,
-    "proj_avg": 126.0,
+    "proj_avg": 126.1,
     "proj_by_week": {
      "11": 124.14,
-     "12": 137.38,
+     "12": 137.43,
      "13": 122.87,
      "14": 119.79
     },
@@ -1128,7 +1128,7 @@
     "mine": false,
     "pa": 1293.6,
     "pf": 1206.58,
-    "playoff_odds": 0.54,
+    "playoff_odds": 0.539,
     "power_rank": 9,
     "proj_avg": 116.9,
     "proj_by_week": {
@@ -1151,10 +1151,10 @@
     "pf": 1150.76,
     "playoff_odds": 0.392,
     "power_rank": 6,
-    "proj_avg": 120.2,
+    "proj_avg": 120.3,
     "proj_by_week": {
      "11": 113.93,
-     "12": 130.0,
+     "12": 130.1,
      "13": 112.02,
      "14": 125.01
     },
@@ -1217,7 +1217,7 @@
     "proj_avg": 101.2,
     "proj_by_week": {
      "11": 87.04,
-     "12": 106.8,
+     "12": 106.87,
      "13": 102.91,
      "14": 108.05
     },
@@ -1283,7 +1283,7 @@
    "pos": "RB",
    "proj_by_week": {
     "11": 8.44,
-    "12": 8.09,
+    "12": 8.16,
     "13": 8.32,
     "14": 7.74
    },
@@ -1343,7 +1343,7 @@
    "pos": "WR",
    "proj_by_week": {
     "11": 13.16,
-    "12": 12.36,
+    "12": 12.34,
     "13": 13.74,
     "14": 13.08
    },
@@ -1624,7 +1624,7 @@
    "likelihood": "Likely",
    "partner": "Atticus Dean",
    "partner_roster_id": 10,
-   "summary": "Give Stefon Diggs, get Breece Hall from Atticus Dean: +1.9 pts/week for you, +0.7 for them.",
+   "summary": "Give Stefon Diggs, get Breece Hall from Atticus Dean: +1.8 pts/week for you, +0.7 for them.",
    "their_gain_per_week": 0.7,
    "value_ratio": 0.82,
    "why_them": [
@@ -1634,7 +1634,7 @@
     "Breece Hall would start 6 of 7 weeks for you",
     "Stefon Diggs starts 6 of 7 weeks for you"
    ],
-   "your_gain_per_week": 1.9
+   "your_gain_per_week": 1.8
   },
   {
    "get": [
@@ -1769,7 +1769,7 @@
    "likelihood": "Possible",
    "partner": "I’m stuck Step Burrow",
    "partner_roster_id": 8,
-   "summary": "Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +2.5 pts/week for you, -0.3 for them.",
+   "summary": "Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +2.4 pts/week for you, -0.3 for them.",
    "their_gain_per_week": -0.3,
    "value_ratio": 0.97,
    "why_them": [
@@ -1780,7 +1780,7 @@
     "Tony Pollard would start 7 of 7 weeks for you",
     "Stefon Diggs starts 6 of 7 weeks for you"
    ],
-   "your_gain_per_week": 2.5
+   "your_gain_per_week": 2.4
   },
   {
    "get": [
@@ -1825,7 +1825,7 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 4.0,
-   "gain_window": 11.31,
+   "gain_window": 11.24,
    "name": "Aaron Jones Sr.",
    "pid": "4199",
    "pos": "RB",
@@ -1844,7 +1844,7 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 2.46,
-   "gain_window": 3.49,
+   "gain_window": 3.42,
    "name": "Zonovan Knight",
    "pid": "8122",
    "pos": "RB",
@@ -1863,7 +1863,7 @@
    "drop": "11579",
    "drop_name": "Audric Estime",
    "gain_this_week": 2.74,
-   "gain_window": 3.03,
+   "gain_window": 2.96,
    "name": "Samaje Perine",
    "pid": "4147",
    "pos": "RB",
@@ -1901,7 +1901,7 @@
    "drop": "12491",
    "drop_name": "Corey Kiner",
    "gain_this_week": 0.0,
-   "gain_window": 2.61,
+   "gain_window": 2.54,
    "name": "Dylan Sampson",
    "pid": "12469",
    "pos": "RB",
@@ -1964,7 +1964,7 @@
    "pos": "QB",
    "proj_by_week": {
     "11": 17.89,
-    "12": 15.95,
+    "12": 15.91,
     "13": 19.33,
     "14": 17.78
    },
@@ -2034,7 +2034,7 @@
    "drop": "12491",
    "drop_name": "Corey Kiner",
    "gain_this_week": 0.0,
-   "gain_window": 1.08,
+   "gain_window": 1.01,
    "name": "Woody Marks",
    "pid": "12474",
    "pos": "RB",
