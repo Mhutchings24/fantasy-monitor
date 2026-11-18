@@ -1,5 +1,5 @@
 {
- "content_hash": "7255bdbdfd9a49b6b6b8811ba8d8646c3cfa760c",
+ "content_hash": "8c308d0970c0fe45dd42524ac6114da949ed03c8",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -16,7 +16,7 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 84440,
+   "adds_24h": 85684,
    "name": "Aaron Rodgers",
    "pos": "QB",
    "proj_4wk": 61.8,
@@ -43,7 +43,7 @@
    "team": "NYG"
   },
   {
-   "adds_24h": 84424,
+   "adds_24h": 85272,
    "name": "Joe Milton",
    "pos": "QB",
    "proj_4wk": 56.3,
@@ -79,7 +79,7 @@
    "team": "NYJ"
   },
   {
-   "adds_24h": 76176,
+   "adds_24h": 76808,
    "name": "Deshaun Watson",
    "pos": "QB",
    "proj_4wk": 45.2,
@@ -107,6 +107,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Jordan Mason",
+   "pos": "RB",
+   "proj_4wk": 42.0,
+   "proj_this_week": 8.85,
+   "status": null,
+   "team": "MIN"
+  },
+  {
+   "adds_24h": 0,
    "name": "Dallas Goedert",
    "pos": "TE",
    "proj_4wk": 42.0,
@@ -115,7 +124,7 @@
    "team": "PHI"
   },
   {
-   "adds_24h": 105392,
+   "adds_24h": 106672,
    "name": "Fernando Mendoza",
    "pos": "QB",
    "proj_4wk": 41.4,
@@ -151,7 +160,7 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 93888,
+   "adds_24h": 95094,
    "name": "Khalil Shakir",
    "pos": "WR",
    "proj_4wk": 39.6,
@@ -160,20 +169,11 @@
    "team": "BUF"
   },
   {
-   "adds_24h": 106064,
+   "adds_24h": 107000,
    "name": "Malik Washington",
    "pos": "WR",
    "proj_4wk": 39.5,
    "proj_this_week": 8.95,
-   "status": null,
-   "team": "MIA"
-  },
-  {
-   "adds_24h": 258904,
-   "name": "Caleb Douglas",
-   "pos": "WR",
-   "proj_4wk": 39.5,
-   "proj_this_week": 8.94,
    "status": null,
    "team": "MIA"
   },
@@ -187,7 +187,7 @@
    "team": "JAX"
   },
   {
-   "adds_24h": 816056,
+   "adds_24h": 822084,
    "name": "Elic Ayomanor",
    "pos": "WR",
    "proj_4wk": 37.6,
@@ -241,7 +241,7 @@
    "team": "TB"
   },
   {
-   "adds_24h": 197001,
+   "adds_24h": 199197,
    "name": "Darren Waller",
    "pos": "TE",
    "proj_4wk": 34.4,
@@ -250,7 +250,7 @@
    "team": "CAR"
   },
   {
-   "adds_24h": 100456,
+   "adds_24h": 102128,
    "name": "Jake Bates",
    "pos": "K",
    "proj_4wk": 34.3,
@@ -295,7 +295,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 99052,
+   "adds_24h": 100172,
    "name": "Mike Gesicki",
    "pos": "TE",
    "proj_4wk": 33.4,
@@ -304,7 +304,7 @@
    "team": "CIN"
   },
   {
-   "adds_24h": 251433,
+   "adds_24h": 253620,
    "name": "Courtland Sutton",
    "pos": "WR",
    "proj_4wk": 32.9,
@@ -340,7 +340,7 @@
    "team": "PIT"
   },
   {
-   "adds_24h": 480025,
+   "adds_24h": 486549,
    "name": "Cairo Santos",
    "pos": "K",
    "proj_4wk": 31.8,
@@ -358,7 +358,7 @@
    "team": "MIA"
   },
   {
-   "adds_24h": 76667,
+   "adds_24h": 77224,
    "name": "DEN D/ST",
    "pos": "DEF",
    "proj_4wk": 31.6,
@@ -439,7 +439,7 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 158720,
+   "adds_24h": 160864,
    "name": "Samaje Perine",
    "pos": "RB",
    "proj_4wk": 29.7,
@@ -457,7 +457,7 @@
    "team": "KC"
   },
   {
-   "adds_24h": 92376,
+   "adds_24h": 93627,
    "name": "Joey Slye",
    "pos": "K",
    "proj_4wk": 29.0,
@@ -493,7 +493,7 @@
    "team": "KC"
   },
   {
-   "adds_24h": 145107,
+   "adds_24h": 146276,
    "name": "CHI D/ST",
    "pos": "DEF",
    "proj_4wk": 28.1,
@@ -539,21 +539,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Darnell Washington",
-   "pos": "TE",
-   "proj_4wk": 27.2,
-   "proj_this_week": 6.88,
-   "status": null,
-   "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
    "name": "CIN D/ST",
    "pos": "DEF",
    "proj_4wk": 27.2,
    "proj_this_week": 6.54,
    "status": null,
    "team": "CIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "proj_4wk": 27.2,
+   "proj_this_week": 6.88,
+   "status": null,
+   "team": "PIT"
   },
   {
    "adds_24h": 0,
@@ -601,7 +601,7 @@
    "team": "NE"
   },
   {
-   "adds_24h": 1074798,
+   "adds_24h": 1087623,
    "name": "DET D/ST",
    "pos": "DEF",
    "proj_4wk": 26.2,
@@ -647,21 +647,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "CAR D/ST",
-   "pos": "DEF",
-   "proj_4wk": 24.7,
-   "proj_this_week": 7.39,
-   "status": null,
-   "team": "CAR"
-  },
-  {
-   "adds_24h": 0,
    "name": "Woody Marks",
    "pos": "RB",
    "proj_4wk": 24.7,
    "proj_this_week": 0.0,
    "status": "Doubtful",
    "team": "HOU"
+  },
+  {
+   "adds_24h": 0,
+   "name": "CAR D/ST",
+   "pos": "DEF",
+   "proj_4wk": 24.7,
+   "proj_this_week": 7.39,
+   "status": null,
+   "team": "CAR"
   },
   {
    "adds_24h": 0,
@@ -709,7 +709,7 @@
    "team": "NYG"
   },
   {
-   "adds_24h": 190360,
+   "adds_24h": 192144,
    "name": "Kenny Gainwell",
    "pos": "RB",
    "proj_4wk": 23.9,
@@ -727,7 +727,7 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 264609,
+   "adds_24h": 267372,
    "name": "Justice Hill",
    "pos": "RB",
    "proj_4wk": 20.8,
@@ -736,7 +736,7 @@
    "team": "BAL"
   },
   {
-   "adds_24h": 227511,
+   "adds_24h": 229248,
    "name": "Gavin Bartholomew",
    "pos": "TE",
    "proj_4wk": 8.1,
@@ -745,7 +745,7 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 113084,
+   "adds_24h": 114076,
    "name": "Jalon Daniels",
    "pos": "QB",
    "proj_4wk": 13.2,
@@ -754,7 +754,7 @@
    "team": "TB"
   },
   {
-   "adds_24h": 105976,
+   "adds_24h": 107088,
    "name": "Alvin Kamara",
    "pos": "RB",
    "proj_4wk": 23.4,
@@ -763,7 +763,7 @@
    "team": "NO"
   },
   {
-   "adds_24h": 78972,
+   "adds_24h": 79452,
    "name": "Tre' Harris",
    "pos": "WR",
    "proj_4wk": 20.5,
@@ -772,7 +772,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-18T18:49:24Z",
+ "generated_at": "2026-11-18T19:13:03Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1487,7 +1487,7 @@
    "status": null,
    "stream": true,
    "team": "DET",
-   "trending_adds_24h": 100456
+   "trending_adds_24h": 102128
   }
  ],
  "team": {
@@ -1680,43 +1680,6 @@
   {
    "get": [
     {
-     "name": "Jordan Mason",
-     "pid": "8408",
-     "pos": "RB",
-     "ros_per_week": 10.3,
-     "status": null,
-     "team": "MIN"
-    }
-   ],
-   "give": [
-    {
-     "name": "Stefon Diggs",
-     "pid": "2449",
-     "pos": "WR",
-     "ros_per_week": 12.6,
-     "status": null,
-     "team": "WAS"
-    }
-   ],
-   "likelihood": "Likely",
-   "partner": "Glizzy Globbler ",
-   "partner_roster_id": 2,
-   "summary": "Give Stefon Diggs, get Jordan Mason from Glizzy Globbler : +1.3 pts/week for you, +0.4 for them.",
-   "their_gain_per_week": 0.4,
-   "value_ratio": 0.82,
-   "why_them": [
-    "Stefon Diggs would start 1 of 7 weeks for them",
-    "Jordan Mason only starts 0 of 7 weeks on their roster"
-   ],
-   "why_you": [
-    "Jordan Mason would start 7 of 7 weeks for you",
-    "Stefon Diggs starts 6 of 7 weeks for you"
-   ],
-   "your_gain_per_week": 1.3
-  },
-  {
-   "get": [
-    {
      "name": "Ollie Gordon II",
      "pid": "12495",
      "pos": "RB",
@@ -1785,9 +1748,65 @@
     "Mike Evans starts 7 of 7 weeks for you"
    ],
    "your_gain_per_week": 1.0
+  },
+  {
+   "get": [
+    {
+     "name": "Tony Pollard",
+     "pid": "5967",
+     "pos": "RB",
+     "ros_per_week": 12.2,
+     "status": null,
+     "team": "TEN"
+    }
+   ],
+   "give": [
+    {
+     "name": "DJ Moore",
+     "pid": "4983",
+     "pos": "WR",
+     "ros_per_week": 13.4,
+     "status": null,
+     "team": "BUF"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "I’m stuck Step Burrow",
+   "partner_roster_id": 8,
+   "summary": "Give DJ Moore, get Tony Pollard from I’m stuck Step Burrow: +2.2 pts/week for you, -0.5 for them.",
+   "their_gain_per_week": -0.5,
+   "value_ratio": 0.91,
+   "why_them": [
+    "DJ Moore would start 1 of 7 weeks for them",
+    "Tony Pollard only starts 3 of 7 weeks on their roster"
+   ],
+   "why_you": [
+    "Tony Pollard would start 7 of 7 weeks for you",
+    "DJ Moore starts 7 of 7 weeks for you"
+   ],
+   "your_gain_per_week": 2.2
   }
  ],
  "waivers": [
+  {
+   "drop": "11579",
+   "drop_name": "Audric Estime",
+   "gain_this_week": 4.14,
+   "gain_window": 13.18,
+   "name": "Jordan Mason",
+   "pid": "8408",
+   "pos": "RB",
+   "proj_by_week": {
+    "11": 8.85,
+    "12": 11.43,
+    "13": 11.39,
+    "14": 10.33
+   },
+   "status": null,
+   "stream": false,
+   "team": "MIN",
+   "trending_adds_24h": 0
+  },
   {
    "drop": "11579",
    "drop_name": "Audric Estime",
@@ -1843,7 +1862,7 @@
    "status": null,
    "stream": false,
    "team": "CIN",
-   "trending_adds_24h": 158720
+   "trending_adds_24h": 160864
   },
   {
    "drop": "11579",
@@ -1919,7 +1938,7 @@
    "status": null,
    "stream": false,
    "team": "BAL",
-   "trending_adds_24h": 264609
+   "trending_adds_24h": 267372
   },
   {
    "drop": "11579",
@@ -1957,7 +1976,7 @@
    "status": null,
    "stream": false,
    "team": "NO",
-   "trending_adds_24h": 105976
+   "trending_adds_24h": 107088
   },
   {
    "drop": "11579",
@@ -1976,7 +1995,7 @@
    "status": null,
    "stream": false,
    "team": "TB",
-   "trending_adds_24h": 190360
+   "trending_adds_24h": 192144
   },
   {
    "drop": "11579",
@@ -1995,25 +2014,6 @@
    "status": null,
    "stream": false,
    "team": "LAC",
-   "trending_adds_24h": 0
-  },
-  {
-   "drop": "12491",
-   "drop_name": "Corey Kiner",
-   "gain_this_week": 0.0,
-   "gain_window": 1.12,
-   "name": "Woody Marks",
-   "pid": "12474",
-   "pos": "RB",
-   "proj_by_week": {
-    "11": 0.0,
-    "12": 8.19,
-    "13": 7.77,
-    "14": 8.72
-   },
-   "status": "Doubtful",
-   "stream": false,
-   "team": "HOU",
    "trending_adds_24h": 0
   }
  ],

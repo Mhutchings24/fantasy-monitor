@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-18T18:49:24Z UTC
+Week 11 · record 3-7 · updated 2026-11-18T19:13:03Z UTC
 
 ## Lineup check
 Current lineup projects **82.2**, best possible **87.3**.
@@ -16,18 +16,18 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
+| Jordan Mason | RB | MIN | Audric Estime | +13.2 | +4.1 | 0 |
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +11.4 | +4.0 | 0 |
 | Zonovan Knight | RB | ARI | Audric Estime | +3.5 | +2.4 | 0 |
-| Samaje Perine | RB | CIN | Audric Estime | +3.3 | +2.9 | 158,720 |
+| Samaje Perine | RB | CIN | Audric Estime | +3.3 | +2.9 | 160,864 |
 | Tyjae Spears | RB | TEN | Audric Estime | +2.8 | +2.8 | 0 |
 | Drake Maye (Out) | QB | NE | Corey Kiner | +2.7 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.6 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 264,609 |
+| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 267,372 |
 | Kimani Vidal | RB | LAC | Audric Estime | +2.2 | +2.2 | 0 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 105,976 |
-| Kenny Gainwell | RB | TB | Audric Estime | +1.5 | +1.5 | 190,360 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 107,088 |
+| Kenny Gainwell | RB | TB | Audric Estime | +1.5 | +1.5 | 192,144 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +1.2 | +1.2 | 0 |
-| Woody Marks (Doubtful) | RB | HOU | Corey Kiner | +1.1 | +0.0 | 0 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+12.3 pts this week)
 
@@ -60,9 +60,9 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Likely** · Give Mike Evans, get Jaylen Warren from Monangynecologist: +3.4 pts/week for you, +0.3 for them.
 - **Likely** · Give Stefon Diggs, get Breece Hall from Atticus Dean: +2.5 pts/week for you, +1.8 for them.
 - **Possible** · Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +3.1 pts/week for you, -0.5 for them.
-- **Likely** · Give Stefon Diggs, get Jordan Mason from Glizzy Globbler : +1.3 pts/week for you, +0.4 for them.
 - **Possible** · Give DJ Moore, get Ollie Gordon II from Bradsbaconisundercooked: +2.5 pts/week for you, -0.3 for them.
 - **Likely** · Give Mike Evans, get Ollie Gordon II from Bradsbaconisundercooked: +1.0 pts/week for you, +1.3 for them.
+- **Possible** · Give DJ Moore, get Tony Pollard from I’m stuck Step Burrow: +2.2 pts/week for you, -0.5 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 11 | Wk 12 | Wk 13 | Wk 14 |
