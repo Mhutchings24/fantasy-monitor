@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 11
+- [Wed Nov 18 · Flash 09:04](2026/week-11/2026-11-18-flash-0904.md) — Evans/Cooper moved Out→Q (routine reset, no new news); keep Tyson at FLEX. Claims haven't hit yet (Jones, Mason, KC, Bates still free): start Estime over Judkins now, check waivers this morning, and add directly if they lost.
 - [Tue Nov 17 · PM](2026/week-11/2026-11-17-pm.md) — Lineup still starts Judkins/LAR (bye): start Estime now. File claims tonight: Aaron Jones $6–10 (drop Estime), KC D/ST $1–3 (drop LAR), Bates $0–1 (drop Gay). Evans ~45%, keep Tyson at FLEX.
 - [Tue Nov 17 · Weekly](2026/week-11/2026-11-17-weekly.md) — Start Estime over Judkins now. Claims: Aaron Jones $6–10 (drop Estime), KC D/ST $1–3 (drop LAR), Bates $0–1 (drop Gay). ~35–40% win chance vs Bradsgay after claims; playoff odds 0.2%.
 - [Tue Nov 17 · Flash 06:05](2026/week-11/2026-11-17-flash-0605.md) — Week 11: Judkins and LAR D/ST are on bye in your lineup. Start Estime now; claim Aaron Jones $5–8 (drop Estime), KC D/ST $1 ahead of BUF (drop LAR), Boswell $0–1. 17% win chance as set.
