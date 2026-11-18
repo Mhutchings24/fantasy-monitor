@@ -1,5 +1,5 @@
 {
- "content_hash": "46ee81802e840fa4983ecc2fe3e5d2451a239ecf",
+ "content_hash": "eb0c220aedccc5959074e20c1066a7a1f402d44b",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -107,21 +107,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Dallas Goedert",
-   "pos": "TE",
-   "proj_4wk": 42.0,
-   "proj_this_week": 9.89,
-   "status": null,
-   "team": "PHI"
-  },
-  {
-   "adds_24h": 0,
    "name": "Jordan Mason",
    "pos": "RB",
    "proj_4wk": 42.0,
    "proj_this_week": 8.85,
    "status": null,
    "team": "MIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Dallas Goedert",
+   "pos": "TE",
+   "proj_4wk": 42.0,
+   "proj_this_week": 9.89,
+   "status": null,
+   "team": "PHI"
   },
   {
    "adds_24h": 98856,
@@ -772,7 +772,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-18T14:35:10Z",
+ "generated_at": "2026-11-18T14:37:06Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
