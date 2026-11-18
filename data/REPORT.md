@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-18T16:43:39Z UTC
+Week 11 · record 3-7 · updated 2026-11-18T16:48:45Z UTC
 
 ## Lineup check
 Current lineup projects **82.2**, best possible **87.3**.
@@ -18,14 +18,14 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 |---|---|---|---|---|---|---|
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +11.4 | +4.0 | 0 |
 | Zonovan Knight | RB | ARI | Audric Estime | +3.7 | +2.7 | 0 |
-| Samaje Perine | RB | CIN | Audric Estime | +3.3 | +2.9 | 154,952 |
+| Samaje Perine | RB | CIN | Audric Estime | +3.3 | +2.9 | 156,448 |
 | Tyjae Spears | RB | TEN | Audric Estime | +2.8 | +2.8 | 0 |
 | Drake Maye (Out) | QB | NE | Corey Kiner | +2.7 | +0.0 | 0 |
-| Dylan Sampson | RB | CLE | Corey Kiner | +2.5 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 274,995 |
+| Dylan Sampson | RB | CLE | Corey Kiner | +2.6 | +0.0 | 0 |
+| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 276,462 |
 | Kimani Vidal | RB | LAC | Audric Estime | +2.2 | +2.2 | 0 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 111,592 |
-| Kenny Gainwell | RB | TB | Audric Estime | +1.5 | +1.5 | 197,256 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 112,192 |
+| Kenny Gainwell | RB | TB | Audric Estime | +1.5 | +1.5 | 198,256 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +1.2 | +1.2 | 0 |
 | Woody Marks (Doubtful) | RB | HOU | Corey Kiner | +1.1 | +0.0 | 0 |
 
@@ -68,10 +68,10 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Player | Pos | Team | Spot | Status | Wk 11 | Wk 12 | Wk 13 | Wk 14 |
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter | BYE | 0.0 | 6.1 | 6.1 | 5.9 |
-| Matt Gay | K | LV | starter |  | 7.4 | 7.9 | 0.0 | 9.0 |
+| Matt Gay | K | LV | starter |  | 7.4 | 7.8 | 0.0 | 9.0 |
 | Jared Goff | QB | DET | starter |  | 16.7 | 20.0 | 18.8 | 19.7 |
 | Rico Dowdle | RB | PIT | starter |  | 8.4 | 8.1 | 8.3 | 7.7 |
-| Quinshon Judkins | RB | CLE | starter | BYE | 0.0 | 12.5 | 12.0 | 11.2 |
+| Quinshon Judkins | RB | CLE | starter | BYE | 0.0 | 12.6 | 12.0 | 11.2 |
 | George Kittle | TE | SF | starter |  | 12.4 | 12.6 | 14.7 | 13.9 |
 | Stefon Diggs | WR | WAS | starter |  | 13.3 | 12.9 | 13.3 | 12.3 |
 | DJ Moore | WR | BUF | starter |  | 13.2 | 12.3 | 13.7 | 13.1 |
