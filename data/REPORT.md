@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-18T23:19:38Z UTC
+Week 11 · record 3-7 · updated 2026-11-18T23:29:45Z UTC
 
 ## Lineup check
-Current lineup projects **80.1**, best possible **86.7**.
+Current lineup projects **79.0**, best possible **85.6**.
 
 - ⚠️ Quinshon Judkins (RB, CLE) is on bye
 - ⚠️ LAR D/ST (DEF, LAR) is on bye
@@ -19,22 +19,22 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 | Jordan Mason | RB | MIN | Audric Estime | +13.2 | +4.1 | 0 |
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +11.4 | +4.0 | 0 |
 | Zonovan Knight | RB | ARI | Audric Estime | +3.5 | +2.4 | 0 |
-| Samaje Perine | RB | CIN | Audric Estime | +3.2 | +2.9 | 170,016 |
+| Samaje Perine | RB | CIN | Audric Estime | +3.2 | +2.9 | 171,128 |
 | Drake Maye (Out) | QB | NE | Corey Kiner | +2.7 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.6 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 265,878 |
+| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 267,309 |
 | Kimani Vidal | RB | LAC | Audric Estime | +2.2 | +2.2 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +1.6 | +1.6 | 0 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 103,832 |
-| Kenny Gainwell | RB | TB | Audric Estime | +1.5 | +1.5 | 183,320 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 104,488 |
+| Kenny Gainwell | RB | TB | Audric Estime | +1.5 | +1.5 | 184,120 |
 | Woody Marks (Out) | RB | HOU | Corey Kiner | +1.2 | +0.0 | 0 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+12.3 pts this week)
 
-**K stream this week:** add Jake Bates for Matt Gay (+1.3 pts this week)
+**K stream this week:** add Jake Bates for Matt Gay (+2.4 pts this week)
 
 ## This week's matchup
-vs **Bradsgay** (6-4): you **80.1** – 118.5 projected · win chance **14%**
+vs **Bradsgay** (6-4): you **79.0** – 118.5 projected · win chance **13%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -50,7 +50,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 7 | 122.6 | 40% |
 | 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 134.9 | 55% |
 | 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 5 | 125.7 | 12% |
-| 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 100.9 | 0% |
+| 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 100.7 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -68,7 +68,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Player | Pos | Team | Spot | Status | Wk 11 | Wk 12 | Wk 13 | Wk 14 |
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter | BYE | 0.0 | 6.1 | 6.1 | 5.9 |
-| Matt Gay | K | LV | starter |  | 7.4 | 7.8 | 0.0 | 9.0 |
+| Matt Gay | K | LV | starter | Questionable | 6.3 | 7.8 | 0.0 | 9.0 |
 | Jared Goff | QB | DET | starter |  | 16.7 | 20.0 | 18.8 | 19.7 |
 | Rico Dowdle | RB | PIT | starter |  | 8.4 | 8.0 | 8.3 | 7.7 |
 | Quinshon Judkins | RB | CLE | starter | BYE | 0.0 | 12.7 | 12.0 | 11.2 |
