@@ -1,5 +1,5 @@
 {
- "content_hash": "8b1c896dfd4002f0b1e49d9b9b60e87686bd7335",
+ "content_hash": "41ff579ce1e02d7fbd505915620ffd1bc3d2ff98",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -638,21 +638,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Woody Marks",
-   "pos": "RB",
-   "proj_4wk": 24.7,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "HOU"
-  },
-  {
-   "adds_24h": 0,
    "name": "CAR D/ST",
    "pos": "DEF",
    "proj_4wk": 24.7,
    "proj_this_week": 7.39,
    "status": null,
    "team": "CAR"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Woody Marks",
+   "pos": "RB",
+   "proj_4wk": 24.7,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "HOU"
   },
   {
    "adds_24h": 0,
@@ -772,7 +772,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-18T21:38:59Z",
+ "generated_at": "2026-11-18T21:44:03Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
