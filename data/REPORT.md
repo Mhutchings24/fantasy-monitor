@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-18T01:53:25Z UTC
+Week 11 · record 3-7 · updated 2026-11-18T01:58:30Z UTC
 
 ## Lineup check
 Current lineup projects **82.4**, best possible **87.1**.
@@ -26,7 +26,7 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 | Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 100,032 |
 | Seth McGowan | RB | IND | Audric Estime | +1.5 | +1.5 | 736,080 |
 | Kenny Gainwell | RB | TB | Audric Estime | +1.5 | +1.5 | 144,640 |
-| Keaton Mitchell | RB | LAC | Audric Estime | +1.2 | +1.2 | 0 |
+| Woody Marks (Out) | RB | HOU | Corey Kiner | +1.1 | +0.0 | 0 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+12.4 pts this week)
 
@@ -58,10 +58,10 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Possible** · Give Mike Evans + Omar Cooper Jr., get Jonah Coleman from Monangynecologist: +3.4 pts/week for you, -0.2 for them.
 - **Likely** · Give Stefon Diggs, get Breece Hall from Atticus Dean: +1.9 pts/week for you, +0.7 for them.
 - **Likely** · Give Stefon Diggs, get Rhamondre Stevenson from Atticus Dean: +1.7 pts/week for you, +1.1 for them.
+- **Likely** · Give Jordyn Tyson, get Omarion Hampton from Glizzy Globbler : +1.1 pts/week for you, +1.4 for them.
 - **Likely** · Give Mike Evans, get Ollie Gordon II from Bradsbaconisundercooked: +1.0 pts/week for you, +0.9 for them.
 - **Possible** · Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +2.5 pts/week for you, -0.3 for them.
 - **Possible** · Give Omar Cooper Jr., get Zach Charbonnet from Gibbs me Nabers 😵‍💫: +2.2 pts/week for you, -0.4 for them.
-- **Possible** · Give Rico Dowdle, get Jordan Mason from I’m stuck Step Burrow: +1.9 pts/week for you, -0.0 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 11 | Wk 12 | Wk 13 | Wk 14 |

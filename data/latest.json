@@ -1,5 +1,5 @@
 {
- "content_hash": "f482aa5fd5db13827fe469c0f738363f3ca2e159",
+ "content_hash": "b3a8335cc8c8799d93f990b2a443c1438291d8b3",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -37,7 +37,7 @@
    "adds_24h": 0,
    "name": "Cam Ward",
    "pos": "QB",
-   "proj_4wk": 61.6,
+   "proj_4wk": 61.5,
    "proj_this_week": 16.95,
    "status": null,
    "team": "TEN"
@@ -187,6 +187,15 @@
    "team": "JAX"
   },
   {
+   "adds_24h": 422376,
+   "name": "Elic Ayomanor",
+   "pos": "WR",
+   "proj_4wk": 37.7,
+   "proj_this_week": 10.14,
+   "status": null,
+   "team": "TEN"
+  },
+  {
    "adds_24h": 0,
    "name": "Jacoby Brissett",
    "pos": "QB",
@@ -203,15 +212,6 @@
    "proj_this_week": 8.92,
    "status": null,
    "team": "ARI"
-  },
-  {
-   "adds_24h": 422376,
-   "name": "Elic Ayomanor",
-   "pos": "WR",
-   "proj_4wk": 36.4,
-   "proj_this_week": 10.14,
-   "status": null,
-   "team": "TEN"
   },
   {
    "adds_24h": 0,
@@ -403,6 +403,15 @@
    "team": "CHI"
   },
   {
+   "adds_24h": 1303722,
+   "name": "Xavier Hutchinson",
+   "pos": "WR",
+   "proj_4wk": 30.2,
+   "proj_this_week": 6.53,
+   "status": "Questionable",
+   "team": "HOU"
+  },
+  {
    "adds_24h": 0,
    "name": "Makai Lemon",
    "pos": "WR",
@@ -413,21 +422,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Ryan Fitzgerald",
-   "pos": "K",
-   "proj_4wk": 29.9,
-   "proj_this_week": 7.7,
-   "status": null,
-   "team": "CAR"
-  },
-  {
-   "adds_24h": 0,
    "name": "Wil Lutz",
    "pos": "K",
    "proj_4wk": 29.9,
    "proj_this_week": 7.77,
    "status": null,
    "team": "DEN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Ryan Fitzgerald",
+   "pos": "K",
+   "proj_4wk": 29.9,
+   "proj_this_week": 7.7,
+   "status": null,
+   "team": "CAR"
   },
   {
    "adds_24h": 0,
@@ -484,15 +493,6 @@
    "team": "KC"
   },
   {
-   "adds_24h": 0,
-   "name": "Kimani Vidal",
-   "pos": "RB",
-   "proj_4wk": 28.2,
-   "proj_this_week": 6.9,
-   "status": null,
-   "team": "LAC"
-  },
-  {
    "adds_24h": 120377,
    "name": "CHI D/ST",
    "pos": "DEF",
@@ -500,15 +500,6 @@
    "proj_this_week": 8.26,
    "status": null,
    "team": "CHI"
-  },
-  {
-   "adds_24h": 1303722,
-   "name": "Xavier Hutchinson",
-   "pos": "WR",
-   "proj_4wk": 28.0,
-   "proj_this_week": 6.53,
-   "status": "Questionable",
-   "team": "HOU"
   },
   {
    "adds_24h": 0,
@@ -563,6 +554,15 @@
    "proj_this_week": 6.9,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Kimani Vidal",
+   "pos": "RB",
+   "proj_4wk": 27.3,
+   "proj_this_week": 6.9,
+   "status": null,
+   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -647,15 +647,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Keaton Mitchell",
-   "pos": "RB",
-   "proj_4wk": 24.8,
-   "proj_this_week": 5.88,
-   "status": null,
-   "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
    "name": "WAS D/ST",
    "pos": "DEF",
    "proj_4wk": 24.8,
@@ -674,15 +665,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Woody Marks",
-   "pos": "RB",
-   "proj_4wk": 24.7,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "HOU"
-  },
-  {
-   "adds_24h": 0,
    "name": "LAC D/ST",
    "pos": "DEF",
    "proj_4wk": 24.7,
@@ -698,6 +680,15 @@
    "proj_this_week": 7.42,
    "status": null,
    "team": "CAR"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Woody Marks",
+   "pos": "RB",
+   "proj_4wk": 24.7,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "HOU"
   },
   {
    "adds_24h": 0,
@@ -808,7 +799,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-18T01:53:25Z",
+ "generated_at": "2026-11-18T01:58:30Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1037,7 +1028,7 @@
     "proj_avg": 123.2,
     "proj_by_week": {
      "11": 111.35,
-     "12": 128.01,
+     "12": 128.09,
      "13": 126.8,
      "14": 126.75
     },
@@ -1058,7 +1049,7 @@
     "proj_avg": 119.7,
     "proj_by_week": {
      "11": 77.22,
-     "12": 139.3,
+     "12": 139.22,
      "13": 119.33,
      "14": 143.07
     },
@@ -1137,7 +1128,7 @@
     "mine": false,
     "pa": 1293.6,
     "pf": 1206.58,
-    "playoff_odds": 0.54,
+    "playoff_odds": 0.541,
     "power_rank": 9,
     "proj_avg": 116.9,
     "proj_by_week": {
@@ -1158,12 +1149,12 @@
     "mine": false,
     "pa": 1107.26,
     "pf": 1150.76,
-    "playoff_odds": 0.391,
+    "playoff_odds": 0.392,
     "power_rank": 6,
     "proj_avg": 120.2,
     "proj_by_week": {
      "11": 113.95,
-     "12": 129.92,
+     "12": 130.0,
      "13": 112.02,
      "14": 125.01
     },
@@ -1205,7 +1196,7 @@
     "proj_avg": 118.6,
     "proj_by_week": {
      "11": 111.31,
-     "12": 117.84,
+     "12": 117.86,
      "13": 122.77,
      "14": 122.38
     },
@@ -1684,6 +1675,43 @@
   {
    "get": [
     {
+     "name": "Omarion Hampton",
+     "pid": "12507",
+     "pos": "RB",
+     "ros_per_week": 9.9,
+     "status": null,
+     "team": "LAC"
+    }
+   ],
+   "give": [
+    {
+     "name": "Jordyn Tyson",
+     "pid": "13281",
+     "pos": "WR",
+     "ros_per_week": 11.6,
+     "status": null,
+     "team": "NO"
+    }
+   ],
+   "likelihood": "Likely",
+   "partner": "Glizzy Globbler ",
+   "partner_roster_id": 2,
+   "summary": "Give Jordyn Tyson, get Omarion Hampton from Glizzy Globbler : +1.1 pts/week for you, +1.4 for them.",
+   "their_gain_per_week": 1.4,
+   "value_ratio": 0.85,
+   "why_them": [
+    "Jordyn Tyson would start 2 of 7 weeks for them",
+    "Omarion Hampton only starts 1 of 7 weeks on their roster"
+   ],
+   "why_you": [
+    "Omarion Hampton would start 6 of 7 weeks for you",
+    "Jordyn Tyson starts only 3 of 7 weeks for you"
+   ],
+   "your_gain_per_week": 1.1
+  },
+  {
+   "get": [
+    {
      "name": "Ollie Gordon II",
      "pid": "12495",
      "pos": "RB",
@@ -1723,7 +1751,7 @@
      "name": "Tony Pollard",
      "pid": "5967",
      "pos": "RB",
-     "ros_per_week": 12.2,
+     "ros_per_week": 12.1,
      "status": null,
      "team": "TEN"
     }
@@ -1790,43 +1818,6 @@
     "Omar Cooper Jr. starts only 0 of 7 weeks for you"
    ],
    "your_gain_per_week": 2.2
-  },
-  {
-   "get": [
-    {
-     "name": "Jordan Mason",
-     "pid": "8408",
-     "pos": "RB",
-     "ros_per_week": 10.3,
-     "status": null,
-     "team": "MIN"
-    }
-   ],
-   "give": [
-    {
-     "name": "Rico Dowdle",
-     "pid": "7021",
-     "pos": "RB",
-     "ros_per_week": 8.3,
-     "status": null,
-     "team": "PIT"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "I’m stuck Step Burrow",
-   "partner_roster_id": 8,
-   "summary": "Give Rico Dowdle, get Jordan Mason from I’m stuck Step Burrow: +1.9 pts/week for you, -0.0 for them.",
-   "their_gain_per_week": -0.0,
-   "value_ratio": 1.24,
-   "why_them": [
-    "Rico Dowdle would start 0 of 7 weeks for them",
-    "Jordan Mason only starts 1 of 7 weeks on their roster"
-   ],
-   "why_you": [
-    "Jordan Mason would start 7 of 7 weeks for you",
-    "Rico Dowdle starts 7 of 7 weeks for you"
-   ],
-   "your_gain_per_week": 1.9
   }
  ],
  "waivers": [
@@ -1954,7 +1945,7 @@
    "pos": "RB",
    "proj_by_week": {
     "11": 6.9,
-    "12": 7.97,
+    "12": 7.12,
     "13": 6.04,
     "14": 7.27
    },
@@ -2040,22 +2031,22 @@
    "trending_adds_24h": 144640
   },
   {
-   "drop": "11579",
-   "drop_name": "Audric Estime",
-   "gain_this_week": 1.17,
-   "gain_window": 1.17,
-   "name": "Keaton Mitchell",
-   "pid": "9511",
+   "drop": "12491",
+   "drop_name": "Corey Kiner",
+   "gain_this_week": 0.0,
+   "gain_window": 1.08,
+   "name": "Woody Marks",
+   "pid": "12474",
    "pos": "RB",
    "proj_by_week": {
-    "11": 5.88,
-    "12": 7.07,
-    "13": 5.36,
-    "14": 6.5
+    "11": 0.0,
+    "12": 8.19,
+    "13": 7.77,
+    "14": 8.72
    },
-   "status": null,
+   "status": "Out",
    "stream": false,
-   "team": "LAC",
+   "team": "HOU",
    "trending_adds_24h": 0
   }
  ],
