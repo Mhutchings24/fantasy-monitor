@@ -1,5 +1,5 @@
 {
- "content_hash": "8253c91840f5f2a0f68fcab526c95d52797ec676",
+ "content_hash": "596c6f954cb64e10903a3786bffb99f083e5cd4d",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -16,7 +16,7 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 90396,
+   "adds_24h": 90832,
    "name": "Aaron Rodgers",
    "pos": "QB",
    "proj_4wk": 61.7,
@@ -43,7 +43,7 @@
    "team": "NYG"
   },
   {
-   "adds_24h": 78188,
+   "adds_24h": 78472,
    "name": "Joe Milton",
    "pos": "QB",
    "proj_4wk": 56.1,
@@ -79,7 +79,7 @@
    "team": "NYJ"
   },
   {
-   "adds_24h": 70712,
+   "adds_24h": 70960,
    "name": "Deshaun Watson",
    "pos": "QB",
    "proj_4wk": 45.0,
@@ -124,7 +124,7 @@
    "team": "PHI"
   },
   {
-   "adds_24h": 107080,
+   "adds_24h": 107720,
    "name": "Fernando Mendoza",
    "pos": "QB",
    "proj_4wk": 41.3,
@@ -160,7 +160,7 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 98376,
+   "adds_24h": 98760,
    "name": "Malik Washington",
    "pos": "WR",
    "proj_4wk": 39.7,
@@ -169,7 +169,7 @@
    "team": "MIA"
   },
   {
-   "adds_24h": 88812,
+   "adds_24h": 89226,
    "name": "Khalil Shakir",
    "pos": "WR",
    "proj_4wk": 39.1,
@@ -178,7 +178,7 @@
    "team": "BUF"
   },
   {
-   "adds_24h": 786116,
+   "adds_24h": 788740,
    "name": "Elic Ayomanor",
    "pos": "WR",
    "proj_4wk": 37.7,
@@ -241,7 +241,7 @@
    "team": "TB"
   },
   {
-   "adds_24h": 106728,
+   "adds_24h": 107496,
    "name": "Jake Bates",
    "pos": "K",
    "proj_4wk": 34.3,
@@ -286,7 +286,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 93352,
+   "adds_24h": 93872,
    "name": "Mike Gesicki",
    "pos": "TE",
    "proj_4wk": 33.5,
@@ -295,22 +295,13 @@
    "team": "CIN"
   },
   {
-   "adds_24h": 189126,
+   "adds_24h": 189504,
    "name": "Darren Waller",
    "pos": "TE",
    "proj_4wk": 33.1,
    "proj_this_week": 7.39,
    "status": "Questionable",
    "team": "CAR"
-  },
-  {
-   "adds_24h": 241425,
-   "name": "Courtland Sutton",
-   "pos": "WR",
-   "proj_4wk": 33.0,
-   "proj_this_week": 7.99,
-   "status": null,
-   "team": "DEN"
   },
   {
    "adds_24h": 0,
@@ -331,7 +322,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 506653,
+   "adds_24h": 509229,
    "name": "Cairo Santos",
    "pos": "K",
    "proj_4wk": 31.8,
@@ -358,7 +349,7 @@
    "team": "MIA"
   },
   {
-   "adds_24h": 72220,
+   "adds_24h": 72443,
    "name": "DEN D/ST",
    "pos": "DEF",
    "proj_4wk": 31.6,
@@ -439,7 +430,7 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 168980,
+   "adds_24h": 170016,
    "name": "Samaje Perine",
    "pos": "RB",
    "proj_4wk": 29.6,
@@ -457,7 +448,7 @@
    "team": "KC"
   },
   {
-   "adds_24h": 98739,
+   "adds_24h": 99225,
    "name": "Joey Slye",
    "pos": "K",
    "proj_4wk": 29.0,
@@ -484,7 +475,7 @@
    "team": "NO"
   },
   {
-   "adds_24h": 139867,
+   "adds_24h": 140402,
    "name": "CHI D/ST",
    "pos": "DEF",
    "proj_4wk": 28.2,
@@ -601,7 +592,7 @@
    "team": "NE"
   },
   {
-   "adds_24h": 1126746,
+   "adds_24h": 1131678,
    "name": "DET D/ST",
    "pos": "DEF",
    "proj_4wk": 26.2,
@@ -709,7 +700,7 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 182624,
+   "adds_24h": 183320,
    "name": "Kenny Gainwell",
    "pos": "RB",
    "proj_4wk": 23.9,
@@ -727,7 +718,16 @@
    "team": "TEN"
   },
   {
-   "adds_24h": 264501,
+   "adds_24h": 0,
+   "name": "AJ Barner",
+   "pos": "TE",
+   "proj_4wk": 23.5,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "SEA"
+  },
+  {
+   "adds_24h": 265878,
    "name": "Justice Hill",
    "pos": "RB",
    "proj_4wk": 20.8,
@@ -736,7 +736,7 @@
    "team": "BAL"
   },
   {
-   "adds_24h": 216054,
+   "adds_24h": 216792,
    "name": "Gavin Bartholomew",
    "pos": "TE",
    "proj_4wk": 8.1,
@@ -745,7 +745,7 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 124336,
+   "adds_24h": 124756,
    "name": "Jalon Daniels",
    "pos": "QB",
    "proj_4wk": 13.2,
@@ -754,7 +754,7 @@
    "team": "TB"
   },
   {
-   "adds_24h": 103336,
+   "adds_24h": 103832,
    "name": "Alvin Kamara",
    "pos": "RB",
    "proj_4wk": 23.4,
@@ -763,7 +763,7 @@
    "team": "NO"
   },
   {
-   "adds_24h": 71312,
+   "adds_24h": 71560,
    "name": "Tre' Harris",
    "pos": "WR",
    "proj_4wk": 20.5,
@@ -772,7 +772,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-18T23:09:30Z",
+ "generated_at": "2026-11-18T23:19:38Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -996,7 +996,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.324,
+    "first_seed_odds": 0.317,
     "losses": 3,
     "mine": false,
     "pa": 1170.04,
@@ -1017,16 +1017,16 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.205,
+    "first_seed_odds": 0.226,
     "losses": 4,
     "mine": false,
     "pa": 1317.2,
     "pf": 1399.62,
-    "playoff_odds": 0.959,
-    "power_rank": 4,
-    "proj_avg": 126.6,
+    "playoff_odds": 0.963,
+    "power_rank": 3,
+    "proj_avg": 128.6,
     "proj_by_week": {
-     "11": 101.83,
+     "11": 109.82,
      "12": 140.61,
      "13": 119.96,
      "14": 143.82
@@ -1038,13 +1038,13 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.323,
+    "first_seed_odds": 0.314,
     "losses": 4,
     "mine": false,
     "pa": 1360.82,
     "pf": 1378.72,
     "playoff_odds": 0.989,
-    "power_rank": 3,
+    "power_rank": 4,
     "proj_avg": 126.6,
     "proj_by_week": {
      "11": 126.63,
@@ -1059,7 +1059,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.124,
+    "first_seed_odds": 0.121,
     "losses": 4,
     "mine": false,
     "pa": 1246.68,
@@ -1080,12 +1080,12 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.012,
+    "first_seed_odds": 0.011,
     "losses": 5,
     "mine": false,
     "pa": 1236.3,
     "pf": 1220.66,
-    "playoff_odds": 0.587,
+    "playoff_odds": 0.588,
     "power_rank": 8,
     "proj_avg": 122.0,
     "proj_by_week": {
@@ -1101,12 +1101,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.008,
+    "first_seed_odds": 0.007,
     "losses": 5,
     "mine": false,
     "pa": 1293.6,
     "pf": 1206.58,
-    "playoff_odds": 0.482,
+    "playoff_odds": 0.483,
     "power_rank": 9,
     "proj_avg": 116.9,
     "proj_by_week": {
@@ -1122,12 +1122,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.005,
+    "first_seed_odds": 0.004,
     "losses": 5,
     "mine": false,
     "pa": 1107.26,
     "pf": 1150.76,
-    "playoff_odds": 0.394,
+    "playoff_odds": 0.396,
     "power_rank": 7,
     "proj_avg": 122.6,
     "proj_by_week": {
@@ -1148,7 +1148,7 @@
     "mine": false,
     "pa": 1248.08,
     "pf": 1235.98,
-    "playoff_odds": 0.546,
+    "playoff_odds": 0.547,
     "power_rank": 1,
     "proj_avg": 134.9,
     "proj_by_week": {
@@ -1169,7 +1169,7 @@
     "mine": false,
     "pa": 1219.86,
     "pf": 1206.34,
-    "playoff_odds": 0.127,
+    "playoff_odds": 0.119,
     "power_rank": 5,
     "proj_avg": 125.7,
     "proj_by_week": {
@@ -1487,7 +1487,7 @@
    "status": null,
    "stream": true,
    "team": "DET",
-   "trending_adds_24h": 106728
+   "trending_adds_24h": 107496
   }
  ],
  "team": {
@@ -1496,42 +1496,6 @@
   "roster_id": 7
  },
  "trades": [
-  {
-   "get": [
-    {
-     "name": "Breece Hall",
-     "pid": "8155",
-     "pos": "RB",
-     "ros_per_week": 10.3,
-     "status": null,
-     "team": "NYJ"
-    }
-   ],
-   "give": [
-    {
-     "name": "Jordyn Tyson",
-     "pid": "13281",
-     "pos": "WR",
-     "ros_per_week": 11.4,
-     "status": "Questionable",
-     "team": "NO"
-    }
-   ],
-   "likelihood": "Likely",
-   "partner": "Atticus Dean",
-   "partner_roster_id": 10,
-   "summary": "Give Jordyn Tyson, get Breece Hall from Atticus Dean: +3.4 pts/week for you, +0.7 for them.",
-   "their_gain_per_week": 0.7,
-   "value_ratio": 0.9,
-   "why_them": [
-    "Jordyn Tyson would start 7 of 7 weeks for them"
-   ],
-   "why_you": [
-    "Breece Hall would start 6 of 7 weeks for you",
-    "Jordyn Tyson starts only 2 of 7 weeks for you"
-   ],
-   "your_gain_per_week": 3.4
-  },
   {
    "get": [
     {
@@ -1628,8 +1592,8 @@
    "likelihood": "Likely",
    "partner": "Atticus Dean",
    "partner_roster_id": 10,
-   "summary": "Give Stefon Diggs, get Breece Hall from Atticus Dean: +2.4 pts/week for you, +1.8 for them.",
-   "their_gain_per_week": 1.8,
+   "summary": "Give Stefon Diggs, get Breece Hall from Atticus Dean: +2.4 pts/week for you, +0.8 for them.",
+   "their_gain_per_week": 0.8,
    "value_ratio": 0.82,
    "why_them": [
     "Stefon Diggs would start 7 of 7 weeks for them"
@@ -1639,6 +1603,42 @@
     "Stefon Diggs starts 6 of 7 weeks for you"
    ],
    "your_gain_per_week": 2.4
+  },
+  {
+   "get": [
+    {
+     "name": "Breece Hall",
+     "pid": "8155",
+     "pos": "RB",
+     "ros_per_week": 10.3,
+     "status": null,
+     "team": "NYJ"
+    }
+   ],
+   "give": [
+    {
+     "name": "Jordyn Tyson",
+     "pid": "13281",
+     "pos": "WR",
+     "ros_per_week": 11.4,
+     "status": "Questionable",
+     "team": "NO"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "Atticus Dean",
+   "partner_roster_id": 10,
+   "summary": "Give Jordyn Tyson, get Breece Hall from Atticus Dean: +3.4 pts/week for you, -0.3 for them.",
+   "their_gain_per_week": -0.3,
+   "value_ratio": 0.9,
+   "why_them": [
+    "Jordyn Tyson would start 7 of 7 weeks for them"
+   ],
+   "why_you": [
+    "Breece Hall would start 6 of 7 weeks for you",
+    "Jordyn Tyson starts only 2 of 7 weeks for you"
+   ],
+   "your_gain_per_week": 3.4
   },
   {
    "get": [
@@ -1863,7 +1863,7 @@
    "status": null,
    "stream": false,
    "team": "CIN",
-   "trending_adds_24h": 168980
+   "trending_adds_24h": 170016
   },
   {
    "drop": "12491",
@@ -1920,7 +1920,7 @@
    "status": null,
    "stream": false,
    "team": "BAL",
-   "trending_adds_24h": 264501
+   "trending_adds_24h": 265878
   },
   {
    "drop": "11579",
@@ -1977,7 +1977,7 @@
    "status": null,
    "stream": false,
    "team": "NO",
-   "trending_adds_24h": 103336
+   "trending_adds_24h": 103832
   },
   {
    "drop": "11579",
@@ -1996,7 +1996,7 @@
    "status": null,
    "stream": false,
    "team": "TB",
-   "trending_adds_24h": 182624
+   "trending_adds_24h": 183320
   },
   {
    "drop": "12491",
