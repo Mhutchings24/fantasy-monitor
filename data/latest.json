@@ -1,5 +1,5 @@
 {
- "content_hash": "455b7d7996b507ee6b6002a73a8911ec5f5f78f3",
+ "content_hash": "866dacb9a9b14c64195d2f0d75c08a3256840d32",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -539,21 +539,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "CIN D/ST",
-   "pos": "DEF",
-   "proj_4wk": 27.2,
-   "proj_this_week": 6.54,
-   "status": null,
-   "team": "CIN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Darnell Washington",
    "pos": "TE",
    "proj_4wk": 27.2,
    "proj_this_week": 6.88,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "CIN D/ST",
+   "pos": "DEF",
+   "proj_4wk": 27.2,
+   "proj_this_week": 6.54,
+   "status": null,
+   "team": "CIN"
   },
   {
    "adds_24h": 0,
@@ -647,21 +647,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "CAR D/ST",
-   "pos": "DEF",
-   "proj_4wk": 24.7,
-   "proj_this_week": 7.39,
-   "status": null,
-   "team": "CAR"
-  },
-  {
-   "adds_24h": 0,
    "name": "Woody Marks",
    "pos": "RB",
    "proj_4wk": 24.7,
    "proj_this_week": 0.0,
    "status": "Doubtful",
    "team": "HOU"
+  },
+  {
+   "adds_24h": 0,
+   "name": "CAR D/ST",
+   "pos": "DEF",
+   "proj_4wk": 24.7,
+   "proj_this_week": 7.39,
+   "status": null,
+   "team": "CAR"
   },
   {
    "adds_24h": 0,
@@ -772,7 +772,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-18T17:28:03Z",
+ "generated_at": "2026-11-18T17:33:09Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
