@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-18T04:16:26Z UTC
+Week 11 · record 3-7 · updated 2026-11-18T04:31:53Z UTC
 
 ## Lineup check
 Current lineup projects **82.3**, best possible **87.0**.
@@ -17,15 +17,15 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 |---|---|---|---|---|---|---|
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +11.2 | +4.0 | 0 |
 | Zonovan Knight | RB | ARI | Audric Estime | +3.4 | +2.5 | 0 |
-| Samaje Perine | RB | CIN | Audric Estime | +3.0 | +2.7 | 109,172 |
+| Samaje Perine | RB | CIN | Audric Estime | +3.0 | +2.8 | 110,560 |
 | Tyjae Spears | RB | TEN | Audric Estime | +2.8 | +2.8 | 0 |
+| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 232,434 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.5 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 234,072 |
 | Kimani Vidal | RB | LAC | Audric Estime | +2.2 | +2.2 | 0 |
-| Bo Nix | QB | DEN | Corey Kiner | +1.8 | +1.2 | 392,514 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 107,728 |
-| Seth McGowan | RB | IND | Audric Estime | +1.5 | +1.5 | 822,952 |
-| Kenny Gainwell | RB | TB | Audric Estime | +1.5 | +1.5 | 168,104 |
+| Bo Nix | QB | DEN | Corey Kiner | +1.8 | +1.2 | 395,760 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 106,424 |
+| Seth McGowan | RB | IND | Audric Estime | +1.5 | +1.5 | 820,304 |
+| Kenny Gainwell | RB | TB | Audric Estime | +1.5 | +1.5 | 170,272 |
 | Woody Marks (Out) | RB | HOU | Corey Kiner | +1.0 | +0.0 | 0 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+12.4 pts this week)
@@ -33,20 +33,20 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 **K stream this week:** add Jake Bates for Matt Gay (+1.3 pts this week)
 
 ## This week's matchup
-vs **Bradsgay** (6-4): you **82.3** – 116.0 projected · win chance **17%**
+vs **Bradsgay** (6-4): you **82.3** – 115.9 projected · win chance **17%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 4 | 123.2 | 98% |
+| 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 4 | 123.3 | 98% |
 | 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 7 | 119.7 | 96% |
 | 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 3 | 126.1 | 99% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 128.0 | 96% |
 | 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 5 | 121.4 | 60% |
 | 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 116.9 | 54% |
-| 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 6 | 120.3 | 39% |
+| 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 6 | 120.2 | 39% |
 | 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 130.0 | 45% |
 | 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 8 | 118.6 | 12% |
 | 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 101.2 | 0% |
