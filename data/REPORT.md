@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-18T10:47:56Z UTC
+Week 11 · record 3-7 · updated 2026-11-18T10:53:01Z UTC
 
 ## Lineup check
 Current lineup projects **82.3**, best possible **87.2**.
@@ -19,14 +19,14 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 | Jordan Mason | RB | MIN | Audric Estime | +13.0 | +4.1 | 0 |
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +11.2 | +4.0 | 0 |
 | Zonovan Knight | RB | ARI | Audric Estime | +3.4 | +2.5 | 0 |
-| Samaje Perine | RB | CIN | Audric Estime | +3.0 | +2.7 | 129,064 |
+| Samaje Perine | RB | CIN | Audric Estime | +3.0 | +2.7 | 129,668 |
 | Tyjae Spears | RB | TEN | Audric Estime | +2.8 | +2.8 | 0 |
 | Drake Maye (Out) | QB | NE | Corey Kiner | +2.7 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 263,034 |
+| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 263,979 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.4 | +0.0 | 0 |
 | Kimani Vidal | RB | LAC | Audric Estime | +2.2 | +2.2 | 0 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 111,968 |
-| Kenny Gainwell | RB | TB | Audric Estime | +1.5 | +1.5 | 194,696 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 112,360 |
+| Kenny Gainwell | RB | TB | Audric Estime | +1.5 | +1.5 | 195,400 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +1.2 | +1.2 | 0 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+12.4 pts this week)
@@ -44,11 +44,11 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 6 | 125.2 | 97% |
 | 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 3 | 126.8 | 96% |
 | 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 4 | 126.3 | 99% |
-| 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 129.3 | 96% |
-| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 7 | 122.3 | 60% |
-| 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 117.0 | 50% |
-| 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 8 | 120.2 | 35% |
-| 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 134.8 | 55% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 129.3 | 95% |
+| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 7 | 122.3 | 59% |
+| 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 117.0 | 49% |
+| 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 8 | 122.0 | 38% |
+| 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 134.8 | 54% |
 | 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 5 | 126.0 | 13% |
 | 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 101.3 | 0% |
 
@@ -57,7 +57,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 
 - **Likely** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +3.4 pts/week for you, +0.9 for them.
 - **Likely** · Give Mike Evans, get Jonah Coleman from Monangynecologist: +3.4 pts/week for you, +0.4 for them.
-- **Likely** · Give Mike Evans, get Jaylen Warren from Monangynecologist: +3.4 pts/week for you, +0.4 for them.
+- **Likely** · Give Mike Evans, get Jaylen Warren from Monangynecologist: +3.3 pts/week for you, +0.4 for them.
 - **Likely** · Give Stefon Diggs, get Breece Hall from Atticus Dean: +2.5 pts/week for you, +1.8 for them.
 - **Possible** · Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +3.1 pts/week for you, -0.5 for them.
 - **Possible** · Give DJ Moore, get Ollie Gordon II from Bradsbaconisundercooked: +2.5 pts/week for you, -0.2 for them.
@@ -77,7 +77,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Stefon Diggs | WR | WAS | starter |  | 13.1 | 13.0 | 13.3 | 12.3 |
 | Jordyn Tyson | WR | NO | starter |  | 11.0 | 12.2 | 11.4 | 11.0 |
 | Audric Estime | RB | NO | bench |  | 4.7 | 2.8 | 2.6 | 3.0 |
-| Corey Kiner | RB | NE | bench | BYE | 0.0 | 6.8 | 6.5 | 6.4 |
+| Corey Kiner | RB | NE | bench | BYE | 0.0 | 6.7 | 6.5 | 6.4 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 8.2 | 15.8 | 13.6 |
 | Mike Evans | WR | SF | bench | Questionable | 11.2 | 13.9 | 16.0 | 15.2 |
 | Omar Cooper Jr. | WR | NYJ | bench | Questionable | 8.6 | 10.8 | 0.0 | 9.6 |
