@@ -1,5 +1,5 @@
 {
- "content_hash": "ff5b73a808dcad3329403b3bf2d60492dec9a108",
+ "content_hash": "00161d3ffed7f6842421526bed78c45cbf0c3cf0",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -637,15 +637,6 @@
    "team": "ARI"
   },
   {
-   "adds_24h": 74776,
-   "name": "Kenny Gainwell",
-   "pos": "RB",
-   "proj_4wk": 24.4,
-   "proj_this_week": 6.69,
-   "status": null,
-   "team": "TB"
-  },
-  {
    "adds_24h": 0,
    "name": "Evan Engram",
    "pos": "TE",
@@ -653,6 +644,15 @@
    "proj_this_week": 5.93,
    "status": null,
    "team": "DEN"
+  },
+  {
+   "adds_24h": 74776,
+   "name": "Kenny Gainwell",
+   "pos": "RB",
+   "proj_4wk": 24.4,
+   "proj_this_week": 6.69,
+   "status": null,
+   "team": "TB"
   },
   {
    "adds_24h": 0,
@@ -763,7 +763,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-19T19:47:12Z",
+ "generated_at": "2026-11-19T19:52:17Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
