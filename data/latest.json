@@ -1,5 +1,5 @@
 {
- "content_hash": "ec6ca3241902b2ef3930fa17eaccb39a4b2031ba",
+ "content_hash": "fb221cebee031ea5e673cdc44ece285ce73eafa4",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -161,21 +161,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Jacoby Brissett",
-   "pos": "QB",
-   "proj_4wk": 36.9,
-   "proj_this_week": 11.89,
-   "status": null,
-   "team": "BAL"
-  },
-  {
-   "adds_24h": 0,
    "name": "Jakobi Meyers",
    "pos": "WR",
    "proj_4wk": 36.9,
    "proj_this_week": 7.44,
    "status": "Questionable",
    "team": "JAX"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Jacoby Brissett",
+   "pos": "QB",
+   "proj_4wk": 36.9,
+   "proj_this_week": 11.89,
+   "status": null,
+   "team": "BAL"
   },
   {
    "adds_24h": 0,
@@ -745,7 +745,7 @@
    "team": "MIN"
   }
  ],
- "generated_at": "2026-11-19T22:27:43Z",
+ "generated_at": "2026-11-19T22:32:48Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
