@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 11
+- [Wed Nov 18 · Flash 00:06Z](2026/week-11/2026-11-19-flash-0006.md) — Gay (your K) limited Wed with a hip injury, now Q, and Bates is still unclaimed: add Bates now, drop Gay. Lineup otherwise unchanged (Estime over Judkins, KC over LAR, Tyson at FLEX).
 - [Wed Nov 18 · Flash 22:05](2026/week-11/2026-11-18-flash-2205.md) — Tyson (FLEX) limited Wed with a chest injury, now Q (~75–80% to play). Keep him in; swap to Evans/Allen only if Tyson sits Thu/Fri. Still start Estime over Judkins and finish the adds.
 - [Wed Nov 18 · AM](2026/week-11/2026-11-18-am.md) — Waivers still unprocessed at 7:40 AM MT and lineup still starts Judkins/LAR: start Estime now; get Aaron Jones (drop Estime), KC D/ST (drop LAR), Bates (drop Gay); optional Mason for Cooper. Evans ~40%, Tyson stays FLEX.
 - [Wed Nov 18 · Flash 09:04](2026/week-11/2026-11-18-flash-0904.md) — Evans/Cooper moved Out→Q (routine reset, no new news); keep Tyson at FLEX. Claims haven't hit yet (Jones, Mason, KC, Bates still free): start Estime over Judkins now, check waivers this morning, and add directly if they lost.
