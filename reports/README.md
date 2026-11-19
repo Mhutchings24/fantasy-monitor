@@ -4,6 +4,11 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 11
+- [Wed Nov 18 · PM](2026/week-11/2026-11-18-pm.md) — Lineup still has Judkins/LAR (bye). Add tonight: Jordan Mason (drop Estime, start at RB2), KC D/ST (drop LAR), Bates (drop Gay, hip Q). Optional Jones for Cooper. Evans DNP Wed (~30%), Tyson limited (~80%) stays at FLEX.
+- [Wed Nov 18 · Flash 17:05](2026/week-11/2026-11-19-flash-0006.md) — Matt Gay (hip) limited, now Q: add Jake Bates now, drop Gay.
+- [Wed Nov 18 · Flash 15:03](2026/week-11/2026-11-18-flash-2205.md) — Tyson limited (chest), now Q: keep him at FLEX; check Thu/Fri practice before swapping to Evans.
+- [Wed Nov 18 · AM](2026/week-11/2026-11-18-am.md) — Waivers hadn't processed: start Estime over Judkins; add Aaron Jones (drop Estime), KC D/ST (drop LAR), Bates (drop Gay); optional Mason for Cooper. Evans ~40%.
+- [Wed Nov 18 · Flash 02:03](2026/week-11/2026-11-18-flash-0904.md) — Evans and Cooper now Q; your claims didn't show up. Start Estime now; add Jones or Mason, KC D/ST and Bates if the claims failed.
 - [Wed Nov 18 · Flash 00:06Z](2026/week-11/2026-11-19-flash-0006.md) — Gay (your K) limited Wed with a hip injury, now Q, and Bates is still unclaimed: add Bates now, drop Gay. Lineup otherwise unchanged (Estime over Judkins, KC over LAR, Tyson at FLEX).
 - [Wed Nov 18 · Flash 22:05](2026/week-11/2026-11-18-flash-2205.md) — Tyson (FLEX) limited Wed with a chest injury, now Q (~75–80% to play). Keep him in; swap to Evans/Allen only if Tyson sits Thu/Fri. Still start Estime over Judkins and finish the adds.
 - [Wed Nov 18 · AM](2026/week-11/2026-11-18-am.md) — Waivers still unprocessed at 7:40 AM MT and lineup still starts Judkins/LAR: start Estime now; get Aaron Jones (drop Estime), KC D/ST (drop LAR), Bates (drop Gay); optional Mason for Cooper. Evans ~40%, Tyson stays FLEX.
