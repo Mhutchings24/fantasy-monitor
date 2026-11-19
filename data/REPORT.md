@@ -1,12 +1,12 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-19T01:49:29Z UTC
+Week 11 · record 3-7 · updated 2026-11-19T01:59:37Z UTC
 
 ## Lineup check
-Current lineup projects **79.0**, best possible **85.6**.
+Current lineup projects **79.1**, best possible **85.8**.
 
 - ⚠️ Quinshon Judkins (RB, CLE) is on bye
 - ⚠️ LAR D/ST (DEF, LAR) is on bye
-- 🔁 Start Mike Evans (WR, SF) (11.2) over Quinshon Judkins (RB, CLE) (0.0)
+- 🔁 Start Mike Evans (WR, SF) (11.3) over Quinshon Judkins (RB, CLE) (0.0)
 - 🔁 Start Audric Estime (RB, NO) (4.7) over Jordyn Tyson (WR, NO) (9.3)
 
 ## Waiver targets
@@ -16,17 +16,17 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Jordan Mason | RB | MIN | Audric Estime | +13.2 | +4.1 | 0 |
+| Jordan Mason | RB | MIN | Audric Estime | +13.2 | +4.2 | 0 |
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +11.4 | +4.0 | 0 |
 | Zonovan Knight | RB | ARI | Audric Estime | +3.5 | +2.4 | 0 |
-| Samaje Perine | RB | CIN | Audric Estime | +3.3 | +2.9 | 169,600 |
+| Samaje Perine | RB | CIN | Audric Estime | +3.3 | +2.9 | 170,736 |
 | Drake Maye (Out) | QB | NE | Corey Kiner | +2.7 | +0.0 | 0 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.6 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 253,944 |
+| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 255,267 |
 | Kimani Vidal | RB | LAC | Audric Estime | +2.2 | +2.2 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +1.6 | +1.6 | 0 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 98,648 |
-| Kenny Gainwell | RB | TB | Audric Estime | +1.5 | +1.5 | 169,712 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 99,136 |
+| Kenny Gainwell | RB | TB | Audric Estime | +1.5 | +1.5 | 170,496 |
 | Woody Marks (Out) | RB | HOU | Corey Kiner | +1.2 | +0.0 | 0 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+12.3 pts this week)
@@ -34,7 +34,7 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 **K stream this week:** add Jake Bates for Matt Gay (+2.4 pts this week)
 
 ## This week's matchup
-vs **Bradsgay** (6-4): you **79.0** – 118.5 projected · win chance **13%**
+vs **Bradsgay** (6-4): you **79.1** – 118.5 projected · win chance **13%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -45,10 +45,10 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 3 | 128.6 | 96% |
 | 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 4 | 126.5 | 99% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 129.1 | 95% |
-| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 122.0 | 59% |
+| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 122.1 | 59% |
 | 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 116.9 | 48% |
 | 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 7 | 122.6 | 40% |
-| 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 134.9 | 55% |
+| 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 135.0 | 55% |
 | 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 5 | 125.0 | 11% |
 | 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 100.7 | 0% |
 
@@ -72,14 +72,14 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Jared Goff | QB | DET | starter |  | 16.7 | 20.0 | 18.8 | 19.7 |
 | Rico Dowdle | RB | PIT | starter |  | 8.4 | 8.0 | 8.3 | 7.7 |
 | Quinshon Judkins | RB | CLE | starter | BYE | 0.0 | 12.7 | 12.0 | 11.2 |
-| George Kittle | TE | SF | starter |  | 12.4 | 12.5 | 14.7 | 13.9 |
+| George Kittle | TE | SF | starter |  | 12.5 | 12.5 | 14.7 | 13.9 |
 | Stefon Diggs | WR | WAS | starter |  | 13.3 | 12.9 | 13.3 | 12.3 |
 | DJ Moore | WR | BUF | starter |  | 12.6 | 12.4 | 13.7 | 13.1 |
 | Jordyn Tyson | WR | NO | starter | Questionable | 9.3 | 12.2 | 11.4 | 11.0 |
 | Audric Estime | RB | NO | bench |  | 4.7 | 2.8 | 2.6 | 3.0 |
 | Corey Kiner | RB | NE | bench | BYE | 0.0 | 6.8 | 6.5 | 6.4 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 8.2 | 15.8 | 13.6 |
-| Mike Evans | WR | SF | bench | Questionable | 11.2 | 13.7 | 16.0 | 15.2 |
+| Mike Evans | WR | SF | bench | Questionable | 11.3 | 13.7 | 16.0 | 15.2 |
 | Omar Cooper Jr. | WR | NYJ | bench | Questionable | 8.7 | 10.9 | 0.0 | 9.6 |
 | Keenan Allen | WR | SF | bench |  | 5.7 | 5.7 | 6.5 | 6.1 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
