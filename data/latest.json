@@ -1,5 +1,5 @@
 {
- "content_hash": "159477cb8f615c3381582aa67ce6c0be3fada266",
+ "content_hash": "442d68b8227db20862f436bef3fe474cc3b4f46e",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -137,7 +137,7 @@
    "name": "Chig Okonkwo",
    "pos": "TE",
    "proj_4wk": 40.4,
-   "proj_this_week": 10.31,
+   "proj_this_week": 10.29,
    "status": null,
    "team": "WAS"
   },
@@ -272,7 +272,7 @@
    "name": "Drew Stevens",
    "pos": "K",
    "proj_4wk": 33.5,
-   "proj_this_week": 8.15,
+   "proj_this_week": 8.11,
    "status": null,
    "team": "WAS"
   },
@@ -280,8 +280,8 @@
    "adds_24h": 76168,
    "name": "Mike Gesicki",
    "pos": "TE",
-   "proj_4wk": 33.4,
-   "proj_this_week": 9.18,
+   "proj_4wk": 33.3,
+   "proj_this_week": 9.06,
    "status": null,
    "team": "CIN"
   },
@@ -307,8 +307,8 @@
    "adds_24h": 0,
    "name": "Antonio Williams",
    "pos": "WR",
-   "proj_4wk": 32.0,
-   "proj_this_week": 8.2,
+   "proj_4wk": 31.9,
+   "proj_this_week": 8.13,
    "status": null,
    "team": "WAS"
   },
@@ -404,21 +404,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Ryan Fitzgerald",
-   "pos": "K",
-   "proj_4wk": 29.9,
-   "proj_this_week": 7.66,
-   "status": null,
-   "team": "CAR"
-  },
-  {
-   "adds_24h": 0,
    "name": "Makai Lemon",
    "pos": "WR",
    "proj_4wk": 29.9,
    "proj_this_week": 5.47,
    "status": null,
    "team": "PHI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Ryan Fitzgerald",
+   "pos": "K",
+   "proj_4wk": 29.9,
+   "proj_this_week": 7.66,
+   "status": null,
+   "team": "CAR"
   },
   {
    "adds_24h": 0,
@@ -433,8 +433,8 @@
    "adds_24h": 143800,
    "name": "Samaje Perine",
    "pos": "RB",
-   "proj_4wk": 29.7,
-   "proj_this_week": 7.62,
+   "proj_4wk": 29.6,
+   "proj_this_week": 7.57,
    "status": null,
    "team": "CIN"
   },
@@ -533,7 +533,7 @@
    "name": "CIN D/ST",
    "pos": "DEF",
    "proj_4wk": 27.2,
-   "proj_this_week": 6.54,
+   "proj_this_week": 6.51,
    "status": null,
    "team": "CIN"
   },
@@ -623,7 +623,7 @@
    "name": "WAS D/ST",
    "pos": "DEF",
    "proj_4wk": 24.8,
-   "proj_this_week": 4.14,
+   "proj_this_week": 4.12,
    "status": null,
    "team": "WAS"
   },
@@ -763,7 +763,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-19T12:01:19Z",
+ "generated_at": "2026-11-19T12:06:24Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -811,7 +811,7 @@
    {
     "name": "Stefon Diggs",
     "pid": "2449",
-    "proj": 13.32,
+    "proj": 13.24,
     "slot": "WR"
    },
    {
@@ -845,8 +845,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 85.76,
-  "current_projected": 79.05,
+  "best_projected": 85.68,
+  "current_projected": 78.97,
   "gain": 6.71,
   "problems": [
    {
@@ -968,11 +968,11 @@
   },
   "matchup": {
    "my_proj": 79.0,
-   "opp_best_possible": 126.72,
-   "opp_proj": 118.6,
+   "opp_best_possible": 126.34,
+   "opp_proj": 118.2,
    "opponent": "Bradsgay",
    "opponent_record": "6-4",
-   "win_prob": 0.131
+   "win_prob": 0.134
   },
   "playoff": {
    "playoff_teams": 6,
@@ -987,16 +987,16 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.329,
+    "first_seed_odds": 0.328,
     "losses": 3,
     "mine": false,
     "pa": 1170.04,
     "pf": 1210.18,
     "playoff_odds": 0.968,
     "power_rank": 6,
-    "proj_avg": 124.6,
+    "proj_avg": 124.5,
     "proj_by_week": {
-     "11": 117.63,
+     "11": 117.47,
      "12": 127.5,
      "13": 126.47,
      "14": 126.75
@@ -1008,7 +1008,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.221,
+    "first_seed_odds": 0.223,
     "losses": 4,
     "mine": false,
     "pa": 1317.2,
@@ -1029,16 +1029,16 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.312,
+    "first_seed_odds": 0.31,
     "losses": 4,
     "mine": false,
     "pa": 1360.82,
     "pf": 1378.72,
     "playoff_odds": 0.99,
     "power_rank": 4,
-    "proj_avg": 126.5,
+    "proj_avg": 126.4,
     "proj_by_week": {
-     "11": 126.72,
+     "11": 126.34,
      "12": 136.59,
      "13": 122.87,
      "14": 119.79
@@ -1050,7 +1050,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.117,
+    "first_seed_odds": 0.118,
     "losses": 4,
     "mine": false,
     "pa": 1246.68,
@@ -1076,7 +1076,7 @@
     "mine": false,
     "pa": 1236.3,
     "pf": 1220.66,
-    "playoff_odds": 0.59,
+    "playoff_odds": 0.591,
     "power_rank": 8,
     "proj_avg": 122.1,
     "proj_by_week": {
@@ -1097,11 +1097,11 @@
     "mine": false,
     "pa": 1293.6,
     "pf": 1206.58,
-    "playoff_odds": 0.485,
+    "playoff_odds": 0.482,
     "power_rank": 9,
     "proj_avg": 116.9,
     "proj_by_week": {
-     "11": 104.79,
+     "11": 104.55,
      "12": 126.05,
      "13": 123.15,
      "14": 113.7
@@ -1118,7 +1118,7 @@
     "mine": false,
     "pa": 1107.26,
     "pf": 1150.76,
-    "playoff_odds": 0.395,
+    "playoff_odds": 0.396,
     "power_rank": 7,
     "proj_avg": 122.6,
     "proj_by_week": {
@@ -1141,9 +1141,9 @@
     "pf": 1235.98,
     "playoff_odds": 0.547,
     "power_rank": 1,
-    "proj_avg": 135.1,
+    "proj_avg": 135.0,
     "proj_by_week": {
-     "11": 134.4,
+     "11": 134.31,
      "12": 142.74,
      "13": 137.55,
      "14": 125.53
@@ -1164,7 +1164,7 @@
     "power_rank": 5,
     "proj_avg": 124.9,
     "proj_by_week": {
-     "11": 128.14,
+     "11": 127.88,
      "12": 129.66,
      "13": 120.75,
      "14": 121.22
@@ -1185,7 +1185,7 @@
     "power_rank": 10,
     "proj_avg": 100.7,
     "proj_by_week": {
-     "11": 85.76,
+     "11": 85.68,
      "12": 106.18,
      "13": 102.91,
      "14": 108.05
@@ -1296,7 +1296,7 @@
    "pid": "2449",
    "pos": "WR",
    "proj_by_week": {
-    "11": 13.32,
+    "11": 13.24,
     "12": 12.95,
     "13": 13.29,
     "14": 12.27
@@ -1583,8 +1583,8 @@
    "likelihood": "Likely",
    "partner": "Atticus Dean",
    "partner_roster_id": 10,
-   "summary": "Give Stefon Diggs, get Breece Hall from Atticus Dean: +2.3 pts/week for you, +0.8 for them.",
-   "their_gain_per_week": 0.8,
+   "summary": "Give Stefon Diggs, get Breece Hall from Atticus Dean: +2.3 pts/week for you, +0.7 for them.",
+   "their_gain_per_week": 0.7,
    "value_ratio": 0.82,
    "why_them": [
     "Stefon Diggs would start 7 of 7 weeks for them"
@@ -1655,8 +1655,8 @@
    "likelihood": "Possible",
    "partner": "I’m stuck Step Burrow",
    "partner_roster_id": 8,
-   "summary": "Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +2.9 pts/week for you, -0.4 for them.",
-   "their_gain_per_week": -0.4,
+   "summary": "Give Stefon Diggs, get Tony Pollard from I’m stuck Step Burrow: +2.9 pts/week for you, -0.5 for them.",
+   "their_gain_per_week": -0.5,
    "value_ratio": 0.97,
    "why_them": [
     "Stefon Diggs would start 1 of 7 weeks for them",
@@ -1840,13 +1840,13 @@
   {
    "drop": "11579",
    "drop_name": "Audric Estime",
-   "gain_this_week": 2.89,
-   "gain_window": 3.28,
+   "gain_this_week": 2.84,
+   "gain_window": 3.23,
    "name": "Samaje Perine",
    "pid": "4147",
    "pos": "RB",
    "proj_by_week": {
-    "11": 7.62,
+    "11": 7.57,
     "12": 8.43,
     "13": 7.06,
     "14": 6.56
