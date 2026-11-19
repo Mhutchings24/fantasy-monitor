@@ -1,5 +1,5 @@
 {
- "content_hash": "ca3eec5af002a89a02e0f6ffe13dd78f367a35a8",
+ "content_hash": "abf82e34717879a7823db9635862e08b7560642f",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -131,15 +131,6 @@
    "proj_this_week": 12.17,
    "status": null,
    "team": "LV"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Drake Maye",
-   "pos": "QB",
-   "proj_4wk": 40.9,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "NE"
   },
   {
    "adds_24h": 0,
@@ -512,6 +503,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Tommy DeVito",
+   "pos": "QB",
+   "proj_4wk": 27.6,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "NE"
+  },
+  {
+   "adds_24h": 0,
    "name": "Tre Tucker",
    "pos": "WR",
    "proj_4wk": 27.4,
@@ -763,7 +763,7 @@
    "team": "NO"
   }
  ],
- "generated_at": "2026-11-19T04:50:17Z",
+ "generated_at": "2026-11-19T04:55:22Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1018,7 +1018,7 @@
     "proj_avg": 128.6,
     "proj_by_week": {
      "11": 109.9,
-     "12": 140.81,
+     "12": 140.8,
      "13": 119.96,
      "14": 143.82
     },
@@ -1029,17 +1029,17 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.31,
+    "first_seed_odds": 0.309,
     "losses": 4,
     "mine": false,
     "pa": 1360.82,
     "pf": 1378.72,
-    "playoff_odds": 0.99,
+    "playoff_odds": 0.989,
     "power_rank": 4,
     "proj_avg": 126.5,
     "proj_by_week": {
      "11": 126.61,
-     "12": 136.64,
+     "12": 136.63,
      "13": 122.87,
      "14": 119.79
     },
@@ -1186,7 +1186,7 @@
     "proj_avg": 100.7,
     "proj_by_week": {
      "11": 85.82,
-     "12": 106.13,
+     "12": 106.14,
      "13": 102.91,
      "14": 108.05
     },
@@ -1312,7 +1312,7 @@
    "pos": "WR",
    "proj_by_week": {
     "11": 12.61,
-    "12": 12.37,
+    "12": 12.38,
     "13": 13.74,
     "14": 13.08
    },
@@ -1860,25 +1860,6 @@
    "drop": "12491",
    "drop_name": "Corey Kiner",
    "gain_this_week": 0.0,
-   "gain_window": 2.66,
-   "name": "Drake Maye",
-   "pid": "11564",
-   "pos": "QB",
-   "proj_by_week": {
-    "11": 0.0,
-    "12": 0.0,
-    "13": 21.43,
-    "14": 19.49
-   },
-   "status": "Out",
-   "stream": false,
-   "team": "NE",
-   "trending_adds_24h": 0
-  },
-  {
-   "drop": "12491",
-   "drop_name": "Corey Kiner",
-   "gain_this_week": 0.0,
    "gain_window": 2.56,
    "name": "Dylan Sampson",
    "pid": "12469",
@@ -2006,6 +1987,25 @@
    "status": "Out",
    "stream": false,
    "team": "HOU",
+   "trending_adds_24h": 0
+  },
+  {
+   "drop": "11579",
+   "drop_name": "Audric Estime",
+   "gain_this_week": 1.17,
+   "gain_window": 1.17,
+   "name": "Keaton Mitchell",
+   "pid": "9511",
+   "pos": "RB",
+   "proj_by_week": {
+    "11": 5.89,
+    "12": 6.14,
+    "13": 5.36,
+    "14": 6.5
+   },
+   "status": null,
+   "stream": false,
+   "team": "LAC",
    "trending_adds_24h": 0
   }
  ],
