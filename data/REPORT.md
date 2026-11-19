@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-19T10:48:11Z UTC
+Week 11 · record 3-7 · updated 2026-11-19T10:53:15Z UTC
 
 ## Lineup check
 Current lineup projects **79.0**, best possible **85.8**.
@@ -19,13 +19,13 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 | Jordan Mason | RB | MIN | Audric Estime | +13.2 | +4.2 | 0 |
 | Aaron Jones Sr. | RB | MIN | Audric Estime | +11.4 | +4.0 | 0 |
 | Zonovan Knight | RB | ARI | Audric Estime | +3.5 | +2.4 | 0 |
-| Samaje Perine | RB | CIN | Audric Estime | +3.3 | +2.9 | 146,036 |
+| Samaje Perine | RB | CIN | Audric Estime | +3.3 | +2.9 | 146,280 |
 | Dylan Sampson | RB | CLE | Corey Kiner | +2.6 | +0.0 | 0 |
-| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 190,107 |
+| Justice Hill | RB | BAL | Audric Estime | +2.5 | +2.5 | 190,440 |
 | Kimani Vidal | RB | LAC | Audric Estime | +2.2 | +2.2 | 0 |
 | Tyjae Spears (Questionable) | RB | TEN | Audric Estime | +1.6 | +1.6 | 0 |
-| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 73,640 |
-| Kenny Gainwell | RB | TB | Audric Estime | +1.5 | +1.5 | 114,368 |
+| Alvin Kamara | RB | NO | Audric Estime | +1.5 | +1.5 | 73,696 |
+| Kenny Gainwell | RB | TB | Audric Estime | +1.5 | +1.5 | 114,520 |
 | Woody Marks (Out) | RB | HOU | Corey Kiner | +1.2 | +0.0 | 0 |
 | Keaton Mitchell | RB | LAC | Audric Estime | +1.2 | +1.2 | 0 |
 
@@ -44,12 +44,12 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 6 | 124.6 | 97% |
 | 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 3 | 128.6 | 96% |
 | 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 4 | 126.5 | 99% |
-| 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 129.1 | 95% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 129.0 | 95% |
 | 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 122.1 | 59% |
-| 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 117.0 | 48% |
+| 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 116.9 | 48% |
 | 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 7 | 122.6 | 40% |
-| 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 135.0 | 55% |
-| 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 5 | 125.0 | 11% |
+| 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 135.1 | 55% |
+| 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 5 | 124.9 | 11% |
 | 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 100.7 | 0% |
 
 ## Trade ideas
