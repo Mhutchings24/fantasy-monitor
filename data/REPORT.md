@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-19T17:44:48Z UTC
+Week 11 · record 3-7 · updated 2026-11-19T17:54:55Z UTC
 
 ## Lineup check
 Current lineup projects **90.3**, best possible **92.3**.
@@ -16,7 +16,7 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 |---|---|---|---|---|---|---|
 | Bryce Young | QB | CAR | Corey Kiner | +1.3 | +1.3 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +0.3 | +0.3 | 0 |
-| Aaron Rodgers | QB | PIT | Corey Kiner | +0.1 | +0.1 | 56,036 |
+| Aaron Rodgers | QB | PIT | Corey Kiner | +0.1 | +0.1 | 56,576 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+12.3 pts this week)
 
@@ -31,13 +31,13 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 6 | 124.5 | 97% |
 | 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 3 | 128.7 | 96% |
 | 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 4 | 126.3 | 99% |
-| 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 129.1 | 94% |
-| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 122.0 | 58% |
-| 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 117.8 | 51% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 129.2 | 94% |
+| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 122.1 | 58% |
+| 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 117.8 | 50% |
 | 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 7 | 122.7 | 41% |
 | 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 135.1 | 52% |
 | 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 5 | 124.9 | 12% |
-| 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 106.8 | 0% |
+| 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 106.9 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -51,8 +51,8 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Player | Pos | Team | Spot | Status | Wk 11 | Wk 12 | Wk 13 | Wk 14 |
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter | BYE | 0.0 | 6.1 | 6.1 | 5.9 |
-| Jake Bates | K | DET | starter |  | 8.7 | 8.7 | 8.4 | 8.6 |
-| Jared Goff | QB | DET | starter |  | 16.9 | 20.0 | 18.8 | 19.7 |
+| Jake Bates | K | DET | starter |  | 8.7 | 8.8 | 8.4 | 8.6 |
+| Jared Goff | QB | DET | starter |  | 16.9 | 20.2 | 18.8 | 19.7 |
 | Jordan Mason | RB | MIN | starter |  | 8.9 | 11.4 | 11.4 | 10.3 |
 | Rico Dowdle | RB | PIT | starter |  | 8.4 | 8.0 | 8.3 | 7.7 |
 | George Kittle | TE | SF | starter |  | 12.5 | 12.6 | 14.7 | 13.9 |
