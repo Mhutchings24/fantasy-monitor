@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-19T14:49:19Z UTC
+Week 11 · record 3-7 · updated 2026-11-19T14:54:22Z UTC
 
 ## Lineup check
 Current lineup projects **90.1**, best possible **92.2**.
@@ -14,7 +14,7 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Aaron Rodgers | QB | PIT | Corey Kiner | +0.3 | +0.3 | 64,868 |
+| Aaron Rodgers | QB | PIT | Corey Kiner | +0.3 | +0.3 | 65,224 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +0.3 | +0.3 | 0 |
 | Cam Ward | QB | TEN | Corey Kiner | +0.2 | +0.2 | 0 |
 
@@ -29,7 +29,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 6 | 124.6 | 97% |
-| 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 3 | 128.6 | 96% |
+| 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 3 | 128.7 | 96% |
 | 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 4 | 126.4 | 99% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 129.1 | 94% |
 | 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 122.0 | 60% |
@@ -60,7 +60,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | DJ Moore | WR | BUF | starter |  | 12.6 | 12.4 | 13.7 | 13.1 |
 | Jordyn Tyson | WR | NO | starter | Questionable | 9.2 | 12.2 | 11.4 | 11.0 |
 | Corey Kiner | RB | NE | bench | BYE | 0.0 | 6.8 | 6.5 | 6.4 |
-| Quinshon Judkins | RB | CLE | bench | BYE | 0.0 | 12.8 | 12.0 | 11.2 |
+| Quinshon Judkins | RB | CLE | bench | BYE | 0.0 | 12.7 | 12.0 | 11.2 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 8.2 | 15.8 | 13.6 |
 | Mike Evans | WR | SF | bench | Questionable | 11.3 | 13.7 | 16.0 | 15.2 |
 | Omar Cooper Jr. | WR | NYJ | bench | Questionable | 8.7 | 10.8 | 0.0 | 9.6 |
