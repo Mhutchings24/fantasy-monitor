@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-19T16:18:50Z UTC
+Week 11 · record 3-7 · updated 2026-11-19T16:36:12Z UTC
 
 ## Lineup check
-Current lineup projects **90.1**, best possible **92.2**.
+Current lineup projects **89.9**, best possible **92.0**.
 
 - ⚠️ LAR D/ST (DEF, LAR) is on bye
 - 🔁 Start Mike Evans (WR, SF) (11.3) over Jordyn Tyson (WR, NO) (9.2)
@@ -14,26 +14,27 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Aaron Rodgers | QB | PIT | Corey Kiner | +0.3 | +0.3 | 62,060 |
+| Bryce Young | QB | CAR | Corey Kiner | +1.6 | +1.6 | 0 |
+| Aaron Rodgers | QB | PIT | Corey Kiner | +0.3 | +0.3 | 57,752 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +0.3 | +0.3 | 0 |
 | Cam Ward | QB | TEN | Corey Kiner | +0.2 | +0.2 | 0 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+12.3 pts this week)
 
 ## This week's matchup
-vs **Bradsgay** (6-4): you **90.1** – 118.2 projected · win chance **21%**
+vs **Bradsgay** (6-4): you **89.9** – 117.8 projected · win chance **22%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 6 | 124.6 | 97% |
+| 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 6 | 124.5 | 97% |
 | 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 3 | 128.7 | 96% |
-| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 4 | 126.4 | 99% |
-| 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 129.1 | 94% |
-| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 122.0 | 60% |
-| 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 116.9 | 49% |
+| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 4 | 126.3 | 99% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 129.0 | 94% |
+| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 122.0 | 58% |
+| 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 117.7 | 51% |
 | 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 7 | 122.6 | 41% |
 | 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 135.0 | 52% |
 | 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 5 | 124.8 | 12% |
@@ -42,7 +43,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
-- **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, -0.4 for them.
+- **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.6 pts/week for you, -0.4 for them.
 - **Possible** · Give Jordyn Tyson + Omar Cooper Jr., get Patrick Mahomes from Bradsgay: +1.2 pts/week for you, +0.2 for them.
 - **Possible** · Give Omar Cooper Jr., get David Montgomery from Monangynecologist: +1.1 pts/week for you, +0.0 for them.
 - **Possible** · Give Rico Dowdle, get David Montgomery from Monangynecologist: +1.1 pts/week for you, +0.0 for them.
@@ -57,7 +58,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Rico Dowdle | RB | PIT | starter |  | 8.4 | 8.0 | 8.3 | 7.7 |
 | George Kittle | TE | SF | starter |  | 12.5 | 12.6 | 14.7 | 13.9 |
 | Stefon Diggs | WR | WAS | starter |  | 13.2 | 12.9 | 13.3 | 12.3 |
-| DJ Moore | WR | BUF | starter |  | 12.6 | 12.4 | 13.7 | 13.1 |
+| DJ Moore | WR | BUF | starter |  | 12.3 | 12.4 | 13.7 | 13.1 |
 | Jordyn Tyson | WR | NO | starter | Questionable | 9.2 | 12.2 | 11.4 | 11.0 |
 | Corey Kiner | RB | NE | bench | BYE | 0.0 | 6.8 | 6.5 | 6.4 |
 | Quinshon Judkins | RB | CLE | bench | BYE | 0.0 | 12.7 | 12.0 | 11.2 |
