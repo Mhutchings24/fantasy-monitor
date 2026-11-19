@@ -1,18 +1,19 @@
-# Flash: Mason and Bates added, KC D/ST still missing
+# Week 11 game-day check · Thu 4:52 PM MT
 
-## What changed
-- **Your roster moves went through** (Sleeper, 14:49 UTC Thu Nov 19): added **Jordan Mason** (RB, MIN) and **Jake Bates** (K, DET), dropped Audric Estime and Matt Gay. That covers two of the three adds from this morning's report.
-- **Mason is starting at RB2 and Judkins (bye) is out of the lineup.** Bates is in at K. Lineup now projects **90.1** (up from 78.9). Bradsgay projects 118.2, and your win chance is **21%** (monitor), up from 13%.
-- **Still unfixed: LAR D/ST is starting on a bye (0 pts).** KC D/ST is still a free agent, projected **12.3** vs. ARI and rookie QB Carson Beck (Sun 1:00 PM ET).
-- No new injury news this morning on Mason, Bates or Vikings QB Kyler Murray (hamstring, DNP Wed). Thursday practice reports come out this afternoon.
+## Make these moves now
+**No changes needed for tonight.** Colts at Texans (8:15 PM ET / 6:15 PM MT, Prime Video) has none of your starters or bench players, and no IND/HOU free agent beats your starters (Dalton Schultz 8.2 vs Kittle 12.5; Daniel Jones 10.5 vs Goff 16.9).
 
-## What to do
-1. **Add KC D/ST now, drop LAR D/ST, and start KC.** It's a $0 free-agent pickup, worth about +12 pts, and the biggest move left this week. It has to be done before Sunday's 1:00 PM ET kickoff (11:00 AM MT).
-2. **Keep Tyson at FLEX over Evans.** The monitor's "start Evans" swap only uses projections. Evans (Achilles) hasn't practiced since Week 5 and is ~30% to play (est.). Tyson (chest, limited Wed) is ~80% (est.). Check Thursday and Friday practice reports. Switch to Evans only if Tyson sits out both days and Evans practices.
-3. **No other changes.** With KC added, the lineup projects about **102**, which gives you roughly a 25–30% win chance (est.).
+Still open for Sunday (not tonight): **LAR D/ST is starting on a bye.** KC D/ST is no longer a free agent. The best stream left is **DEN D/ST** (8.6 proj, $0, drop LAR). Do it before DEN's Sunday kickoff.
+
+## Inactives and late news
+- No relevant players in tonight's game, so tonight's inactives don't affect you.
+
+## Still to decide
+- **DEF:** add DEN D/ST for LAR (see above). JAX D/ST (8.1) is the fallback.
+- **FLEX: Tyson or Evans.** Keep Tyson unless Friday's practice report shows Tyson out and Evans practicing fully. Final statuses come out Friday afternoon; inactives come out ~90 min before Sunday kickoff.
 
 ## Sources
-- Sleeper data via monitor (`data/latest.json`, 2026-11-19T15:03Z, run 44550370810)
-- [Vikings sit Murray with hamstring strain (AP, Nov 5)](https://www.alaskasnewssource.com/2026/11/05/vikings-sit-murray-with-hamstring-strain-will-start-wentz-qb-against-bills-monday-night/)
-- [Jordan Mason leading rusher in Week 10 win (Fantasy Footballers)](https://www.thefantasyfootballers.com/news/648021/jordan-mason-leading-rusher-in-week-10-win/)
-- Earlier Week 11 reports (injury and matchup context): [Thu AM](2026-11-19-am.md)
+- Sleeper data via monitor (`data/latest.json`, 2026-11-19T23:52Z, run 44641210979)
+- [Where to watch Colts at Texans, Week 11 TNF (Colts.com)](https://colts.com/news/where-to-watch-indianapolis-colts-at-houston-texans-regular-nfl-season-week-11-2026-thursday-night-football-amazon-prime-video)
+- [Colts vs. Texans inactives, Nov. 19 (Legion Report)](https://legionreport.com/colts-vs-texans-inactives/)
+- [NFL Week 11 schedule 2026 (CBS Sports)](https://www.cbssports.com/nfl/schedule/2026/regular/11/)
