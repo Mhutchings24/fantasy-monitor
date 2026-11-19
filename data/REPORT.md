@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-19T20:12:32Z UTC
+Week 11 · record 3-7 · updated 2026-11-19T20:22:39Z UTC
 
 ## Lineup check
-Current lineup projects **90.3**, best possible **92.3**.
+Current lineup projects **90.2**, best possible **92.2**.
 
 - ⚠️ LAR D/ST (DEF, LAR) is on bye
 - 🔁 Start Mike Evans (WR, SF) (11.3) over Jordyn Tyson (WR, NO) (9.2)
@@ -14,28 +14,28 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Bryce Young | QB | CAR | Corey Kiner | +1.4 | +1.4 | 0 |
-| Aaron Jones Sr. | RB | MIN | Corey Kiner | +0.3 | +0.3 | 0 |
-| Aaron Rodgers | QB | PIT | Corey Kiner | +0.1 | +0.1 | 54,148 |
+| Bryce Young | QB | CAR | Corey Kiner | +1.5 | +1.5 | 0 |
+| Aaron Jones Sr. | RB | MIN | Corey Kiner | +0.4 | +0.4 | 0 |
+| Aaron Rodgers | QB | PIT | Corey Kiner | +0.1 | +0.1 | 54,532 |
 
 **DEF stream this week:** add KC D/ST for LAR D/ST (+12.3 pts this week)
 
 ## This week's matchup
-vs **Bradsgay** (6-4): you **90.3** – 117.8 projected · win chance **22%**
+vs **Bradsgay** (6-4): you **90.2** – 118.1 projected · win chance **22%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 6 | 124.5 | 97% |
+| 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 6 | 124.6 | 97% |
 | 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 3 | 128.7 | 96% |
-| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 4 | 126.3 | 99% |
+| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 4 | 126.4 | 99% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 129.1 | 94% |
 | 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 122.0 | 58% |
-| 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 117.8 | 50% |
+| 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 117.8 | 51% |
 | 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 7 | 122.7 | 41% |
-| 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 135.1 | 52% |
+| 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 135.2 | 52% |
 | 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 5 | 124.9 | 12% |
 | 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 106.9 | 0% |
 
