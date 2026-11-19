@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-19T20:32:47Z UTC
+Week 11 · record 3-7 · updated 2026-11-19T20:37:51Z UTC
 
 ## Lineup check
 Current lineup projects **90.2**, best possible **92.2**.
@@ -18,10 +18,10 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +0.4 | +0.4 | 0 |
 | Aaron Rodgers | QB | PIT | Corey Kiner | +0.1 | +0.1 | 51,648 |
 
-**DEF stream this week:** add KC D/ST for LAR D/ST (+12.3 pts this week)
+**DEF stream this week:** add DEN D/ST for LAR D/ST (+8.6 pts this week)
 
 ## This week's matchup
-vs **Bradsgay** (6-4): you **90.2** – 118.1 projected · win chance **22%**
+vs **Bradsgay** (6-4): you **90.2** – 138.5 projected · win chance **9%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -29,8 +29,8 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 6 | 124.6 | 97% |
-| 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 3 | 128.7 | 96% |
-| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 4 | 126.4 | 99% |
+| 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 4 | 128.7 | 96% |
+| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 3 | 129.0 | 99% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 129.1 | 94% |
 | 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 122.0 | 58% |
 | 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 117.8 | 51% |
@@ -43,7 +43,6 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
 - **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.6 pts/week for you, -0.4 for them.
-- **Possible** · Give Jordyn Tyson + Omar Cooper Jr., get Patrick Mahomes from Bradsgay: +1.2 pts/week for you, +0.2 for them.
 - **Possible** · Give Omar Cooper Jr., get David Montgomery from Monangynecologist: +1.1 pts/week for you, +0.0 for them.
 - **Possible** · Give Rico Dowdle, get David Montgomery from Monangynecologist: +1.1 pts/week for you, +0.0 for them.
 

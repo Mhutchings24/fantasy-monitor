@@ -1,5 +1,5 @@
 {
- "content_hash": "04a4652e6b2064b2950561c6f590e6f775ced66b",
+ "content_hash": "c0080c1d2c8cbbb9522415b0d67c4e4fa23d0eca",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -158,15 +158,6 @@
    "proj_this_week": 8.83,
    "status": null,
    "team": "MIA"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Khalil Shakir",
-   "pos": "WR",
-   "proj_4wk": 38.9,
-   "proj_this_week": 9.62,
-   "status": null,
-   "team": "BUF"
   },
   {
    "adds_24h": 0,
@@ -419,15 +410,6 @@
    "proj_this_week": 7.57,
    "status": null,
    "team": "CIN"
-  },
-  {
-   "adds_24h": 0,
-   "name": "KC D/ST",
-   "pos": "DEF",
-   "proj_4wk": 29.4,
-   "proj_this_week": 12.3,
-   "status": null,
-   "team": "KC"
   },
   {
    "adds_24h": 67032,
@@ -727,6 +709,24 @@
    "team": "SEA"
   },
   {
+   "adds_24h": 47088,
+   "name": "Alvin Kamara",
+   "pos": "RB",
+   "proj_4wk": 23.4,
+   "proj_this_week": 6.22,
+   "status": null,
+   "team": "NO"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Trey Smack",
+   "pos": "K",
+   "proj_4wk": 23.1,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "GB"
+  },
+  {
    "adds_24h": 142101,
    "name": "Justice Hill",
    "pos": "RB",
@@ -745,15 +745,6 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 47088,
-   "name": "Alvin Kamara",
-   "pos": "RB",
-   "proj_4wk": 23.4,
-   "proj_this_week": 6.22,
-   "status": null,
-   "team": "NO"
-  },
-  {
    "adds_24h": 35632,
    "name": "Jalon Daniels",
    "pos": "QB",
@@ -763,7 +754,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-19T20:32:47Z",
+ "generated_at": "2026-11-19T20:37:51Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -958,11 +949,11 @@
   },
   "matchup": {
    "my_proj": 90.2,
-   "opp_best_possible": 126.16,
-   "opp_proj": 118.1,
+   "opp_best_possible": 138.46,
+   "opp_proj": 138.5,
    "opponent": "Bradsgay",
    "opponent_record": "6-4",
-   "win_prob": 0.215
+   "win_prob": 0.086
   },
   "playoff": {
    "playoff_teams": 6,
@@ -977,12 +968,12 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.336,
+    "first_seed_odds": 0.334,
     "losses": 3,
     "mine": false,
     "pa": 1170.04,
     "pf": 1210.18,
-    "playoff_odds": 0.97,
+    "playoff_odds": 0.972,
     "power_rank": 6,
     "proj_avg": 124.6,
     "proj_by_week": {
@@ -998,13 +989,13 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.226,
+    "first_seed_odds": 0.216,
     "losses": 4,
     "mine": false,
     "pa": 1317.2,
     "pf": 1399.62,
-    "playoff_odds": 0.965,
-    "power_rank": 3,
+    "playoff_odds": 0.964,
+    "power_rank": 4,
     "proj_avg": 128.7,
     "proj_by_week": {
      "11": 110.17,
@@ -1019,19 +1010,19 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.307,
+    "first_seed_odds": 0.325,
     "losses": 4,
     "mine": false,
     "pa": 1360.82,
     "pf": 1378.72,
-    "playoff_odds": 0.988,
-    "power_rank": 4,
-    "proj_avg": 126.4,
+    "playoff_odds": 0.993,
+    "power_rank": 3,
+    "proj_avg": 129.0,
     "proj_by_week": {
-     "11": 126.16,
-     "12": 136.74,
-     "13": 122.87,
-     "14": 119.79
+     "11": 138.46,
+     "12": 135.91,
+     "13": 123.01,
+     "14": 118.48
     },
     "rank": 3,
     "roster_id": 9,
@@ -1040,12 +1031,12 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.11,
+    "first_seed_odds": 0.105,
     "losses": 4,
     "mine": false,
     "pa": 1246.68,
     "pf": 1303.84,
-    "playoff_odds": 0.943,
+    "playoff_odds": 0.942,
     "power_rank": 2,
     "proj_avg": 129.1,
     "proj_by_week": {
@@ -1061,12 +1052,12 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.011,
+    "first_seed_odds": 0.01,
     "losses": 5,
     "mine": false,
     "pa": 1236.3,
     "pf": 1220.66,
-    "playoff_odds": 0.582,
+    "playoff_odds": 0.579,
     "power_rank": 8,
     "proj_avg": 122.0,
     "proj_by_week": {
@@ -1087,7 +1078,7 @@
     "mine": false,
     "pa": 1293.6,
     "pf": 1206.58,
-    "playoff_odds": 0.506,
+    "playoff_odds": 0.508,
     "power_rank": 9,
     "proj_avg": 117.8,
     "proj_by_week": {
@@ -1108,7 +1099,7 @@
     "mine": false,
     "pa": 1107.26,
     "pf": 1150.76,
-    "playoff_odds": 0.407,
+    "playoff_odds": 0.406,
     "power_rank": 7,
     "proj_avg": 122.7,
     "proj_by_week": {
@@ -1124,12 +1115,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.001,
+    "first_seed_odds": 0.0,
     "losses": 6,
     "mine": false,
     "pa": 1248.08,
     "pf": 1235.98,
-    "playoff_odds": 0.521,
+    "playoff_odds": 0.52,
     "power_rank": 1,
     "proj_avg": 135.2,
     "proj_by_week": {
@@ -1150,7 +1141,7 @@
     "mine": false,
     "pa": 1219.86,
     "pf": 1206.34,
-    "playoff_odds": 0.117,
+    "playoff_odds": 0.115,
     "power_rank": 5,
     "proj_avg": 124.9,
     "proj_by_week": {
@@ -1171,7 +1162,7 @@
     "mine": true,
     "pa": 1232.66,
     "pf": 1119.82,
-    "playoff_odds": 0.004,
+    "playoff_odds": 0.002,
     "power_rank": 10,
     "proj_avg": 106.9,
     "proj_by_week": {
@@ -1435,20 +1426,20 @@
   {
    "drop": "LAR",
    "drop_name": "LAR D/ST",
-   "gain_this_week": 12.3,
-   "gain_window": 12.3,
-   "name": "KC D/ST",
-   "pid": "KC",
+   "gain_this_week": 8.63,
+   "gain_window": 8.63,
+   "name": "DEN D/ST",
+   "pid": "DEN",
    "pos": "DEF",
    "proj_by_week": {
-    "11": 12.3,
-    "12": 5.79,
-    "13": 5.76,
-    "14": 5.55
+    "11": 8.63,
+    "12": 7.7,
+    "13": 8.1,
+    "14": 7.15
    },
    "status": null,
    "stream": true,
-   "team": "KC",
+   "team": "DEN",
    "trending_adds_24h": 0
   }
  ],
@@ -1493,53 +1484,6 @@
     "Jordyn Tyson starts only 1 of 7 weeks for you"
    ],
    "your_gain_per_week": 1.6
-  },
-  {
-   "get": [
-    {
-     "name": "Patrick Mahomes",
-     "pid": "4046",
-     "pos": "QB",
-     "ros_per_week": 20.0,
-     "status": null,
-     "team": "KC"
-    }
-   ],
-   "give": [
-    {
-     "name": "Jordyn Tyson",
-     "pid": "13281",
-     "pos": "WR",
-     "ros_per_week": 11.4,
-     "status": "Questionable",
-     "team": "NO"
-    },
-    {
-     "name": "Omar Cooper Jr.",
-     "pid": "13276",
-     "pos": "WR",
-     "ros_per_week": 8.5,
-     "status": "Questionable",
-     "team": "NYJ"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "Bradsgay",
-   "partner_roster_id": 9,
-   "summary": "Give Jordyn Tyson + Omar Cooper Jr., get Patrick Mahomes from Bradsgay: +1.2 pts/week for you, +0.2 for them.",
-   "their_gain_per_week": 0.2,
-   "value_ratio": 1.0,
-   "why_them": [
-    "Jordyn Tyson would start 2 of 7 weeks for them",
-    "Omar Cooper Jr. would start 0 of 7 weeks for them",
-    "Patrick Mahomes only starts 1 of 7 weeks on their roster"
-   ],
-   "why_you": [
-    "Patrick Mahomes would start 3 of 7 weeks for you",
-    "Jordyn Tyson starts only 1 of 7 weeks for you",
-    "Omar Cooper Jr. starts only 0 of 7 weeks for you"
-   ],
-   "your_gain_per_week": 1.2
   },
   {
    "get": [
