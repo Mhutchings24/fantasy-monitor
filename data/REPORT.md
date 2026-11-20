@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-20T22:28:44Z UTC
+Week 11 · record 3-7 · updated 2026-11-20T22:33:48Z UTC
 
 ## Lineup check
-Current lineup projects **91.7**, best possible **92.1**.
+Current lineup projects **91.6**, best possible **92.1**.
 
 - ⚠️ LAR D/ST (DEF, LAR) is on bye
 - 🔁 Start Mike Evans (WR, SF) (11.3) over Jordyn Tyson (WR, NO) (10.8)
@@ -16,13 +16,13 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 |---|---|---|---|---|---|---|
 | Bryce Young | QB | CAR | Corey Kiner | +1.5 | +1.5 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +0.3 | +0.3 | 0 |
-| Aaron Rodgers | QB | PIT | Corey Kiner | +0.2 | +0.2 | 61,120 |
+| Aaron Rodgers | QB | PIT | Corey Kiner | +0.1 | +0.1 | 57,880 |
 | Cam Ward | QB | TEN | Corey Kiner | +0.1 | +0.1 | 0 |
 
 **DEF stream this week:** add DEN D/ST for LAR D/ST (+8.7 pts this week)
 
 ## This week's matchup
-vs **Bradsgay** (6-4): you **91.7** – 141.2 projected · win chance **8%**
+vs **Bradsgay** (6-4): you **91.6** – 141.2 projected · win chance **8%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -58,7 +58,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Rico Dowdle | RB | PIT | starter |  | 8.4 | 8.1 | 8.3 | 7.7 |
 | George Kittle | TE | SF | starter |  | 12.5 | 12.5 | 14.7 | 13.9 |
 | Stefon Diggs | WR | WAS | starter |  | 13.3 | 13.0 | 13.3 | 12.3 |
-| DJ Moore | WR | BUF | starter |  | 12.4 | 12.3 | 13.7 | 13.1 |
+| DJ Moore | WR | BUF | starter |  | 12.3 | 12.3 | 13.7 | 13.1 |
 | Jordyn Tyson | WR | NO | starter |  | 10.8 | 12.2 | 11.4 | 11.0 |
 | Corey Kiner | RB | NE | bench | BYE | 0.0 | 6.6 | 6.3 | 6.2 |
 | Quinshon Judkins | RB | CLE | bench | BYE | 0.0 | 12.7 | 12.0 | 11.2 |
