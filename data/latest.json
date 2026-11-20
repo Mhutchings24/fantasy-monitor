@@ -1,5 +1,5 @@
 {
- "content_hash": "93400f77f225766728dfd7c98642f63374d10457",
+ "content_hash": "a056b06f092a4c4f6da564dc111eda26cbf7d7b8",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -20,7 +20,7 @@
    "name": "Aaron Rodgers",
    "pos": "QB",
    "proj_4wk": 62.0,
-   "proj_this_week": 17.3,
+   "proj_this_week": 17.29,
    "status": null,
    "team": "PIT"
   },
@@ -64,8 +64,8 @@
    "adds_24h": 46268,
    "name": "Joe Milton",
    "pos": "QB",
-   "proj_4wk": 56.2,
-   "proj_this_week": 12.03,
+   "proj_4wk": 56.1,
+   "proj_this_week": 11.98,
    "status": null,
    "team": "PHI"
   },
@@ -118,8 +118,8 @@
    "adds_24h": 0,
    "name": "Dallas Goedert",
    "pos": "TE",
-   "proj_4wk": 42.0,
-   "proj_this_week": 9.85,
+   "proj_4wk": 41.9,
+   "proj_this_week": 9.84,
    "status": null,
    "team": "PHI"
   },
@@ -272,7 +272,7 @@
    "name": "Germie Bernard",
    "pos": "WR",
    "proj_4wk": 32.6,
-   "proj_this_week": 6.57,
+   "proj_this_week": 6.56,
    "status": null,
    "team": "PIT"
   },
@@ -326,7 +326,7 @@
    "name": "Pat Freiermuth",
    "pos": "TE",
    "proj_4wk": 31.3,
-   "proj_this_week": 7.55,
+   "proj_this_week": 7.53,
    "status": null,
    "team": "PIT"
   },
@@ -700,15 +700,6 @@
    "team": "TEN"
   },
   {
-   "adds_24h": 51184,
-   "name": "Alvin Kamara",
-   "pos": "RB",
-   "proj_4wk": 23.4,
-   "proj_this_week": 6.22,
-   "status": null,
-   "team": "NO"
-  },
-  {
    "adds_24h": 0,
    "name": "AJ Barner",
    "pos": "TE",
@@ -716,6 +707,15 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "SEA"
+  },
+  {
+   "adds_24h": 51184,
+   "name": "Alvin Kamara",
+   "pos": "RB",
+   "proj_4wk": 23.4,
+   "proj_this_week": 6.22,
+   "status": null,
+   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -745,7 +745,7 @@
    "team": "MIN"
   }
  ],
- "generated_at": "2026-11-20T12:22:40Z",
+ "generated_at": "2026-11-20T12:27:44Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -787,7 +787,7 @@
    {
     "name": "Rico Dowdle",
     "pid": "7021",
-    "proj": 8.51,
+    "proj": 8.5,
     "slot": "RB"
    },
    {
@@ -827,8 +827,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 92.4,
-  "current_projected": 90.29,
+  "best_projected": 92.39,
+  "current_projected": 90.28,
   "gain": 2.11,
   "problems": [
    {
@@ -1092,9 +1092,9 @@
     "pf": 1150.76,
     "playoff_odds": 0.405,
     "power_rank": 7,
-    "proj_avg": 122.6,
+    "proj_avg": 122.7,
     "proj_by_week": {
-     "11": 124.15,
+     "11": 124.16,
      "12": 129.61,
      "13": 112.02,
      "14": 124.81
@@ -1155,9 +1155,9 @@
     "pf": 1119.82,
     "playoff_odds": 0.003,
     "power_rank": 10,
-    "proj_avg": 106.9,
+    "proj_avg": 106.8,
     "proj_by_week": {
-     "11": 92.4,
+     "11": 92.39,
      "12": 110.4,
      "13": 114.37,
      "14": 110.23
@@ -1238,7 +1238,7 @@
    "pid": "7021",
    "pos": "RB",
    "proj_by_week": {
-    "11": 8.51,
+    "11": 8.5,
     "12": 8.1,
     "13": 8.32,
     "14": 7.74
@@ -1574,13 +1574,13 @@
   {
    "drop": "12491",
    "drop_name": "Corey Kiner",
-   "gain_this_week": 0.44,
-   "gain_window": 0.44,
+   "gain_this_week": 0.43,
+   "gain_window": 0.43,
    "name": "Aaron Rodgers",
    "pid": "96",
    "pos": "QB",
    "proj_by_week": {
-    "11": 17.3,
+    "11": 17.29,
     "12": 15.0,
     "13": 15.38,
     "14": 14.32
@@ -1593,8 +1593,8 @@
   {
    "drop": "12491",
    "drop_name": "Corey Kiner",
-   "gain_this_week": 0.21,
-   "gain_window": 0.21,
+   "gain_this_week": 0.22,
+   "gain_window": 0.22,
    "name": "Aaron Jones Sr.",
    "pid": "4199",
    "pos": "RB",
