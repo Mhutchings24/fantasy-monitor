@@ -1,5 +1,5 @@
 {
- "content_hash": "b8c2104a5fe5fe499487949ad4bc15c96506f721",
+ "content_hash": "b4183364f9d68167d938a90b5385d62b7ab9c9f2",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -25,7 +25,7 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 62648,
+   "adds_24h": 62864,
    "name": "Aaron Rodgers",
    "pos": "QB",
    "proj_4wk": 61.7,
@@ -61,7 +61,7 @@
    "team": "NYG"
   },
   {
-   "adds_24h": 44112,
+   "adds_24h": 44340,
    "name": "Joe Milton",
    "pos": "QB",
    "proj_4wk": 56.0,
@@ -124,7 +124,7 @@
    "team": "PHI"
   },
   {
-   "adds_24h": 85096,
+   "adds_24h": 85648,
    "name": "Fernando Mendoza",
    "pos": "QB",
    "proj_4wk": 41.3,
@@ -151,7 +151,7 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 44912,
+   "adds_24h": 45256,
    "name": "Malik Washington",
    "pos": "WR",
    "proj_4wk": 39.5,
@@ -241,7 +241,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 63508,
+   "adds_24h": 64072,
    "name": "Mike Gesicki",
    "pos": "TE",
    "proj_4wk": 33.3,
@@ -250,7 +250,7 @@
    "team": "CIN"
   },
   {
-   "adds_24h": 80955,
+   "adds_24h": 81612,
    "name": "Darren Waller",
    "pos": "TE",
    "proj_4wk": 32.9,
@@ -277,7 +277,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 354025,
+   "adds_24h": 355117,
    "name": "Cairo Santos",
    "pos": "K",
    "proj_4wk": 31.8,
@@ -394,7 +394,7 @@
    "team": "PHI"
   },
   {
-   "adds_24h": 92936,
+   "adds_24h": 93444,
    "name": "Samaje Perine",
    "pos": "RB",
    "proj_4wk": 29.5,
@@ -403,7 +403,7 @@
    "team": "CIN"
   },
   {
-   "adds_24h": 80451,
+   "adds_24h": 80748,
    "name": "Joey Slye",
    "pos": "K",
    "proj_4wk": 28.9,
@@ -485,21 +485,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "CIN D/ST",
-   "pos": "DEF",
-   "proj_4wk": 27.1,
-   "proj_this_week": 6.49,
-   "status": null,
-   "team": "CIN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Darnell Washington",
    "pos": "TE",
    "proj_4wk": 27.1,
    "proj_this_week": 6.79,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "CIN D/ST",
+   "pos": "DEF",
+   "proj_4wk": 27.1,
+   "proj_this_week": 6.49,
+   "status": null,
+   "team": "CIN"
   },
   {
    "adds_24h": 0,
@@ -520,7 +520,7 @@
    "team": "ATL"
   },
   {
-   "adds_24h": 67725,
+   "adds_24h": 67953,
    "name": "SF D/ST",
    "pos": "DEF",
    "proj_4wk": 26.7,
@@ -583,7 +583,7 @@
    "team": "HOU"
   },
   {
-   "adds_24h": 43629,
+   "adds_24h": 43760,
    "name": "CAR D/ST",
    "pos": "DEF",
    "proj_4wk": 24.7,
@@ -601,7 +601,7 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 75648,
+   "adds_24h": 76328,
    "name": "Kenny Gainwell",
    "pos": "RB",
    "proj_4wk": 24.4,
@@ -656,15 +656,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Malachi Fields",
-   "pos": "WR",
-   "proj_4wk": 23.9,
-   "proj_this_week": 6.24,
-   "status": null,
-   "team": "NYG"
-  },
-  {
-   "adds_24h": 0,
    "name": "Jadarian Price",
    "pos": "RB",
    "proj_4wk": 23.9,
@@ -673,7 +664,16 @@
    "team": "SEA"
   },
   {
-   "adds_24h": 59808,
+   "adds_24h": 0,
+   "name": "Malachi Fields",
+   "pos": "WR",
+   "proj_4wk": 23.9,
+   "proj_this_week": 6.24,
+   "status": null,
+   "team": "NYG"
+  },
+  {
+   "adds_24h": 60361,
    "name": "Gunnar Helm",
    "pos": "TE",
    "proj_4wk": 23.8,
@@ -700,7 +700,7 @@
    "team": "SEA"
   },
   {
-   "adds_24h": 45800,
+   "adds_24h": 46048,
    "name": "Alvin Kamara",
    "pos": "RB",
    "proj_4wk": 23.4,
@@ -727,7 +727,7 @@
    "team": "BUF"
   },
   {
-   "adds_24h": 192285,
+   "adds_24h": 193374,
    "name": "Justice Hill",
    "pos": "RB",
    "proj_4wk": 20.8,
@@ -736,7 +736,7 @@
    "team": "BAL"
   },
   {
-   "adds_24h": 100422,
+   "adds_24h": 101043,
    "name": "Gavin Bartholomew",
    "pos": "TE",
    "proj_4wk": 8.1,
@@ -745,7 +745,7 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 34443,
+   "adds_24h": 35154,
    "name": "Konata Mumpfield",
    "pos": "WR",
    "proj_4wk": 14.8,
@@ -754,7 +754,7 @@
    "team": "LAR"
   }
  ],
- "generated_at": "2026-11-20T19:38:33Z",
+ "generated_at": "2026-11-20T19:43:39Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -837,8 +837,8 @@
    }
   ],
   "best_projected": 92.12,
-  "current_projected": 90.05,
-  "gain": 2.07,
+  "current_projected": 91.68,
+  "gain": 0.44,
   "problems": [
    {
     "pid": "LAR",
@@ -851,7 +851,7 @@
    {
     "bench": "13281",
     "start": "2216",
-    "text": "Start Mike Evans (WR, SF) (11.3) over Jordyn Tyson (WR, NO) (9.2)"
+    "text": "Start Mike Evans (WR, SF) (11.3) over Jordyn Tyson (WR, NO) (10.9)"
    }
   ],
   "week": 11
@@ -948,12 +948,12 @@
    "week": 10
   },
   "matchup": {
-   "my_proj": 90.0,
+   "my_proj": 91.7,
    "opp_best_possible": 139.25,
    "opp_proj": 139.2,
    "opponent": "Bradsgay",
    "opponent_record": "6-4",
-   "win_prob": 0.082
+   "win_prob": 0.09
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1307,13 +1307,13 @@
    "pid": "13281",
    "pos": "WR",
    "proj_by_week": {
-    "11": 9.23,
+    "11": 10.86,
     "12": 12.19,
     "13": 11.36,
     "14": 10.96
    },
    "slot": "starter",
-   "status": "Questionable",
+   "status": null,
    "team": "NO"
   },
   {
@@ -1452,39 +1452,110 @@
   {
    "get": [
     {
-     "name": "David Montgomery",
-     "pid": "5892",
+     "name": "Jonah Coleman",
+     "pid": "13345",
      "pos": "RB",
-     "ros_per_week": 10.9,
+     "ros_per_week": 14.8,
      "status": null,
-     "team": "HOU"
+     "team": "DEN"
     }
    ],
    "give": [
     {
-     "name": "Rico Dowdle",
-     "pid": "7021",
+     "name": "Mike Evans",
+     "pid": "2216",
+     "pos": "WR",
+     "ros_per_week": 14.8,
+     "status": "Questionable",
+     "team": "SF"
+    }
+   ],
+   "likelihood": "Likely",
+   "partner": "Monangynecologist",
+   "partner_roster_id": 5,
+   "summary": "Give Mike Evans, get Jonah Coleman from Monangynecologist: +1.1 pts/week for you, +0.3 for them.",
+   "their_gain_per_week": 0.3,
+   "value_ratio": 1.0,
+   "why_them": [
+    "Mike Evans would start 6 of 7 weeks for them"
+   ],
+   "why_you": [
+    "Jonah Coleman would start 7 of 7 weeks for you",
+    "Mike Evans starts 7 of 7 weeks for you"
+   ],
+   "your_gain_per_week": 1.1
+  },
+  {
+   "get": [
+    {
+     "name": "Jaylen Warren",
+     "pid": "8228",
      "pos": "RB",
-     "ros_per_week": 8.3,
+     "ros_per_week": 14.7,
      "status": null,
      "team": "PIT"
     }
    ],
-   "likelihood": "Possible",
+   "give": [
+    {
+     "name": "Mike Evans",
+     "pid": "2216",
+     "pos": "WR",
+     "ros_per_week": 14.8,
+     "status": "Questionable",
+     "team": "SF"
+    }
+   ],
+   "likelihood": "Likely",
    "partner": "Monangynecologist",
    "partner_roster_id": 5,
-   "summary": "Give Rico Dowdle, get David Montgomery from Monangynecologist: +1.1 pts/week for you, +0.0 for them.",
-   "their_gain_per_week": 0.0,
-   "value_ratio": 1.31,
+   "summary": "Give Mike Evans, get Jaylen Warren from Monangynecologist: +1.1 pts/week for you, +0.3 for them.",
+   "their_gain_per_week": 0.3,
+   "value_ratio": 0.99,
    "why_them": [
-    "Rico Dowdle would start 0 of 7 weeks for them",
-    "David Montgomery only starts 0 of 7 weeks on their roster"
+    "Mike Evans would start 6 of 7 weeks for them"
    ],
    "why_you": [
-    "David Montgomery would start 4 of 7 weeks for you",
-    "Rico Dowdle starts only 1 of 7 weeks for you"
+    "Jaylen Warren would start 7 of 7 weeks for you",
+    "Mike Evans starts 7 of 7 weeks for you"
    ],
    "your_gain_per_week": 1.1
+  },
+  {
+   "get": [
+    {
+     "name": "Breece Hall",
+     "pid": "8155",
+     "pos": "RB",
+     "ros_per_week": 10.5,
+     "status": null,
+     "team": "NYJ"
+    }
+   ],
+   "give": [
+    {
+     "name": "Jordyn Tyson",
+     "pid": "13281",
+     "pos": "WR",
+     "ros_per_week": 11.6,
+     "status": null,
+     "team": "NO"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "Atticus Dean",
+   "partner_roster_id": 10,
+   "summary": "Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.7 pts/week for you, -0.3 for them.",
+   "their_gain_per_week": -0.3,
+   "value_ratio": 0.91,
+   "why_them": [
+    "Jordyn Tyson would start 7 of 7 weeks for them"
+   ],
+   "why_you": [
+    "Breece Hall would start 6 of 7 weeks for you",
+    "Jordyn Tyson starts only 1 of 7 weeks for you"
+   ],
+   "your_gain_per_week": 1.7
   }
  ],
  "waivers": [
@@ -1543,7 +1614,7 @@
    "status": null,
    "stream": false,
    "team": "PIT",
-   "trending_adds_24h": 62648
+   "trending_adds_24h": 62864
   },
   {
    "drop": "12491",
