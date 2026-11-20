@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-20T15:26:00Z UTC
+Week 11 · record 3-7 · updated 2026-11-20T15:31:04Z UTC
 
 ## Lineup check
 Current lineup projects **90.3**, best possible **92.4**.
@@ -15,13 +15,13 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Bryce Young | QB | CAR | Corey Kiner | +1.4 | +1.4 | 0 |
-| Aaron Rodgers | QB | PIT | Corey Kiner | +0.4 | +0.4 | 70,548 |
+| Aaron Rodgers | QB | PIT | Corey Kiner | +0.4 | +0.4 | 70,792 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +0.2 | +0.2 | 0 |
 
 **DEF stream this week:** add DEN D/ST for LAR D/ST (+8.7 pts this week)
 
 ## This week's matchup
-vs **Bradsgay** (6-4): you **90.3** – 138.0 projected · win chance **9%**
+vs **Bradsgay** (6-4): you **90.3** – 138.2 projected · win chance **9%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -30,7 +30,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 6 | 124.5 | 97% |
 | 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 4 | 128.7 | 96% |
-| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 3 | 128.8 | 99% |
+| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 3 | 128.9 | 99% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 128.9 | 94% |
 | 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 122.5 | 60% |
 | 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 117.6 | 49% |
@@ -42,8 +42,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
-- **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, -0.4 for them.
-- **Possible** · Give Omar Cooper Jr., get David Montgomery from Monangynecologist: +1.1 pts/week for you, +0.0 for them.
+- **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.6 pts/week for you, -0.4 for them.
 - **Possible** · Give Rico Dowdle, get David Montgomery from Monangynecologist: +1.1 pts/week for you, +0.0 for them.
 
 ## Roster
@@ -62,6 +61,6 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Quinshon Judkins | RB | CLE | bench | BYE | 0.0 | 12.7 | 12.0 | 11.2 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 8.2 | 15.8 | 13.6 |
 | Mike Evans | WR | SF | bench | Questionable | 11.3 | 13.7 | 16.0 | 15.2 |
-| Omar Cooper Jr. | WR | NYJ | bench | Questionable | 8.7 | 10.8 | 0.0 | 9.6 |
 | Keenan Allen | WR | SF | bench |  | 5.7 | 5.7 | 6.5 | 6.1 |
+| Omar Cooper Jr. | WR | NYJ | bench | Out | 0.0 | 10.8 | 0.0 | 9.6 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |

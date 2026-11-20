@@ -1,5 +1,5 @@
 {
- "content_hash": "5c2da979988dfb1d556b3fd59e73480a5f1ee6b0",
+ "content_hash": "4cf3ac0732e74b719a4ad159cbd857973b291adc",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -16,7 +16,7 @@
    "team": "CAR"
   },
   {
-   "adds_24h": 70548,
+   "adds_24h": 70792,
    "name": "Aaron Rodgers",
    "pos": "QB",
    "proj_4wk": 62.0,
@@ -61,7 +61,7 @@
    "team": "NYG"
   },
   {
-   "adds_24h": 45660,
+   "adds_24h": 45932,
    "name": "Joe Milton",
    "pos": "QB",
    "proj_4wk": 56.2,
@@ -82,8 +82,8 @@
    "adds_24h": 0,
    "name": "Geno Smith",
    "pos": "QB",
-   "proj_4wk": 45.5,
-   "proj_this_week": 13.55,
+   "proj_4wk": 46.0,
+   "proj_this_week": 13.95,
    "status": "Questionable",
    "team": "NYJ"
   },
@@ -124,7 +124,7 @@
    "team": "PHI"
   },
   {
-   "adds_24h": 90976,
+   "adds_24h": 91392,
    "name": "Fernando Mendoza",
    "pos": "QB",
    "proj_4wk": 41.2,
@@ -151,7 +151,7 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 47480,
+   "adds_24h": 48352,
    "name": "Malik Washington",
    "pos": "WR",
    "proj_4wk": 39.5,
@@ -250,7 +250,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 63680,
+   "adds_24h": 64028,
    "name": "Mike Gesicki",
    "pos": "TE",
    "proj_4wk": 33.3,
@@ -259,7 +259,7 @@
    "team": "CIN"
   },
   {
-   "adds_24h": 75321,
+   "adds_24h": 75771,
    "name": "Darren Waller",
    "pos": "TE",
    "proj_4wk": 32.9,
@@ -286,7 +286,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 401989,
+   "adds_24h": 403319,
    "name": "Cairo Santos",
    "pos": "K",
    "proj_4wk": 31.8,
@@ -403,7 +403,7 @@
    "team": "PHI"
   },
   {
-   "adds_24h": 107688,
+   "adds_24h": 108252,
    "name": "Samaje Perine",
    "pos": "RB",
    "proj_4wk": 29.5,
@@ -412,7 +412,7 @@
    "team": "CIN"
   },
   {
-   "adds_24h": 89298,
+   "adds_24h": 89676,
    "name": "Joey Slye",
    "pos": "K",
    "proj_4wk": 29.0,
@@ -529,7 +529,7 @@
    "team": "ATL"
   },
   {
-   "adds_24h": 74973,
+   "adds_24h": 75297,
    "name": "SF D/ST",
    "pos": "DEF",
    "proj_4wk": 26.7,
@@ -592,7 +592,7 @@
    "team": "HOU"
   },
   {
-   "adds_24h": 50408,
+   "adds_24h": 50578,
    "name": "CAR D/ST",
    "pos": "DEF",
    "proj_4wk": 24.7,
@@ -619,7 +619,7 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 80896,
+   "adds_24h": 81664,
    "name": "Kenny Gainwell",
    "pos": "RB",
    "proj_4wk": 24.4,
@@ -682,7 +682,7 @@
    "team": "NYG"
   },
   {
-   "adds_24h": 58170,
+   "adds_24h": 58751,
    "name": "Gunnar Helm",
    "pos": "TE",
    "proj_4wk": 23.8,
@@ -709,7 +709,7 @@
    "team": "SEA"
   },
   {
-   "adds_24h": 49888,
+   "adds_24h": 50216,
    "name": "Alvin Kamara",
    "pos": "RB",
    "proj_4wk": 23.4,
@@ -727,7 +727,7 @@
    "team": "GB"
   },
   {
-   "adds_24h": 203409,
+   "adds_24h": 205245,
    "name": "Justice Hill",
    "pos": "RB",
    "proj_4wk": 20.8,
@@ -736,7 +736,7 @@
    "team": "BAL"
   },
   {
-   "adds_24h": 103446,
+   "adds_24h": 104130,
    "name": "Gavin Bartholomew",
    "pos": "TE",
    "proj_4wk": 8.1,
@@ -745,7 +745,7 @@
    "team": "MIN"
   }
  ],
- "generated_at": "2026-11-20T15:26:00Z",
+ "generated_at": "2026-11-20T15:31:04Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -940,11 +940,11 @@
   },
   "matchup": {
    "my_proj": 90.3,
-   "opp_best_possible": 138.03,
-   "opp_proj": 138.0,
+   "opp_best_possible": 138.22,
+   "opp_proj": 138.2,
    "opponent": "Bradsgay",
    "opponent_record": "6-4",
-   "win_prob": 0.089
+   "win_prob": 0.088
   },
   "playoff": {
    "playoff_teams": 6,
@@ -989,7 +989,7 @@
     "power_rank": 4,
     "proj_avg": 128.7,
     "proj_by_week": {
-     "11": 110.4,
+     "11": 110.65,
      "12": 140.53,
      "13": 119.96,
      "14": 143.82
@@ -1008,9 +1008,9 @@
     "pf": 1378.72,
     "playoff_odds": 0.992,
     "power_rank": 3,
-    "proj_avg": 128.8,
+    "proj_avg": 128.9,
     "proj_by_week": {
-     "11": 138.03,
+     "11": 138.22,
      "12": 135.85,
      "13": 123.01,
      "14": 118.48
@@ -1369,21 +1369,6 @@
   },
   {
    "bye_this_week": false,
-   "name": "Omar Cooper Jr.",
-   "pid": "13276",
-   "pos": "WR",
-   "proj_by_week": {
-    "11": 8.69,
-    "12": 10.81,
-    "13": 0.0,
-    "14": 9.57
-   },
-   "slot": "bench",
-   "status": "Questionable",
-   "team": "NYJ"
-  },
-  {
-   "bye_this_week": false,
    "name": "Keenan Allen",
    "pid": "1479",
    "pos": "WR",
@@ -1396,6 +1381,21 @@
    "slot": "bench",
    "status": null,
    "team": "SF"
+  },
+  {
+   "bye_this_week": false,
+   "name": "Omar Cooper Jr.",
+   "pid": "13276",
+   "pos": "WR",
+   "proj_by_week": {
+    "11": 0.0,
+    "12": 10.81,
+    "13": 0.0,
+    "14": 9.57
+   },
+   "slot": "bench",
+   "status": "Out",
+   "team": "NYJ"
   },
   {
    "bye_this_week": true,
@@ -1464,7 +1464,7 @@
    "likelihood": "Possible",
    "partner": "Atticus Dean",
    "partner_roster_id": 10,
-   "summary": "Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, -0.4 for them.",
+   "summary": "Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.6 pts/week for you, -0.4 for them.",
    "their_gain_per_week": -0.4,
    "value_ratio": 0.91,
    "why_them": [
@@ -1474,44 +1474,7 @@
     "Breece Hall would start 6 of 7 weeks for you",
     "Jordyn Tyson starts only 1 of 7 weeks for you"
    ],
-   "your_gain_per_week": 1.5
-  },
-  {
-   "get": [
-    {
-     "name": "David Montgomery",
-     "pid": "5892",
-     "pos": "RB",
-     "ros_per_week": 10.9,
-     "status": null,
-     "team": "HOU"
-    }
-   ],
-   "give": [
-    {
-     "name": "Omar Cooper Jr.",
-     "pid": "13276",
-     "pos": "WR",
-     "ros_per_week": 8.5,
-     "status": "Questionable",
-     "team": "NYJ"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "Monangynecologist",
-   "partner_roster_id": 5,
-   "summary": "Give Omar Cooper Jr., get David Montgomery from Monangynecologist: +1.1 pts/week for you, +0.0 for them.",
-   "their_gain_per_week": 0.0,
-   "value_ratio": 1.27,
-   "why_them": [
-    "Omar Cooper Jr. would start 1 of 7 weeks for them",
-    "David Montgomery only starts 0 of 7 weeks on their roster"
-   ],
-   "why_you": [
-    "David Montgomery would start 4 of 7 weeks for you",
-    "Omar Cooper Jr. starts only 0 of 7 weeks for you"
-   ],
-   "your_gain_per_week": 1.1
+   "your_gain_per_week": 1.6
   },
   {
    "get": [
@@ -1588,7 +1551,7 @@
    "status": null,
    "stream": false,
    "team": "PIT",
-   "trending_adds_24h": 70548
+   "trending_adds_24h": 70792
   },
   {
    "drop": "12491",
