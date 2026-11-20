@@ -1,5 +1,5 @@
 {
- "content_hash": "af74682813362ee466783bd9412c6783835b01ad",
+ "content_hash": "14d017cff5c11aafe34a69afb665b1e5480520d2",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -19,8 +19,8 @@
    "adds_24h": 75524,
    "name": "Aaron Rodgers",
    "pos": "QB",
-   "proj_4wk": 62.2,
-   "proj_this_week": 17.36,
+   "proj_4wk": 62.1,
+   "proj_this_week": 17.31,
    "status": null,
    "team": "PIT"
   },
@@ -65,7 +65,7 @@
    "name": "Joe Milton",
    "pos": "QB",
    "proj_4wk": 56.2,
-   "proj_this_week": 12.05,
+   "proj_this_week": 12.04,
    "status": null,
    "team": "PHI"
   },
@@ -119,7 +119,7 @@
    "name": "Dallas Goedert",
    "pos": "TE",
    "proj_4wk": 42.0,
-   "proj_this_week": 9.87,
+   "proj_this_week": 9.86,
    "status": null,
    "team": "PHI"
   },
@@ -154,19 +154,10 @@
    "adds_24h": 53128,
    "name": "Malik Washington",
    "pos": "WR",
-   "proj_4wk": 39.6,
-   "proj_this_week": 8.93,
+   "proj_4wk": 39.5,
+   "proj_this_week": 8.83,
    "status": null,
    "team": "MIA"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Jacoby Brissett",
-   "pos": "QB",
-   "proj_4wk": 36.9,
-   "proj_this_week": 11.87,
-   "status": null,
-   "team": "BAL"
   },
   {
    "adds_24h": 0,
@@ -176,6 +167,15 @@
    "proj_this_week": 7.47,
    "status": "Questionable",
    "team": "JAX"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Jacoby Brissett",
+   "pos": "QB",
+   "proj_4wk": 36.8,
+   "proj_this_week": 11.83,
+   "status": null,
+   "team": "BAL"
   },
   {
    "adds_24h": 0,
@@ -191,7 +191,7 @@
    "name": "Kyle McCord",
    "pos": "QB",
    "proj_4wk": 35.5,
-   "proj_this_week": 10.45,
+   "proj_this_week": 10.41,
    "status": null,
    "team": "MIA"
   },
@@ -424,8 +424,8 @@
    "adds_24h": 0,
    "name": "Greg Dulcich",
    "pos": "TE",
-   "proj_4wk": 28.3,
-   "proj_this_week": 6.41,
+   "proj_4wk": 28.2,
+   "proj_this_week": 6.37,
    "status": null,
    "team": "MIA"
   },
@@ -632,7 +632,7 @@
    "name": "Zonovan Knight",
    "pos": "RB",
    "proj_4wk": 24.3,
-   "proj_this_week": 6.87,
+   "proj_this_week": 6.86,
    "status": null,
    "team": "ARI"
   },
@@ -745,7 +745,7 @@
    "team": "MIN"
   }
  ],
- "generated_at": "2026-11-20T02:19:18Z",
+ "generated_at": "2026-11-20T02:24:22Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -799,7 +799,7 @@
    {
     "name": "DJ Moore",
     "pid": "4983",
-    "proj": 12.39,
+    "proj": 12.33,
     "slot": "WR"
    },
    {
@@ -827,8 +827,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 92.36,
-  "current_projected": 90.27,
+  "best_projected": 92.3,
+  "current_projected": 90.21,
   "gain": 2.09,
   "problems": [
    {
@@ -939,8 +939,8 @@
    "week": 10
   },
   "matchup": {
-   "my_proj": 90.3,
-   "opp_best_possible": 138.05,
+   "my_proj": 90.2,
+   "opp_best_possible": 138.13,
    "opp_proj": 138.1,
    "opponent": "Bradsgay",
    "opponent_record": "6-4",
@@ -959,7 +959,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.329,
+    "first_seed_odds": 0.33,
     "losses": 3,
     "mine": false,
     "pa": 1170.04,
@@ -968,7 +968,7 @@
     "power_rank": 6,
     "proj_avg": 124.5,
     "proj_by_week": {
-     "11": 117.21,
+     "11": 117.23,
      "12": 127.74,
      "13": 126.47,
      "14": 126.75
@@ -1008,9 +1008,9 @@
     "pf": 1378.72,
     "playoff_odds": 0.992,
     "power_rank": 3,
-    "proj_avg": 128.8,
+    "proj_avg": 128.9,
     "proj_by_week": {
-     "11": 138.05,
+     "11": 138.13,
      "12": 135.81,
      "13": 123.01,
      "14": 118.48
@@ -1069,11 +1069,11 @@
     "mine": false,
     "pa": 1293.6,
     "pf": 1206.58,
-    "playoff_odds": 0.493,
+    "playoff_odds": 0.494,
     "power_rank": 9,
-    "proj_avg": 117.6,
+    "proj_avg": 117.7,
     "proj_by_week": {
-     "11": 107.52,
+     "11": 107.62,
      "12": 123.26,
      "13": 124.51,
      "14": 115.29
@@ -1157,7 +1157,7 @@
     "power_rank": 10,
     "proj_avg": 106.8,
     "proj_by_week": {
-     "11": 92.36,
+     "11": 92.3,
      "12": 110.37,
      "13": 114.37,
      "14": 110.23
@@ -1283,7 +1283,7 @@
    "pid": "4983",
    "pos": "WR",
    "proj_by_week": {
-    "11": 12.39,
+    "11": 12.33,
     "12": 12.27,
     "13": 13.74,
     "14": 13.08
@@ -1574,13 +1574,13 @@
   {
    "drop": "12491",
    "drop_name": "Corey Kiner",
-   "gain_this_week": 0.5,
-   "gain_window": 0.5,
+   "gain_this_week": 0.45,
+   "gain_window": 0.45,
    "name": "Aaron Rodgers",
    "pid": "96",
    "pos": "QB",
    "proj_by_week": {
-    "11": 17.36,
+    "11": 17.31,
     "12": 15.11,
     "13": 15.38,
     "14": 14.32
