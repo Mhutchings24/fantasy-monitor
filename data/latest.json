@@ -1,5 +1,5 @@
 {
- "content_hash": "4cf3ac0732e74b719a4ad159cbd857973b291adc",
+ "content_hash": "e1d29e0eae628257fc81e38df6a3729e99dea386",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -665,21 +665,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Jadarian Price",
-   "pos": "RB",
-   "proj_4wk": 23.9,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Malachi Fields",
    "pos": "WR",
    "proj_4wk": 23.9,
    "proj_this_week": 6.23,
    "status": null,
    "team": "NYG"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Jadarian Price",
+   "pos": "RB",
+   "proj_4wk": 23.9,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "SEA"
   },
   {
    "adds_24h": 58751,
@@ -745,7 +745,7 @@
    "team": "MIN"
   }
  ],
- "generated_at": "2026-11-20T15:31:04Z",
+ "generated_at": "2026-11-20T15:36:09Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
