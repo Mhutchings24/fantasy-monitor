@@ -1,5 +1,5 @@
 {
- "content_hash": "b4183364f9d68167d938a90b5385d62b7ab9c9f2",
+ "content_hash": "87465b4a29e84a1d912fa8e55cce9b6b3f8d5911",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -55,7 +55,7 @@
    "adds_24h": 0,
    "name": "J.J. McCarthy",
    "pos": "QB",
-   "proj_4wk": 59.1,
+   "proj_4wk": 59.3,
    "proj_this_week": 15.03,
    "status": null,
    "team": "NYG"
@@ -485,21 +485,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Darnell Washington",
-   "pos": "TE",
-   "proj_4wk": 27.1,
-   "proj_this_week": 6.79,
-   "status": null,
-   "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
    "name": "CIN D/ST",
    "pos": "DEF",
    "proj_4wk": 27.1,
    "proj_this_week": 6.49,
    "status": null,
    "team": "CIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "proj_4wk": 27.1,
+   "proj_this_week": 6.79,
+   "status": null,
+   "team": "PIT"
   },
   {
    "adds_24h": 0,
@@ -545,6 +545,15 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "NE"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Anthony Richardson Sr.",
+   "pos": "QB",
+   "proj_4wk": 25.2,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "IND"
   },
   {
    "adds_24h": 0,
@@ -718,15 +727,6 @@
    "team": "GB"
   },
   {
-   "adds_24h": 0,
-   "name": "Ty Johnson",
-   "pos": "RB",
-   "proj_4wk": 23.1,
-   "proj_this_week": 5.82,
-   "status": null,
-   "team": "BUF"
-  },
-  {
    "adds_24h": 193374,
    "name": "Justice Hill",
    "pos": "RB",
@@ -754,7 +754,7 @@
    "team": "LAR"
   }
  ],
- "generated_at": "2026-11-20T19:43:39Z",
+ "generated_at": "2026-11-20T19:48:44Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -973,7 +973,7 @@
     "mine": false,
     "pa": 1170.04,
     "pf": 1210.18,
-    "playoff_odds": 0.972,
+    "playoff_odds": 0.971,
     "power_rank": 6,
     "proj_avg": 124.6,
     "proj_by_week": {
@@ -1041,7 +1041,7 @@
     "proj_avg": 128.8,
     "proj_by_week": {
      "11": 133.49,
-     "12": 131.87,
+     "12": 131.82,
      "13": 115.18,
      "14": 134.76
     },
@@ -1083,7 +1083,7 @@
     "proj_avg": 117.2,
     "proj_by_week": {
      "11": 105.6,
-     "12": 123.29,
+     "12": 123.32,
      "13": 124.51,
      "14": 115.29
     },
@@ -1099,12 +1099,12 @@
     "mine": false,
     "pa": 1107.26,
     "pf": 1150.76,
-    "playoff_odds": 0.399,
+    "playoff_odds": 0.396,
     "power_rank": 8,
-    "proj_avg": 122.4,
+    "proj_avg": 122.3,
     "proj_by_week": {
      "11": 123.9,
-     "12": 128.76,
+     "12": 128.36,
      "13": 112.02,
      "14": 124.86
     },
@@ -1120,7 +1120,7 @@
     "mine": false,
     "pa": 1248.08,
     "pf": 1235.98,
-    "playoff_odds": 0.53,
+    "playoff_odds": 0.533,
     "power_rank": 1,
     "proj_avg": 135.4,
     "proj_by_week": {
@@ -1146,7 +1146,7 @@
     "proj_avg": 124.9,
     "proj_by_week": {
      "11": 127.54,
-     "12": 129.9,
+     "12": 130.04,
      "13": 120.75,
      "14": 121.22
     },
