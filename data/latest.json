@@ -1,5 +1,5 @@
 {
- "content_hash": "26c065f38232411fe6c5c00c4a8a53ffe9070cf0",
+ "content_hash": "3f6de2b4f48def4f3cc3b2facc38ccd7a380ca36",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -127,8 +127,8 @@
    "adds_24h": 92672,
    "name": "Fernando Mendoza",
    "pos": "QB",
-   "proj_4wk": 41.1,
-   "proj_this_week": 12.04,
+   "proj_4wk": 41.2,
+   "proj_this_week": 12.17,
    "status": null,
    "team": "LV"
   },
@@ -317,7 +317,7 @@
    "name": "DEN D/ST",
    "pos": "DEF",
    "proj_4wk": 31.6,
-   "proj_this_week": 8.66,
+   "proj_this_week": 8.63,
    "status": null,
    "team": "DEN"
   },
@@ -389,7 +389,7 @@
    "name": "Wil Lutz",
    "pos": "K",
    "proj_4wk": 29.9,
-   "proj_this_week": 7.8,
+   "proj_this_week": 7.77,
    "status": null,
    "team": "DEN"
   },
@@ -479,7 +479,7 @@
    "name": "Tre Tucker",
    "pos": "WR",
    "proj_4wk": 27.3,
-   "proj_this_week": 8.48,
+   "proj_this_week": 8.51,
    "status": null,
    "team": "LV"
   },
@@ -614,7 +614,7 @@
    "name": "Evan Engram",
    "pos": "TE",
    "proj_4wk": 24.4,
-   "proj_this_week": 5.92,
+   "proj_this_week": 5.93,
    "status": null,
    "team": "DEN"
   },
@@ -700,15 +700,6 @@
    "team": "TEN"
   },
   {
-   "adds_24h": 50992,
-   "name": "Alvin Kamara",
-   "pos": "RB",
-   "proj_4wk": 23.4,
-   "proj_this_week": 6.22,
-   "status": null,
-   "team": "NO"
-  },
-  {
    "adds_24h": 0,
    "name": "AJ Barner",
    "pos": "TE",
@@ -716,6 +707,15 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "SEA"
+  },
+  {
+   "adds_24h": 50992,
+   "name": "Alvin Kamara",
+   "pos": "RB",
+   "proj_4wk": 23.4,
+   "proj_this_week": 6.22,
+   "status": null,
+   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -745,7 +745,7 @@
    "team": "MIN"
   }
  ],
- "generated_at": "2026-11-20T13:20:20Z",
+ "generated_at": "2026-11-20T13:25:25Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -959,7 +959,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.331,
+    "first_seed_odds": 0.332,
     "losses": 3,
     "mine": false,
     "pa": 1170.04,
@@ -968,7 +968,7 @@
     "power_rank": 6,
     "proj_avg": 124.5,
     "proj_by_week": {
-     "11": 117.26,
+     "11": 117.36,
      "12": 127.47,
      "13": 126.47,
      "14": 126.75
@@ -989,7 +989,7 @@
     "power_rank": 4,
     "proj_avg": 128.6,
     "proj_by_week": {
-     "11": 110.4,
+     "11": 110.44,
      "12": 140.13,
      "13": 119.96,
      "14": 143.82
@@ -1043,12 +1043,12 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.012,
+    "first_seed_odds": 0.011,
     "losses": 5,
     "mine": false,
     "pa": 1236.3,
     "pf": 1220.66,
-    "playoff_odds": 0.598,
+    "playoff_odds": 0.599,
     "power_rank": 8,
     "proj_avg": 122.5,
     "proj_by_week": {
@@ -1069,11 +1069,11 @@
     "mine": false,
     "pa": 1293.6,
     "pf": 1206.58,
-    "playoff_odds": 0.492,
+    "playoff_odds": 0.493,
     "power_rank": 9,
     "proj_avg": 117.6,
     "proj_by_week": {
-     "11": 107.48,
+     "11": 107.49,
      "12": 123.26,
      "13": 124.51,
      "14": 115.29
@@ -1090,11 +1090,11 @@
     "mine": false,
     "pa": 1107.26,
     "pf": 1150.76,
-    "playoff_odds": 0.405,
+    "playoff_odds": 0.404,
     "power_rank": 7,
-    "proj_avg": 122.7,
+    "proj_avg": 122.6,
     "proj_by_week": {
-     "11": 124.16,
+     "11": 124.1,
      "12": 129.61,
      "13": 112.02,
      "14": 124.81
@@ -1132,11 +1132,11 @@
     "mine": false,
     "pa": 1219.86,
     "pf": 1206.34,
-    "playoff_odds": 0.115,
+    "playoff_odds": 0.114,
     "power_rank": 5,
     "proj_avg": 124.9,
     "proj_by_week": {
-     "11": 127.68,
+     "11": 127.58,
      "12": 130.02,
      "13": 120.75,
      "14": 121.22
@@ -1417,13 +1417,13 @@
   {
    "drop": "LAR",
    "drop_name": "LAR D/ST",
-   "gain_this_week": 8.66,
-   "gain_window": 8.66,
+   "gain_this_week": 8.63,
+   "gain_window": 8.63,
    "name": "DEN D/ST",
    "pid": "DEN",
    "pos": "DEF",
    "proj_by_week": {
-    "11": 8.66,
+    "11": 8.63,
     "12": 7.7,
     "13": 8.1,
     "14": 7.15
