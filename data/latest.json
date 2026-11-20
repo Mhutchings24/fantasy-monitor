@@ -1,5 +1,5 @@
 {
- "content_hash": "8cadab86cb84de8f4781b45c44bc8bdb699b6a4c",
+ "content_hash": "e04d421c06063557e2182ab2396f4ffd328d17bc",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -485,21 +485,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "CIN D/ST",
-   "pos": "DEF",
-   "proj_4wk": 27.1,
-   "proj_this_week": 6.49,
-   "status": null,
-   "team": "CIN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Darnell Washington",
    "pos": "TE",
    "proj_4wk": 27.1,
    "proj_this_week": 6.79,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "CIN D/ST",
+   "pos": "DEF",
+   "proj_4wk": 27.1,
+   "proj_this_week": 6.49,
+   "status": null,
+   "team": "CIN"
   },
   {
    "adds_24h": 0,
@@ -673,15 +673,6 @@
    "team": "SEA"
   },
   {
-   "adds_24h": 0,
-   "name": "Malachi Fields",
-   "pos": "WR",
-   "proj_4wk": 23.9,
-   "proj_this_week": 6.24,
-   "status": null,
-   "team": "NYG"
-  },
-  {
    "adds_24h": 62965,
    "name": "Gunnar Helm",
    "pos": "TE",
@@ -689,6 +680,15 @@
    "proj_this_week": 7.22,
    "status": null,
    "team": "TEN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Malachi Fields",
+   "pos": "WR",
+   "proj_4wk": 23.9,
+   "proj_this_week": 6.24,
+   "status": null,
+   "team": "NYG"
   },
   {
    "adds_24h": 0,
@@ -754,7 +754,7 @@
    "team": "LAR"
   }
  ],
- "generated_at": "2026-11-20T21:05:12Z",
+ "generated_at": "2026-11-20T21:10:16Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
