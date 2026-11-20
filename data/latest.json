@@ -1,5 +1,5 @@
 {
- "content_hash": "665e00e76fdefa78142ece3b04c98fe5c529ebab",
+ "content_hash": "b785b44e5393eb8d2dddfcb5795e0e922fe2501b",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -700,15 +700,6 @@
    "team": "TEN"
   },
   {
-   "adds_24h": 0,
-   "name": "AJ Barner",
-   "pos": "TE",
-   "proj_4wk": 23.4,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "SEA"
-  },
-  {
    "adds_24h": 50936,
    "name": "Alvin Kamara",
    "pos": "RB",
@@ -716,6 +707,15 @@
    "proj_this_week": 6.22,
    "status": null,
    "team": "NO"
+  },
+  {
+   "adds_24h": 0,
+   "name": "AJ Barner",
+   "pos": "TE",
+   "proj_4wk": 23.4,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -745,7 +745,7 @@
    "team": "MIN"
   }
  ],
- "generated_at": "2026-11-20T10:43:51Z",
+ "generated_at": "2026-11-20T10:48:55Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
