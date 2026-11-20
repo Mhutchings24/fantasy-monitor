@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-20T06:10:12Z UTC
+Week 11 · record 3-7 · updated 2026-11-20T06:15:17Z UTC
 
 ## Lineup check
 Current lineup projects **90.2**, best possible **92.3**.
