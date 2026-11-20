@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-20T16:53:01Z UTC
+Week 11 · record 3-7 · updated 2026-11-20T16:58:06Z UTC
 
 ## Lineup check
-Current lineup projects **90.2**, best possible **92.3**.
+Current lineup projects **90.1**, best possible **92.2**.
 
 - ⚠️ LAR D/ST (DEF, LAR) is on bye
 - 🔁 Start Mike Evans (WR, SF) (11.3) over Jordyn Tyson (WR, NO) (9.2)
@@ -14,14 +14,15 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Bryce Young | QB | CAR | Corey Kiner | +1.5 | +1.5 | 0 |
+| Bryce Young | QB | CAR | Corey Kiner | +1.6 | +1.6 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +0.3 | +0.3 | 0 |
-| Aaron Rodgers | QB | PIT | Corey Kiner | +0.1 | +0.1 | 66,956 |
+| Aaron Rodgers | QB | PIT | Corey Kiner | +0.2 | +0.2 | 66,956 |
+| Cam Ward | QB | TEN | Corey Kiner | +0.1 | +0.1 | 0 |
 
 **DEF stream this week:** add DEN D/ST for LAR D/ST (+8.7 pts this week)
 
 ## This week's matchup
-vs **Bradsgay** (6-4): you **90.2** – 139.3 projected · win chance **8%**
+vs **Bradsgay** (6-4): you **90.1** – 139.4 projected · win chance **8%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -32,12 +33,12 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 3 | 129.0 | 96% |
 | 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 2 | 129.2 | 99% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 4 | 128.8 | 94% |
-| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 122.5 | 60% |
+| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 122.5 | 59% |
 | 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 117.7 | 50% |
 | 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 7 | 122.5 | 40% |
-| 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 135.2 | 52% |
+| 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 135.3 | 53% |
 | 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 5 | 124.8 | 11% |
-| 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 106.9 | 0% |
+| 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 106.8 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -48,8 +49,8 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Player | Pos | Team | Spot | Status | Wk 11 | Wk 12 | Wk 13 | Wk 14 |
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter | BYE | 0.0 | 6.1 | 6.1 | 5.9 |
-| Jake Bates | K | DET | starter |  | 8.7 | 8.8 | 8.4 | 8.6 |
-| Jared Goff | QB | DET | starter |  | 16.9 | 20.2 | 18.8 | 19.7 |
+| Jake Bates | K | DET | starter |  | 8.6 | 8.8 | 8.4 | 8.6 |
+| Jared Goff | QB | DET | starter |  | 16.8 | 20.2 | 18.8 | 19.7 |
 | Jordan Mason | RB | MIN | starter |  | 8.8 | 11.4 | 11.4 | 10.3 |
 | Rico Dowdle | RB | PIT | starter |  | 8.4 | 8.1 | 8.3 | 7.7 |
 | George Kittle | TE | SF | starter |  | 12.5 | 12.6 | 14.7 | 13.9 |
