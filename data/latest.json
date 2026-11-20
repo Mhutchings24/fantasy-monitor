@@ -1,5 +1,5 @@
 {
- "content_hash": "7fcfd423f2a0a11af0ee65a811b377a6880068dc",
+ "content_hash": "297f5da8495a890ade5fdf0ed1cb1228331d6a6c",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -673,15 +673,6 @@
    "team": "SEA"
   },
   {
-   "adds_24h": 0,
-   "name": "Malachi Fields",
-   "pos": "WR",
-   "proj_4wk": 23.9,
-   "proj_this_week": 6.24,
-   "status": null,
-   "team": "NYG"
-  },
-  {
    "adds_24h": 63280,
    "name": "Gunnar Helm",
    "pos": "TE",
@@ -689,6 +680,15 @@
    "proj_this_week": 7.22,
    "status": null,
    "team": "TEN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Malachi Fields",
+   "pos": "WR",
+   "proj_4wk": 23.9,
+   "proj_this_week": 6.24,
+   "status": null,
+   "team": "NYG"
   },
   {
    "adds_24h": 0,
@@ -754,7 +754,7 @@
    "team": "LAR"
   }
  ],
- "generated_at": "2026-11-20T21:55:32Z",
+ "generated_at": "2026-11-20T22:00:36Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1057,7 +1057,7 @@
     "mine": false,
     "pa": 1236.3,
     "pf": 1220.66,
-    "playoff_odds": 0.599,
+    "playoff_odds": 0.593,
     "power_rank": 7,
     "proj_avg": 122.5,
     "proj_by_week": {
@@ -1078,11 +1078,11 @@
     "mine": false,
     "pa": 1293.6,
     "pf": 1206.58,
-    "playoff_odds": 0.499,
+    "playoff_odds": 0.507,
     "power_rank": 9,
-    "proj_avg": 117.8,
+    "proj_avg": 118.1,
     "proj_by_week": {
-     "11": 107.96,
+     "11": 109.24,
      "12": 123.33,
      "13": 124.51,
      "14": 115.29
@@ -1099,7 +1099,7 @@
     "mine": false,
     "pa": 1107.26,
     "pf": 1150.76,
-    "playoff_odds": 0.383,
+    "playoff_odds": 0.382,
     "power_rank": 8,
     "proj_avg": 122.4,
     "proj_by_week": {
