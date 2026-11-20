@@ -1,5 +1,5 @@
 {
- "content_hash": "afd1020ef3177970c8bf22f464f4724b84616b83",
+ "content_hash": "b4855251d111e8aeb4cc53a262908614e4adc364",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -64,7 +64,7 @@
    "adds_24h": 43960,
    "name": "Joe Milton",
    "pos": "QB",
-   "proj_4wk": 56.1,
+   "proj_4wk": 56.0,
    "proj_this_week": 11.9,
    "status": null,
    "team": "PHI"
@@ -118,7 +118,7 @@
    "adds_24h": 0,
    "name": "Dallas Goedert",
    "pos": "TE",
-   "proj_4wk": 41.9,
+   "proj_4wk": 41.8,
    "proj_this_week": 9.75,
    "status": null,
    "team": "PHI"
@@ -451,7 +451,7 @@
    "adds_24h": 0,
    "name": "Jake Elliott",
    "pos": "K",
-   "proj_4wk": 28.0,
+   "proj_4wk": 27.9,
    "proj_this_week": 6.85,
    "status": null,
    "team": "PHI"
@@ -494,21 +494,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Darnell Washington",
-   "pos": "TE",
-   "proj_4wk": 27.1,
-   "proj_this_week": 6.79,
-   "status": null,
-   "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
    "name": "CIN D/ST",
    "pos": "DEF",
    "proj_4wk": 27.1,
    "proj_this_week": 6.49,
    "status": null,
    "team": "CIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "proj_4wk": 27.1,
+   "proj_this_week": 6.79,
+   "status": null,
+   "team": "PIT"
   },
   {
    "adds_24h": 0,
@@ -554,15 +554,6 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "NE"
-  },
-  {
-   "adds_24h": 0,
-   "name": "PHI D/ST",
-   "pos": "DEF",
-   "proj_4wk": 25.2,
-   "proj_this_week": 6.95,
-   "status": null,
-   "team": "PHI"
   },
   {
    "adds_24h": 0,
@@ -644,6 +635,15 @@
    "proj_this_week": 5.92,
    "status": null,
    "team": "DEN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "PHI D/ST",
+   "pos": "DEF",
+   "proj_4wk": 24.2,
+   "proj_this_week": 6.95,
+   "status": null,
+   "team": "PHI"
   },
   {
    "adds_24h": 0,
@@ -745,7 +745,7 @@
    "team": "MIN"
   }
  ],
- "generated_at": "2026-11-20T17:40:27Z",
+ "generated_at": "2026-11-20T17:45:32Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1011,7 +1011,7 @@
     "proj_avg": 129.2,
     "proj_by_week": {
      "11": 139.37,
-     "12": 135.84,
+     "12": 135.93,
      "13": 123.01,
      "14": 118.48
     },
@@ -1074,7 +1074,7 @@
     "proj_avg": 117.7,
     "proj_by_week": {
      "11": 107.84,
-     "12": 123.23,
+     "12": 123.26,
      "13": 124.51,
      "14": 115.29
     },
@@ -1111,12 +1111,12 @@
     "mine": false,
     "pa": 1248.08,
     "pf": 1235.98,
-    "playoff_odds": 0.526,
+    "playoff_odds": 0.527,
     "power_rank": 1,
     "proj_avg": 135.3,
     "proj_by_week": {
      "11": 135.31,
-     "12": 142.67,
+     "12": 142.84,
      "13": 137.55,
      "14": 125.66
     },
