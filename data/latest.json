@@ -1,5 +1,5 @@
 {
- "content_hash": "3f9da4d2b1944564289b90068be51ebdc4c1d530",
+ "content_hash": "9e5ed9204d6f844624d26d715239ba74fd5577cb",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -494,21 +494,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "CIN D/ST",
-   "pos": "DEF",
-   "proj_4wk": 27.1,
-   "proj_this_week": 6.49,
-   "status": null,
-   "team": "CIN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Darnell Washington",
    "pos": "TE",
    "proj_4wk": 27.1,
    "proj_this_week": 6.79,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "CIN D/ST",
+   "pos": "DEF",
+   "proj_4wk": 27.1,
+   "proj_this_week": 6.49,
+   "status": null,
+   "team": "CIN"
   },
   {
    "adds_24h": 0,
@@ -745,7 +745,7 @@
    "team": "MIN"
   }
  ],
- "generated_at": "2026-11-20T18:31:42Z",
+ "generated_at": "2026-11-20T18:36:46Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
