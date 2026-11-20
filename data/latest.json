@@ -1,5 +1,5 @@
 {
- "content_hash": "06b87d8498be4ec79d5048e49034f05bb1cd4fdf",
+ "content_hash": "184484afa0b9e36d16fe69746ea94f351303d6c5",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -494,21 +494,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Darnell Washington",
-   "pos": "TE",
-   "proj_4wk": 27.1,
-   "proj_this_week": 6.79,
-   "status": null,
-   "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
    "name": "CIN D/ST",
    "pos": "DEF",
    "proj_4wk": 27.1,
    "proj_this_week": 6.49,
    "status": null,
    "team": "CIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "proj_4wk": 27.1,
+   "proj_this_week": 6.79,
+   "status": null,
+   "team": "PIT"
   },
   {
    "adds_24h": 0,
@@ -745,7 +745,7 @@
    "team": "MIN"
   }
  ],
- "generated_at": "2026-11-20T16:42:52Z",
+ "generated_at": "2026-11-20T16:47:57Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1111,14 +1111,14 @@
     "mine": false,
     "pa": 1248.08,
     "pf": 1235.98,
-    "playoff_odds": 0.522,
+    "playoff_odds": 0.523,
     "power_rank": 1,
     "proj_avg": 135.2,
     "proj_by_week": {
      "11": 134.95,
      "12": 142.67,
      "13": 137.55,
-     "14": 125.53
+     "14": 125.66
     },
     "rank": 8,
     "roster_id": 2,
@@ -1132,7 +1132,7 @@
     "mine": false,
     "pa": 1219.86,
     "pf": 1206.34,
-    "playoff_odds": 0.112,
+    "playoff_odds": 0.111,
     "power_rank": 5,
     "proj_avg": 124.8,
     "proj_by_week": {
