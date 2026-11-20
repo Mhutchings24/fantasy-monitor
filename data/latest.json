@@ -1,5 +1,5 @@
 {
- "content_hash": "6490773eccc309076471dd7e6bff797413f0349b",
+ "content_hash": "d7ddce13cfcf5abb87e50b3362ee9125bd973440",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -25,7 +25,7 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 60948,
+   "adds_24h": 61120,
    "name": "Aaron Rodgers",
    "pos": "QB",
    "proj_4wk": 61.7,
@@ -61,7 +61,7 @@
    "team": "NYG"
   },
   {
-   "adds_24h": 44272,
+   "adds_24h": 44460,
    "name": "Joe Milton",
    "pos": "QB",
    "proj_4wk": 56.1,
@@ -124,7 +124,7 @@
    "team": "PHI"
   },
   {
-   "adds_24h": 85312,
+   "adds_24h": 85688,
    "name": "Fernando Mendoza",
    "pos": "QB",
    "proj_4wk": 41.2,
@@ -151,7 +151,7 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 45384,
+   "adds_24h": 45560,
    "name": "Malik Washington",
    "pos": "WR",
    "proj_4wk": 39.5,
@@ -241,7 +241,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 65728,
+   "adds_24h": 66060,
    "name": "Mike Gesicki",
    "pos": "TE",
    "proj_4wk": 33.3,
@@ -250,7 +250,7 @@
    "team": "CIN"
   },
   {
-   "adds_24h": 84609,
+   "adds_24h": 85086,
    "name": "Darren Waller",
    "pos": "TE",
    "proj_4wk": 32.9,
@@ -277,7 +277,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 337085,
+   "adds_24h": 337897,
    "name": "Cairo Santos",
    "pos": "K",
    "proj_4wk": 31.8,
@@ -394,7 +394,7 @@
    "team": "PHI"
   },
   {
-   "adds_24h": 98936,
+   "adds_24h": 99540,
    "name": "Samaje Perine",
    "pos": "RB",
    "proj_4wk": 29.5,
@@ -403,7 +403,7 @@
    "team": "CIN"
   },
   {
-   "adds_24h": 77373,
+   "adds_24h": 77625,
    "name": "Joey Slye",
    "pos": "K",
    "proj_4wk": 29.0,
@@ -485,21 +485,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Darnell Washington",
-   "pos": "TE",
-   "proj_4wk": 27.1,
-   "proj_this_week": 6.79,
-   "status": null,
-   "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
    "name": "CIN D/ST",
    "pos": "DEF",
    "proj_4wk": 27.1,
    "proj_this_week": 6.49,
    "status": null,
    "team": "CIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "proj_4wk": 27.1,
+   "proj_this_week": 6.79,
+   "status": null,
+   "team": "PIT"
   },
   {
    "adds_24h": 0,
@@ -511,7 +511,7 @@
    "team": "ATL"
   },
   {
-   "adds_24h": 65406,
+   "adds_24h": 65577,
    "name": "SF D/ST",
    "pos": "DEF",
    "proj_4wk": 26.7,
@@ -583,7 +583,7 @@
    "team": "HOU"
   },
   {
-   "adds_24h": 41245,
+   "adds_24h": 41341,
    "name": "CAR D/ST",
    "pos": "DEF",
    "proj_4wk": 24.7,
@@ -601,7 +601,7 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 83176,
+   "adds_24h": 83896,
    "name": "Kenny Gainwell",
    "pos": "RB",
    "proj_4wk": 24.4,
@@ -673,15 +673,6 @@
    "team": "SEA"
   },
   {
-   "adds_24h": 64022,
-   "name": "Gunnar Helm",
-   "pos": "TE",
-   "proj_4wk": 23.9,
-   "proj_this_week": 7.22,
-   "status": null,
-   "team": "TEN"
-  },
-  {
    "adds_24h": 0,
    "name": "Malachi Fields",
    "pos": "WR",
@@ -689,6 +680,15 @@
    "proj_this_week": 6.24,
    "status": null,
    "team": "NYG"
+  },
+  {
+   "adds_24h": 64400,
+   "name": "Gunnar Helm",
+   "pos": "TE",
+   "proj_4wk": 23.9,
+   "proj_this_week": 7.22,
+   "status": null,
+   "team": "TEN"
   },
   {
    "adds_24h": 0,
@@ -709,7 +709,7 @@
    "team": "SEA"
   },
   {
-   "adds_24h": 48576,
+   "adds_24h": 48864,
    "name": "Alvin Kamara",
    "pos": "RB",
    "proj_4wk": 23.4,
@@ -727,7 +727,7 @@
    "team": "GB"
   },
   {
-   "adds_24h": 214605,
+   "adds_24h": 216234,
    "name": "Justice Hill",
    "pos": "RB",
    "proj_4wk": 20.8,
@@ -736,7 +736,7 @@
    "team": "BAL"
   },
   {
-   "adds_24h": 101016,
+   "adds_24h": 101430,
    "name": "Gavin Bartholomew",
    "pos": "TE",
    "proj_4wk": 8.1,
@@ -745,7 +745,7 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 42066,
+   "adds_24h": 42597,
    "name": "Konata Mumpfield",
    "pos": "WR",
    "proj_4wk": 14.8,
@@ -754,7 +754,7 @@
    "team": "LAR"
   }
  ],
- "generated_at": "2026-11-20T22:18:38Z",
+ "generated_at": "2026-11-20T22:28:44Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1651,7 +1651,7 @@
    "status": null,
    "stream": false,
    "team": "PIT",
-   "trending_adds_24h": 60948
+   "trending_adds_24h": 61120
   },
   {
    "drop": "12491",
