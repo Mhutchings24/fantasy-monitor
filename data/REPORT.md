@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-20T18:26:38Z UTC
+Week 11 · record 3-7 · updated 2026-11-20T18:31:42Z UTC
 
 ## Lineup check
-Current lineup projects **90.1**, best possible **92.2**.
+Current lineup projects **90.0**, best possible **92.1**.
 
 - ⚠️ LAR D/ST (DEF, LAR) is on bye
 - 🔁 Start Mike Evans (WR, SF) (11.3) over Jordyn Tyson (WR, NO) (9.2)
@@ -16,13 +16,13 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 |---|---|---|---|---|---|---|
 | Bryce Young | QB | CAR | Corey Kiner | +1.6 | +1.6 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +0.3 | +0.3 | 0 |
-| Aaron Rodgers | QB | PIT | Corey Kiner | +0.2 | +0.2 | 65,696 |
+| Aaron Rodgers | QB | PIT | Corey Kiner | +0.2 | +0.2 | 63,288 |
 | Cam Ward | QB | TEN | Corey Kiner | +0.1 | +0.1 | 0 |
 
 **DEF stream this week:** add DEN D/ST for LAR D/ST (+8.7 pts this week)
 
 ## This week's matchup
-vs **Bradsgay** (6-4): you **90.1** – 139.4 projected · win chance **8%**
+vs **Bradsgay** (6-4): you **90.0** – 139.3 projected · win chance **8%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -30,7 +30,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 6 | 124.4 | 97% |
-| 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 3 | 129.0 | 96% |
+| 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 3 | 129.1 | 96% |
 | 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 2 | 129.2 | 99% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 4 | 128.8 | 94% |
 | 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 122.5 | 59% |
