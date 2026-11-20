@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-20T15:46:18Z UTC
+Week 11 · record 3-7 · updated 2026-11-20T15:51:23Z UTC
 
 ## Lineup check
 Current lineup projects **90.3**, best possible **92.4**.
@@ -15,7 +15,7 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Bryce Young | QB | CAR | Corey Kiner | +1.4 | +1.4 | 0 |
-| Aaron Rodgers | QB | PIT | Corey Kiner | +0.4 | +0.4 | 68,544 |
+| Aaron Rodgers | QB | PIT | Corey Kiner | +0.4 | +0.4 | 68,688 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +0.2 | +0.2 | 0 |
 
 **DEF stream this week:** add DEN D/ST for LAR D/ST (+8.7 pts this week)
@@ -30,11 +30,11 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 6 | 124.5 | 97% |
 | 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 4 | 128.7 | 96% |
-| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 3 | 128.9 | 99% |
-| 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 128.9 | 94% |
+| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 2 | 128.9 | 99% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 3 | 128.8 | 94% |
 | 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 122.5 | 60% |
 | 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 117.6 | 49% |
-| 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 7 | 122.6 | 41% |
+| 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 7 | 122.5 | 40% |
 | 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 135.2 | 52% |
 | 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 5 | 124.9 | 11% |
 | 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 106.9 | 0% |
