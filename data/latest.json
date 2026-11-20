@@ -1,5 +1,5 @@
 {
- "content_hash": "dae44f09219722ecf9c8abf59af5e09f01f5ce02",
+ "content_hash": "8cc7db37e8c362d02b06fb90d362fec619dee956",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -485,21 +485,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Darnell Washington",
-   "pos": "TE",
-   "proj_4wk": 27.2,
-   "proj_this_week": 6.85,
-   "status": null,
-   "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
    "name": "Kimani Vidal",
    "pos": "RB",
    "proj_4wk": 27.2,
    "proj_this_week": 6.9,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "proj_4wk": 27.2,
+   "proj_this_week": 6.85,
+   "status": null,
+   "team": "PIT"
   },
   {
    "adds_24h": 0,
@@ -745,7 +745,7 @@
    "team": "MIN"
   }
  ],
- "generated_at": "2026-11-20T10:00:46Z",
+ "generated_at": "2026-11-20T10:05:50Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
