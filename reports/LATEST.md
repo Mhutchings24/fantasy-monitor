@@ -1,18 +1,19 @@
-# Flash: Cooper Jr. ruled out, DEN D/ST still not added
+# Flash: Tyson cleared, keep him at FLEX
 
 ## What changed
-- **Omar Cooper Jr. (WR, NYJ) is officially Out for Week 11** vs. the Chargers (ankle/hip). Sleeper flipped him from Questionable to Out at 15:31 UTC. He's on your bench, so this **doesn't change your lineup**. The AM report already had him as likely out.
-- **Your lineup still has LAR D/ST (bye, 0 pts) at DEF.** The 16:01 UTC monitor refresh still shows no DEN add. Lineup projects **90.3** vs. Bradsgay's ~138.
-- No other changes on your roster. Tyson (Q) and Evans (Q) still carry their designations. Look for Friday's final reports this afternoon.
+- **Jordyn Tyson (WR, NO) is off the injury report.** He practiced fully on Friday and has no game designation for Sunday vs. Chicago (chest). Sleeper removed his Questionable tag at 19:43 UTC. He's already in your FLEX, so **your lineup doesn't change**.
+- **Mike Evans (WR, SF) is still Questionable** (Achilles) for Sunday night vs. Minnesota. The 49ers say they'll decide on Saturday. The monitor rates Evans 0.4 pts higher (11.3 vs. 10.9), but that gap is too small to make up for his risk and the late kickoff.
+- **LAR D/ST (bye, 0 pts) is still in your DEF slot** as of the 20:03 UTC refresh. You project **91.7** vs. Bradsgay's ~139 (about a 9% win chance).
 
 ## What to do
-1. **Add DEN D/ST, drop LAR D/ST, and start DEN.** It's a $0 free-agent pickup worth about +8.7 pts. Do it before Sunday's 1:00 PM ET kickoff (11:00 AM MT). **High.**
-2. **Optional: use Cooper's roster spot for Aaron Jones Sr.** (FA, MIN) instead of dropping Kiner. Cooper's ankle has now cost him time twice (IR earlier in the season). Jones is the goal-line back and can start over Dowdle at RB2. **Low–Medium.**
-3. **FLEX stays the same:** Tyson. If he's inactive Sunday at about 11:30 AM ET, swap in Evans (SNF), then Allen.
+1. **Add DEN D/ST, drop LAR D/ST, and start DEN.** It's a $0 free agent worth about +8.6 pts. Do it before Sunday's 1:00 PM ET kickoff (11:00 AM MT). **High.**
+2. **Keep Tyson at FLEX.** He's cleared and plays in the early window. Evans and Allen stay on the bench as backups.
+3. Optional (unchanged): use Omar Cooper Jr.'s spot (Out) to add Aaron Jones Sr. (FA, MIN) and start him over Dowdle. **Low–Medium.**
 
 ## Sources
-- Sleeper data via monitor (`data/latest.json`, 2026-11-20T16:01Z, run 44769428128)
-- [Omar Cooper (ankle/hip) won't play vs. Chargers (NBC Sports, Nov 20)](https://www.nbcsports.com/fantasy/football/player-news/2026-11-20/omar-cooper-ankle-wont-play-vs-chargers)
-- [Jets' Omar Cooper: Will miss Week 11 (CBS Sports)](https://www.cbssports.com/fantasy/football/news/jets-omar-cooper-will-miss-week-11/)
-- [Jets Rule Out Two Players For Week 11 (NFLTradeRumors)](https://nfltraderumors.co/jets-rule-out-two-players-for-week-11/)
-- Earlier Week 11 context: [Fri AM](2026-11-20-am.md)
+- Sleeper data via monitor (`data/latest.json`, 2026-11-20T20:03Z, run 44807764144)
+- [Tyson practices in full, cleared off injury report (NBC Sports, Nov 20)](https://www.nbcsports.com/fantasy/football/player-news/2026-11-20/tyson-practices-in-full-cleared-off-injury-report)
+- [Saints Friday Injury Report: Week 11 vs. Chicago Bears](https://www.neworleanssaints.com/news/injury-report-chicago-bears-vs-new-orleans-saints-2026-nfl-week-11-friday)
+- [Mike Evans listed as questionable, 49ers to make decision on Saturday (Yahoo Sports)](https://sports.yahoo.com/articles/mike-evans-listed-questionable-49ers-195542513.html)
+- [Mike Evans Questionable for Week 11 (RotoBaller)](https://www.rotoballer.com/player-news/mike-evans-achilles-questionable-for-week-11-team-will-make-a-decision-on-saturday/1999208)
+- Earlier today: [Flash 09:04](2026-11-20-flash-1604.md), [Fri AM](2026-11-20-am.md)
