@@ -1,5 +1,5 @@
 {
- "content_hash": "488756738e0b024f2973efd60a5f59d9272ac1b4",
+ "content_hash": "5c2da979988dfb1d556b3fd59e73480a5f1ee6b0",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -16,7 +16,7 @@
    "team": "CAR"
   },
   {
-   "adds_24h": 70364,
+   "adds_24h": 70548,
    "name": "Aaron Rodgers",
    "pos": "QB",
    "proj_4wk": 62.0,
@@ -61,7 +61,7 @@
    "team": "NYG"
   },
   {
-   "adds_24h": 45496,
+   "adds_24h": 45660,
    "name": "Joe Milton",
    "pos": "QB",
    "proj_4wk": 56.2,
@@ -124,7 +124,7 @@
    "team": "PHI"
   },
   {
-   "adds_24h": 90664,
+   "adds_24h": 90976,
    "name": "Fernando Mendoza",
    "pos": "QB",
    "proj_4wk": 41.2,
@@ -151,7 +151,7 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 47112,
+   "adds_24h": 47480,
    "name": "Malik Washington",
    "pos": "WR",
    "proj_4wk": 39.5,
@@ -250,7 +250,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 63448,
+   "adds_24h": 63680,
    "name": "Mike Gesicki",
    "pos": "TE",
    "proj_4wk": 33.3,
@@ -259,7 +259,7 @@
    "team": "CIN"
   },
   {
-   "adds_24h": 74997,
+   "adds_24h": 75321,
    "name": "Darren Waller",
    "pos": "TE",
    "proj_4wk": 32.9,
@@ -286,7 +286,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 401044,
+   "adds_24h": 401989,
    "name": "Cairo Santos",
    "pos": "K",
    "proj_4wk": 31.8,
@@ -403,7 +403,7 @@
    "team": "PHI"
   },
   {
-   "adds_24h": 107260,
+   "adds_24h": 107688,
    "name": "Samaje Perine",
    "pos": "RB",
    "proj_4wk": 29.5,
@@ -412,7 +412,7 @@
    "team": "CIN"
   },
   {
-   "adds_24h": 89019,
+   "adds_24h": 89298,
    "name": "Joey Slye",
    "pos": "K",
    "proj_4wk": 29.0,
@@ -529,7 +529,7 @@
    "team": "ATL"
   },
   {
-   "adds_24h": 74673,
+   "adds_24h": 74973,
    "name": "SF D/ST",
    "pos": "DEF",
    "proj_4wk": 26.7,
@@ -592,7 +592,7 @@
    "team": "HOU"
   },
   {
-   "adds_24h": 50265,
+   "adds_24h": 50408,
    "name": "CAR D/ST",
    "pos": "DEF",
    "proj_4wk": 24.7,
@@ -619,7 +619,7 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 80504,
+   "adds_24h": 80896,
    "name": "Kenny Gainwell",
    "pos": "RB",
    "proj_4wk": 24.4,
@@ -665,15 +665,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Malachi Fields",
-   "pos": "WR",
-   "proj_4wk": 23.9,
-   "proj_this_week": 6.23,
-   "status": null,
-   "team": "NYG"
-  },
-  {
-   "adds_24h": 0,
    "name": "Jadarian Price",
    "pos": "RB",
    "proj_4wk": 23.9,
@@ -682,7 +673,16 @@
    "team": "SEA"
   },
   {
-   "adds_24h": 57932,
+   "adds_24h": 0,
+   "name": "Malachi Fields",
+   "pos": "WR",
+   "proj_4wk": 23.9,
+   "proj_this_week": 6.23,
+   "status": null,
+   "team": "NYG"
+  },
+  {
+   "adds_24h": 58170,
    "name": "Gunnar Helm",
    "pos": "TE",
    "proj_4wk": 23.8,
@@ -709,7 +709,7 @@
    "team": "SEA"
   },
   {
-   "adds_24h": 49664,
+   "adds_24h": 49888,
    "name": "Alvin Kamara",
    "pos": "RB",
    "proj_4wk": 23.4,
@@ -727,7 +727,7 @@
    "team": "GB"
   },
   {
-   "adds_24h": 202230,
+   "adds_24h": 203409,
    "name": "Justice Hill",
    "pos": "RB",
    "proj_4wk": 20.8,
@@ -736,7 +736,7 @@
    "team": "BAL"
   },
   {
-   "adds_24h": 102969,
+   "adds_24h": 103446,
    "name": "Gavin Bartholomew",
    "pos": "TE",
    "proj_4wk": 8.1,
@@ -745,7 +745,7 @@
    "team": "MIN"
   }
  ],
- "generated_at": "2026-11-20T15:20:55Z",
+ "generated_at": "2026-11-20T15:26:00Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1588,7 +1588,7 @@
    "status": null,
    "stream": false,
    "team": "PIT",
-   "trending_adds_24h": 70364
+   "trending_adds_24h": 70548
   },
   {
    "drop": "12491",
