@@ -1,5 +1,5 @@
 {
- "content_hash": "089d3b0fc006f46444ac2cec36a860c30cf23b09",
+ "content_hash": "f139f3300b9d452fe15116f2c3c013b717dd2147",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -431,21 +431,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Greg Dulcich",
-   "pos": "TE",
-   "proj_4wk": 28.2,
-   "proj_this_week": 6.37,
-   "status": null,
-   "team": "MIA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Harrison Butker",
    "pos": "K",
    "proj_4wk": 28.2,
    "proj_this_week": 7.23,
    "status": null,
    "team": "KC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Greg Dulcich",
+   "pos": "TE",
+   "proj_4wk": 28.2,
+   "proj_this_week": 6.37,
+   "status": null,
+   "team": "MIA"
   },
   {
    "adds_24h": 0,
@@ -745,7 +745,7 @@
    "team": "MIN"
   }
  ],
- "generated_at": "2026-11-20T06:20:21Z",
+ "generated_at": "2026-11-20T06:25:26Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
