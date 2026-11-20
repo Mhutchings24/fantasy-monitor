@@ -1,5 +1,5 @@
 {
- "content_hash": "89bff1c5529e03b0ad6e8baf0c500024da27e215",
+ "content_hash": "8cadab86cb84de8f4781b45c44bc8bdb699b6a4c",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -25,7 +25,7 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 62192,
+   "adds_24h": 62392,
    "name": "Aaron Rodgers",
    "pos": "QB",
    "proj_4wk": 61.7,
@@ -61,7 +61,7 @@
    "team": "NYG"
   },
   {
-   "adds_24h": 44388,
+   "adds_24h": 44552,
    "name": "Joe Milton",
    "pos": "QB",
    "proj_4wk": 56.0,
@@ -82,9 +82,9 @@
    "adds_24h": 0,
    "name": "Geno Smith",
    "pos": "QB",
-   "proj_4wk": 45.7,
-   "proj_this_week": 13.75,
-   "status": "Questionable",
+   "proj_4wk": 48.2,
+   "proj_this_week": 16.18,
+   "status": null,
    "team": "NYJ"
   },
   {
@@ -124,7 +124,7 @@
    "team": "PHI"
   },
   {
-   "adds_24h": 85872,
+   "adds_24h": 86320,
    "name": "Fernando Mendoza",
    "pos": "QB",
    "proj_4wk": 41.2,
@@ -151,7 +151,7 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 45792,
+   "adds_24h": 46016,
    "name": "Malik Washington",
    "pos": "WR",
    "proj_4wk": 39.5,
@@ -241,7 +241,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 65492,
+   "adds_24h": 66012,
    "name": "Mike Gesicki",
    "pos": "TE",
    "proj_4wk": 33.3,
@@ -250,7 +250,7 @@
    "team": "CIN"
   },
   {
-   "adds_24h": 83709,
+   "adds_24h": 84357,
    "name": "Darren Waller",
    "pos": "TE",
    "proj_4wk": 32.9,
@@ -277,7 +277,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 348138,
+   "adds_24h": 349020,
    "name": "Cairo Santos",
    "pos": "K",
    "proj_4wk": 31.8,
@@ -394,7 +394,7 @@
    "team": "PHI"
   },
   {
-   "adds_24h": 98608,
+   "adds_24h": 99508,
    "name": "Samaje Perine",
    "pos": "RB",
    "proj_4wk": 29.5,
@@ -403,7 +403,7 @@
    "team": "CIN"
   },
   {
-   "adds_24h": 79650,
+   "adds_24h": 79866,
    "name": "Joey Slye",
    "pos": "K",
    "proj_4wk": 29.0,
@@ -520,7 +520,7 @@
    "team": "ATL"
   },
   {
-   "adds_24h": 67086,
+   "adds_24h": 67275,
    "name": "SF D/ST",
    "pos": "DEF",
    "proj_4wk": 26.7,
@@ -583,7 +583,7 @@
    "team": "HOU"
   },
   {
-   "adds_24h": 42834,
+   "adds_24h": 42965,
    "name": "CAR D/ST",
    "pos": "DEF",
    "proj_4wk": 24.7,
@@ -601,7 +601,7 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 80432,
+   "adds_24h": 81056,
    "name": "Kenny Gainwell",
    "pos": "RB",
    "proj_4wk": 24.4,
@@ -682,7 +682,7 @@
    "team": "NYG"
   },
   {
-   "adds_24h": 62601,
+   "adds_24h": 62965,
    "name": "Gunnar Helm",
    "pos": "TE",
    "proj_4wk": 23.9,
@@ -709,7 +709,7 @@
    "team": "SEA"
   },
   {
-   "adds_24h": 48192,
+   "adds_24h": 48464,
    "name": "Alvin Kamara",
    "pos": "RB",
    "proj_4wk": 23.4,
@@ -727,7 +727,7 @@
    "team": "GB"
   },
   {
-   "adds_24h": 207792,
+   "adds_24h": 209655,
    "name": "Justice Hill",
    "pos": "RB",
    "proj_4wk": 20.8,
@@ -736,7 +736,7 @@
    "team": "BAL"
   },
   {
-   "adds_24h": 101727,
+   "adds_24h": 102249,
    "name": "Gavin Bartholomew",
    "pos": "TE",
    "proj_4wk": 8.1,
@@ -745,7 +745,7 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 40221,
+   "adds_24h": 40752,
    "name": "Konata Mumpfield",
    "pos": "WR",
    "proj_4wk": 14.8,
@@ -754,7 +754,7 @@
    "team": "LAR"
   }
  ],
- "generated_at": "2026-11-20T21:00:07Z",
+ "generated_at": "2026-11-20T21:05:12Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1040,7 +1040,7 @@
     "power_rank": 3,
     "proj_avg": 128.9,
     "proj_by_week": {
-     "11": 133.7,
+     "11": 133.74,
      "12": 132.06,
      "13": 115.18,
      "14": 134.76
@@ -1057,11 +1057,11 @@
     "mine": false,
     "pa": 1236.3,
     "pf": 1220.66,
-    "playoff_odds": 0.607,
+    "playoff_odds": 0.608,
     "power_rank": 7,
     "proj_avg": 122.5,
     "proj_by_week": {
-     "11": 118.92,
+     "11": 118.98,
      "12": 120.5,
      "13": 122.78,
      "14": 127.69
@@ -1078,7 +1078,7 @@
     "mine": false,
     "pa": 1293.6,
     "pf": 1206.58,
-    "playoff_odds": 0.486,
+    "playoff_odds": 0.485,
     "power_rank": 9,
     "proj_avg": 117.2,
     "proj_by_week": {
@@ -1651,7 +1651,7 @@
    "status": null,
    "stream": false,
    "team": "PIT",
-   "trending_adds_24h": 62192
+   "trending_adds_24h": 62392
   },
   {
    "drop": "12491",
