@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 11
+- [Fri Nov 20 · PM](2026/week-11/2026-11-20-pm.md) — DEF slot still empty: add DEN D/ST ($0, drop LAR; DEN plays 4:25 PM ET) (High). Keep Tyson at FLEX (cleared); Evans Q, SF decides Sat. Optional: Jones for Kiner, start over Dowdle.
 - [Fri Nov 20 · Flash 13:03](2026/week-11/2026-11-20-flash-2003.md) — Tyson cleared (full practice, no designation): keep him at FLEX. Evans still Q (SF decides Sat). Still to do: add DEN D/ST ($0, drop LAR, bye) before Sun 1 PM ET.
 - [Fri Nov 20 · Flash 09:04](2026/week-11/2026-11-20-flash-1604.md) — Cooper Jr. ruled out (bench, no lineup change). LAR D/ST (bye) is still starting: add DEN D/ST ($0, drop LAR) before Sun 1 PM ET. Optional: drop Cooper for Aaron Jones.
 - [Fri Nov 20 · AM](2026/week-11/2026-11-20-am.md) — DEF slot empty (LAR bye, KC claim missed): add DEN D/ST for LAR now (High). Add Aaron Jones (FA) for Kiner and start him over Dowdle. Keep Tyson at FLEX; Evans/Allen are SNF pivots. Evans ~55%.
