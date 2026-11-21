@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-21T03:02:41Z UTC
+Week 11 · record 3-7 · updated 2026-11-21T03:07:45Z UTC
 
 ## Lineup check
 Current lineup projects **91.6**, best possible **92.1**.
@@ -29,8 +29,8 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 5 | 125.9 | 97% |
-| 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 4 | 127.5 | 96% |
-| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 2 | 130.3 | 99% |
+| 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 4 | 127.0 | 96% |
+| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 2 | 130.3 | 100% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 3 | 128.9 | 94% |
 | 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 7 | 122.5 | 59% |
 | 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 118.1 | 51% |
@@ -44,7 +44,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 
 - **Likely** · Give Mike Evans, get Jonah Coleman from Monangynecologist: +1.1 pts/week for you, +0.3 for them.
 - **Likely** · Give Mike Evans, get Jaylen Warren from Monangynecologist: +1.1 pts/week for you, +0.3 for them.
-- **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.7 pts/week for you, -0.4 for them.
+- **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.7 pts/week for you, -0.2 for them.
 - **Possible** · Give Jared Goff, get Patrick Mahomes from Bradsgay: +1.7 pts/week for you, -0.4 for them.
 
 ## Roster
