@@ -1,5 +1,5 @@
 {
- "content_hash": "9f5bc6f1a9e1f519d1520b295521a391ab2b2812",
+ "content_hash": "f637493f2d583bdacb33c0d6a124a352c8fb4a91",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -136,8 +136,8 @@
    "adds_24h": 0,
    "name": "Chig Okonkwo",
    "pos": "TE",
-   "proj_4wk": 40.4,
-   "proj_this_week": 10.3,
+   "proj_4wk": 40.5,
+   "proj_this_week": 10.42,
    "status": null,
    "team": "WAS"
   },
@@ -245,7 +245,7 @@
    "name": "Mike Gesicki",
    "pos": "TE",
    "proj_4wk": 33.3,
-   "proj_this_week": 9.01,
+   "proj_this_week": 9.04,
    "status": null,
    "team": "CIN"
   },
@@ -271,8 +271,8 @@
    "adds_24h": 0,
    "name": "Antonio Williams",
    "pos": "WR",
-   "proj_4wk": 31.9,
-   "proj_this_week": 8.14,
+   "proj_4wk": 32.0,
+   "proj_this_week": 8.24,
    "status": null,
    "team": "WAS"
   },
@@ -398,7 +398,7 @@
    "name": "Samaje Perine",
    "pos": "RB",
    "proj_4wk": 29.5,
-   "proj_this_week": 7.45,
+   "proj_this_week": 7.5,
    "status": null,
    "team": "CIN"
   },
@@ -532,8 +532,8 @@
    "adds_24h": 0,
    "name": "Treylon Burks",
    "pos": "WR",
-   "proj_4wk": 26.0,
-   "proj_this_week": 5.88,
+   "proj_4wk": 26.1,
+   "proj_this_week": 5.91,
    "status": "Questionable",
    "team": "WAS"
   },
@@ -673,15 +673,6 @@
    "team": "SEA"
   },
   {
-   "adds_24h": 60837,
-   "name": "Gunnar Helm",
-   "pos": "TE",
-   "proj_4wk": 23.9,
-   "proj_this_week": 7.22,
-   "status": null,
-   "team": "TEN"
-  },
-  {
    "adds_24h": 0,
    "name": "Malachi Fields",
    "pos": "WR",
@@ -689,6 +680,15 @@
    "proj_this_week": 6.25,
    "status": null,
    "team": "NYG"
+  },
+  {
+   "adds_24h": 60837,
+   "name": "Gunnar Helm",
+   "pos": "TE",
+   "proj_4wk": 23.9,
+   "proj_this_week": 7.22,
+   "status": null,
+   "team": "TEN"
   },
   {
    "adds_24h": 0,
@@ -763,7 +763,7 @@
    "team": "LAR"
   }
  ],
- "generated_at": "2026-11-21T00:28:04Z",
+ "generated_at": "2026-11-21T00:33:08Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -811,7 +811,7 @@
    {
     "name": "Stefon Diggs",
     "pid": "2449",
-    "proj": 13.31,
+    "proj": 13.37,
     "slot": "WR"
    },
    {
@@ -845,8 +845,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 92.06,
-  "current_projected": 91.56,
+  "best_projected": 92.12,
+  "current_projected": 91.62,
   "gain": 0.5,
   "problems": [
    {
@@ -959,7 +959,7 @@
   "matchup": {
    "my_proj": 91.6,
    "opp_best_possible": 143.82,
-   "opp_proj": 141.2,
+   "opp_proj": 141.3,
    "opponent": "Bradsgay",
    "opponent_record": "6-4",
    "win_prob": 0.08
@@ -984,9 +984,9 @@
     "pf": 1210.18,
     "playoff_odds": 0.974,
     "power_rank": 5,
-    "proj_avg": 125.7,
+    "proj_avg": 125.8,
     "proj_by_week": {
-     "11": 122.54,
+     "11": 122.59,
      "12": 127.23,
      "13": 126.47,
      "14": 126.75
@@ -1066,7 +1066,7 @@
     "mine": false,
     "pa": 1236.3,
     "pf": 1220.66,
-    "playoff_odds": 0.593,
+    "playoff_odds": 0.592,
     "power_rank": 7,
     "proj_avg": 122.5,
     "proj_by_week": {
@@ -1091,7 +1091,7 @@
     "power_rank": 9,
     "proj_avg": 118.1,
     "proj_by_week": {
-     "11": 109.27,
+     "11": 109.24,
      "12": 123.24,
      "13": 124.51,
      "14": 115.29
@@ -1133,7 +1133,7 @@
     "power_rank": 1,
     "proj_avg": 135.3,
     "proj_by_week": {
-     "11": 135.14,
+     "11": 135.19,
      "12": 142.9,
      "13": 137.55,
      "14": 125.66
@@ -1154,7 +1154,7 @@
     "power_rank": 6,
     "proj_avg": 125.0,
     "proj_by_week": {
-     "11": 127.75,
+     "11": 127.8,
      "12": 130.22,
      "13": 120.75,
      "14": 121.22
@@ -1175,7 +1175,7 @@
     "power_rank": 10,
     "proj_avg": 106.8,
     "proj_by_week": {
-     "11": 92.06,
+     "11": 92.12,
      "12": 110.54,
      "13": 114.37,
      "14": 110.23
@@ -1286,7 +1286,7 @@
    "pid": "2449",
    "pos": "WR",
    "proj_by_week": {
-    "11": 13.31,
+    "11": 13.37,
     "12": 12.99,
     "13": 13.29,
     "14": 12.27
