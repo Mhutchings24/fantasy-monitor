@@ -1,5 +1,5 @@
 {
- "content_hash": "e291b195fc402557ddcba46ac6d93e3b0c929127",
+ "content_hash": "dfbab3969b8c6c44745314f8d4ea4a28739071b1",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -46,8 +46,8 @@
    "adds_24h": 0,
    "name": "Baker Mayfield",
    "pos": "QB",
-   "proj_4wk": 60.3,
-   "proj_this_week": 12.56,
+   "proj_4wk": 60.5,
+   "proj_this_week": 12.72,
    "status": "Questionable",
    "team": "TB"
   },
@@ -200,7 +200,7 @@
    "name": "Chris Godwin Jr.",
    "pos": "WR",
    "proj_4wk": 34.9,
-   "proj_this_week": 8.64,
+   "proj_this_week": 8.68,
    "status": null,
    "team": "TB"
   },
@@ -458,21 +458,21 @@
   },
   {
    "adds_24h": 0,
+   "name": "Cade Otton",
+   "pos": "TE",
+   "proj_4wk": 27.9,
+   "proj_this_week": 7.08,
+   "status": null,
+   "team": "TB"
+  },
+  {
+   "adds_24h": 0,
    "name": "Tommy DeVito",
    "pos": "QB",
    "proj_4wk": 27.8,
    "proj_this_week": 0.0,
    "status": null,
    "team": "NE"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Cade Otton",
-   "pos": "TE",
-   "proj_4wk": 27.8,
-   "proj_this_week": 6.99,
-   "status": null,
-   "team": "TB"
   },
   {
    "adds_24h": 0,
@@ -559,8 +559,8 @@
    "adds_24h": 43664,
    "name": "Kenny Gainwell",
    "pos": "RB",
-   "proj_4wk": 25.4,
-   "proj_this_week": 7.76,
+   "proj_4wk": 25.5,
+   "proj_this_week": 7.84,
    "status": null,
    "team": "TB"
   },
@@ -808,7 +808,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-21T22:50:47Z",
+ "generated_at": "2026-11-21T22:55:51Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -838,7 +838,7 @@
    {
     "name": "Jared Goff",
     "pid": "3163",
-    "proj": 16.89,
+    "proj": 17.14,
     "slot": "QB"
    },
    {
@@ -880,7 +880,7 @@
    {
     "name": "Jake Bates",
     "pid": "11539",
-    "proj": 8.63,
+    "proj": 8.7,
     "slot": "K"
    },
    {
@@ -890,8 +890,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 93.91,
-  "current_projected": 92.8,
+  "best_projected": 94.23,
+  "current_projected": 93.12,
   "gain": 1.11,
   "problems": [
    {
@@ -1002,12 +1002,12 @@
    "week": 10
   },
   "matchup": {
-   "my_proj": 92.8,
+   "my_proj": 93.1,
    "opp_best_possible": 139.23,
    "opp_proj": 139.2,
    "opponent": "Bradsgay",
    "opponent_record": "6-4",
-   "win_prob": 0.095
+   "win_prob": 0.096
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1050,9 +1050,9 @@
     "pf": 1399.62,
     "playoff_odds": 0.963,
     "power_rank": 4,
-    "proj_avg": 128.7,
+    "proj_avg": 128.8,
     "proj_by_week": {
-     "11": 114.18,
+     "11": 114.23,
      "12": 140.29,
      "13": 117.34,
      "14": 143.16
@@ -1085,7 +1085,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.091,
+    "first_seed_odds": 0.09,
     "losses": 4,
     "mine": false,
     "pa": 1246.68,
@@ -1094,7 +1094,7 @@
     "power_rank": 3,
     "proj_avg": 128.8,
     "proj_by_week": {
-     "11": 133.27,
+     "11": 133.39,
      "12": 131.82,
      "13": 115.18,
      "14": 134.76
@@ -1111,7 +1111,7 @@
     "mine": false,
     "pa": 1236.3,
     "pf": 1220.66,
-    "playoff_odds": 0.598,
+    "playoff_odds": 0.597,
     "power_rank": 8,
     "proj_avg": 122.7,
     "proj_by_week": {
@@ -1134,9 +1134,9 @@
     "pf": 1206.58,
     "playoff_odds": 0.496,
     "power_rank": 9,
-    "proj_avg": 117.7,
+    "proj_avg": 117.8,
     "proj_by_week": {
-     "11": 108.01,
+     "11": 108.06,
      "12": 123.14,
      "13": 124.51,
      "14": 115.29
@@ -1153,11 +1153,11 @@
     "mine": false,
     "pa": 1107.26,
     "pf": 1150.76,
-    "playoff_odds": 0.357,
+    "playoff_odds": 0.358,
     "power_rank": 7,
     "proj_avg": 122.7,
     "proj_by_week": {
-     "11": 125.24,
+     "11": 125.35,
      "12": 128.51,
      "13": 112.02,
      "14": 124.86
@@ -1178,7 +1178,7 @@
     "power_rank": 1,
     "proj_avg": 136.1,
     "proj_by_week": {
-     "11": 136.89,
+     "11": 137.07,
      "12": 143.68,
      "13": 138.09,
      "14": 125.66
@@ -1197,9 +1197,9 @@
     "pf": 1206.34,
     "playoff_odds": 0.11,
     "power_rank": 6,
-    "proj_avg": 124.9,
+    "proj_avg": 125.0,
     "proj_by_week": {
-     "11": 127.62,
+     "11": 127.72,
      "12": 130.14,
      "13": 120.75,
      "14": 121.22
@@ -1218,9 +1218,9 @@
     "pf": 1119.82,
     "playoff_odds": 0.003,
     "power_rank": 10,
-    "proj_avg": 107.3,
+    "proj_avg": 107.4,
     "proj_by_week": {
-     "11": 93.91,
+     "11": 94.23,
      "12": 110.71,
      "13": 114.37,
      "14": 110.23
@@ -1256,7 +1256,7 @@
    "pid": "11539",
    "pos": "K",
    "proj_by_week": {
-    "11": 8.63,
+    "11": 8.7,
     "12": 8.77,
     "13": 8.39,
     "14": 8.56
@@ -1271,7 +1271,7 @@
    "pid": "3163",
    "pos": "QB",
    "proj_by_week": {
-    "11": 16.89,
+    "11": 17.14,
     "12": 20.16,
     "13": 18.77,
     "14": 19.71
@@ -1627,7 +1627,7 @@
      "name": "Jared Goff",
      "pid": "3163",
      "pos": "QB",
-     "ros_per_week": 19.0,
+     "ros_per_week": 19.1,
      "status": null,
      "team": "DET"
     }
@@ -1635,9 +1635,9 @@
    "likelihood": "Possible",
    "partner": "Bradsgay",
    "partner_roster_id": 9,
-   "summary": "Give Jared Goff, get Patrick Mahomes from Bradsgay: +1.1 pts/week for you, -0.0 for them.",
+   "summary": "Give Jared Goff, get Patrick Mahomes from Bradsgay: +1.0 pts/week for you, -0.0 for them.",
    "their_gain_per_week": -0.0,
-   "value_ratio": 1.06,
+   "value_ratio": 1.05,
    "why_them": [
     "Jared Goff would start 0 of 7 weeks for them",
     "Patrick Mahomes only starts 1 of 7 weeks on their roster"
@@ -1646,15 +1646,15 @@
     "Patrick Mahomes would start 7 of 7 weeks for you",
     "Jared Goff starts 7 of 7 weeks for you"
    ],
-   "your_gain_per_week": 1.1
+   "your_gain_per_week": 1.0
   }
  ],
  "waivers": [
   {
    "drop": "12491",
    "drop_name": "Corey Kiner",
-   "gain_this_week": 1.39,
-   "gain_window": 1.39,
+   "gain_this_week": 1.14,
+   "gain_window": 1.14,
    "name": "Bryce Young",
    "pid": "9228",
    "pos": "QB",
@@ -1667,25 +1667,6 @@
    "status": null,
    "stream": false,
    "team": "CAR",
-   "trending_adds_24h": 0
-  },
-  {
-   "drop": "12491",
-   "drop_name": "Corey Kiner",
-   "gain_this_week": 0.07,
-   "gain_window": 0.07,
-   "name": "Cam Ward",
-   "pid": "12522",
-   "pos": "QB",
-   "proj_by_week": {
-    "11": 16.96,
-    "12": 12.32,
-    "13": 15.9,
-    "14": 15.95
-   },
-   "status": null,
-   "stream": false,
-   "team": "TEN",
    "trending_adds_24h": 0
   }
  ],
