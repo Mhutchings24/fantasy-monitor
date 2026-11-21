@@ -1,5 +1,5 @@
 {
- "content_hash": "a468b49a54c0b070a8b1b7e46664fa9e05483275",
+ "content_hash": "1e9d29aeaffcf8b0c3bf6fb9038129c3cc1f68d7",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -422,21 +422,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Harrison Butker",
-   "pos": "K",
-   "proj_4wk": 28.2,
-   "proj_this_week": 7.23,
-   "status": null,
-   "team": "KC"
-  },
-  {
-   "adds_24h": 0,
    "name": "Greg Dulcich",
    "pos": "TE",
    "proj_4wk": 28.2,
    "proj_this_week": 6.37,
    "status": null,
    "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Harrison Butker",
+   "pos": "K",
+   "proj_4wk": 28.2,
+   "proj_this_week": 7.23,
+   "status": null,
+   "team": "KC"
   },
   {
    "adds_24h": 0,
@@ -700,15 +700,6 @@
    "team": "TEN"
   },
   {
-   "adds_24h": 0,
-   "name": "AJ Barner",
-   "pos": "TE",
-   "proj_4wk": 23.4,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "SEA"
-  },
-  {
    "adds_24h": 31568,
    "name": "Alvin Kamara",
    "pos": "RB",
@@ -716,6 +707,15 @@
    "proj_this_week": 6.22,
    "status": null,
    "team": "NO"
+  },
+  {
+   "adds_24h": 0,
+   "name": "AJ Barner",
+   "pos": "TE",
+   "proj_4wk": 23.4,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -781,7 +781,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-21T02:57:36Z",
+ "generated_at": "2026-11-21T03:02:41Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
