@@ -1,5 +1,5 @@
 {
- "content_hash": "5751cff625164b9b567b22a1a70a3e0dd777ffeb",
+ "content_hash": "d32d6e4a88eed8eba0f245efdce695415115ada9",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -17,21 +17,21 @@
   },
   {
    "adds_24h": 0,
+   "name": "Cam Ward",
+   "pos": "QB",
+   "proj_4wk": 62.1,
+   "proj_this_week": 17.62,
+   "status": null,
+   "team": "TEN"
+  },
+  {
+   "adds_24h": 0,
    "name": "Justin Herbert",
    "pos": "QB",
    "proj_4wk": 61.9,
    "proj_this_week": 16.58,
    "status": null,
    "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Cam Ward",
-   "pos": "QB",
-   "proj_4wk": 61.4,
-   "proj_this_week": 17.0,
-   "status": null,
-   "team": "TEN"
   },
   {
    "adds_24h": 0,
@@ -575,21 +575,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "WAS D/ST",
-   "pos": "DEF",
-   "proj_4wk": 24.9,
-   "proj_this_week": 4.14,
-   "status": null,
-   "team": "WAS"
-  },
-  {
-   "adds_24h": 0,
    "name": "Tyler Higbee",
    "pos": "TE",
    "proj_4wk": 24.9,
    "proj_this_week": 0.0,
    "status": null,
    "team": "LAR"
+  },
+  {
+   "adds_24h": 0,
+   "name": "WAS D/ST",
+   "pos": "DEF",
+   "proj_4wk": 24.9,
+   "proj_this_week": 4.14,
+   "status": null,
+   "team": "WAS"
   },
   {
    "adds_24h": 0,
@@ -676,8 +676,8 @@
    "adds_24h": 30933,
    "name": "Gunnar Helm",
    "pos": "TE",
-   "proj_4wk": 23.9,
-   "proj_this_week": 7.28,
+   "proj_4wk": 24.0,
+   "proj_this_week": 7.34,
    "status": null,
    "team": "TEN"
   },
@@ -790,7 +790,7 @@
    "team": "IND"
   }
  ],
- "generated_at": "2026-11-21T18:50:02Z",
+ "generated_at": "2026-11-21T18:55:06Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1004,16 +1004,16 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.38,
+    "first_seed_odds": 0.384,
     "losses": 3,
     "mine": false,
     "pa": 1170.04,
     "pf": 1210.18,
-    "playoff_odds": 0.979,
+    "playoff_odds": 0.98,
     "power_rank": 5,
-    "proj_avg": 128.3,
+    "proj_avg": 128.4,
     "proj_by_week": {
-     "11": 129.34,
+     "11": 129.88,
      "12": 129.54,
      "13": 128.04,
      "14": 126.14
@@ -1025,7 +1025,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.192,
+    "first_seed_odds": 0.191,
     "losses": 4,
     "mine": false,
     "pa": 1317.2,
@@ -1046,7 +1046,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.318,
+    "first_seed_odds": 0.317,
     "losses": 4,
     "mine": false,
     "pa": 1360.82,
@@ -1093,7 +1093,7 @@
     "mine": false,
     "pa": 1236.3,
     "pf": 1220.66,
-    "playoff_odds": 0.596,
+    "playoff_odds": 0.595,
     "power_rank": 7,
     "proj_avg": 122.8,
     "proj_by_week": {
@@ -1109,16 +1109,16 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.006,
+    "first_seed_odds": 0.005,
     "losses": 5,
     "mine": false,
     "pa": 1293.6,
     "pf": 1206.58,
-    "playoff_odds": 0.506,
+    "playoff_odds": 0.508,
     "power_rank": 9,
-    "proj_avg": 118.0,
+    "proj_avg": 118.1,
     "proj_by_week": {
-     "11": 109.19,
+     "11": 109.43,
      "12": 123.16,
      "13": 124.51,
      "14": 115.29
@@ -1135,7 +1135,7 @@
     "mine": false,
     "pa": 1107.26,
     "pf": 1150.76,
-    "playoff_odds": 0.362,
+    "playoff_odds": 0.36,
     "power_rank": 8,
     "proj_avg": 122.4,
     "proj_by_week": {
@@ -1156,7 +1156,7 @@
     "mine": false,
     "pa": 1248.08,
     "pf": 1235.98,
-    "playoff_odds": 0.542,
+    "playoff_odds": 0.543,
     "power_rank": 1,
     "proj_avg": 135.5,
     "proj_by_week": {
@@ -1654,6 +1654,25 @@
   {
    "drop": "12491",
    "drop_name": "Corey Kiner",
+   "gain_this_week": 0.83,
+   "gain_window": 0.83,
+   "name": "Cam Ward",
+   "pid": "12522",
+   "pos": "QB",
+   "proj_by_week": {
+    "11": 17.62,
+    "12": 12.59,
+    "13": 15.9,
+    "14": 15.95
+   },
+   "status": null,
+   "stream": false,
+   "team": "TEN",
+   "trending_adds_24h": 0
+  },
+  {
+   "drop": "12491",
+   "drop_name": "Corey Kiner",
    "gain_this_week": 0.34,
    "gain_window": 0.34,
    "name": "Aaron Jones Sr.",
@@ -1668,25 +1687,6 @@
    "status": null,
    "stream": false,
    "team": "MIN",
-   "trending_adds_24h": 0
-  },
-  {
-   "drop": "12491",
-   "drop_name": "Corey Kiner",
-   "gain_this_week": 0.21,
-   "gain_window": 0.21,
-   "name": "Cam Ward",
-   "pid": "12522",
-   "pos": "QB",
-   "proj_by_week": {
-    "11": 17.0,
-    "12": 12.59,
-    "13": 15.9,
-    "14": 15.95
-   },
-   "status": null,
-   "stream": false,
-   "team": "TEN",
    "trending_adds_24h": 0
   }
  ],
