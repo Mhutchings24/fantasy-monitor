@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-21T23:46:48Z UTC
+Week 11 · record 3-7 · updated 2026-11-21T23:51:53Z UTC
 
 ## Lineup check
 Current lineup projects **93.1**, best possible **94.2**.
@@ -43,7 +43,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Likely** · Give Mike Evans, get Jonah Coleman from Monangynecologist: +1.0 pts/week for you, +0.4 for them.
 - **Possible** · Give Mike Evans, get Jonathan Taylor from Monangynecologist: +2.1 pts/week for you, -0.5 for them.
 - **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.7 pts/week for you, -0.2 for them.
-- **Possible** · Give Jared Goff, get Patrick Mahomes from Bradsgay: +1.0 pts/week for you, -0.0 for them.
+- **Possible** · Give Jared Goff, get Patrick Mahomes from Bradsgay: +1.1 pts/week for you, -0.0 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 11 | Wk 12 | Wk 13 | Wk 14 |
