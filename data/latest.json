@@ -1,5 +1,5 @@
 {
- "content_hash": "16357d06809bb04155d74558eb2707dc57eb9832",
+ "content_hash": "c1a1ac20d1dc515bd88c6e19841fb1a1028954ef",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -37,8 +37,8 @@
    "adds_24h": 0,
    "name": "Aaron Rodgers",
    "pos": "QB",
-   "proj_4wk": 61.1,
-   "proj_this_week": 16.65,
+   "proj_4wk": 61.0,
+   "proj_this_week": 16.53,
    "status": null,
    "team": "PIT"
   },
@@ -232,6 +232,15 @@
    "team": "WAS"
   },
   {
+   "adds_24h": 0,
+   "name": "Germie Bernard",
+   "pos": "WR",
+   "proj_4wk": 33.4,
+   "proj_this_week": 7.45,
+   "status": null,
+   "team": "PIT"
+  },
+  {
    "adds_24h": 27824,
    "name": "Mike Gesicki",
    "pos": "TE",
@@ -260,19 +269,10 @@
   },
   {
    "adds_24h": 0,
-   "name": "Germie Bernard",
-   "pos": "WR",
-   "proj_4wk": 32.4,
-   "proj_this_week": 6.5,
-   "status": null,
-   "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
    "name": "Pat Freiermuth",
    "pos": "TE",
-   "proj_4wk": 32.3,
-   "proj_this_week": 8.65,
+   "proj_4wk": 32.2,
+   "proj_this_week": 8.59,
    "status": null,
    "team": "PIT"
   },
@@ -775,8 +775,8 @@
    "adds_24h": 17235,
    "name": "Roman Wilson",
    "pos": "WR",
-   "proj_4wk": 10.8,
-   "proj_this_week": 2.68,
+   "proj_4wk": 12.6,
+   "proj_this_week": 4.4,
    "status": "Questionable",
    "team": "PIT"
   },
@@ -799,7 +799,7 @@
    "team": "ARI"
   }
  ],
- "generated_at": "2026-11-21T20:13:06Z",
+ "generated_at": "2026-11-21T20:18:10Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -833,15 +833,15 @@
     "slot": "QB"
    },
    {
-    "name": "Jordan Mason",
-    "pid": "8408",
-    "proj": 8.82,
+    "name": "Rico Dowdle",
+    "pid": "7021",
+    "proj": 9.46,
     "slot": "RB"
    },
    {
-    "name": "Rico Dowdle",
-    "pid": "7021",
-    "proj": 8.38,
+    "name": "Jordan Mason",
+    "pid": "8408",
+    "proj": 8.82,
     "slot": "RB"
    },
    {
@@ -881,8 +881,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 92.64,
-  "current_projected": 91.56,
+  "best_projected": 93.72,
+  "current_projected": 92.64,
   "gain": 1.08,
   "problems": [
    {
@@ -993,12 +993,12 @@
    "week": 10
   },
   "matchup": {
-   "my_proj": 91.6,
+   "my_proj": 92.6,
    "opp_best_possible": 139.36,
    "opp_proj": 139.4,
    "opponent": "Bradsgay",
    "opponent_record": "6-4",
-   "win_prob": 0.088
+   "win_prob": 0.093
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1013,12 +1013,12 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.387,
+    "first_seed_odds": 0.383,
     "losses": 3,
     "mine": false,
     "pa": 1170.04,
     "pf": 1210.18,
-    "playoff_odds": 0.98,
+    "playoff_odds": 0.979,
     "power_rank": 5,
     "proj_avg": 128.5,
     "proj_by_week": {
@@ -1034,7 +1034,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.19,
+    "first_seed_odds": 0.192,
     "losses": 4,
     "mine": false,
     "pa": 1317.2,
@@ -1055,12 +1055,12 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.316,
+    "first_seed_odds": 0.318,
     "losses": 4,
     "mine": false,
     "pa": 1360.82,
     "pf": 1378.72,
-    "playoff_odds": 0.994,
+    "playoff_odds": 0.993,
     "power_rank": 2,
     "proj_avg": 129.2,
     "proj_by_week": {
@@ -1102,7 +1102,7 @@
     "mine": false,
     "pa": 1236.3,
     "pf": 1220.66,
-    "playoff_odds": 0.595,
+    "playoff_odds": 0.594,
     "power_rank": 7,
     "proj_avg": 122.7,
     "proj_by_week": {
@@ -1123,7 +1123,7 @@
     "mine": false,
     "pa": 1293.6,
     "pf": 1206.58,
-    "playoff_odds": 0.508,
+    "playoff_odds": 0.507,
     "power_rank": 9,
     "proj_avg": 118.0,
     "proj_by_week": {
@@ -1144,11 +1144,11 @@
     "mine": false,
     "pa": 1107.26,
     "pf": 1150.76,
-    "playoff_odds": 0.353,
+    "playoff_odds": 0.357,
     "power_rank": 8,
-    "proj_avg": 122.3,
+    "proj_avg": 122.6,
     "proj_by_week": {
-     "11": 123.81,
+     "11": 125.05,
      "12": 128.52,
      "13": 112.02,
      "14": 124.86
@@ -1165,7 +1165,7 @@
     "mine": false,
     "pa": 1248.08,
     "pf": 1235.98,
-    "playoff_odds": 0.55,
+    "playoff_odds": 0.549,
     "power_rank": 1,
     "proj_avg": 135.7,
     "proj_by_week": {
@@ -1186,7 +1186,7 @@
     "mine": false,
     "pa": 1219.86,
     "pf": 1206.34,
-    "playoff_odds": 0.111,
+    "playoff_odds": 0.11,
     "power_rank": 6,
     "proj_avg": 125.0,
     "proj_by_week": {
@@ -1209,9 +1209,9 @@
     "pf": 1119.82,
     "playoff_odds": 0.003,
     "power_rank": 10,
-    "proj_avg": 106.9,
+    "proj_avg": 107.2,
     "proj_by_week": {
-     "11": 92.64,
+     "11": 93.72,
      "12": 110.45,
      "13": 114.37,
      "14": 110.23
@@ -1273,6 +1273,21 @@
   },
   {
    "bye_this_week": false,
+   "name": "Rico Dowdle",
+   "pid": "7021",
+   "pos": "RB",
+   "proj_by_week": {
+    "11": 9.46,
+    "12": 8.03,
+    "13": 8.32,
+    "14": 7.74
+   },
+   "slot": "starter",
+   "status": null,
+   "team": "PIT"
+  },
+  {
+   "bye_this_week": false,
    "name": "Jordan Mason",
    "pid": "8408",
    "pos": "RB",
@@ -1285,21 +1300,6 @@
    "slot": "starter",
    "status": null,
    "team": "MIN"
-  },
-  {
-   "bye_this_week": false,
-   "name": "Rico Dowdle",
-   "pid": "7021",
-   "pos": "RB",
-   "proj_by_week": {
-    "11": 8.38,
-    "12": 8.03,
-    "13": 8.32,
-    "14": 7.74
-   },
-   "slot": "starter",
-   "status": null,
-   "team": "PIT"
   },
   {
    "bye_this_week": false,
@@ -1497,42 +1497,6 @@
   {
    "get": [
     {
-     "name": "Jonah Coleman",
-     "pid": "13345",
-     "pos": "RB",
-     "ros_per_week": 14.8,
-     "status": null,
-     "team": "DEN"
-    }
-   ],
-   "give": [
-    {
-     "name": "Mike Evans",
-     "pid": "2216",
-     "pos": "WR",
-     "ros_per_week": 14.9,
-     "status": "Questionable",
-     "team": "SF"
-    }
-   ],
-   "likelihood": "Likely",
-   "partner": "Monangynecologist",
-   "partner_roster_id": 5,
-   "summary": "Give Mike Evans, get Jonah Coleman from Monangynecologist: +1.0 pts/week for you, +0.4 for them.",
-   "their_gain_per_week": 0.4,
-   "value_ratio": 1.0,
-   "why_them": [
-    "Mike Evans would start 7 of 7 weeks for them"
-   ],
-   "why_you": [
-    "Jonah Coleman would start 7 of 7 weeks for you",
-    "Mike Evans starts 7 of 7 weeks for you"
-   ],
-   "your_gain_per_week": 1.0
-  },
-  {
-   "get": [
-    {
      "name": "Jonathan Taylor",
      "pid": "6813",
      "pos": "RB",
@@ -1605,6 +1569,42 @@
   {
    "get": [
     {
+     "name": "Jaylen Warren",
+     "pid": "8228",
+     "pos": "RB",
+     "ros_per_week": 14.9,
+     "status": null,
+     "team": "PIT"
+    }
+   ],
+   "give": [
+    {
+     "name": "Mike Evans",
+     "pid": "2216",
+     "pos": "WR",
+     "ros_per_week": 14.9,
+     "status": "Questionable",
+     "team": "SF"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "Monangynecologist",
+   "partner_roster_id": 5,
+   "summary": "Give Mike Evans, get Jaylen Warren from Monangynecologist: +1.1 pts/week for you, +0.3 for them.",
+   "their_gain_per_week": 0.3,
+   "value_ratio": 1.0,
+   "why_them": [
+    "Mike Evans would start 7 of 7 weeks for them"
+   ],
+   "why_you": [
+    "Jaylen Warren would start 7 of 7 weeks for you",
+    "Mike Evans starts 7 of 7 weeks for you"
+   ],
+   "your_gain_per_week": 1.1
+  },
+  {
+   "get": [
+    {
      "name": "Patrick Mahomes",
      "pid": "4046",
      "pos": "QB",
@@ -1658,25 +1658,6 @@
    "status": null,
    "stream": false,
    "team": "CAR",
-   "trending_adds_24h": 0
-  },
-  {
-   "drop": "12491",
-   "drop_name": "Corey Kiner",
-   "gain_this_week": 0.34,
-   "gain_window": 0.34,
-   "name": "Aaron Jones Sr.",
-   "pid": "4199",
-   "pos": "RB",
-   "proj_by_week": {
-    "11": 8.72,
-    "12": 10.66,
-    "13": 10.65,
-    "14": 10.15
-   },
-   "status": null,
-   "stream": false,
-   "team": "MIN",
    "trending_adds_24h": 0
   },
   {
