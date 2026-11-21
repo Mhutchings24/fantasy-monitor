@@ -1,5 +1,5 @@
 {
- "content_hash": "b6a041a232cdbb46eb8c7b186c416ea37c2039dd",
+ "content_hash": "e3d0a915db3bf6765aecbd26d1d7fe2adce6d152",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -422,21 +422,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Harrison Butker",
-   "pos": "K",
-   "proj_4wk": 28.2,
-   "proj_this_week": 7.23,
-   "status": null,
-   "team": "KC"
-  },
-  {
-   "adds_24h": 0,
    "name": "Greg Dulcich",
    "pos": "TE",
    "proj_4wk": 28.2,
    "proj_this_week": 6.37,
    "status": null,
    "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Harrison Butker",
+   "pos": "K",
+   "proj_4wk": 28.2,
+   "proj_this_week": 7.23,
+   "status": null,
+   "team": "KC"
   },
   {
    "adds_24h": 0,
@@ -682,15 +682,6 @@
    "team": "LV"
   },
   {
-   "adds_24h": 17570,
-   "name": "Malachi Fields",
-   "pos": "WR",
-   "proj_4wk": 23.8,
-   "proj_this_week": 6.22,
-   "status": null,
-   "team": "NYG"
-  },
-  {
    "adds_24h": 37772,
    "name": "Gunnar Helm",
    "pos": "TE",
@@ -698,6 +689,15 @@
    "proj_this_week": 7.22,
    "status": null,
    "team": "TEN"
+  },
+  {
+   "adds_24h": 17570,
+   "name": "Malachi Fields",
+   "pos": "WR",
+   "proj_4wk": 23.8,
+   "proj_this_week": 6.22,
+   "status": null,
+   "team": "NYG"
   },
   {
    "adds_24h": 0,
@@ -808,7 +808,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-21T06:27:40Z",
+ "generated_at": "2026-11-21T06:32:45Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
