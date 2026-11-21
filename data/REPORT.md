@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-21T04:29:27Z UTC
+Week 11 · record 3-7 · updated 2026-11-21T04:34:31Z UTC
 
 ## Lineup check
 Current lineup projects **91.6**, best possible **92.1**.
@@ -29,12 +29,12 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 4 | 128.6 | 98% |
-| 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 5 | 127.0 | 96% |
+| 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 5 | 126.9 | 96% |
 | 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 2 | 130.3 | 100% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 3 | 128.9 | 94% |
-| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 7 | 122.5 | 59% |
-| 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 118.1 | 51% |
-| 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 8 | 122.4 | 36% |
+| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 122.5 | 59% |
+| 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 118.0 | 51% |
+| 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 7 | 122.5 | 36% |
 | 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 135.3 | 54% |
 | 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 6 | 125.0 | 12% |
 | 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 106.8 | 0% |
@@ -42,10 +42,10 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
-- **Likely** · Give Mike Evans, get Jonah Coleman from Monangynecologist: +1.1 pts/week for you, +0.3 for them.
 - **Likely** · Give Mike Evans, get Jaylen Warren from Monangynecologist: +1.1 pts/week for you, +0.3 for them.
 - **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.7 pts/week for you, -0.2 for them.
 - **Possible** · Give Jared Goff, get Patrick Mahomes from Bradsgay: +1.7 pts/week for you, -0.4 for them.
+- **Possible** · Give Mike Evans, get Jonah Coleman from Monangynecologist: +1.1 pts/week for you, +0.3 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 11 | Wk 12 | Wk 13 | Wk 14 |
