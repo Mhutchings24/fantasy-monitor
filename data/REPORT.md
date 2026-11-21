@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-21T11:09:52Z UTC
+Week 11 · record 3-7 · updated 2026-11-21T11:20:00Z UTC
 
 ## Lineup check
 Current lineup projects **91.5**, best possible **92.0**.
@@ -17,7 +17,7 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 | Bryce Young | QB | CAR | Corey Kiner | +1.6 | +1.6 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +0.3 | +0.3 | 0 |
 | Cam Ward | QB | TEN | Corey Kiner | +0.1 | +0.1 | 0 |
-| Aaron Rodgers | QB | PIT | Corey Kiner | +0.1 | +0.1 | 17,912 |
+| Aaron Rodgers | QB | PIT | Corey Kiner | +0.1 | +0.1 | 17,928 |
 
 **DEF stream this week:** add JAX D/ST for LAR D/ST (+8.1 pts this week)
 
