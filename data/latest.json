@@ -1,5 +1,5 @@
 {
- "content_hash": "7b68d4f1303b09d3d9245a7d684acc59ccdc1610",
+ "content_hash": "01a4769df71a996765f8e18e80020b18ccbe2d8e",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -682,15 +682,6 @@
    "team": "LV"
   },
   {
-   "adds_24h": 36960,
-   "name": "Gunnar Helm",
-   "pos": "TE",
-   "proj_4wk": 23.8,
-   "proj_this_week": 7.22,
-   "status": null,
-   "team": "TEN"
-  },
-  {
    "adds_24h": 17315,
    "name": "Malachi Fields",
    "pos": "WR",
@@ -698,6 +689,15 @@
    "proj_this_week": 6.22,
    "status": null,
    "team": "NYG"
+  },
+  {
+   "adds_24h": 36960,
+   "name": "Gunnar Helm",
+   "pos": "TE",
+   "proj_4wk": 23.8,
+   "proj_this_week": 7.22,
+   "status": null,
+   "team": "TEN"
   },
   {
    "adds_24h": 0,
@@ -808,7 +808,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-21T07:45:50Z",
+ "generated_at": "2026-11-21T07:50:55Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
