@@ -1,5 +1,5 @@
 {
- "content_hash": "6327246a40c02b94435e00a949baf149a86aa11c",
+ "content_hash": "c480241e044226cd485b0c9971d0602afea7a5c6",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -55,8 +55,8 @@
    "adds_24h": 0,
    "name": "J.J. McCarthy",
    "pos": "QB",
-   "proj_4wk": 59.3,
-   "proj_this_week": 15.08,
+   "proj_4wk": 59.2,
+   "proj_this_week": 14.95,
    "status": null,
    "team": "NYG"
   },
@@ -164,7 +164,7 @@
    "name": "Jakobi Meyers",
    "pos": "WR",
    "proj_4wk": 38.1,
-   "proj_this_week": 8.73,
+   "proj_this_week": 8.72,
    "status": null,
    "team": "JAX"
   },
@@ -218,7 +218,7 @@
    "name": "Dominic Zvada",
    "pos": "K",
    "proj_4wk": 34.4,
-   "proj_this_week": 8.1,
+   "proj_this_week": 8.06,
    "status": null,
    "team": "NYG"
   },
@@ -362,7 +362,7 @@
    "name": "JAX D/ST",
    "pos": "DEF",
    "proj_4wk": 30.7,
-   "proj_this_week": 8.06,
+   "proj_this_week": 8.03,
    "status": null,
    "team": "JAX"
   },
@@ -650,7 +650,7 @@
    "name": "NYG D/ST",
    "pos": "DEF",
    "proj_4wk": 24.2,
-   "proj_this_week": 5.37,
+   "proj_this_week": 5.34,
    "status": null,
    "team": "NYG"
   },
@@ -703,8 +703,8 @@
    "adds_24h": 17450,
    "name": "Malachi Fields",
    "pos": "WR",
-   "proj_4wk": 23.9,
-   "proj_this_week": 6.25,
+   "proj_4wk": 23.8,
+   "proj_this_week": 6.23,
    "status": null,
    "team": "NYG"
   },
@@ -799,7 +799,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-21T18:19:40Z",
+ "generated_at": "2026-11-21T18:24:44Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -994,7 +994,7 @@
   },
   "matchup": {
    "my_proj": 91.6,
-   "opp_best_possible": 139.33,
+   "opp_best_possible": 139.3,
    "opp_proj": 139.3,
    "opponent": "Bradsgay",
    "opponent_record": "6-4",
@@ -1064,7 +1064,7 @@
     "power_rank": 2,
     "proj_avg": 129.2,
     "proj_by_week": {
-     "11": 139.33,
+     "11": 139.3,
      "12": 135.92,
      "13": 123.01,
      "14": 118.48
@@ -1076,16 +1076,16 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.093,
+    "first_seed_odds": 0.092,
     "losses": 4,
     "mine": false,
     "pa": 1246.68,
     "pf": 1303.84,
-    "playoff_odds": 0.944,
+    "playoff_odds": 0.943,
     "power_rank": 4,
     "proj_avg": 128.8,
     "proj_by_week": {
-     "11": 133.47,
+     "11": 133.28,
      "12": 131.93,
      "13": 115.18,
      "14": 134.76
@@ -1102,7 +1102,7 @@
     "mine": false,
     "pa": 1236.3,
     "pf": 1220.66,
-    "playoff_odds": 0.595,
+    "playoff_odds": 0.596,
     "power_rank": 7,
     "proj_avg": 122.8,
     "proj_by_week": {
@@ -1123,11 +1123,11 @@
     "mine": false,
     "pa": 1293.6,
     "pf": 1206.58,
-    "playoff_odds": 0.507,
+    "playoff_odds": 0.506,
     "power_rank": 9,
-    "proj_avg": 118.1,
+    "proj_avg": 118.0,
     "proj_by_week": {
-     "11": 109.29,
+     "11": 109.19,
      "12": 123.16,
      "13": 124.51,
      "14": 115.29
@@ -1144,11 +1144,11 @@
     "mine": false,
     "pa": 1107.26,
     "pf": 1150.76,
-    "playoff_odds": 0.363,
+    "playoff_odds": 0.362,
     "power_rank": 8,
-    "proj_avg": 122.5,
+    "proj_avg": 122.4,
     "proj_by_week": {
-     "11": 123.94,
+     "11": 123.81,
      "12": 129.01,
      "13": 112.02,
      "14": 124.86
@@ -1165,7 +1165,7 @@
     "mine": false,
     "pa": 1248.08,
     "pf": 1235.98,
-    "playoff_odds": 0.54,
+    "playoff_odds": 0.542,
     "power_rank": 1,
     "proj_avg": 135.5,
     "proj_by_week": {
@@ -1186,11 +1186,11 @@
     "mine": false,
     "pa": 1219.86,
     "pf": 1206.34,
-    "playoff_odds": 0.112,
+    "playoff_odds": 0.111,
     "power_rank": 6,
     "proj_avg": 125.1,
     "proj_by_week": {
-     "11": 127.89,
+     "11": 127.77,
      "12": 130.66,
      "13": 120.75,
      "14": 121.22
@@ -1471,13 +1471,13 @@
   {
    "drop": "LAR",
    "drop_name": "LAR D/ST",
-   "gain_this_week": 8.06,
-   "gain_window": 8.06,
+   "gain_this_week": 8.03,
+   "gain_window": 8.03,
    "name": "JAX D/ST",
    "pid": "JAX",
    "pos": "DEF",
    "proj_by_week": {
-    "11": 8.06,
+    "11": 8.03,
     "12": 9.96,
     "13": 5.88,
     "14": 6.82
