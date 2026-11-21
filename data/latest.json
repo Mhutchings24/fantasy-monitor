@@ -1,5 +1,5 @@
 {
- "content_hash": "b4ffee078f7f6330171e095fd011a6830d3b58c8",
+ "content_hash": "67a8df6fdaa9d11fa8b9b3e4a492ab21d5de9341",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -584,21 +584,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "WAS D/ST",
-   "pos": "DEF",
-   "proj_4wk": 24.9,
-   "proj_this_week": 4.14,
-   "status": null,
-   "team": "WAS"
-  },
-  {
-   "adds_24h": 0,
    "name": "Tyler Higbee",
    "pos": "TE",
    "proj_4wk": 24.9,
    "proj_this_week": 0.0,
    "status": null,
    "team": "LAR"
+  },
+  {
+   "adds_24h": 0,
+   "name": "WAS D/ST",
+   "pos": "DEF",
+   "proj_4wk": 24.9,
+   "proj_this_week": 4.14,
+   "status": null,
+   "team": "WAS"
   },
   {
    "adds_24h": 0,
@@ -799,7 +799,7 @@
    "team": "ARI"
   }
  ],
- "generated_at": "2026-11-21T20:33:22Z",
+ "generated_at": "2026-11-21T20:38:27Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
