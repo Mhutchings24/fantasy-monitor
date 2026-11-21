@@ -1,5 +1,5 @@
 {
- "content_hash": "1635cde660a8a233e09cbbeffed257c41d95238b",
+ "content_hash": "63d1940bbaf9495a27ea0a1cb226108b37518656",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -46,7 +46,7 @@
    "adds_24h": 0,
    "name": "Baker Mayfield",
    "pos": "QB",
-   "proj_4wk": 60.1,
+   "proj_4wk": 60.0,
    "proj_this_week": 12.32,
    "status": "Questionable",
    "team": "TB"
@@ -487,7 +487,7 @@
    "adds_24h": 0,
    "name": "Darnell Washington",
    "pos": "TE",
-   "proj_4wk": 27.2,
+   "proj_4wk": 27.1,
    "proj_this_week": 6.8,
    "status": null,
    "team": "PIT"
@@ -665,21 +665,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Jadarian Price",
-   "pos": "RB",
-   "proj_4wk": 23.9,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Keaton Mitchell",
    "pos": "RB",
    "proj_4wk": 23.9,
    "proj_this_week": 5.89,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Jadarian Price",
+   "pos": "RB",
+   "proj_4wk": 23.9,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "SEA"
   },
   {
    "adds_24h": 17510,
@@ -808,7 +808,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-21T14:41:22Z",
+ "generated_at": "2026-11-21T14:46:26Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1032,7 +1032,7 @@
     "proj_avg": 128.7,
     "proj_by_week": {
      "11": 131.24,
-     "12": 129.18,
+     "12": 129.2,
      "13": 128.04,
      "14": 126.14
     },
@@ -1048,12 +1048,12 @@
     "mine": false,
     "pa": 1317.2,
     "pf": 1399.62,
-    "playoff_odds": 0.962,
+    "playoff_odds": 0.963,
     "power_rank": 5,
-    "proj_avg": 127.0,
+    "proj_avg": 127.1,
     "proj_by_week": {
      "11": 107.1,
-     "12": 140.39,
+     "12": 140.64,
      "13": 117.34,
      "14": 143.16
     },
@@ -1074,7 +1074,7 @@
     "proj_avg": 130.3,
     "proj_by_week": {
      "11": 143.86,
-     "12": 135.96,
+     "12": 135.93,
      "13": 123.01,
      "14": 118.48
     },
@@ -1111,12 +1111,12 @@
     "mine": false,
     "pa": 1236.3,
     "pf": 1220.66,
-    "playoff_odds": 0.593,
+    "playoff_odds": 0.592,
     "power_rank": 7,
     "proj_avg": 122.6,
     "proj_by_week": {
      "11": 119.33,
-     "12": 120.51,
+     "12": 120.49,
      "13": 122.78,
      "14": 127.69
     },
@@ -1137,7 +1137,7 @@
     "proj_avg": 118.1,
     "proj_by_week": {
      "11": 109.3,
-     "12": 123.17,
+     "12": 123.16,
      "13": 124.51,
      "14": 115.29
     },
@@ -1179,7 +1179,7 @@
     "proj_avg": 135.3,
     "proj_by_week": {
      "11": 135.16,
-     "12": 142.99,
+     "12": 143.01,
      "13": 137.55,
      "14": 125.66
     },
@@ -1200,7 +1200,7 @@
     "proj_avg": 125.0,
     "proj_by_week": {
      "11": 127.59,
-     "12": 130.53,
+     "12": 130.5,
      "13": 120.75,
      "14": 121.22
     },
@@ -1221,7 +1221,7 @@
     "proj_avg": 106.7,
     "proj_by_week": {
      "11": 92.01,
-     "12": 110.06,
+     "12": 110.29,
      "13": 114.37,
      "14": 110.23
     },
@@ -1317,7 +1317,7 @@
    "pos": "TE",
    "proj_by_week": {
     "11": 12.52,
-    "12": 12.32,
+    "12": 12.44,
     "13": 14.68,
     "14": 13.95
    },
@@ -1362,7 +1362,7 @@
    "pos": "WR",
    "proj_by_week": {
     "11": 10.82,
-    "12": 12.15,
+    "12": 12.14,
     "13": 11.36,
     "14": 10.96
    },
@@ -1422,7 +1422,7 @@
    "pos": "WR",
    "proj_by_week": {
     "11": 11.31,
-    "12": 13.51,
+    "12": 13.62,
     "13": 15.99,
     "14": 15.19
    },
@@ -1437,7 +1437,7 @@
    "pos": "WR",
    "proj_by_week": {
     "11": 5.73,
-    "12": 5.53,
+    "12": 5.57,
     "13": 6.55,
     "14": 6.11
    },
@@ -1452,7 +1452,7 @@
    "pos": "WR",
    "proj_by_week": {
     "11": 0.0,
-    "12": 10.86,
+    "12": 10.84,
     "13": 0.0,
     "14": 9.57
    },
@@ -1503,6 +1503,42 @@
   "roster_id": 7
  },
  "trades": [
+  {
+   "get": [
+    {
+     "name": "Jonah Coleman",
+     "pid": "13345",
+     "pos": "RB",
+     "ros_per_week": 14.8,
+     "status": null,
+     "team": "DEN"
+    }
+   ],
+   "give": [
+    {
+     "name": "Mike Evans",
+     "pid": "2216",
+     "pos": "WR",
+     "ros_per_week": 14.8,
+     "status": "Questionable",
+     "team": "SF"
+    }
+   ],
+   "likelihood": "Likely",
+   "partner": "Monangynecologist",
+   "partner_roster_id": 5,
+   "summary": "Give Mike Evans, get Jonah Coleman from Monangynecologist: +1.1 pts/week for you, +0.3 for them.",
+   "their_gain_per_week": 0.3,
+   "value_ratio": 1.0,
+   "why_them": [
+    "Mike Evans would start 6 of 7 weeks for them"
+   ],
+   "why_you": [
+    "Jonah Coleman would start 7 of 7 weeks for you",
+    "Mike Evans starts 7 of 7 weeks for you"
+   ],
+   "your_gain_per_week": 1.1
+  },
   {
    "get": [
     {
@@ -1611,42 +1647,6 @@
     "Jared Goff starts 7 of 7 weeks for you"
    ],
    "your_gain_per_week": 1.7
-  },
-  {
-   "get": [
-    {
-     "name": "Jonah Coleman",
-     "pid": "13345",
-     "pos": "RB",
-     "ros_per_week": 14.8,
-     "status": null,
-     "team": "DEN"
-    }
-   ],
-   "give": [
-    {
-     "name": "Mike Evans",
-     "pid": "2216",
-     "pos": "WR",
-     "ros_per_week": 14.8,
-     "status": "Questionable",
-     "team": "SF"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "Monangynecologist",
-   "partner_roster_id": 5,
-   "summary": "Give Mike Evans, get Jonah Coleman from Monangynecologist: +1.1 pts/week for you, +0.3 for them.",
-   "their_gain_per_week": 0.3,
-   "value_ratio": 1.0,
-   "why_them": [
-    "Mike Evans would start 6 of 7 weeks for them"
-   ],
-   "why_you": [
-    "Jonah Coleman would start 7 of 7 weeks for you",
-    "Mike Evans starts 7 of 7 weeks for you"
-   ],
-   "your_gain_per_week": 1.1
   }
  ],
  "waivers": [
@@ -1660,7 +1660,7 @@
    "pos": "QB",
    "proj_by_week": {
     "11": 18.31,
-    "12": 15.34,
+    "12": 15.33,
     "13": 15.39,
     "14": 19.28
    },

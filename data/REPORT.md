@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-21T14:41:22Z UTC
+Week 11 · record 3-7 · updated 2026-11-21T14:46:26Z UTC
 
 ## Lineup check
 Current lineup projects **91.5**, best possible **92.0**.
@@ -29,7 +29,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 4 | 128.7 | 98% |
-| 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 5 | 127.0 | 96% |
+| 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 5 | 127.1 | 96% |
 | 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 2 | 130.3 | 100% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 3 | 128.9 | 94% |
 | 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 7 | 122.6 | 59% |
@@ -42,10 +42,10 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
+- **Likely** · Give Mike Evans, get Jonah Coleman from Monangynecologist: +1.1 pts/week for you, +0.3 for them.
 - **Likely** · Give Mike Evans, get Jaylen Warren from Monangynecologist: +1.1 pts/week for you, +0.3 for them.
 - **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.7 pts/week for you, -0.2 for them.
 - **Possible** · Give Jared Goff, get Patrick Mahomes from Bradsgay: +1.7 pts/week for you, -0.4 for them.
-- **Possible** · Give Mike Evans, get Jonah Coleman from Monangynecologist: +1.1 pts/week for you, +0.3 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 11 | Wk 12 | Wk 13 | Wk 14 |
@@ -55,14 +55,14 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Jared Goff | QB | DET | starter |  | 16.8 | 20.2 | 18.8 | 19.7 |
 | Jordan Mason | RB | MIN | starter |  | 8.8 | 11.4 | 11.4 | 10.3 |
 | Rico Dowdle | RB | PIT | starter |  | 8.4 | 8.0 | 8.3 | 7.7 |
-| George Kittle | TE | SF | starter |  | 12.5 | 12.3 | 14.7 | 13.9 |
+| George Kittle | TE | SF | starter |  | 12.5 | 12.4 | 14.7 | 13.9 |
 | Stefon Diggs | WR | WAS | starter |  | 13.3 | 13.0 | 13.3 | 12.3 |
 | DJ Moore | WR | BUF | starter |  | 12.3 | 12.3 | 13.7 | 13.1 |
-| Jordyn Tyson | WR | NO | starter |  | 10.8 | 12.2 | 11.4 | 11.0 |
+| Jordyn Tyson | WR | NO | starter |  | 10.8 | 12.1 | 11.4 | 11.0 |
 | Corey Kiner | RB | NE | bench | BYE | 0.0 | 6.6 | 6.3 | 6.2 |
 | Quinshon Judkins | RB | CLE | bench | BYE | 0.0 | 12.5 | 12.0 | 11.2 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 8.2 | 15.8 | 13.6 |
-| Mike Evans | WR | SF | bench | Questionable | 11.3 | 13.5 | 16.0 | 15.2 |
-| Keenan Allen | WR | SF | bench |  | 5.7 | 5.5 | 6.5 | 6.1 |
-| Omar Cooper Jr. | WR | NYJ | bench | Out | 0.0 | 10.9 | 0.0 | 9.6 |
+| Mike Evans | WR | SF | bench | Questionable | 11.3 | 13.6 | 16.0 | 15.2 |
+| Keenan Allen | WR | SF | bench |  | 5.7 | 5.6 | 6.5 | 6.1 |
+| Omar Cooper Jr. | WR | NYJ | bench | Out | 0.0 | 10.8 | 0.0 | 9.6 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
