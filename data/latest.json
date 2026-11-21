@@ -1,5 +1,5 @@
 {
- "content_hash": "5ce3dc949c3fa4d9b56a91275a503af8b3520f3e",
+ "content_hash": "cde143806265b65d552691929ff25f15c37aa79e",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -296,6 +296,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Dalton Kincaid",
+   "pos": "TE",
+   "proj_4wk": 31.7,
+   "proj_this_week": 2.38,
+   "status": "Doubtful",
+   "team": "BUF"
+  },
+  {
+   "adds_24h": 0,
    "name": "Chris Boswell",
    "pos": "K",
    "proj_4wk": 31.7,
@@ -320,6 +329,15 @@
    "proj_this_week": 7.08,
    "status": null,
    "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Xavier Hutchinson",
+   "pos": "WR",
+   "proj_4wk": 31.4,
+   "proj_this_week": 7.68,
+   "status": null,
+   "team": "HOU"
   },
   {
    "adds_24h": 0,
@@ -646,15 +664,6 @@
    "team": "PHI"
   },
   {
-   "adds_24h": 119781,
-   "name": "Michael Mayer",
-   "pos": "TE",
-   "proj_4wk": 24.1,
-   "proj_this_week": 8.56,
-   "status": null,
-   "team": "LV"
-  },
-  {
    "adds_24h": 0,
    "name": "Hunter Henry",
    "pos": "TE",
@@ -718,15 +727,6 @@
    "team": "SEA"
   },
   {
-   "adds_24h": 0,
-   "name": "Trey Smack",
-   "pos": "K",
-   "proj_4wk": 23.1,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "GB"
-  },
-  {
    "adds_24h": 138798,
    "name": "Justice Hill",
    "pos": "RB",
@@ -743,15 +743,6 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "LAR"
-  },
-  {
-   "adds_24h": 61002,
-   "name": "Dawson Knox",
-   "pos": "TE",
-   "proj_4wk": 14.2,
-   "proj_this_week": 3.47,
-   "status": null,
-   "team": "BUF"
   },
   {
    "adds_24h": 51144,
@@ -808,7 +799,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-21T16:32:35Z",
+ "generated_at": "2026-11-21T16:32:51Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1043,7 +1034,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.193,
+    "first_seed_odds": 0.192,
     "losses": 4,
     "mine": false,
     "pa": 1317.2,
@@ -1199,7 +1190,7 @@
     "power_rank": 6,
     "proj_avg": 125.1,
     "proj_by_week": {
-     "11": 127.83,
+     "11": 127.94,
      "12": 130.5,
      "13": 120.75,
      "14": 121.22
