@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-21T20:18:10Z UTC
+Week 11 · record 3-7 · updated 2026-11-21T20:23:15Z UTC
 
 ## Lineup check
-Current lineup projects **92.6**, best possible **93.7**.
+Current lineup projects **92.7**, best possible **93.8**.
 
 - ⚠️ LAR D/ST (DEF, LAR) is on bye
 - 🔁 Start Mike Evans (WR, SF) (11.9) over Jordyn Tyson (WR, NO) (10.8)
@@ -20,7 +20,7 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 **DEF stream this week:** add JAX D/ST for LAR D/ST (+8.0 pts this week)
 
 ## This week's matchup
-vs **Bradsgay** (6-4): you **92.6** – 139.4 projected · win chance **9%**
+vs **Bradsgay** (6-4): you **92.7** – 139.4 projected · win chance **9%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
