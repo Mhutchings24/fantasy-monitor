@@ -1,5 +1,5 @@
 {
- "content_hash": "17d2202a31c6cc4005838c6c066d707d1ba7b98d",
+ "content_hash": "841b32d3f7cd0fa2cad90f7b82735e74cc9a4df7",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -136,7 +136,7 @@
    "adds_24h": 0,
    "name": "Chig Okonkwo",
    "pos": "TE",
-   "proj_4wk": 40.4,
+   "proj_4wk": 40.5,
    "proj_this_week": 10.3,
    "status": null,
    "team": "WAS"
@@ -199,7 +199,7 @@
    "adds_24h": 0,
    "name": "Carson Beck",
    "pos": "QB",
-   "proj_4wk": 35.0,
+   "proj_4wk": 35.1,
    "proj_this_week": 7.5,
    "status": "Questionable",
    "team": "ARI"
@@ -235,7 +235,7 @@
    "adds_24h": 0,
    "name": "Drew Stevens",
    "pos": "K",
-   "proj_4wk": 33.5,
+   "proj_4wk": 33.6,
    "proj_this_week": 8.15,
    "status": null,
    "team": "WAS"
@@ -451,7 +451,7 @@
    "adds_24h": 0,
    "name": "Harrison Butker",
    "pos": "K",
-   "proj_4wk": 28.1,
+   "proj_4wk": 28.2,
    "proj_this_week": 7.21,
    "status": null,
    "team": "KC"
@@ -586,7 +586,7 @@
    "adds_24h": 0,
    "name": "WAS D/ST",
    "pos": "DEF",
-   "proj_4wk": 24.8,
+   "proj_4wk": 24.9,
    "proj_this_week": 4.14,
    "status": null,
    "team": "WAS"
@@ -799,7 +799,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-21T17:49:05Z",
+ "generated_at": "2026-11-21T17:54:09Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1013,17 +1013,17 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.379,
+    "first_seed_odds": 0.38,
     "losses": 3,
     "mine": false,
     "pa": 1170.04,
     "pf": 1210.18,
     "playoff_odds": 0.979,
     "power_rank": 5,
-    "proj_avg": 128.2,
+    "proj_avg": 128.3,
     "proj_by_week": {
      "11": 129.34,
-     "12": 129.34,
+     "12": 129.54,
      "13": 128.04,
      "14": 126.14
     },
@@ -1034,7 +1034,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.193,
+    "first_seed_odds": 0.192,
     "losses": 4,
     "mine": false,
     "pa": 1317.2,
@@ -1044,7 +1044,7 @@
     "proj_avg": 128.9,
     "proj_by_week": {
      "11": 114.58,
-     "12": 140.63,
+     "12": 140.62,
      "13": 117.34,
      "14": 143.16
     },
@@ -1055,7 +1055,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.319,
+    "first_seed_odds": 0.318,
     "losses": 4,
     "mine": false,
     "pa": 1360.82,
@@ -1065,7 +1065,7 @@
     "proj_avg": 129.2,
     "proj_by_week": {
      "11": 139.33,
-     "12": 135.86,
+     "12": 135.92,
      "13": 123.01,
      "14": 118.48
     },
@@ -1107,7 +1107,7 @@
     "proj_avg": 122.8,
     "proj_by_week": {
      "11": 120.07,
-     "12": 120.49,
+     "12": 120.53,
      "13": 122.78,
      "14": 127.69
     },
@@ -1123,7 +1123,7 @@
     "mine": false,
     "pa": 1293.6,
     "pf": 1206.58,
-    "playoff_odds": 0.508,
+    "playoff_odds": 0.507,
     "power_rank": 9,
     "proj_avg": 118.1,
     "proj_by_week": {
@@ -1144,7 +1144,7 @@
     "mine": false,
     "pa": 1107.26,
     "pf": 1150.76,
-    "playoff_odds": 0.364,
+    "playoff_odds": 0.363,
     "power_rank": 8,
     "proj_avg": 122.5,
     "proj_by_week": {
@@ -1165,12 +1165,12 @@
     "mine": false,
     "pa": 1248.08,
     "pf": 1235.98,
-    "playoff_odds": 0.539,
+    "playoff_odds": 0.54,
     "power_rank": 1,
-    "proj_avg": 135.4,
+    "proj_avg": 135.5,
     "proj_by_week": {
      "11": 135.38,
-     "12": 143.01,
+     "12": 143.24,
      "13": 137.55,
      "14": 125.66
     },
@@ -1212,7 +1212,7 @@
     "proj_avg": 106.9,
     "proj_by_week": {
      "11": 92.64,
-     "12": 110.34,
+     "12": 110.45,
      "13": 114.37,
      "14": 110.23
     },
@@ -1323,7 +1323,7 @@
    "pos": "WR",
    "proj_by_week": {
     "11": 13.31,
-    "12": 12.99,
+    "12": 13.08,
     "13": 13.29,
     "14": 12.27
    },
@@ -1338,7 +1338,7 @@
    "pos": "WR",
    "proj_by_week": {
     "11": 12.33,
-    "12": 12.34,
+    "12": 12.36,
     "13": 13.74,
     "14": 13.08
    },
@@ -1608,7 +1608,7 @@
      "name": "Patrick Mahomes",
      "pid": "4046",
      "pos": "QB",
-     "ros_per_week": 20.1,
+     "ros_per_week": 20.2,
      "status": null,
      "team": "KC"
     }
