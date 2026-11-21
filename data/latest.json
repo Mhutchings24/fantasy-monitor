@@ -1,5 +1,5 @@
 {
- "content_hash": "960dfe54a1c7811e0e4c1abcdedb17ab78d669da",
+ "content_hash": "260e08b1ed0b2096d9466a7df5e2176bec46cb3d",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -29,7 +29,7 @@
    "name": "Aaron Rodgers",
    "pos": "QB",
    "proj_4wk": 61.5,
-   "proj_this_week": 16.8,
+   "proj_this_week": 16.79,
    "status": null,
    "team": "PIT"
   },
@@ -65,7 +65,7 @@
    "name": "Joe Milton",
    "pos": "QB",
    "proj_4wk": 56.2,
-   "proj_this_week": 12.15,
+   "proj_this_week": 12.14,
    "status": null,
    "team": "PHI"
   },
@@ -119,7 +119,7 @@
    "name": "Dallas Goedert",
    "pos": "TE",
    "proj_4wk": 42.0,
-   "proj_this_week": 9.96,
+   "proj_this_week": 9.95,
    "status": null,
    "team": "PHI"
   },
@@ -316,8 +316,8 @@
    "adds_24h": 0,
    "name": "Pat Freiermuth",
    "pos": "TE",
-   "proj_4wk": 31.2,
-   "proj_this_week": 7.43,
+   "proj_4wk": 31.1,
+   "proj_this_week": 7.42,
    "status": null,
    "team": "PIT"
   },
@@ -808,7 +808,7 @@
    "team": "NYJ"
   }
  ],
- "generated_at": "2026-11-21T12:26:01Z",
+ "generated_at": "2026-11-21T12:31:05Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1706,25 +1706,6 @@
    "stream": false,
    "team": "TEN",
    "trending_adds_24h": 0
-  },
-  {
-   "drop": "12491",
-   "drop_name": "Corey Kiner",
-   "gain_this_week": 0.05,
-   "gain_window": 0.05,
-   "name": "Aaron Rodgers",
-   "pid": "96",
-   "pos": "QB",
-   "proj_by_week": {
-    "11": 16.8,
-    "12": 15.0,
-    "13": 15.38,
-    "14": 14.32
-   },
-   "status": null,
-   "stream": false,
-   "team": "PIT",
-   "trending_adds_24h": 17628
   }
  ],
  "week": 11,
