@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-21T21:14:12Z UTC
+Week 11 · record 3-7 · updated 2026-11-21T21:24:18Z UTC
 
 ## Lineup check
 Current lineup projects **92.7**, best possible **93.8**.
@@ -20,7 +20,7 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 **DEF stream this week:** add JAX D/ST for LAR D/ST (+8.0 pts this week)
 
 ## This week's matchup
-vs **Bradsgay** (6-4): you **92.7** – 139.4 projected · win chance **9%**
+vs **Bradsgay** (6-4): you **92.7** – 139.2 projected · win chance **9%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
