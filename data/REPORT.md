@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-21T21:44:42Z UTC
+Week 11 · record 3-7 · updated 2026-11-21T21:54:48Z UTC
 
 ## Lineup check
-Current lineup projects **92.7**, best possible **93.8**.
+Current lineup projects **92.8**, best possible **93.9**.
 
 - ⚠️ LAR D/ST (DEF, LAR) is on bye
 - 🔁 Start Mike Evans (WR, SF) (11.9) over Jordyn Tyson (WR, NO) (10.8)
@@ -14,13 +14,13 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Bryce Young | QB | CAR | Corey Kiner | +1.5 | +1.5 | 0 |
-| Cam Ward | QB | TEN | Corey Kiner | +0.2 | +0.2 | 0 |
+| Bryce Young | QB | CAR | Corey Kiner | +1.4 | +1.4 | 0 |
+| Cam Ward | QB | TEN | Corey Kiner | +0.1 | +0.1 | 0 |
 
 **DEF stream this week:** add JAX D/ST for LAR D/ST (+8.0 pts this week)
 
 ## This week's matchup
-vs **Bradsgay** (6-4): you **92.7** – 139.2 projected · win chance **9%**
+vs **Bradsgay** (6-4): you **92.8** – 139.2 projected · win chance **10%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -28,11 +28,11 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 5 | 128.5 | 98% |
-| 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 3 | 128.8 | 96% |
+| 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 4 | 128.8 | 96% |
 | 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 2 | 129.2 | 99% |
-| 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 4 | 128.7 | 94% |
-| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 7 | 122.7 | 59% |
-| 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 118.0 | 50% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 3 | 128.8 | 94% |
+| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 7 | 122.7 | 60% |
+| 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 117.8 | 50% |
 | 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 8 | 122.6 | 36% |
 | 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 136.1 | 56% |
 | 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 6 | 125.0 | 11% |
@@ -51,7 +51,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter | BYE | 0.0 | 6.1 | 6.1 | 5.9 |
 | Jake Bates | K | DET | starter |  | 8.6 | 8.8 | 8.4 | 8.6 |
-| Jared Goff | QB | DET | starter |  | 16.8 | 20.2 | 18.8 | 19.7 |
+| Jared Goff | QB | DET | starter |  | 16.9 | 20.2 | 18.8 | 19.7 |
 | Rico Dowdle | RB | PIT | starter |  | 9.5 | 8.0 | 8.3 | 7.7 |
 | Jordan Mason | RB | MIN | starter |  | 8.8 | 11.4 | 11.4 | 10.3 |
 | George Kittle | TE | SF | starter |  | 12.5 | 12.5 | 14.7 | 13.9 |
