@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-22T19:17:59Z UTC
+Week 11 · record 3-7 · updated 2026-11-22T19:28:05Z UTC
 
 ## Lineup check
 Current lineup projects **93.5**, best possible **94.6**.
@@ -19,7 +19,7 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 **DEF stream this week:** add JAX D/ST for LAR D/ST (+8.0 pts this week)
 
 ## This week's matchup
-vs **Bradsgay** (6-4): you **93.5** – 139.7 projected · win chance **10%**
+vs **Bradsgay** (6-4): you **93.5** – 139.6 projected · win chance **10%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -28,7 +28,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 4 | 129.1 | 98% |
 | 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 2 | 130.1 | 97% |
-| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 3 | 129.5 | 99% |
+| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 3 | 129.4 | 99% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 5 | 128.7 | 94% |
 | 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 122.6 | 59% |
 | 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 117.8 | 50% |
