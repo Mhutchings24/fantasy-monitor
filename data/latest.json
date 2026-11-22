@@ -1,5 +1,5 @@
 {
- "content_hash": "a8286f3006f76f4a907a2d710855a7ae912d5b06",
+ "content_hash": "e9c52201c0f13c8cffacc2f7c009d652764d5659",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -163,8 +163,8 @@
    "adds_24h": 0,
    "name": "Aaron Jones Sr.",
    "pos": "RB",
-   "proj_4wk": 40.1,
-   "proj_this_week": 8.65,
+   "proj_4wk": 40.0,
+   "proj_this_week": 8.59,
    "status": null,
    "team": "MIN"
   },
@@ -344,7 +344,7 @@
    "name": "Eddy Pineiro",
    "pos": "K",
    "proj_4wk": 30.9,
-   "proj_this_week": 7.76,
+   "proj_this_week": 7.73,
    "status": null,
    "team": "SF"
   },
@@ -458,21 +458,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Charlie Smyth",
-   "pos": "K",
-   "proj_4wk": 28.1,
-   "proj_this_week": 6.43,
-   "status": null,
-   "team": "NO"
-  },
-  {
-   "adds_24h": 0,
    "name": "Harrison Butker",
    "pos": "K",
    "proj_4wk": 28.1,
    "proj_this_week": 7.18,
    "status": null,
    "team": "KC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Charlie Smyth",
+   "pos": "K",
+   "proj_4wk": 28.1,
+   "proj_this_week": 6.43,
+   "status": null,
+   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -497,18 +497,9 @@
    "name": "SF D/ST",
    "pos": "DEF",
    "proj_4wk": 27.6,
-   "proj_this_week": 7.58,
+   "proj_this_week": 7.56,
    "status": null,
    "team": "SF"
-  },
-  {
-   "adds_24h": 87171,
-   "name": "Treylon Burks",
-   "pos": "WR",
-   "proj_4wk": 27.2,
-   "proj_this_week": 6.94,
-   "status": null,
-   "team": "WAS"
   },
   {
    "adds_24h": 0,
@@ -518,6 +509,15 @@
    "proj_this_week": 6.78,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 87171,
+   "name": "Treylon Burks",
+   "pos": "WR",
+   "proj_4wk": 27.2,
+   "proj_this_week": 6.94,
+   "status": null,
+   "team": "WAS"
   },
   {
    "adds_24h": 0,
@@ -790,7 +790,7 @@
    "team": "KC"
   }
  ],
- "generated_at": "2026-11-22T23:27:27Z",
+ "generated_at": "2026-11-22T23:32:31Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -844,13 +844,13 @@
    {
     "name": "Mike Evans",
     "pid": "2216",
-    "proj": 11.78,
+    "proj": 11.7,
     "slot": "WR"
    },
    {
     "name": "George Kittle",
     "pid": "4217",
-    "proj": 12.44,
+    "proj": 12.36,
     "slot": "TE"
    },
    {
@@ -872,9 +872,9 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 92.72,
-  "current_projected": 91.62,
-  "gain": 1.1,
+  "best_projected": 92.56,
+  "current_projected": 91.54,
+  "gain": 1.02,
   "problems": [
    {
     "pid": "LAR",
@@ -887,7 +887,7 @@
    {
     "bench": "13281",
     "start": "2216",
-    "text": "Start Mike Evans (WR, SF) (11.8) over Jordyn Tyson (WR, NO) (10.7)"
+    "text": "Start Mike Evans (WR, SF) (11.7) over Jordyn Tyson (WR, NO) (10.7)"
    }
   ],
   "week": 11
@@ -984,7 +984,7 @@
    "week": 10
   },
   "matchup": {
-   "my_proj": 91.6,
+   "my_proj": 91.5,
    "opp_best_possible": 139.64,
    "opp_proj": 139.6,
    "opponent": "Bradsgay",
@@ -1013,7 +1013,7 @@
     "power_rank": 4,
     "proj_avg": 129.1,
     "proj_by_week": {
-     "11": 132.76,
+     "11": 132.74,
      "12": 129.61,
      "13": 128.04,
      "14": 126.14
@@ -1034,7 +1034,7 @@
     "power_rank": 2,
     "proj_avg": 130.1,
     "proj_by_week": {
-     "11": 111.13,
+     "11": 111.09,
      "12": 140.47,
      "13": 125.5,
      "14": 143.16
@@ -1097,7 +1097,7 @@
     "power_rank": 8,
     "proj_avg": 122.2,
     "proj_by_week": {
-     "11": 117.33,
+     "11": 117.25,
      "12": 120.98,
      "13": 122.78,
      "14": 127.69
@@ -1116,9 +1116,9 @@
     "pf": 1206.58,
     "playoff_odds": 0.486,
     "power_rank": 9,
-    "proj_avg": 117.3,
+    "proj_avg": 117.2,
     "proj_by_week": {
-     "11": 106.31,
+     "11": 106.22,
      "12": 122.95,
      "13": 124.51,
      "14": 115.29
@@ -1160,7 +1160,7 @@
     "power_rank": 1,
     "proj_avg": 137.0,
     "proj_by_week": {
-     "11": 138.89,
+     "11": 138.86,
      "12": 145.77,
      "13": 137.55,
      "14": 125.66
@@ -1202,7 +1202,7 @@
     "power_rank": 10,
     "proj_avg": 107.0,
     "proj_by_week": {
-     "11": 92.72,
+     "11": 92.56,
      "12": 110.75,
      "13": 114.37,
      "14": 110.23
@@ -1298,7 +1298,7 @@
    "pid": "4217",
    "pos": "TE",
    "proj_by_week": {
-    "11": 12.44,
+    "11": 12.36,
     "12": 12.3,
     "13": 14.68,
     "14": 13.95
@@ -1403,7 +1403,7 @@
    "pid": "2216",
    "pos": "WR",
    "proj_by_week": {
-    "11": 11.78,
+    "11": 11.7,
     "12": 13.52,
     "13": 15.99,
     "14": 15.19
@@ -1418,7 +1418,7 @@
    "pid": "1479",
    "pos": "WR",
    "proj_by_week": {
-    "11": 5.63,
+    "11": 5.62,
     "12": 5.55,
     "13": 6.55,
     "14": 6.11
@@ -1547,7 +1547,7 @@
    "partner_roster_id": 5,
    "summary": "Give Mike Evans, get Jonathan Taylor from Monangynecologist: +2.1 pts/week for you, -0.5 for them.",
    "their_gain_per_week": -0.5,
-   "value_ratio": 0.94,
+   "value_ratio": 0.95,
    "why_them": [
     "Mike Evans would start 7 of 7 weeks for them"
    ],
