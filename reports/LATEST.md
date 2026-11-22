@@ -1,33 +1,31 @@
-# Week 11 game-day check · Sun 9:49 AM MT
-_Conorrhea vs Bradsgay · data as of 9:47 AM MT (fresh monitor run 45045281373 succeeded) · win chance ~11% (est., with JAX)_
+# Week 11 game-day check · Sun 12:48 PM MT
+_Conorrhea vs Bradsgay · data as of 12:47 PM MT (fresh monitor run 45062697327 succeeded) · win chance ~9% (monitor), ~11% with JAX (est.)_
 
 ## Make these moves now
-- **Add JAX D/ST, drop LAR D/ST (bye), start JAX.** Your DEF slot is still empty (monitor, 9:47 AM MT), and JAX is still a free agent. It's worth about +8 points. **Locks 4:25 PM ET (2:25 PM MT).** **High.**
-- **No other changes.** Tyson is active, so he stays at FLEX and Evans stays on the bench. Every 1:00 PM ET starter is clear. **1:00 PM ET lock (11:00 AM MT):** Goff, Dowdle, Moore, Tyson, Bates.
-- If JAX gets taken before you add him, pick up PHI D/ST (7.0) **before 1:00 PM ET**. LAC (7.0) and CIN (6.5) are later options.
+- **Lineup change: add JAX D/ST, drop LAR D/ST (bye), start JAX.** Your DEF slot still shows LAR on bye as of 12:47 PM MT. JAX is still a free agent. It's worth about +8 points. **Locks 4:25 PM ET (2:25 PM MT).** That's about 90 minutes from now, and it's the last change left that adds points. **High.**
+- If JAX gets taken, there's no other 4:25 PM ET defense on the list. Later options: **SF D/ST** (SNF, 8:20 PM ET) or **WAS D/ST** (MNF, 8:15 PM ET Mon). Both are free agents.
+- **No other changes.** None of your other starters play in the late window. The 1:00 PM ET players are locked.
 
 ## Inactives and late news
 | Player | Game (ET) | Status | Source (time) |
 |---|---|---|---|
-| Jordyn Tyson (FLEX) | NO @ CHI · 1:00 | **Active.** He's not on the Saints' inactive list (CB Emerson, RT Fuaga, C McCoy, OL Richards, LB Werner, RB Estime, QB Wilson) | Saints Wire/Yahoo, 11:32 AM ET |
-| Jared Goff (QB) | TB @ DET · 1:00 | Active, no designation. Mayfield **will start** for TB. S Antoine Winfield Jr. is **out** for TB, which helps Goff | Buccaneers.com, ~11:30 AM ET |
-| Jake Bates (K) | TB @ DET · 1:00 | Active, no designation | Final injury report, no tag (Sleeper) |
-| Rico Dowdle (RB) | PIT @ PHI · 1:00 | Active, no designation. Joe Milton starts at QB for PHI | No tag (Sleeper). Eagles.com headline (Nov 22) |
-| DJ Moore (WR) | MIA @ BUF · 1:00 | Active, no designation. Kincaid was doubtful, which means more WR targets | No tag (Sleeper). ESPN, Nov 21 |
-| JAX D/ST (add) | JAX @ NYG · 4:25 | Free agent. Tuten is off the injury report (ESPN, Nov 21) | Monitor, 9:47 AM MT |
+| JAX D/ST (add) | JAX @ NYG · 4:25 | Free agent. The Giants start **J.J. McCarthy**, their third QB this season. Dart is on IR. JAX's defense ranks 2nd in points allowed. DE Striggow is out (concussion). | Black and Teal, 2:00 PM ET. Big Blue Interactive, Nov 20 |
+| DJ Moore (FLEX) | MIA @ BUF · 1:00 (locked) | **Knee injury, questionable to return.** He had 5 catches, 41 yards and a TD before he left. I couldn't confirm whether he came back. | Bills PR / RotoWire, ~11:46 AM |
+| Goff, Bates, Dowdle, Tyson | 1:00 (locked) | Playing. I found no in-game injury news. | — |
 
-I couldn't read the official PIT/PHI, MIA/BUF and DET lists: those sites blocked automated reading. None of these players had an injury tag on the final report, so I'd put each at **~99% (est.)**. Glance at Sleeper before 11:00 AM MT for a red "OUT" badge.
+The Jaguars' official inactives list wasn't posted yet when I checked (it comes out ~2:55 PM ET). Defenses don't sit, so it doesn't change the call.
 
 ## Still to decide
-- **SNF (MIN @ SF, 8:20 PM ET, Mexico City):** Mason, Kittle. Evans and Allen are on the bench.
-  - **Evans** will play, but likely on a pitch count (NBC/FSD, Nov 22). Keep him benched. **Medium.**
-  - SF inactives come out around **6:50 PM ET (4:50 PM MT)**. You have no backup TE, so if Kittle is out the slot stays empty unless you add a free-agent TE. That's low risk: Kittle has no tag.
-  - If Mason is out, you have no healthy RB. You'd need to add Aaron Jones Sr. (FA, same game) for Kiner before 8:20 PM ET.
-- **MNF (CIN @ WAS, 8:15 PM ET Mon):** Diggs, no tag. WAS inactives come out around 6:45 PM ET Monday.
+- **SNF (MIN @ SF, 8:20 PM ET):** Mason and Kittle start. Evans and Allen are on the bench. Inactives come out around **6:50 PM ET (4:50 PM MT)**. Neither starter has an injury tag. Keep Evans benched (likely pitch count). **Medium.**
+  - **If Kittle is out:** you have no backup TE. Add a free-agent TE who's still unlocked, such as Chig Okonkwo (WAS, MNF), and drop Kiner.
+  - **If Mason is out:** add Aaron Jones Sr. (MIN, same game, free agent) for Kiner before 8:20 PM ET.
+- **MNF (CIN @ WAS, 8:15 PM ET Mon):** Diggs has no injury tag. WAS inactives come out around 6:45 PM ET Monday.
+- **Week 12:** Watch the news on Moore's knee Monday and Tuesday. Evans (WR) or Judkins at FLEX would cover if he misses time.
 
 ## Sources
-- [Saints announce inactive players for Week 11 vs. Bears](https://sports.yahoo.com/articles/saints-announce-inactive-players-week-163254629.html) — Tyson not listed (11:32 AM ET)
-- [Is Jordyn Tyson playing today?](https://sports.yahoo.com/articles/jordyn-tyson-playing-today-latest-150257053.html) — "ready to play" (10:02 AM ET)
-- [Bucs-Lions Inactives: Baker Mayfield Will Start](https://www.buccaneers.com/news/bucs-lions-inactives-baker-mayfield-will-start) — Winfield out (Nov 22)
-- [ESPN Week 11 inactives watch](https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50530832/fantasy-football-injuries-nfl-week-11-inactive-active) — Evans set to return, Kincaid doubtful, Tuten will play (Nov 21)
-- [CBS Week 11 inactives tracker](https://www.cbssports.com/nfl/news/nfl-week-11-inactives-injury-tracker-latest-news-updates/live/) — Mayfield plays, Evans returns (Nov 22)
+- [Black and Teal: Jaguars inactives vs Giants](https://blackandteal.com/jaguars-inactives-against-giants-in-week-11-danny-striggow-is-out): Striggow out (2:00 PM ET)
+- [Big Blue Interactive preview](https://bigblueinteractive.com/2026/11/20/preview-jacksonville-jaguars-at-new-york-giants-november-22-2026/): McCarthy starts, JAX defense 2nd in points allowed (Nov 20)
+- [Yahoo: Jaguars vs Giants start time](https://sports.yahoo.com/nfl/article/jacksonville-jaguars-vs-new-york-giants-how-to-watch-today-start-time-where-to-stream-and-more-114800579.html): 4:25 PM ET on CBS
+- [Times-Union live blog via Yahoo](https://sports.yahoo.com/articles/jaguars-vs-giants-live-updates-183020206.html): 4:25 PM ET kickoff confirmed
+- [RotoWire: DJ Moore questionable to return](https://www.rotowire.com/football/headlines/dj-moore-injury-questionable-to-return-sunday-649105): knee (Nov 22)
+- [Bills PR on X](https://x.com/BuffaloBillsPR/status/2124584250536047034): Moore (knee) questionable to return
