@@ -1,5 +1,5 @@
 {
- "content_hash": "4ffabffdd84d33bcaa2dd5234631c87186b13819",
+ "content_hash": "06791563d40376d64cc466f5ea479a62dd08680a",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -10,7 +10,7 @@
    "adds_24h": 0,
    "name": "Bryce Young",
    "pos": "QB",
-   "proj_4wk": 68.3,
+   "proj_4wk": 68.4,
    "proj_this_week": 18.35,
    "status": null,
    "team": "CAR"
@@ -46,7 +46,7 @@
    "adds_24h": 0,
    "name": "Baker Mayfield",
    "pos": "QB",
-   "proj_4wk": 60.6,
+   "proj_4wk": 60.7,
    "proj_this_week": 12.95,
    "status": "Questionable",
    "team": "TB"
@@ -91,7 +91,7 @@
    "adds_24h": 0,
    "name": "Deshaun Watson",
    "pos": "QB",
-   "proj_4wk": 45.3,
+   "proj_4wk": 44.9,
    "proj_this_week": 0.0,
    "status": null,
    "team": "CLE"
@@ -127,7 +127,7 @@
    "adds_24h": 31952,
    "name": "Fernando Mendoza",
    "pos": "QB",
-   "proj_4wk": 41.4,
+   "proj_4wk": 41.2,
    "proj_this_week": 12.08,
    "status": null,
    "team": "LV"
@@ -250,15 +250,6 @@
    "team": "PIT"
   },
   {
-   "adds_24h": 0,
-   "name": "Denzel Boston",
-   "pos": "WR",
-   "proj_4wk": 33.0,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "CLE"
-  },
-  {
    "adds_24h": 41472,
    "name": "Darren Waller",
    "pos": "TE",
@@ -266,6 +257,15 @@
    "proj_this_week": 7.38,
    "status": "Questionable",
    "team": "CAR"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Denzel Boston",
+   "pos": "WR",
+   "proj_4wk": 32.7,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "CLE"
   },
   {
    "adds_24h": 0,
@@ -469,7 +469,7 @@
    "adds_24h": 0,
    "name": "Cade Otton",
    "pos": "TE",
-   "proj_4wk": 27.8,
+   "proj_4wk": 27.9,
    "proj_this_week": 7.09,
    "status": null,
    "team": "TB"
@@ -487,19 +487,10 @@
    "adds_24h": 0,
    "name": "Tre Tucker",
    "pos": "WR",
-   "proj_4wk": 27.4,
+   "proj_4wk": 27.3,
    "proj_this_week": 8.44,
    "status": null,
    "team": "LV"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Kimani Vidal",
-   "pos": "RB",
-   "proj_4wk": 27.2,
-   "proj_this_week": 6.9,
-   "status": null,
-   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -509,6 +500,15 @@
    "proj_this_week": 6.54,
    "status": null,
    "team": "CIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Kimani Vidal",
+   "pos": "RB",
+   "proj_4wk": 27.2,
+   "proj_this_week": 6.9,
+   "status": null,
+   "team": "LAC"
   },
   {
    "adds_24h": 22078,
@@ -541,7 +541,7 @@
    "adds_24h": 0,
    "name": "Dylan Sampson",
    "pos": "RB",
-   "proj_4wk": 26.8,
+   "proj_4wk": 26.7,
    "proj_this_week": 0.0,
    "status": null,
    "team": "CLE"
@@ -808,7 +808,7 @@
    "team": "KC"
   }
  ],
- "generated_at": "2026-11-22T12:35:46Z",
+ "generated_at": "2026-11-22T12:40:52Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1029,10 +1029,10 @@
     "pf": 1210.18,
     "playoff_odds": 0.98,
     "power_rank": 5,
-    "proj_avg": 128.7,
+    "proj_avg": 128.6,
     "proj_by_week": {
      "11": 131.29,
-     "12": 129.13,
+     "12": 128.83,
      "13": 128.04,
      "14": 126.14
     },
@@ -1048,12 +1048,12 @@
     "mine": false,
     "pa": 1317.2,
     "pf": 1399.62,
-    "playoff_odds": 0.964,
+    "playoff_odds": 0.963,
     "power_rank": 3,
-    "proj_avg": 129.0,
+    "proj_avg": 128.9,
     "proj_by_week": {
      "11": 114.43,
-     "12": 140.99,
+     "12": 140.58,
      "13": 117.34,
      "14": 143.16
     },
@@ -1095,7 +1095,7 @@
     "proj_avg": 128.7,
     "proj_by_week": {
      "11": 133.19,
-     "12": 131.72,
+     "12": 131.79,
      "13": 115.18,
      "14": 134.76
     },
@@ -1111,7 +1111,7 @@
     "mine": false,
     "pa": 1236.3,
     "pf": 1220.66,
-    "playoff_odds": 0.594,
+    "playoff_odds": 0.595,
     "power_rank": 8,
     "proj_avg": 122.7,
     "proj_by_week": {
@@ -1132,12 +1132,12 @@
     "mine": false,
     "pa": 1293.6,
     "pf": 1206.58,
-    "playoff_odds": 0.498,
+    "playoff_odds": 0.499,
     "power_rank": 9,
     "proj_avg": 117.8,
     "proj_by_week": {
      "11": 108.22,
-     "12": 123.21,
+     "12": 123.27,
      "13": 124.51,
      "14": 115.29
     },
@@ -1174,12 +1174,12 @@
     "mine": false,
     "pa": 1248.08,
     "pf": 1235.98,
-    "playoff_odds": 0.565,
+    "playoff_odds": 0.564,
     "power_rank": 1,
     "proj_avg": 136.3,
     "proj_by_week": {
      "11": 137.7,
-     "12": 143.87,
+     "12": 143.69,
      "13": 138.09,
      "14": 125.66
     },
@@ -1195,12 +1195,12 @@
     "mine": false,
     "pa": 1219.86,
     "pf": 1206.34,
-    "playoff_odds": 0.109,
+    "playoff_odds": 0.11,
     "power_rank": 6,
-    "proj_avg": 125.1,
+    "proj_avg": 125.0,
     "proj_by_week": {
      "11": 128.12,
-     "12": 130.3,
+     "12": 130.07,
      "13": 120.75,
      "14": 121.22
     },
@@ -1218,10 +1218,10 @@
     "pf": 1119.82,
     "playoff_odds": 0.003,
     "power_rank": 10,
-    "proj_avg": 107.2,
+    "proj_avg": 107.3,
     "proj_by_week": {
      "11": 94.08,
-     "12": 110.23,
+     "12": 110.43,
      "13": 114.37,
      "14": 110.23
     },
@@ -1392,7 +1392,7 @@
    "pos": "RB",
    "proj_by_week": {
     "11": 0.0,
-    "12": 12.53,
+    "12": 12.73,
     "13": 12.04,
     "14": 11.24
    },
@@ -1660,7 +1660,7 @@
    "pos": "QB",
    "proj_by_week": {
     "11": 18.35,
-    "12": 15.31,
+    "12": 15.35,
     "13": 15.39,
     "14": 19.28
    },
