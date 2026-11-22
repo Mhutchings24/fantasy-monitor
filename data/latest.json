@@ -1,5 +1,5 @@
 {
- "content_hash": "b0bccc14b1327ec16f567b9cc6c35860bcc0a786",
+ "content_hash": "8a57c63e8add3037c38e2b63e46eb318c3125b53",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -124,7 +124,7 @@
    "team": "PHI"
   },
   {
-   "adds_24h": 40624,
+   "adds_24h": 40200,
    "name": "Fernando Mendoza",
    "pos": "QB",
    "proj_4wk": 41.3,
@@ -151,7 +151,7 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 19952,
+   "adds_24h": 19744,
    "name": "Malik Washington",
    "pos": "WR",
    "proj_4wk": 39.5,
@@ -196,7 +196,7 @@
    "team": "MIA"
   },
   {
-   "adds_24h": 22194,
+   "adds_24h": 22026,
    "name": "Chris Godwin Jr.",
    "pos": "WR",
    "proj_4wk": 35.0,
@@ -232,7 +232,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 38168,
+   "adds_24h": 38028,
    "name": "Mike Gesicki",
    "pos": "TE",
    "proj_4wk": 33.4,
@@ -250,7 +250,7 @@
    "team": "PIT"
   },
   {
-   "adds_24h": 53550,
+   "adds_24h": 53091,
    "name": "Darren Waller",
    "pos": "TE",
    "proj_4wk": 32.9,
@@ -286,7 +286,7 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 106757,
+   "adds_24h": 106351,
    "name": "Cairo Santos",
    "pos": "K",
    "proj_4wk": 31.8,
@@ -403,7 +403,7 @@
    "team": "CAR"
   },
   {
-   "adds_24h": 63756,
+   "adds_24h": 63308,
    "name": "Samaje Perine",
    "pos": "RB",
    "proj_4wk": 29.7,
@@ -412,7 +412,7 @@
    "team": "CIN"
   },
   {
-   "adds_24h": 41427,
+   "adds_24h": 41490,
    "name": "Joey Slye",
    "pos": "K",
    "proj_4wk": 29.0,
@@ -494,15 +494,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Kimani Vidal",
-   "pos": "RB",
-   "proj_4wk": 27.2,
-   "proj_this_week": 6.9,
-   "status": null,
-   "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
    "name": "CIN D/ST",
    "pos": "DEF",
    "proj_4wk": 27.2,
@@ -511,22 +502,22 @@
    "team": "CIN"
   },
   {
-   "adds_24h": 30947,
+   "adds_24h": 0,
+   "name": "Kimani Vidal",
+   "pos": "RB",
+   "proj_4wk": 27.2,
+   "proj_this_week": 6.9,
+   "status": null,
+   "team": "LAC"
+  },
+  {
+   "adds_24h": 31339,
    "name": "Treylon Burks",
    "pos": "WR",
    "proj_4wk": 27.1,
    "proj_this_week": 6.95,
    "status": null,
    "team": "WAS"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Kyle Pitts Sr.",
-   "pos": "TE",
-   "proj_4wk": 27.0,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "ATL"
   },
   {
    "adds_24h": 0,
@@ -539,6 +530,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Kyle Pitts Sr.",
+   "pos": "TE",
+   "proj_4wk": 27.0,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "ATL"
+  },
+  {
+   "adds_24h": 0,
    "name": "Dylan Sampson",
    "pos": "RB",
    "proj_4wk": 26.8,
@@ -547,7 +547,7 @@
    "team": "CLE"
   },
   {
-   "adds_24h": 26508,
+   "adds_24h": 26445,
    "name": "SF D/ST",
    "pos": "DEF",
    "proj_4wk": 26.6,
@@ -556,7 +556,7 @@
    "team": "SF"
   },
   {
-   "adds_24h": 112336,
+   "adds_24h": 114168,
    "name": "Kenny Gainwell",
    "pos": "RB",
    "proj_4wk": 25.5,
@@ -637,7 +637,7 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 51079,
+   "adds_24h": 51219,
    "name": "Gunnar Helm",
    "pos": "TE",
    "proj_4wk": 24.5,
@@ -727,7 +727,7 @@
    "team": "GB"
   },
   {
-   "adds_24h": 172602,
+   "adds_24h": 170469,
    "name": "Justice Hill",
    "pos": "RB",
    "proj_4wk": 20.8,
@@ -736,7 +736,7 @@
    "team": "BAL"
   },
   {
-   "adds_24h": 126351,
+   "adds_24h": 128736,
    "name": "Roman Wilson",
    "pos": "WR",
    "proj_4wk": 12.6,
@@ -745,7 +745,7 @@
    "team": "PIT"
   },
   {
-   "adds_24h": 95607,
+   "adds_24h": 93762,
    "name": "Konata Mumpfield",
    "pos": "WR",
    "proj_4wk": 14.8,
@@ -754,7 +754,7 @@
    "team": "LAR"
   },
   {
-   "adds_24h": 37785,
+   "adds_24h": 37455,
    "name": "Mason Taylor",
    "pos": "TE",
    "proj_4wk": 21.1,
@@ -763,7 +763,7 @@
    "team": "NYJ"
   },
   {
-   "adds_24h": 30556,
+   "adds_24h": 30416,
    "name": "Josh Johnson",
    "pos": "QB",
    "proj_4wk": 8.9,
@@ -772,7 +772,7 @@
    "team": "ARI"
   },
   {
-   "adds_24h": 29092,
+   "adds_24h": 28875,
    "name": "Jauan Jennings",
    "pos": "WR",
    "proj_4wk": 15.6,
@@ -781,7 +781,7 @@
    "team": "MIN"
   },
   {
-   "adds_24h": 26400,
+   "adds_24h": 25528,
    "name": "Terrance Ferguson",
    "pos": "TE",
    "proj_4wk": 0.0,
@@ -790,7 +790,7 @@
    "team": "LAR"
   },
   {
-   "adds_24h": 22179,
+   "adds_24h": 22692,
    "name": "Jaydn Ott",
    "pos": "RB",
    "proj_4wk": 6.9,
@@ -799,7 +799,7 @@
    "team": "KC"
   },
   {
-   "adds_24h": 20076,
+   "adds_24h": 19968,
    "name": "Tre' Harris",
    "pos": "WR",
    "proj_4wk": 21.6,
@@ -808,7 +808,7 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 19104,
+   "adds_24h": 19098,
    "name": "Ty Johnson",
    "pos": "RB",
    "proj_4wk": 23.1,
@@ -817,7 +817,7 @@
    "team": "BUF"
   }
  ],
- "generated_at": "2026-11-22T15:32:02Z",
+ "generated_at": "2026-11-22T15:37:05Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
