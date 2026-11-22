@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-22T21:40:30Z UTC
+Week 11 · record 3-7 · updated 2026-11-22T21:45:46Z UTC
 
 ## Lineup check
 Current lineup projects **91.6**, best possible **92.7**.
@@ -27,7 +27,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 4 | 129.0 | 98% |
-| 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 2 | 130.1 | 97% |
+| 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 2 | 130.2 | 97% |
 | 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 3 | 129.4 | 99% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 5 | 128.1 | 94% |
 | 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 122.6 | 60% |
@@ -57,7 +57,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Stefon Diggs | WR | WAS | starter |  | 13.4 | 13.3 | 13.3 | 12.3 |
 | DJ Moore | WR | BUF | starter | Questionable | 11.0 | 12.1 | 13.7 | 13.1 |
 | Jordyn Tyson | WR | NO | starter |  | 10.7 | 12.1 | 11.4 | 11.0 |
-| Corey Kiner | RB | NE | bench | BYE | 0.0 | 6.7 | 6.3 | 6.2 |
+| Corey Kiner | RB | NE | bench | BYE | 0.0 | 6.9 | 6.3 | 6.2 |
 | Quinshon Judkins | RB | CLE | bench | BYE | 0.0 | 12.7 | 12.0 | 11.2 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 0.0 | 15.8 | 13.6 |
 | Mike Evans | WR | SF | bench | Questionable | 11.8 | 13.6 | 16.0 | 15.2 |
