@@ -1,5 +1,5 @@
 {
- "content_hash": "f19f439dcba859009cbb6ea91356028eb971de39",
+ "content_hash": "9357005fe0c2482426dfe80ec935f9bd26a1e8cb",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -19,7 +19,7 @@
    "adds_24h": 0,
    "name": "Justin Herbert",
    "pos": "QB",
-   "proj_4wk": 61.9,
+   "proj_4wk": 61.8,
    "proj_this_week": 16.58,
    "status": null,
    "team": "LAC"
@@ -361,7 +361,7 @@
    "adds_24h": 0,
    "name": "Quentin Johnston",
    "pos": "WR",
-   "proj_4wk": 30.5,
+   "proj_4wk": 30.4,
    "proj_this_week": 7.69,
    "status": null,
    "team": "LAC"
@@ -431,6 +431,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Charlie Smyth",
+   "pos": "K",
+   "proj_4wk": 28.2,
+   "proj_this_week": 6.49,
+   "status": null,
+   "team": "NO"
+  },
+  {
+   "adds_24h": 0,
    "name": "Harrison Butker",
    "pos": "K",
    "proj_4wk": 28.2,
@@ -440,12 +449,12 @@
   },
   {
    "adds_24h": 0,
-   "name": "Charlie Smyth",
-   "pos": "K",
-   "proj_4wk": 28.2,
-   "proj_this_week": 6.49,
+   "name": "Tommy DeVito",
+   "pos": "QB",
+   "proj_4wk": 28.1,
+   "proj_this_week": 0.0,
    "status": null,
-   "team": "NO"
+   "team": "NE"
   },
   {
    "adds_24h": 0,
@@ -467,15 +476,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Tommy DeVito",
-   "pos": "QB",
-   "proj_4wk": 27.8,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "NE"
-  },
-  {
-   "adds_24h": 0,
    "name": "Carson Beck",
    "pos": "QB",
    "proj_4wk": 27.5,
@@ -494,21 +494,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Kimani Vidal",
-   "pos": "RB",
-   "proj_4wk": 27.2,
-   "proj_this_week": 6.9,
-   "status": null,
-   "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
    "name": "CIN D/ST",
    "pos": "DEF",
    "proj_4wk": 27.2,
    "proj_this_week": 6.54,
    "status": null,
    "team": "CIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Kimani Vidal",
+   "pos": "RB",
+   "proj_4wk": 27.2,
+   "proj_this_week": 6.9,
+   "status": null,
+   "team": "LAC"
   },
   {
    "adds_24h": 15701,
@@ -631,7 +631,7 @@
    "adds_24h": 0,
    "name": "LAC D/ST",
    "pos": "DEF",
-   "proj_4wk": 24.7,
+   "proj_4wk": 24.6,
    "proj_this_week": 7.03,
    "status": null,
    "team": "LAC"
@@ -683,21 +683,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Keaton Mitchell",
-   "pos": "RB",
-   "proj_4wk": 23.9,
-   "proj_this_week": 5.89,
-   "status": null,
-   "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
    "name": "Jadarian Price",
    "pos": "RB",
    "proj_4wk": 23.9,
    "proj_this_week": 0.0,
    "status": null,
    "team": "SEA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Keaton Mitchell",
+   "pos": "RB",
+   "proj_4wk": 23.8,
+   "proj_this_week": 5.89,
+   "status": null,
+   "team": "LAC"
   },
   {
    "adds_24h": 15870,
@@ -790,7 +790,7 @@
    "team": "MIN"
   }
  ],
- "generated_at": "2026-11-22T03:40:51Z",
+ "generated_at": "2026-11-22T03:50:57Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1004,7 +1004,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.386,
+    "first_seed_odds": 0.385,
     "losses": 3,
     "mine": false,
     "pa": 1170.04,
@@ -1025,17 +1025,17 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.189,
+    "first_seed_odds": 0.19,
     "losses": 4,
     "mine": false,
     "pa": 1317.2,
     "pf": 1399.62,
     "playoff_odds": 0.963,
-    "power_rank": 4,
-    "proj_avg": 128.7,
+    "power_rank": 3,
+    "proj_avg": 128.8,
     "proj_by_week": {
      "11": 114.29,
-     "12": 140.11,
+     "12": 140.38,
      "13": 117.34,
      "14": 143.16
     },
@@ -1073,7 +1073,7 @@
     "pa": 1246.68,
     "pf": 1303.84,
     "playoff_odds": 0.94,
-    "power_rank": 3,
+    "power_rank": 4,
     "proj_avg": 128.7,
     "proj_by_week": {
      "11": 133.11,
@@ -1156,7 +1156,7 @@
     "mine": false,
     "pa": 1248.08,
     "pf": 1235.98,
-    "playoff_odds": 0.563,
+    "playoff_odds": 0.564,
     "power_rank": 1,
     "proj_avg": 136.3,
     "proj_by_week": {
@@ -1359,7 +1359,7 @@
    "pos": "RB",
    "proj_by_week": {
     "11": 0.0,
-    "12": 6.64,
+    "12": 6.69,
     "13": 6.26,
     "14": 6.16
    },
