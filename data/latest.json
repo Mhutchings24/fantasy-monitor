@@ -1,5 +1,5 @@
 {
- "content_hash": "68efcdb2b5d713722bec0b8aeded3f2c532af429",
+ "content_hash": "0817599419d81137738f5d556ef7166ea531008f",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -502,15 +502,6 @@
    "team": "SF"
   },
   {
-   "adds_24h": 86352,
-   "name": "Treylon Burks",
-   "pos": "WR",
-   "proj_4wk": 27.2,
-   "proj_this_week": 6.94,
-   "status": null,
-   "team": "WAS"
-  },
-  {
    "adds_24h": 0,
    "name": "Darnell Washington",
    "pos": "TE",
@@ -518,6 +509,15 @@
    "proj_this_week": 6.78,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 86352,
+   "name": "Treylon Burks",
+   "pos": "WR",
+   "proj_4wk": 27.2,
+   "proj_this_week": 6.94,
+   "status": null,
+   "team": "WAS"
   },
   {
    "adds_24h": 0,
@@ -790,7 +790,7 @@
    "team": "KC"
   }
  ],
- "generated_at": "2026-11-22T23:22:12Z",
+ "generated_at": "2026-11-22T23:22:23Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
