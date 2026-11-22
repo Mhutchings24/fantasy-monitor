@@ -1,5 +1,5 @@
 {
- "content_hash": "004e8ae86bf4dd1b395710fc5092458f5a74ac7c",
+ "content_hash": "91fd61d4e219875151c16d00edcb7940db88d9c0",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -494,21 +494,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "CIN D/ST",
-   "pos": "DEF",
-   "proj_4wk": 27.2,
-   "proj_this_week": 6.54,
-   "status": null,
-   "team": "CIN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Kimani Vidal",
    "pos": "RB",
    "proj_4wk": 27.2,
    "proj_this_week": 6.9,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "CIN D/ST",
+   "pos": "DEF",
+   "proj_4wk": 27.2,
+   "proj_this_week": 6.54,
+   "status": null,
+   "team": "CIN"
   },
   {
    "adds_24h": 19894,
@@ -799,7 +799,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-22T09:01:14Z",
+ "generated_at": "2026-11-22T09:06:18Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
