@@ -1,5 +1,5 @@
 {
- "content_hash": "3233c2a610d0188724d834dde9f24bc78d817859",
+ "content_hash": "77584a52dd4bf9c63ff81a2fb6c4cc8e0aef4979",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -28,7 +28,7 @@
    "adds_24h": 0,
    "name": "Cam Ward",
    "pos": "QB",
-   "proj_4wk": 61.3,
+   "proj_4wk": 61.7,
    "proj_this_week": 16.81,
    "status": null,
    "team": "TEN"
@@ -109,7 +109,7 @@
    "adds_24h": 0,
    "name": "Matthew Stafford",
    "pos": "QB",
-   "proj_4wk": 42.2,
+   "proj_4wk": 42.8,
    "proj_this_week": 0.0,
    "status": null,
    "team": "LAR"
@@ -494,21 +494,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Kimani Vidal",
-   "pos": "RB",
-   "proj_4wk": 27.2,
-   "proj_this_week": 6.9,
-   "status": null,
-   "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
    "name": "CIN D/ST",
    "pos": "DEF",
    "proj_4wk": 27.2,
    "proj_this_week": 6.54,
    "status": null,
    "team": "CIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Kimani Vidal",
+   "pos": "RB",
+   "proj_4wk": 27.2,
+   "proj_this_week": 6.9,
+   "status": null,
+   "team": "LAC"
   },
   {
    "adds_24h": 32207,
@@ -521,21 +521,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Kyle Pitts Sr.",
-   "pos": "TE",
-   "proj_4wk": 27.0,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "ATL"
-  },
-  {
-   "adds_24h": 0,
    "name": "Darnell Washington",
    "pos": "TE",
    "proj_4wk": 27.0,
    "proj_this_week": 6.78,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Kyle Pitts Sr.",
+   "pos": "TE",
+   "proj_4wk": 27.0,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "ATL"
   },
   {
    "adds_24h": 0,
@@ -584,6 +584,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Tyler Higbee",
+   "pos": "TE",
+   "proj_4wk": 25.0,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "LAR"
+  },
+  {
+   "adds_24h": 0,
    "name": "Anthony Richardson Sr.",
    "pos": "QB",
    "proj_4wk": 25.0,
@@ -599,15 +608,6 @@
    "proj_this_week": 4.18,
    "status": null,
    "team": "WAS"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Tyler Higbee",
-   "pos": "TE",
-   "proj_4wk": 24.9,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "LAR"
   },
   {
    "adds_24h": 0,
@@ -640,7 +640,7 @@
    "adds_24h": 52640,
    "name": "Gunnar Helm",
    "pos": "TE",
-   "proj_4wk": 24.5,
+   "proj_4wk": 24.6,
    "proj_this_week": 7.85,
    "status": null,
    "team": "TEN"
@@ -748,7 +748,7 @@
    "adds_24h": 95301,
    "name": "Konata Mumpfield",
    "pos": "WR",
-   "proj_4wk": 14.8,
+   "proj_4wk": 14.9,
    "proj_this_week": 0.0,
    "status": null,
    "team": "LAR"
@@ -817,7 +817,7 @@
    "team": "BUF"
   }
  ],
- "generated_at": "2026-11-22T15:45:55Z",
+ "generated_at": "2026-11-22T15:50:59Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1031,7 +1031,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.386,
+    "first_seed_odds": 0.385,
     "losses": 3,
     "mine": false,
     "pa": 1170.04,
@@ -1052,7 +1052,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.192,
+    "first_seed_odds": 0.19,
     "losses": 4,
     "mine": false,
     "pa": 1317.2,
@@ -1073,17 +1073,17 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.318,
+    "first_seed_odds": 0.32,
     "losses": 4,
     "mine": false,
     "pa": 1360.82,
     "pf": 1378.72,
-    "playoff_odds": 0.993,
+    "playoff_odds": 0.994,
     "power_rank": 2,
-    "proj_avg": 129.3,
+    "proj_avg": 129.4,
     "proj_by_week": {
      "11": 139.55,
-     "12": 135.88,
+     "12": 136.42,
      "13": 123.16,
      "14": 118.48
     },
@@ -1120,7 +1120,7 @@
     "mine": false,
     "pa": 1236.3,
     "pf": 1220.66,
-    "playoff_odds": 0.592,
+    "playoff_odds": 0.593,
     "power_rank": 8,
     "proj_avg": 122.5,
     "proj_by_week": {
@@ -1141,7 +1141,7 @@
     "mine": false,
     "pa": 1293.6,
     "pf": 1206.58,
-    "playoff_odds": 0.501,
+    "playoff_odds": 0.498,
     "power_rank": 9,
     "proj_avg": 117.7,
     "proj_by_week": {
@@ -1183,7 +1183,7 @@
     "mine": false,
     "pa": 1248.08,
     "pf": 1235.98,
-    "playoff_odds": 0.558,
+    "playoff_odds": 0.559,
     "power_rank": 1,
     "proj_avg": 136.1,
     "proj_by_week": {

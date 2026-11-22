@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-22T15:45:55Z UTC
+Week 11 · record 3-7 · updated 2026-11-22T15:50:59Z UTC
 
 ## Lineup check
 Current lineup projects **93.0**, best possible **94.1**.
@@ -28,7 +28,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 5 | 128.7 | 98% |
 | 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 3 | 128.9 | 96% |
-| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 2 | 129.3 | 99% |
+| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 2 | 129.4 | 99% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 4 | 128.7 | 94% |
 | 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 122.5 | 59% |
 | 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 117.7 | 50% |
