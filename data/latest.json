@@ -1,5 +1,5 @@
 {
- "content_hash": "708dda6057ea7b2f9c7da25fc9db156f2b70c8dd",
+ "content_hash": "00aaafe766eaffcb807ff3c921a589dd07ec32c9",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -64,8 +64,8 @@
    "adds_24h": 0,
    "name": "J.J. McCarthy",
    "pos": "QB",
-   "proj_4wk": 58.7,
-   "proj_this_week": 14.71,
+   "proj_4wk": 58.6,
+   "proj_this_week": 14.59,
    "status": null,
    "team": "NYG"
   },
@@ -182,7 +182,7 @@
    "name": "Jakobi Meyers",
    "pos": "WR",
    "proj_4wk": 38.2,
-   "proj_this_week": 8.73,
+   "proj_this_week": 8.71,
    "status": null,
    "team": "JAX"
   },
@@ -227,7 +227,7 @@
    "name": "Dominic Zvada",
    "pos": "K",
    "proj_4wk": 34.2,
-   "proj_this_week": 7.99,
+   "proj_this_week": 7.95,
    "status": null,
    "team": "NYG"
   },
@@ -353,7 +353,7 @@
    "name": "JAX D/ST",
    "pos": "DEF",
    "proj_4wk": 30.7,
-   "proj_this_week": 8.03,
+   "proj_this_week": 8.0,
    "status": null,
    "team": "JAX"
   },
@@ -665,21 +665,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "NYG D/ST",
-   "pos": "DEF",
-   "proj_4wk": 24.1,
-   "proj_this_week": 5.3,
-   "status": null,
-   "team": "NYG"
-  },
-  {
-   "adds_24h": 0,
    "name": "Matt Gay",
    "pos": "K",
    "proj_4wk": 24.1,
    "proj_this_week": 7.34,
    "status": null,
    "team": "LV"
+  },
+  {
+   "adds_24h": 0,
+   "name": "NYG D/ST",
+   "pos": "DEF",
+   "proj_4wk": 24.1,
+   "proj_this_week": 5.27,
+   "status": null,
+   "team": "NYG"
   },
   {
    "adds_24h": 0,
@@ -704,7 +704,7 @@
    "name": "Malachi Fields",
    "pos": "WR",
    "proj_4wk": 23.7,
-   "proj_this_week": 6.15,
+   "proj_this_week": 6.12,
    "status": null,
    "team": "NYG"
   },
@@ -799,7 +799,7 @@
    "team": "ARI"
   }
  ],
- "generated_at": "2026-11-22T20:54:56Z",
+ "generated_at": "2026-11-22T21:00:00Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -994,8 +994,8 @@
   },
   "matchup": {
    "my_proj": 91.6,
-   "opp_best_possible": 139.68,
-   "opp_proj": 139.7,
+   "opp_best_possible": 139.64,
+   "opp_proj": 139.6,
    "opponent": "Bradsgay",
    "opponent_record": "6-4",
    "win_prob": 0.087
@@ -1013,7 +1013,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.392,
+    "first_seed_odds": 0.393,
     "losses": 3,
     "mine": false,
     "pa": 1170.04,
@@ -1022,7 +1022,7 @@
     "power_rank": 4,
     "proj_avg": 129.0,
     "proj_by_week": {
-     "11": 132.81,
+     "11": 132.76,
      "12": 128.93,
      "13": 128.04,
      "14": 126.14
@@ -1062,9 +1062,9 @@
     "pf": 1378.72,
     "playoff_odds": 0.993,
     "power_rank": 3,
-    "proj_avg": 129.5,
+    "proj_avg": 129.4,
     "proj_by_week": {
-     "11": 139.68,
+     "11": 139.64,
      "12": 136.64,
      "13": 123.01,
      "14": 118.48
@@ -1085,7 +1085,7 @@
     "power_rank": 5,
     "proj_avg": 128.7,
     "proj_by_week": {
-     "11": 133.28,
+     "11": 133.13,
      "12": 131.71,
      "13": 115.18,
      "14": 134.76
@@ -1127,7 +1127,7 @@
     "power_rank": 9,
     "proj_avg": 117.8,
     "proj_by_week": {
-     "11": 108.37,
+     "11": 108.25,
      "12": 122.97,
      "13": 124.51,
      "14": 115.29
@@ -1146,9 +1146,9 @@
     "pf": 1150.76,
     "playoff_odds": 0.345,
     "power_rank": 7,
-    "proj_avg": 122.8,
+    "proj_avg": 122.7,
     "proj_by_week": {
-     "11": 125.68,
+     "11": 125.56,
      "12": 128.5,
      "13": 112.02,
      "14": 124.86
@@ -1165,7 +1165,7 @@
     "mine": false,
     "pa": 1248.08,
     "pf": 1235.98,
-    "playoff_odds": 0.571,
+    "playoff_odds": 0.572,
     "power_rank": 1,
     "proj_avg": 136.8,
     "proj_by_week": {
@@ -1186,11 +1186,11 @@
     "mine": false,
     "pa": 1219.86,
     "pf": 1206.34,
-    "playoff_odds": 0.119,
+    "playoff_odds": 0.118,
     "power_rank": 6,
     "proj_avg": 125.8,
     "proj_by_week": {
-     "11": 130.76,
+     "11": 130.57,
      "12": 130.51,
      "13": 120.75,
      "14": 121.22
@@ -1471,13 +1471,13 @@
   {
    "drop": "LAR",
    "drop_name": "LAR D/ST",
-   "gain_this_week": 8.03,
-   "gain_window": 8.03,
+   "gain_this_week": 8.0,
+   "gain_window": 8.0,
    "name": "JAX D/ST",
    "pid": "JAX",
    "pos": "DEF",
    "proj_by_week": {
-    "11": 8.03,
+    "11": 8.0,
     "12": 9.96,
     "13": 5.88,
     "14": 6.82
