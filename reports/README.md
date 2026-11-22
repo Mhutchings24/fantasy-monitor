@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 11
+- [Sun Nov 22 · AM](2026/week-11/2026-11-22-am.md) — DEF slot still empty: add JAX D/ST now ($0, drop LAR; locks 4:25 PM ET) (High). Evans plays on a likely pitch count: keep Tyson at FLEX (Medium). Mayfield now expected to play. Dowdle stays at RB2.
 - [Sat Nov 21 · PM](2026/week-11/2026-11-21-pm.md) — DEF slot still empty: add JAX D/ST ($0, drop LAR; JAX @ NYG 4:25 PM ET) (High). Evans set to return, but keep Tyson at FLEX (Medium). RB2 Dowdle/Jones toss-up.
 - [Sat Nov 21 · AM](2026/week-11/2026-11-21-am.md) — DEN D/ST got taken overnight; DEF slot still empty: add JAX D/ST ($0, drop LAR; JAX @ NYG 4:25 PM ET) (High). Keep Tyson at FLEX; Evans Q (~60%), SF decides today. Optional: Jones for Kiner.
 - [Fri Nov 20 · PM](2026/week-11/2026-11-20-pm.md) — DEF slot still empty: add DEN D/ST ($0, drop LAR; DEN plays 4:25 PM ET) (High). Keep Tyson at FLEX (cleared); Evans Q, SF decides Sat. Optional: Jones for Kiner, start over Dowdle.
