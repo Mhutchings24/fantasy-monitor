@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-22T08:25:48Z UTC
+Week 11 · record 3-7 · updated 2026-11-22T08:30:52Z UTC
 
 ## Lineup check
-Current lineup projects **93.1**, best possible **94.2**.
+Current lineup projects **93.0**, best possible **94.1**.
 
 - ⚠️ LAR D/ST (DEF, LAR) is on bye
 - 🔁 Start Mike Evans (WR, SF) (11.9) over Jordyn Tyson (WR, NO) (10.8)
@@ -14,12 +14,12 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Bryce Young | QB | CAR | Corey Kiner | +1.3 | +1.3 | 0 |
+| Bryce Young | QB | CAR | Corey Kiner | +1.4 | +1.4 | 0 |
 
 **DEF stream this week:** add JAX D/ST for LAR D/ST (+8.0 pts this week)
 
 ## This week's matchup
-vs **Bradsgay** (6-4): you **93.1** – 140.0 projected · win chance **9%**
+vs **Bradsgay** (6-4): you **93.0** – 140.0 projected · win chance **9%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -53,7 +53,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Jared Goff | QB | DET | starter |  | 17.0 | 20.2 | 18.8 | 19.7 |
 | Rico Dowdle | RB | PIT | starter |  | 9.5 | 8.0 | 8.3 | 7.7 |
 | Jordan Mason | RB | MIN | starter |  | 8.8 | 11.4 | 11.4 | 10.3 |
-| George Kittle | TE | SF | starter |  | 12.6 | 12.4 | 14.7 | 13.9 |
+| George Kittle | TE | SF | starter |  | 12.5 | 12.4 | 14.7 | 13.9 |
 | Stefon Diggs | WR | WAS | starter |  | 13.4 | 13.1 | 13.3 | 12.3 |
 | DJ Moore | WR | BUF | starter |  | 12.3 | 12.3 | 13.7 | 13.1 |
 | Jordyn Tyson | WR | NO | starter |  | 10.8 | 12.2 | 11.4 | 11.0 |
@@ -61,6 +61,6 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Quinshon Judkins | RB | CLE | bench | BYE | 0.0 | 12.7 | 12.0 | 11.2 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 8.2 | 15.8 | 13.6 |
 | Mike Evans | WR | SF | bench | Questionable | 11.9 | 13.6 | 16.0 | 15.2 |
-| Keenan Allen | WR | SF | bench |  | 5.8 | 5.6 | 6.5 | 6.1 |
+| Keenan Allen | WR | SF | bench |  | 5.7 | 5.6 | 6.5 | 6.1 |
 | Omar Cooper Jr. | WR | NYJ | bench | Out | 0.0 | 10.9 | 0.0 | 9.6 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
