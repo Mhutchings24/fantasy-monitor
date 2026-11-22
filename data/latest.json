@@ -1,5 +1,5 @@
 {
- "content_hash": "80b9fdb9c316f6f33765d386782b35bb6dbfef27",
+ "content_hash": "21faa557ee6c842b42d50eea98bf3f466443900d",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -38,7 +38,7 @@
    "name": "Aaron Rodgers",
    "pos": "QB",
    "proj_4wk": 61.0,
-   "proj_this_week": 16.64,
+   "proj_this_week": 16.6,
    "status": null,
    "team": "PIT"
   },
@@ -431,21 +431,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Charlie Smyth",
-   "pos": "K",
-   "proj_4wk": 28.2,
-   "proj_this_week": 6.46,
-   "status": null,
-   "team": "NO"
-  },
-  {
-   "adds_24h": 0,
    "name": "Harrison Butker",
    "pos": "K",
    "proj_4wk": 28.2,
    "proj_this_week": 7.18,
    "status": null,
    "team": "KC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Charlie Smyth",
+   "pos": "K",
+   "proj_4wk": 28.2,
+   "proj_this_week": 6.46,
+   "status": null,
+   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -521,21 +521,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Kyle Pitts Sr.",
-   "pos": "TE",
-   "proj_4wk": 27.0,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "ATL"
-  },
-  {
-   "adds_24h": 0,
    "name": "Darnell Washington",
    "pos": "TE",
    "proj_4wk": 27.0,
    "proj_this_week": 6.78,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Kyle Pitts Sr.",
+   "pos": "TE",
+   "proj_4wk": 27.0,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "ATL"
   },
   {
    "adds_24h": 0,
@@ -817,7 +817,7 @@
    "team": "BUF"
   }
  ],
- "generated_at": "2026-11-22T15:06:47Z",
+ "generated_at": "2026-11-22T15:11:50Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
