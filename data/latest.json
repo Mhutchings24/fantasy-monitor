@@ -1,5 +1,5 @@
 {
- "content_hash": "7734a6079cc548212aabb9a2510fa5cd9f686b47",
+ "content_hash": "6391e63a30a1ae7088dee2b3b3e3cced49ddfcdf",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -10,8 +10,8 @@
    "adds_24h": 0,
    "name": "Bryce Young",
    "pos": "QB",
-   "proj_4wk": 68.3,
-   "proj_this_week": 18.56,
+   "proj_4wk": 68.4,
+   "proj_this_week": 18.6,
    "status": null,
    "team": "CAR"
   },
@@ -26,6 +26,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Justin Herbert",
+   "pos": "QB",
+   "proj_4wk": 62.1,
+   "proj_this_week": 16.9,
+   "status": null,
+   "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
    "name": "Cam Ward",
    "pos": "QB",
    "proj_4wk": 62.0,
@@ -35,19 +44,10 @@
   },
   {
    "adds_24h": 0,
-   "name": "Justin Herbert",
-   "pos": "QB",
-   "proj_4wk": 62.0,
-   "proj_this_week": 16.81,
-   "status": null,
-   "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
    "name": "Aaron Rodgers",
    "pos": "QB",
-   "proj_4wk": 61.4,
-   "proj_this_week": 16.57,
+   "proj_4wk": 61.5,
+   "proj_this_week": 16.61,
    "status": null,
    "team": "PIT"
   },
@@ -82,8 +82,8 @@
    "adds_24h": 0,
    "name": "Geno Smith",
    "pos": "QB",
-   "proj_4wk": 48.4,
-   "proj_this_week": 16.49,
+   "proj_4wk": 48.6,
+   "proj_this_week": 16.65,
    "status": null,
    "team": "NYJ"
   },
@@ -127,8 +127,8 @@
    "adds_24h": 48544,
    "name": "Fernando Mendoza",
    "pos": "QB",
-   "proj_4wk": 41.8,
-   "proj_this_week": 12.68,
+   "proj_4wk": 41.6,
+   "proj_this_week": 12.52,
    "status": null,
    "team": "LV"
   },
@@ -190,8 +190,8 @@
    "adds_24h": 0,
    "name": "Kyle McCord",
    "pos": "QB",
-   "proj_4wk": 35.7,
-   "proj_this_week": 10.62,
+   "proj_4wk": 35.8,
+   "proj_this_week": 10.66,
    "status": null,
    "team": "MIA"
   },
@@ -203,6 +203,15 @@
    "proj_this_week": 8.78,
    "status": null,
    "team": "TB"
+  },
+  {
+   "adds_24h": 69867,
+   "name": "Darren Waller",
+   "pos": "TE",
+   "proj_4wk": 34.2,
+   "proj_this_week": 8.78,
+   "status": null,
+   "team": "CAR"
   },
   {
    "adds_24h": 0,
@@ -248,15 +257,6 @@
    "proj_this_week": 9.2,
    "status": null,
    "team": "CIN"
-  },
-  {
-   "adds_24h": 69867,
-   "name": "Darren Waller",
-   "pos": "TE",
-   "proj_4wk": 32.9,
-   "proj_this_week": 7.46,
-   "status": "Questionable",
-   "team": "CAR"
   },
   {
    "adds_24h": 0,
@@ -353,7 +353,7 @@
    "name": "Quentin Johnston",
    "pos": "WR",
    "proj_4wk": 30.5,
-   "proj_this_week": 7.77,
+   "proj_this_week": 7.79,
    "status": null,
    "team": "LAC"
   },
@@ -361,8 +361,8 @@
    "adds_24h": 0,
    "name": "Cameron Dicker",
    "pos": "K",
-   "proj_4wk": 30.4,
-   "proj_this_week": 7.9,
+   "proj_4wk": 30.5,
+   "proj_this_week": 7.94,
    "status": null,
    "team": "LAC"
   },
@@ -422,6 +422,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Tre Tucker",
+   "pos": "WR",
+   "proj_4wk": 28.6,
+   "proj_this_week": 9.71,
+   "status": null,
+   "team": "LV"
+  },
+  {
+   "adds_24h": 0,
    "name": "Greg Dulcich",
    "pos": "TE",
    "proj_4wk": 28.2,
@@ -476,15 +485,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Tre Tucker",
-   "pos": "WR",
-   "proj_4wk": 27.5,
-   "proj_this_week": 8.62,
-   "status": null,
-   "team": "LV"
-  },
-  {
-   "adds_24h": 0,
    "name": "Carson Beck",
    "pos": "QB",
    "proj_4wk": 27.4,
@@ -494,21 +494,21 @@
   },
   {
    "adds_24h": 0,
+   "name": "Kimani Vidal",
+   "pos": "RB",
+   "proj_4wk": 27.3,
+   "proj_this_week": 6.96,
+   "status": null,
+   "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
    "name": "Darnell Washington",
    "pos": "TE",
    "proj_4wk": 27.2,
    "proj_this_week": 6.78,
    "status": null,
    "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Kimani Vidal",
-   "pos": "RB",
-   "proj_4wk": 27.2,
-   "proj_this_week": 6.9,
-   "status": null,
-   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -623,7 +623,7 @@
    "name": "LAC D/ST",
    "pos": "DEF",
    "proj_4wk": 24.7,
-   "proj_this_week": 7.09,
+   "proj_this_week": 7.11,
    "status": null,
    "team": "LAC"
   },
@@ -686,7 +686,7 @@
    "name": "Keaton Mitchell",
    "pos": "RB",
    "proj_4wk": 23.9,
-   "proj_this_week": 5.95,
+   "proj_this_week": 5.93,
    "status": null,
    "team": "LAC"
   },
@@ -739,8 +739,8 @@
    "adds_24h": 155502,
    "name": "Roman Wilson",
    "pos": "WR",
-   "proj_4wk": 13.5,
-   "proj_this_week": 5.22,
+   "proj_4wk": 13.6,
+   "proj_this_week": 5.28,
    "status": null,
    "team": "PIT"
   },
@@ -758,7 +758,7 @@
    "name": "Mason Taylor",
    "pos": "TE",
    "proj_4wk": 21.1,
-   "proj_this_week": 8.27,
+   "proj_this_week": 8.29,
    "status": null,
    "team": "NYJ"
   },
@@ -812,12 +812,12 @@
    "name": "Tre' Harris",
    "pos": "WR",
    "proj_4wk": 21.7,
-   "proj_this_week": 6.25,
+   "proj_this_week": 6.26,
    "status": null,
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-22T16:47:06Z",
+ "generated_at": "2026-11-22T16:57:14Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1012,8 +1012,8 @@
   },
   "matchup": {
    "my_proj": 93.7,
-   "opp_best_possible": 140.2,
-   "opp_proj": 140.2,
+   "opp_best_possible": 140.3,
+   "opp_proj": 140.3,
    "opponent": "Bradsgay",
    "opponent_record": "6-4",
    "win_prob": 0.094
@@ -1031,7 +1031,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.399,
+    "first_seed_odds": 0.398,
     "losses": 3,
     "mine": false,
     "pa": 1170.04,
@@ -1040,7 +1040,7 @@
     "power_rank": 3,
     "proj_avg": 129.0,
     "proj_by_week": {
-     "11": 132.55,
+     "11": 132.43,
      "12": 129.2,
      "13": 128.04,
      "14": 126.14
@@ -1061,7 +1061,7 @@
     "power_rank": 5,
     "proj_avg": 125.8,
     "proj_by_week": {
-     "11": 102.14,
+     "11": 102.18,
      "12": 140.48,
      "13": 117.34,
      "14": 143.16
@@ -1080,9 +1080,9 @@
     "pf": 1378.72,
     "playoff_odds": 0.994,
     "power_rank": 2,
-    "proj_avg": 129.4,
+    "proj_avg": 129.5,
     "proj_by_week": {
-     "11": 140.2,
+     "11": 140.3,
      "12": 136.11,
      "13": 123.01,
      "14": 118.48
@@ -1120,7 +1120,7 @@
     "mine": false,
     "pa": 1236.3,
     "pf": 1220.66,
-    "playoff_odds": 0.592,
+    "playoff_odds": 0.591,
     "power_rank": 8,
     "proj_avg": 122.5,
     "proj_by_week": {
@@ -1145,7 +1145,7 @@
     "power_rank": 9,
     "proj_avg": 117.7,
     "proj_by_week": {
-     "11": 108.08,
+     "11": 108.14,
      "12": 123.04,
      "13": 124.51,
      "14": 115.29
@@ -1164,9 +1164,9 @@
     "pf": 1150.76,
     "playoff_odds": 0.358,
     "power_rank": 7,
-    "proj_avg": 122.6,
+    "proj_avg": 122.7,
     "proj_by_week": {
-     "11": 125.27,
+     "11": 125.31,
      "12": 128.44,
      "13": 112.02,
      "14": 124.86
@@ -1187,7 +1187,7 @@
     "power_rank": 1,
     "proj_avg": 135.4,
     "proj_by_week": {
-     "11": 136.22,
+     "11": 136.24,
      "12": 142.24,
      "13": 137.55,
      "14": 125.66
@@ -1208,7 +1208,7 @@
     "power_rank": 6,
     "proj_avg": 125.5,
     "proj_by_week": {
-     "11": 129.6,
+     "11": 129.54,
      "12": 130.41,
      "13": 120.75,
      "14": 121.22
@@ -1610,7 +1610,7 @@
    "partner_roster_id": 10,
    "summary": "Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.7 pts/week for you, -0.2 for them.",
    "their_gain_per_week": -0.2,
-   "value_ratio": 0.9,
+   "value_ratio": 0.91,
    "why_them": [
     "Jordyn Tyson would start 7 of 7 weeks for them"
    ],
@@ -1662,13 +1662,13 @@
   {
    "drop": "12491",
    "drop_name": "Corey Kiner",
-   "gain_this_week": 1.32,
-   "gain_window": 1.32,
+   "gain_this_week": 1.36,
+   "gain_window": 1.36,
    "name": "Bryce Young",
    "pid": "9228",
    "pos": "QB",
    "proj_by_week": {
-    "11": 18.56,
+    "11": 18.6,
     "12": 15.12,
     "13": 15.39,
     "14": 19.28
