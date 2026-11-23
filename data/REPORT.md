@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-23T19:46:47Z UTC
+Week 11 · record 3-7 · updated 2026-11-23T19:51:50Z UTC
 
 ## Lineup check
 Current lineup projects **91.5**, best possible **94.7**.
@@ -55,7 +55,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | LAR D/ST | DEF | LAR | starter | BYE | 0.0 | 6.0 | 6.1 | 5.9 |
 | Jake Bates | K | DET | starter |  | 8.7 | 8.8 | 8.4 | 8.6 |
 | Jared Goff | QB | DET | starter |  | 17.2 | 19.9 | 19.1 | 20.0 |
-| Rico Dowdle | RB | PIT | starter |  | 9.5 | 7.9 | 8.3 | 7.6 |
+| Rico Dowdle | RB | PIT | starter |  | 9.5 | 7.8 | 8.3 | 7.6 |
 | Jordan Mason | RB | MIN | starter |  | 8.7 | 10.7 | 11.0 | 10.0 |
 | George Kittle | TE | SF | starter |  | 12.4 | 12.3 | 14.6 | 13.9 |
 | Stefon Diggs | WR | WAS | starter |  | 13.4 | 13.1 | 13.5 | 12.3 |
