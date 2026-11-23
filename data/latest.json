@@ -1,5 +1,5 @@
 {
- "content_hash": "6013898726314dd50a238b51a68a2d879fcd2ee5",
+ "content_hash": "b6201fabdfb9979f87f2f412f6deb1f17a972231",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -269,21 +269,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Denzel Boston",
-   "pos": "WR",
-   "proj_4wk": 32.3,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "CLE"
-  },
-  {
-   "adds_24h": 0,
    "name": "Pat Freiermuth",
    "pos": "TE",
    "proj_4wk": 32.3,
    "proj_this_week": 8.65,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Denzel Boston",
+   "pos": "WR",
+   "proj_4wk": 32.3,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "CLE"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "NO"
   }
  ],
- "generated_at": "2026-11-23T16:03:00Z",
+ "generated_at": "2026-11-23T16:08:05Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
