@@ -1,5 +1,5 @@
 {
- "content_hash": "7518b43e8d60bc5f177b1e52aa8e903b04e64a89",
+ "content_hash": "83cba7c132d54abf8d4799fbdafdaf1bcb72311b",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -46,7 +46,7 @@
    "adds_24h": 0,
    "name": "Aaron Rodgers",
    "pos": "QB",
-   "proj_4wk": 61.0,
+   "proj_4wk": 60.7,
    "proj_this_week": 16.61,
    "status": null,
    "team": "PIT"
@@ -55,7 +55,7 @@
    "adds_24h": 0,
    "name": "Justin Herbert",
    "pos": "QB",
-   "proj_4wk": 59.1,
+   "proj_4wk": 58.8,
    "proj_this_week": 14.47,
    "status": "Questionable",
    "team": "LAC"
@@ -100,7 +100,7 @@
    "adds_24h": 0,
    "name": "Deshaun Watson",
    "pos": "QB",
-   "proj_4wk": 45.3,
+   "proj_4wk": 45.4,
    "proj_this_week": 0.0,
    "status": null,
    "team": "CLE"
@@ -109,7 +109,7 @@
    "adds_24h": 0,
    "name": "Michael Penix Jr.",
    "pos": "QB",
-   "proj_4wk": 43.6,
+   "proj_4wk": 43.8,
    "proj_this_week": 0.0,
    "status": null,
    "team": "ATL"
@@ -136,7 +136,7 @@
    "adds_24h": 124688,
    "name": "Fernando Mendoza",
    "pos": "QB",
-   "proj_4wk": 41.3,
+   "proj_4wk": 41.5,
    "proj_this_week": 12.08,
    "status": null,
    "team": "LV"
@@ -163,7 +163,7 @@
    "adds_24h": 0,
    "name": "Tommy DeVito",
    "pos": "QB",
-   "proj_4wk": 40.0,
+   "proj_4wk": 39.7,
    "proj_this_week": 0.0,
    "status": null,
    "team": "NE"
@@ -226,7 +226,7 @@
    "adds_24h": 0,
    "name": "Dominic Zvada",
    "pos": "K",
-   "proj_4wk": 34.2,
+   "proj_4wk": 34.1,
    "proj_this_week": 7.95,
    "status": null,
    "team": "NYG"
@@ -280,7 +280,7 @@
    "adds_24h": 0,
    "name": "Pat Freiermuth",
    "pos": "TE",
-   "proj_4wk": 32.3,
+   "proj_4wk": 32.2,
    "proj_this_week": 8.65,
    "status": null,
    "team": "PIT"
@@ -361,7 +361,7 @@
    "adds_24h": 35448,
    "name": "Quentin Johnston",
    "pos": "WR",
-   "proj_4wk": 30.4,
+   "proj_4wk": 30.3,
    "proj_this_week": 7.85,
    "status": null,
    "team": "LAC"
@@ -370,7 +370,7 @@
    "adds_24h": 0,
    "name": "Cameron Dicker",
    "pos": "K",
-   "proj_4wk": 30.2,
+   "proj_4wk": 30.1,
    "proj_this_week": 7.94,
    "status": null,
    "team": "LAC"
@@ -503,21 +503,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Darnell Washington",
+   "name": "Kyle Pitts Sr.",
    "pos": "TE",
    "proj_4wk": 27.1,
-   "proj_this_week": 6.78,
+   "proj_this_week": 0.0,
    "status": null,
-   "team": "PIT"
+   "team": "ATL"
   },
   {
    "adds_24h": 0,
-   "name": "Kimani Vidal",
-   "pos": "RB",
-   "proj_4wk": 27.1,
-   "proj_this_week": 7.03,
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "proj_4wk": 27.0,
+   "proj_this_week": 6.78,
    "status": null,
-   "team": "LAC"
+   "team": "PIT"
   },
   {
    "adds_24h": 101794,
@@ -530,12 +530,12 @@
   },
   {
    "adds_24h": 0,
-   "name": "Kyle Pitts Sr.",
-   "pos": "TE",
+   "name": "Kimani Vidal",
+   "pos": "RB",
    "proj_4wk": 27.0,
-   "proj_this_week": 0.0,
+   "proj_this_week": 7.03,
    "status": null,
-   "team": "ATL"
+   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -592,15 +592,6 @@
    "team": "LAR"
   },
   {
-   "adds_24h": 0,
-   "name": "Anthony Richardson Sr.",
-   "pos": "QB",
-   "proj_4wk": 24.9,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "IND"
-  },
-  {
    "adds_24h": 68537,
    "name": "WAS D/ST",
    "pos": "DEF",
@@ -608,6 +599,15 @@
    "proj_this_week": 4.16,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Anthony Richardson Sr.",
+   "pos": "QB",
+   "proj_4wk": 24.7,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "IND"
   },
   {
    "adds_24h": 80934,
@@ -622,7 +622,7 @@
    "adds_24h": 0,
    "name": "LAC D/ST",
    "pos": "DEF",
-   "proj_4wk": 24.5,
+   "proj_4wk": 24.4,
    "proj_this_week": 7.11,
    "status": null,
    "team": "LAC"
@@ -631,7 +631,7 @@
    "adds_24h": 108832,
    "name": "Evan Engram",
    "pos": "TE",
-   "proj_4wk": 24.4,
+   "proj_4wk": 24.3,
    "proj_this_week": 5.88,
    "status": null,
    "team": "DEN"
@@ -665,21 +665,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Hunter Henry",
-   "pos": "TE",
-   "proj_4wk": 24.1,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "NE"
-  },
-  {
-   "adds_24h": 0,
    "name": "NYG D/ST",
    "pos": "DEF",
    "proj_4wk": 24.0,
    "proj_this_week": 5.27,
    "status": null,
    "team": "NYG"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Hunter Henry",
+   "pos": "TE",
+   "proj_4wk": 23.9,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "NE"
   },
   {
    "adds_24h": 0,
@@ -703,7 +703,7 @@
    "adds_24h": 0,
    "name": "Malachi Fields",
    "pos": "WR",
-   "proj_4wk": 23.7,
+   "proj_4wk": 23.6,
    "proj_this_week": 6.12,
    "status": null,
    "team": "NYG"
@@ -784,7 +784,7 @@
    "adds_24h": 37046,
    "name": "Jack Bech",
    "pos": "WR",
-   "proj_4wk": 12.5,
+   "proj_4wk": 12.4,
    "proj_this_week": 5.42,
    "status": null,
    "team": "LV"
@@ -808,7 +808,7 @@
    "team": "CIN"
   }
  ],
- "generated_at": "2026-11-23T06:50:10Z",
+ "generated_at": "2026-11-23T06:55:15Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1022,17 +1022,17 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.395,
+    "first_seed_odds": 0.396,
     "losses": 3,
     "mine": false,
     "pa": 1170.04,
     "pf": 1210.18,
-    "playoff_odds": 0.98,
+    "playoff_odds": 0.981,
     "power_rank": 4,
     "proj_avg": 129.0,
     "proj_by_week": {
      "11": 132.48,
-     "12": 129.38,
+     "12": 129.47,
      "13": 128.04,
      "14": 126.14
     },
@@ -1048,12 +1048,12 @@
     "mine": false,
     "pa": 1317.2,
     "pf": 1399.62,
-    "playoff_odds": 0.969,
+    "playoff_odds": 0.968,
     "power_rank": 2,
     "proj_avg": 130.4,
     "proj_by_week": {
      "11": 111.05,
-     "12": 141.97,
+     "12": 141.84,
      "13": 125.5,
      "14": 143.16
     },
@@ -1064,7 +1064,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.291,
+    "first_seed_odds": 0.29,
     "losses": 4,
     "mine": false,
     "pa": 1360.82,
@@ -1090,12 +1090,12 @@
     "mine": false,
     "pa": 1246.68,
     "pf": 1303.84,
-    "playoff_odds": 0.938,
+    "playoff_odds": 0.94,
     "power_rank": 5,
-    "proj_avg": 128.2,
+    "proj_avg": 128.5,
     "proj_by_week": {
      "11": 130.8,
-     "12": 132.22,
+     "12": 133.08,
      "13": 115.18,
      "14": 134.76
     },
@@ -1137,7 +1137,7 @@
     "proj_avg": 117.1,
     "proj_by_week": {
      "11": 105.94,
-     "12": 122.63,
+     "12": 122.76,
      "13": 124.51,
      "14": 115.29
     },
@@ -1153,12 +1153,12 @@
     "mine": false,
     "pa": 1107.26,
     "pf": 1150.76,
-    "playoff_odds": 0.351,
+    "playoff_odds": 0.35,
     "power_rank": 7,
-    "proj_avg": 122.7,
+    "proj_avg": 122.6,
     "proj_by_week": {
      "11": 125.56,
-     "12": 128.32,
+     "12": 128.01,
      "13": 112.02,
      "14": 124.86
     },
@@ -1179,7 +1179,7 @@
     "proj_avg": 136.4,
     "proj_by_week": {
      "11": 138.7,
-     "12": 143.78,
+     "12": 143.73,
      "13": 137.55,
      "14": 125.66
     },
@@ -1200,7 +1200,7 @@
     "proj_avg": 125.6,
     "proj_by_week": {
      "11": 130.28,
-     "12": 130.27,
+     "12": 130.09,
      "13": 120.75,
      "14": 121.22
     },
@@ -1216,12 +1216,12 @@
     "mine": true,
     "pa": 1232.66,
     "pf": 1119.82,
-    "playoff_odds": 0.003,
+    "playoff_odds": 0.002,
     "power_rank": 10,
     "proj_avg": 107.5,
     "proj_by_week": {
      "11": 94.6,
-     "12": 110.98,
+     "12": 110.9,
      "13": 114.37,
      "14": 110.23
     },
@@ -1302,7 +1302,7 @@
    "pos": "RB",
    "proj_by_week": {
     "11": 8.65,
-    "12": 11.43,
+    "12": 11.36,
     "13": 11.39,
     "14": 10.33
    },
@@ -1377,7 +1377,7 @@
    "pos": "RB",
    "proj_by_week": {
     "11": 0.0,
-    "12": 6.79,
+    "12": 6.7,
     "13": 6.26,
     "14": 6.16
    },
@@ -1392,7 +1392,7 @@
    "pos": "RB",
    "proj_by_week": {
     "11": 0.0,
-    "12": 12.53,
+    "12": 12.52,
     "13": 12.04,
     "14": 11.24
    },
@@ -1509,7 +1509,7 @@
      "name": "Jonathan Taylor",
      "pid": "6813",
      "pos": "RB",
-     "ros_per_week": 14.1,
+     "ros_per_week": 14.0,
      "status": null,
      "team": "IND"
     }
