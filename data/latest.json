@@ -1,5 +1,5 @@
 {
- "content_hash": "011fd6691d076f2814593e228efe82d3172ddc02",
+ "content_hash": "b542a1f17e9cc0689706ed2d742480f1485fba6d",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -502,15 +502,6 @@
    "team": "SF"
   },
   {
-   "adds_24h": 0,
-   "name": "Kyle Pitts Sr.",
-   "pos": "TE",
-   "proj_4wk": 27.0,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "ATL"
-  },
-  {
    "adds_24h": 100184,
    "name": "Treylon Burks",
    "pos": "WR",
@@ -518,6 +509,15 @@
    "proj_this_week": 6.92,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Kyle Pitts Sr.",
+   "pos": "TE",
+   "proj_4wk": 27.0,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "ATL"
   },
   {
    "adds_24h": 0,
@@ -674,21 +674,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Hunter Henry",
-   "pos": "TE",
-   "proj_4wk": 23.9,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "NE"
-  },
-  {
-   "adds_24h": 0,
    "name": "Jadarian Price",
    "pos": "RB",
    "proj_4wk": 23.9,
    "proj_this_week": 0.0,
    "status": null,
    "team": "SEA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Hunter Henry",
+   "pos": "TE",
+   "proj_4wk": 23.9,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "NE"
   },
   {
    "adds_24h": 0,
@@ -817,7 +817,7 @@
    "team": "CIN"
   }
  ],
- "generated_at": "2026-11-23T13:02:31Z",
+ "generated_at": "2026-11-23T13:07:36Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
