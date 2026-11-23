@@ -1,5 +1,5 @@
 {
- "content_hash": "fd4c2d7d51a2d312a6409f2a6d17f6b891b0c3a3",
+ "content_hash": "e307d0cfc45bd9f92dc06dfcb5732a32f633653f",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -314,21 +314,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Makai Lemon",
-   "pos": "WR",
-   "proj_4wk": 31.4,
-   "proj_this_week": 7.4,
-   "status": null,
-   "team": "PHI"
-  },
-  {
-   "adds_24h": 0,
    "name": "Chris Boswell",
    "pos": "K",
    "proj_4wk": 31.4,
    "proj_this_week": 8.14,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Makai Lemon",
+   "pos": "WR",
+   "proj_4wk": 31.4,
+   "proj_this_week": 7.4,
+   "status": null,
+   "team": "PHI"
   },
   {
    "adds_24h": 0,
@@ -601,15 +601,6 @@
    "team": "ARI"
   },
   {
-   "adds_24h": 13671,
-   "name": "Tyler Higbee",
-   "pos": "TE",
-   "proj_4wk": 24.4,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "LAR"
-  },
-  {
    "adds_24h": 0,
    "name": "LAC D/ST",
    "pos": "DEF",
@@ -617,6 +608,15 @@
    "proj_this_week": 7.11,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 13671,
+   "name": "Tyler Higbee",
+   "pos": "TE",
+   "proj_4wk": 24.4,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "LAR"
   },
   {
    "adds_24h": 0,
@@ -862,7 +862,7 @@
    "team": "CIN"
   }
  ],
- "generated_at": "2026-11-23T20:01:56Z",
+ "generated_at": "2026-11-23T20:07:00Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
