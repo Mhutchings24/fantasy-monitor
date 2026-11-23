@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-23T17:29:39Z UTC
+Week 11 · record 3-7 · updated 2026-11-23T17:40:55Z UTC
 
 ## Lineup check
 Current lineup projects **91.5**, best possible **94.7**.
@@ -29,12 +29,12 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 3 | 129.8 | 98% |
 | 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 2 | 130.8 | 97% |
-| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 5 | 128.3 | 99% |
+| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 5 | 128.4 | 99% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 4 | 128.5 | 94% |
-| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 121.9 | 57% |
+| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 8 | 122.0 | 57% |
 | 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 116.1 | 48% |
 | 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 7 | 122.4 | 37% |
-| 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 136.3 | 58% |
+| 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 136.4 | 58% |
 | 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 6 | 124.8 | 11% |
 | 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 107.7 | 0% |
 
