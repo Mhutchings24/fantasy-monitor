@@ -1,5 +1,5 @@
 {
- "content_hash": "5f82e6c4b0af9f87358932ce1b33a9279c35fcfb",
+ "content_hash": "e6efb404572203db57910ab5052fbb069ceab31c",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -146,7 +146,7 @@
    "name": "Chig Okonkwo",
    "pos": "TE",
    "proj_4wk": 40.4,
-   "proj_this_week": 10.35,
+   "proj_this_week": 10.34,
    "status": null,
    "team": "WAS"
   },
@@ -290,7 +290,7 @@
    "name": "Antonio Williams",
    "pos": "WR",
    "proj_4wk": 31.9,
-   "proj_this_week": 8.19,
+   "proj_this_week": 8.18,
    "status": null,
    "team": "WAS"
   },
@@ -511,15 +511,6 @@
    "team": "ATL"
   },
   {
-   "adds_24h": 101640,
-   "name": "Treylon Burks",
-   "pos": "WR",
-   "proj_4wk": 27.0,
-   "proj_this_week": 6.92,
-   "status": null,
-   "team": "WAS"
-  },
-  {
    "adds_24h": 0,
    "name": "Darnell Washington",
    "pos": "TE",
@@ -527,6 +518,15 @@
    "proj_this_week": 6.78,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 101640,
+   "name": "Treylon Burks",
+   "pos": "WR",
+   "proj_4wk": 27.0,
+   "proj_this_week": 6.9,
+   "status": null,
+   "team": "WAS"
   },
   {
    "adds_24h": 0,
@@ -808,7 +808,7 @@
    "team": "CIN"
   }
  ],
- "generated_at": "2026-11-23T08:22:20Z",
+ "generated_at": "2026-11-23T08:27:25Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -862,7 +862,7 @@
    {
     "name": "Stefon Diggs",
     "pid": "2449",
-    "proj": 13.36,
+    "proj": 13.29,
     "slot": "WR"
    },
    {
@@ -890,8 +890,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 94.6,
-  "current_projected": 91.47,
+  "best_projected": 94.53,
+  "current_projected": 91.4,
   "gain": 3.13,
   "problems": [
    {
@@ -1002,8 +1002,8 @@
    "week": 10
   },
   "matchup": {
-   "my_proj": 91.5,
-   "opp_best_possible": 139.27,
+   "my_proj": 91.4,
+   "opp_best_possible": 139.33,
    "opp_proj": 139.3,
    "opponent": "Bradsgay",
    "opponent_record": "6-4",
@@ -1073,7 +1073,7 @@
     "power_rank": 3,
     "proj_avg": 129.3,
     "proj_by_week": {
-     "11": 139.27,
+     "11": 139.33,
      "12": 136.41,
      "13": 123.01,
      "14": 118.48
@@ -1111,7 +1111,7 @@
     "mine": false,
     "pa": 1236.3,
     "pf": 1220.66,
-    "playoff_odds": 0.59,
+    "playoff_odds": 0.589,
     "power_rank": 8,
     "proj_avg": 122.3,
     "proj_by_week": {
@@ -1136,7 +1136,7 @@
     "power_rank": 9,
     "proj_avg": 117.1,
     "proj_by_week": {
-     "11": 105.94,
+     "11": 106.0,
      "12": 122.76,
      "13": 124.51,
      "14": 115.29
@@ -1199,7 +1199,7 @@
     "power_rank": 6,
     "proj_avg": 125.5,
     "proj_by_week": {
-     "11": 130.28,
+     "11": 130.27,
      "12": 129.95,
      "13": 120.75,
      "14": 121.22
@@ -1220,7 +1220,7 @@
     "power_rank": 10,
     "proj_avg": 107.5,
     "proj_by_week": {
-     "11": 94.6,
+     "11": 94.53,
      "12": 110.94,
      "13": 114.37,
      "14": 110.23
@@ -1331,7 +1331,7 @@
    "pid": "2449",
    "pos": "WR",
    "proj_by_week": {
-    "11": 13.36,
+    "11": 13.29,
     "12": 12.88,
     "13": 13.29,
     "14": 12.27
