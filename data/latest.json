@@ -1,5 +1,5 @@
 {
- "content_hash": "bfdb9dce1c45e44ebd18042276017c5b3c7dbc0c",
+ "content_hash": "92be13251084749254d2f24ac3e789b49a6e30a1",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -520,15 +520,6 @@
    "team": "PIT"
   },
   {
-   "adds_24h": 102802,
-   "name": "Treylon Burks",
-   "pos": "WR",
-   "proj_4wk": 27.0,
-   "proj_this_week": 6.92,
-   "status": null,
-   "team": "WAS"
-  },
-  {
    "adds_24h": 0,
    "name": "Kyle Pitts Sr.",
    "pos": "TE",
@@ -536,6 +527,15 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "ATL"
+  },
+  {
+   "adds_24h": 102802,
+   "name": "Treylon Burks",
+   "pos": "WR",
+   "proj_4wk": 27.0,
+   "proj_this_week": 6.92,
+   "status": null,
+   "team": "WAS"
   },
   {
    "adds_24h": 0,
@@ -592,15 +592,6 @@
    "team": "LAR"
   },
   {
-   "adds_24h": 0,
-   "name": "Anthony Richardson Sr.",
-   "pos": "QB",
-   "proj_4wk": 24.9,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "IND"
-  },
-  {
    "adds_24h": 66486,
    "name": "WAS D/ST",
    "pos": "DEF",
@@ -608,6 +599,15 @@
    "proj_this_week": 4.16,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Anthony Richardson Sr.",
+   "pos": "QB",
+   "proj_4wk": 24.9,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "IND"
   },
   {
    "adds_24h": 84567,
@@ -656,21 +656,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Hunter Henry",
-   "pos": "TE",
-   "proj_4wk": 24.1,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "NE"
-  },
-  {
-   "adds_24h": 0,
    "name": "Matt Gay",
    "pos": "K",
    "proj_4wk": 24.1,
    "proj_this_week": 7.34,
    "status": null,
    "team": "LV"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Hunter Henry",
+   "pos": "TE",
+   "proj_4wk": 24.1,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "NE"
   },
   {
    "adds_24h": 0,
@@ -799,7 +799,7 @@
    "team": "LV"
   }
  ],
- "generated_at": "2026-11-23T05:21:56Z",
+ "generated_at": "2026-11-23T05:27:01Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
