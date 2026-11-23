@@ -1,5 +1,5 @@
 {
- "content_hash": "eae4a7909b066c35d3186ffa30fb3a9f2169d2f3",
+ "content_hash": "216f255449708269cb9258a977c515eba776b114",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -269,21 +269,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Denzel Boston",
-   "pos": "WR",
-   "proj_4wk": 32.3,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "CLE"
-  },
-  {
-   "adds_24h": 0,
    "name": "Pat Freiermuth",
    "pos": "TE",
    "proj_4wk": 32.3,
    "proj_this_week": 8.65,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Denzel Boston",
+   "pos": "WR",
+   "proj_4wk": 32.3,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "CLE"
   },
   {
    "adds_24h": 0,
@@ -602,15 +602,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Anthony Richardson Sr.",
-   "pos": "QB",
-   "proj_4wk": 24.4,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "IND"
-  },
-  {
-   "adds_24h": 0,
    "name": "LAC D/ST",
    "pos": "DEF",
    "proj_4wk": 24.4,
@@ -626,6 +617,15 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "LAR"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Anthony Richardson Sr.",
+   "pos": "QB",
+   "proj_4wk": 24.4,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "IND"
   },
   {
    "adds_24h": 0,
@@ -853,7 +853,7 @@
    "team": "CLE"
   }
  ],
- "generated_at": "2026-11-23T19:24:32Z",
+ "generated_at": "2026-11-23T19:29:36Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
