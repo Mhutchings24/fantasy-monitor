@@ -1,5 +1,5 @@
 {
- "content_hash": "6bb51a593e4417d13e5e008fd3360590542e1cc1",
+ "content_hash": "f3278aa9c2921fb1bd8369e59e236fa5bf0e7994",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -592,15 +592,6 @@
    "team": "LAR"
   },
   {
-   "adds_24h": 66920,
-   "name": "WAS D/ST",
-   "pos": "DEF",
-   "proj_4wk": 24.9,
-   "proj_this_week": 4.16,
-   "status": null,
-   "team": "WAS"
-  },
-  {
    "adds_24h": 0,
    "name": "Anthony Richardson Sr.",
    "pos": "QB",
@@ -608,6 +599,15 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "IND"
+  },
+  {
+   "adds_24h": 66920,
+   "name": "WAS D/ST",
+   "pos": "DEF",
+   "proj_4wk": 24.9,
+   "proj_this_week": 4.16,
+   "status": null,
+   "team": "WAS"
   },
   {
    "adds_24h": 84574,
@@ -799,7 +799,7 @@
    "team": "LV"
   }
  ],
- "generated_at": "2026-11-23T05:32:05Z",
+ "generated_at": "2026-11-23T05:37:10Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
