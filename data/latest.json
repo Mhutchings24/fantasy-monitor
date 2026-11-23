@@ -1,5 +1,5 @@
 {
- "content_hash": "ce0240a81ff89dacbc081c4f487b1df0c72c7965",
+ "content_hash": "d06d6b4c7e7433c209f94878fe4dc274999b3882",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -520,15 +520,6 @@
    "team": "LAC"
   },
   {
-   "adds_24h": 0,
-   "name": "Kyle Pitts Sr.",
-   "pos": "TE",
-   "proj_4wk": 27.0,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "ATL"
-  },
-  {
    "adds_24h": 102494,
    "name": "Treylon Burks",
    "pos": "WR",
@@ -536,6 +527,15 @@
    "proj_this_week": 6.92,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Kyle Pitts Sr.",
+   "pos": "TE",
+   "proj_4wk": 27.0,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "ATL"
   },
   {
    "adds_24h": 0,
@@ -808,7 +808,7 @@
    "team": "CIN"
   }
  ],
- "generated_at": "2026-11-23T06:19:39Z",
+ "generated_at": "2026-11-23T06:24:45Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
