@@ -1,5 +1,5 @@
 {
- "content_hash": "8902075954e1ba72174c1ce1243fb6ab3ca4c97d",
+ "content_hash": "712e58ffa47d9ff4bc8b54e16ae98345fa1f68a0",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -269,21 +269,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Denzel Boston",
-   "pos": "WR",
-   "proj_4wk": 32.3,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "CLE"
-  },
-  {
-   "adds_24h": 0,
    "name": "Pat Freiermuth",
    "pos": "TE",
    "proj_4wk": 32.3,
    "proj_this_week": 8.65,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Denzel Boston",
+   "pos": "WR",
+   "proj_4wk": 32.3,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "CLE"
   },
   {
    "adds_24h": 0,
@@ -398,7 +398,7 @@
    "name": "Samaje Perine",
    "pos": "RB",
    "proj_4wk": 29.8,
-   "proj_this_week": 7.64,
+   "proj_this_week": 7.66,
    "status": null,
    "team": "CIN"
   },
@@ -611,21 +611,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Tyler Higbee",
-   "pos": "TE",
-   "proj_4wk": 24.4,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "LAR"
-  },
-  {
-   "adds_24h": 0,
    "name": "Anthony Richardson Sr.",
    "pos": "QB",
    "proj_4wk": 24.4,
    "proj_this_week": 0.0,
    "status": null,
    "team": "IND"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Tyler Higbee",
+   "pos": "TE",
+   "proj_4wk": 24.4,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "LAR"
   },
   {
    "adds_24h": 0,
@@ -817,7 +817,7 @@
    "team": "WAS"
   }
  ],
- "generated_at": "2026-11-23T15:52:51Z",
+ "generated_at": "2026-11-23T15:57:56Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1012,7 +1012,7 @@
   },
   "matchup": {
    "my_proj": 91.5,
-   "opp_best_possible": 138.06,
+   "opp_best_possible": 138.08,
    "opp_proj": 138.1,
    "opponent": "Bradsgay",
    "opponent_record": "6-4",
@@ -1082,7 +1082,7 @@
     "power_rank": 5,
     "proj_avg": 128.2,
     "proj_by_week": {
-     "11": 138.06,
+     "11": 138.08,
      "12": 134.47,
      "13": 122.72,
      "14": 117.59
@@ -1145,7 +1145,7 @@
     "power_rank": 9,
     "proj_avg": 116.2,
     "proj_by_week": {
-     "11": 105.81,
+     "11": 105.79,
      "12": 121.21,
      "13": 123.38,
      "14": 114.53
