@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 11
+- [Mon Nov 23 · AM](2026/week-11/2026-11-23-am.md) — DEF still LAR (bye), SF locked unadded: add CIN D/ST ($0), drop LAR, start CIN before 8:15 PM ET / 6:15 PM MT (High). Keep Diggs. Evans 6-109-1 on bench. Week 12 starts Wed: set lineup by Tue night.
 - [Mon Nov 23 · Flash 01:03](2026/week-11/2026-11-23-flash-0103.md) — Evans tag cleared (he's active, pitch count). DEF is still LAR (bye): add SF D/ST, drop LAR, start SF before 8:20 PM ET / 6:20 PM MT (High); fallback CIN D/ST before MNF. Keep Diggs.
 - [Sun Nov 22 · PM](2026/week-11/2026-11-22-pm.md) — Lineup change: JAX locked before it was added and DEF is still LAR (bye). Add SF D/ST, drop LAR, start SF before 8:20 PM ET / 6:20 PM MT (High); fallback CIN D/ST (MNF). SNF starters all active. Keep Diggs.
 - [Sun Nov 22 · Flash 13:05](2026/week-11/2026-11-22-flash-1305.md) — Moore (knee) Q, appears to have returned (locked, nothing to do). Still urgent: add JAX D/ST, drop LAR, start JAX before 4:25 PM ET / 2:25 PM MT (High).
