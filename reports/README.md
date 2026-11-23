@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 11
+- [Sun Nov 22 · PM](2026/week-11/2026-11-22-pm.md) — Lineup change: JAX locked before it was added and DEF is still LAR (bye). Add SF D/ST, drop LAR, start SF before 8:20 PM ET / 6:20 PM MT (High); fallback CIN D/ST (MNF). SNF starters all active. Keep Diggs.
 - [Sun Nov 22 · Flash 13:05](2026/week-11/2026-11-22-flash-1305.md) — Moore (knee) Q, appears to have returned (locked, nothing to do). Still urgent: add JAX D/ST, drop LAR, start JAX before 4:25 PM ET / 2:25 PM MT (High).
 - [Sun Nov 22 · Game day 12:48](2026/week-11/2026-11-22-gameday-1248.md) — Lineup change: DEF still LAR (bye). Add JAX D/ST, drop LAR, start JAX before 4:25 PM ET / 2:25 PM MT (High). Moore hurt knee (locked). SNF inactives ~6:50 PM ET.
 - [Sun Nov 22 · Game day 09:49](2026/week-11/2026-11-22-gameday-0949.md) — DEF still empty: add JAX D/ST now ($0, drop LAR; locks 4:25 PM ET) (High). Tyson active, keep at FLEX. All 1 PM starters clear; no other changes.
