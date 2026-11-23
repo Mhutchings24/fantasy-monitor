@@ -1,5 +1,5 @@
 {
- "content_hash": "ee4610da82cde1157f887a02d2e60c395261db5c",
+ "content_hash": "cfd3e4da7e2d2b2a2fcd9e63244acf6c45633217",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -476,21 +476,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Cade Otton",
-   "pos": "TE",
-   "proj_4wk": 28.0,
-   "proj_this_week": 7.18,
-   "status": null,
-   "team": "TB"
-  },
-  {
-   "adds_24h": 0,
    "name": "Jake Elliott",
    "pos": "K",
    "proj_4wk": 28.0,
    "proj_this_week": 6.88,
    "status": null,
    "team": "PHI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Cade Otton",
+   "pos": "TE",
+   "proj_4wk": 28.0,
+   "proj_this_week": 7.18,
+   "status": null,
+   "team": "TB"
   },
   {
    "adds_24h": 84858,
@@ -592,15 +592,6 @@
    "team": "KC"
   },
   {
-   "adds_24h": 0,
-   "name": "Anthony Richardson Sr.",
-   "pos": "QB",
-   "proj_4wk": 24.9,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "IND"
-  },
-  {
    "adds_24h": 61649,
    "name": "WAS D/ST",
    "pos": "DEF",
@@ -608,6 +599,15 @@
    "proj_this_week": 4.16,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Anthony Richardson Sr.",
+   "pos": "QB",
+   "proj_4wk": 24.9,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "IND"
   },
   {
    "adds_24h": 86898,
@@ -799,7 +799,7 @@
    "team": "CIN"
   }
  ],
- "generated_at": "2026-11-23T04:18:53Z",
+ "generated_at": "2026-11-23T04:23:56Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
