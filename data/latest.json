@@ -1,5 +1,5 @@
 {
- "content_hash": "190c137ce4cc657d8837176e4ea114f3cf2da301",
+ "content_hash": "765ff8d0439d86253e2dc8036cc5b3f29459b70b",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -287,21 +287,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Germie Bernard",
-   "pos": "WR",
-   "proj_4wk": 31.6,
-   "proj_this_week": 7.51,
-   "status": null,
-   "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
    "name": "Daniel Carlson",
    "pos": "K",
    "proj_4wk": 31.6,
    "proj_this_week": 7.12,
    "status": null,
    "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Germie Bernard",
+   "pos": "WR",
+   "proj_4wk": 31.6,
+   "proj_this_week": 7.51,
+   "status": null,
+   "team": "PIT"
   },
   {
    "adds_24h": 0,
@@ -314,21 +314,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Makai Lemon",
-   "pos": "WR",
-   "proj_4wk": 31.4,
-   "proj_this_week": 7.4,
-   "status": null,
-   "team": "PHI"
-  },
-  {
-   "adds_24h": 0,
    "name": "Chris Boswell",
    "pos": "K",
    "proj_4wk": 31.4,
    "proj_this_week": 8.14,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Makai Lemon",
+   "pos": "WR",
+   "proj_4wk": 31.4,
+   "proj_this_week": 7.4,
+   "status": null,
+   "team": "PHI"
   },
   {
    "adds_24h": 0,
@@ -484,15 +484,6 @@
    "team": "TB"
   },
   {
-   "adds_24h": 55755,
-   "name": "Treylon Burks",
-   "pos": "WR",
-   "proj_4wk": 27.4,
-   "proj_this_week": 7.04,
-   "status": null,
-   "team": "WAS"
-  },
-  {
    "adds_24h": 0,
    "name": "Greg Dulcich",
    "pos": "TE",
@@ -500,6 +491,15 @@
    "proj_this_week": 6.4,
    "status": null,
    "team": "MIA"
+  },
+  {
+   "adds_24h": 55755,
+   "name": "Treylon Burks",
+   "pos": "WR",
+   "proj_4wk": 27.4,
+   "proj_this_week": 7.04,
+   "status": null,
+   "team": "WAS"
   },
   {
    "adds_24h": 0,
@@ -871,7 +871,7 @@
    "team": "PIT"
   }
  ],
- "generated_at": "2026-11-23T20:53:52Z",
+ "generated_at": "2026-11-23T20:58:56Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
