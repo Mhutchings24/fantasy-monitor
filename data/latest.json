@@ -1,5 +1,5 @@
 {
- "content_hash": "34319c845d2aca08571cfdaf6a2e2a83bdf4d1aa",
+ "content_hash": "d9818ee845dc0ba8cbf2e17c43f2bc2bad19320d",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -323,21 +323,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Chris Boswell",
-   "pos": "K",
-   "proj_4wk": 31.4,
-   "proj_this_week": 8.14,
-   "status": null,
-   "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
    "name": "Makai Lemon",
    "pos": "WR",
    "proj_4wk": 31.4,
    "proj_this_week": 7.4,
    "status": null,
    "team": "PHI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chris Boswell",
+   "pos": "K",
+   "proj_4wk": 31.4,
+   "proj_this_week": 8.14,
+   "status": null,
+   "team": "PIT"
   },
   {
    "adds_24h": 0,
@@ -593,6 +593,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Anthony Richardson Sr.",
+   "pos": "QB",
+   "proj_4wk": 24.4,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "IND"
+  },
+  {
+   "adds_24h": 0,
    "name": "LAC D/ST",
    "pos": "DEF",
    "proj_4wk": 24.4,
@@ -608,15 +617,6 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "LAR"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Anthony Richardson Sr.",
-   "pos": "QB",
-   "proj_4wk": 24.4,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "IND"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "NO"
   }
  ],
- "generated_at": "2026-11-23T17:24:33Z",
+ "generated_at": "2026-11-23T17:29:39Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
