@@ -1,5 +1,5 @@
 {
- "content_hash": "0886ad13e91a51fa1c06c57ecc2d8f3d1e6ef507",
+ "content_hash": "1046bc54187eda3016aa3ca0717149878f2735b6",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -674,21 +674,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Jadarian Price",
-   "pos": "RB",
-   "proj_4wk": 23.9,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Hunter Henry",
    "pos": "TE",
    "proj_4wk": 23.9,
    "proj_this_week": 0.0,
    "status": null,
    "team": "NE"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Jadarian Price",
+   "pos": "RB",
+   "proj_4wk": 23.9,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -817,7 +817,7 @@
    "team": "CIN"
   }
  ],
- "generated_at": "2026-11-23T13:12:41Z",
+ "generated_at": "2026-11-23T13:17:46Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1031,16 +1031,16 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.397,
+    "first_seed_odds": 0.388,
     "losses": 3,
     "mine": false,
     "pa": 1170.04,
     "pf": 1210.18,
-    "playoff_odds": 0.981,
-    "power_rank": 3,
-    "proj_avg": 129.0,
+    "playoff_odds": 0.979,
+    "power_rank": 5,
+    "proj_avg": 128.4,
     "proj_by_week": {
-     "11": 132.5,
+     "11": 130.18,
      "12": 129.21,
      "13": 128.04,
      "14": 126.14
@@ -1052,7 +1052,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.209,
+    "first_seed_odds": 0.212,
     "losses": 4,
     "mine": false,
     "pa": 1317.2,
@@ -1073,13 +1073,13 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.288,
+    "first_seed_odds": 0.291,
     "losses": 4,
     "mine": false,
     "pa": 1360.82,
     "pf": 1378.72,
     "playoff_odds": 0.992,
-    "power_rank": 4,
+    "power_rank": 3,
     "proj_avg": 129.0,
     "proj_by_week": {
      "11": 138.04,
@@ -1094,13 +1094,13 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.088,
+    "first_seed_odds": 0.089,
     "losses": 4,
     "mine": false,
     "pa": 1246.68,
     "pf": 1303.84,
-    "playoff_odds": 0.938,
-    "power_rank": 5,
+    "playoff_odds": 0.937,
+    "power_rank": 4,
     "proj_avg": 128.4,
     "proj_by_week": {
      "11": 130.8,
@@ -1120,7 +1120,7 @@
     "mine": false,
     "pa": 1236.3,
     "pf": 1220.66,
-    "playoff_odds": 0.592,
+    "playoff_odds": 0.591,
     "power_rank": 8,
     "proj_avg": 122.4,
     "proj_by_week": {
@@ -1136,12 +1136,12 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.005,
+    "first_seed_odds": 0.006,
     "losses": 5,
     "mine": false,
     "pa": 1293.6,
     "pf": 1206.58,
-    "playoff_odds": 0.485,
+    "playoff_odds": 0.484,
     "power_rank": 9,
     "proj_avg": 117.1,
     "proj_by_week": {
@@ -1162,7 +1162,7 @@
     "mine": false,
     "pa": 1107.26,
     "pf": 1150.76,
-    "playoff_odds": 0.35,
+    "playoff_odds": 0.358,
     "power_rank": 7,
     "proj_avg": 122.6,
     "proj_by_week": {
@@ -1183,7 +1183,7 @@
     "mine": false,
     "pa": 1248.08,
     "pf": 1235.98,
-    "playoff_odds": 0.575,
+    "playoff_odds": 0.573,
     "power_rank": 1,
     "proj_avg": 136.4,
     "proj_by_week": {
