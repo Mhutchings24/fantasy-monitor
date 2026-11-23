@@ -1,5 +1,5 @@
 {
- "content_hash": "4d4f90178629c9b1d5a742711a0b8f6c29a2d41e",
+ "content_hash": "6a4207c21a1da4a8db24c60c8f231a22a2d6236d",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -484,15 +484,6 @@
    "team": "TB"
   },
   {
-   "adds_24h": 0,
-   "name": "Greg Dulcich",
-   "pos": "TE",
-   "proj_4wk": 27.4,
-   "proj_this_week": 6.4,
-   "status": null,
-   "team": "MIA"
-  },
-  {
    "adds_24h": 56203,
    "name": "Treylon Burks",
    "pos": "WR",
@@ -500,6 +491,15 @@
    "proj_this_week": 7.04,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Greg Dulcich",
+   "pos": "TE",
+   "proj_4wk": 27.4,
+   "proj_this_week": 6.4,
+   "status": null,
+   "team": "MIA"
   },
   {
    "adds_24h": 0,
@@ -871,7 +871,7 @@
    "team": "PIT"
   }
  ],
- "generated_at": "2026-11-23T21:14:10Z",
+ "generated_at": "2026-11-23T21:19:15Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
