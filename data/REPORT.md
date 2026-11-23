@@ -1,11 +1,11 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-23T00:02:52Z UTC
+Week 11 · record 3-7 · updated 2026-11-23T00:07:56Z UTC
 
 ## Lineup check
-Current lineup projects **91.5**, best possible **92.5**.
+Current lineup projects **91.5**, best possible **94.5**.
 
 - ⚠️ LAR D/ST (DEF, LAR) is on bye
-- 🔁 Start Mike Evans (WR, SF) (11.7) over Jordyn Tyson (WR, NO) (10.7)
+- 🔁 Start Mike Evans (WR, SF) (13.7) over Jordyn Tyson (WR, NO) (10.7)
 
 ## Waiver targets
 FAAB left: **$78** (league starting budget $100)
@@ -35,13 +35,12 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 7 | 122.8 | 34% |
 | 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 136.9 | 58% |
 | 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 6 | 125.8 | 12% |
-| 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 107.0 | 0% |
+| 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 107.5 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
-- **Likely** · Give Mike Evans, get Jonah Coleman from Monangynecologist: +1.1 pts/week for you, +0.3 for them.
-- **Possible** · Give Mike Evans, get Jonathan Taylor from Monangynecologist: +2.1 pts/week for you, -0.5 for them.
+- **Possible** · Give Mike Evans, get Jonathan Taylor from Monangynecologist: +1.8 pts/week for you, -0.2 for them.
 - **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.7 pts/week for you, -0.2 for them.
 - **Possible** · Give Jared Goff, get Patrick Mahomes from Bradsgay: +1.0 pts/week for you, -0.0 for them.
 
@@ -60,7 +59,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Corey Kiner | RB | NE | bench | BYE | 0.0 | 6.9 | 6.3 | 6.2 |
 | Quinshon Judkins | RB | CLE | bench | BYE | 0.0 | 12.7 | 12.0 | 11.2 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 0.0 | 15.8 | 13.6 |
-| Mike Evans | WR | SF | bench | Questionable | 11.7 | 13.5 | 16.0 | 15.2 |
+| Mike Evans | WR | SF | bench |  | 13.7 | 13.5 | 16.0 | 15.2 |
 | Keenan Allen | WR | SF | bench |  | 5.6 | 5.5 | 6.5 | 6.1 |
 | Omar Cooper Jr. | WR | NYJ | bench | Out | 0.0 | 10.8 | 0.0 | 9.6 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
