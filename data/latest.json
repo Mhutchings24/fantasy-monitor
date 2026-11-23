@@ -1,5 +1,5 @@
 {
- "content_hash": "fafef7bcc13aa844cab2c0c0ee85ea8e4eb10e21",
+ "content_hash": "b592a52d81326fa778f993116eed5159f290092a",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -520,15 +520,6 @@
    "team": "PIT"
   },
   {
-   "adds_24h": 101724,
-   "name": "Treylon Burks",
-   "pos": "WR",
-   "proj_4wk": 27.0,
-   "proj_this_week": 6.9,
-   "status": null,
-   "team": "WAS"
-  },
-  {
    "adds_24h": 0,
    "name": "Kimani Vidal",
    "pos": "RB",
@@ -536,6 +527,15 @@
    "proj_this_week": 7.03,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 101724,
+   "name": "Treylon Burks",
+   "pos": "WR",
+   "proj_4wk": 27.0,
+   "proj_this_week": 6.9,
+   "status": null,
+   "team": "WAS"
   },
   {
    "adds_24h": 0,
@@ -808,7 +808,7 @@
    "team": "CIN"
   }
  ],
- "generated_at": "2026-11-23T08:32:30Z",
+ "generated_at": "2026-11-23T08:37:34Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
