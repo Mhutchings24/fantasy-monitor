@@ -1,5 +1,5 @@
 {
- "content_hash": "85ff6702d255ba5eec8950ae3ac5d17fb2802980",
+ "content_hash": "4dfcbe14a49261df34a45f9ab3c3f232e4a8cc4d",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -592,15 +592,6 @@
    "team": "LAR"
   },
   {
-   "adds_24h": 65352,
-   "name": "WAS D/ST",
-   "pos": "DEF",
-   "proj_4wk": 24.9,
-   "proj_this_week": 4.16,
-   "status": null,
-   "team": "WAS"
-  },
-  {
    "adds_24h": 0,
    "name": "Anthony Richardson Sr.",
    "pos": "QB",
@@ -608,6 +599,15 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "IND"
+  },
+  {
+   "adds_24h": 65352,
+   "name": "WAS D/ST",
+   "pos": "DEF",
+   "proj_4wk": 24.9,
+   "proj_this_week": 4.16,
+   "status": null,
+   "team": "WAS"
   },
   {
    "adds_24h": 84560,
@@ -656,21 +656,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Hunter Henry",
-   "pos": "TE",
-   "proj_4wk": 24.1,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "NE"
-  },
-  {
-   "adds_24h": 0,
    "name": "Matt Gay",
    "pos": "K",
    "proj_4wk": 24.1,
    "proj_this_week": 7.34,
    "status": null,
    "team": "LV"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Hunter Henry",
+   "pos": "TE",
+   "proj_4wk": 24.1,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "NE"
   },
   {
    "adds_24h": 0,
@@ -799,7 +799,7 @@
    "team": "CIN"
   }
  ],
- "generated_at": "2026-11-23T05:01:38Z",
+ "generated_at": "2026-11-23T05:06:43Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
