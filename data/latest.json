@@ -1,5 +1,5 @@
 {
- "content_hash": "fa5fa662ba53b1d26b1cbf5f4a9f6b069df4de74",
+ "content_hash": "52e2a88a7513889027dd5ba01429801d195f5cc8",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -394,15 +394,6 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 60344,
-   "name": "Samaje Perine",
-   "pos": "RB",
-   "proj_4wk": 29.8,
-   "proj_this_week": 7.73,
-   "status": null,
-   "team": "CIN"
-  },
-  {
    "adds_24h": 0,
    "name": "Dalton Kincaid",
    "pos": "TE",
@@ -602,15 +593,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Anthony Richardson Sr.",
-   "pos": "QB",
-   "proj_4wk": 24.4,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "IND"
-  },
-  {
-   "adds_24h": 0,
    "name": "LAC D/ST",
    "pos": "DEF",
    "proj_4wk": 24.4,
@@ -626,6 +608,15 @@
    "proj_this_week": 0.0,
    "status": null,
    "team": "LAR"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Anthony Richardson Sr.",
+   "pos": "QB",
+   "proj_4wk": 24.4,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "IND"
   },
   {
    "adds_24h": 0,
@@ -725,6 +716,15 @@
    "proj_this_week": 6.26,
    "status": null,
    "team": "BUF"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Trey Smack",
+   "pos": "K",
+   "proj_4wk": 23.1,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "GB"
   },
   {
    "adds_24h": 231795,
@@ -862,7 +862,7 @@
    "team": "CIN"
   }
  ],
- "generated_at": "2026-11-23T20:12:03Z",
+ "generated_at": "2026-11-23T20:17:06Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
