@@ -1,5 +1,5 @@
 {
- "content_hash": "c993c0ddb4c64d1233d72bb0cdd8c37eea6e58fd",
+ "content_hash": "740571f335a05cefed96616c4b21cc83e19af769",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -665,21 +665,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "NYG D/ST",
-   "pos": "DEF",
-   "proj_4wk": 24.1,
-   "proj_this_week": 5.27,
-   "status": null,
-   "team": "NYG"
-  },
-  {
-   "adds_24h": 0,
    "name": "Hunter Henry",
    "pos": "TE",
    "proj_4wk": 24.1,
    "proj_this_week": 0.0,
    "status": null,
    "team": "NE"
+  },
+  {
+   "adds_24h": 0,
+   "name": "NYG D/ST",
+   "pos": "DEF",
+   "proj_4wk": 24.1,
+   "proj_this_week": 5.27,
+   "status": null,
+   "team": "NYG"
   },
   {
    "adds_24h": 0,
@@ -799,7 +799,7 @@
    "team": "WAS"
   }
  ],
- "generated_at": "2026-11-23T02:16:55Z",
+ "generated_at": "2026-11-23T02:21:59Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
