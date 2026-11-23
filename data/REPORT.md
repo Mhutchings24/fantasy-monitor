@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-23T10:42:58Z UTC
+Week 11 · record 3-7 · updated 2026-11-23T10:48:03Z UTC
 
 ## Lineup check
 Current lineup projects **91.5**, best possible **94.6**.
@@ -35,7 +35,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 7 | 122.6 | 35% |
 | 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 136.4 | 57% |
 | 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 6 | 125.5 | 12% |
-| 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 107.6 | 0% |
+| 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 107.7 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -53,7 +53,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Jordan Mason | RB | MIN | starter |  | 8.7 | 11.4 | 11.4 | 10.3 |
 | George Kittle | TE | SF | starter |  | 12.4 | 12.5 | 14.7 | 13.9 |
 | Stefon Diggs | WR | WAS | starter |  | 13.4 | 12.9 | 13.3 | 12.3 |
-| DJ Moore | WR | BUF | starter | Questionable | 11.0 | 12.3 | 13.7 | 13.1 |
+| DJ Moore | WR | BUF | starter | Questionable | 11.0 | 12.4 | 13.7 | 13.1 |
 | Jordyn Tyson | WR | NO | starter |  | 10.7 | 12.1 | 11.4 | 11.0 |
 | Corey Kiner | RB | NE | bench | BYE | 0.0 | 6.7 | 6.3 | 6.2 |
 | Quinshon Judkins | RB | CLE | bench | BYE | 0.0 | 12.7 | 12.0 | 11.2 |
