@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-23T22:24:17Z UTC
+Week 11 · record 3-7 · updated 2026-11-23T22:29:21Z UTC
 
 ## Lineup check
-Current lineup projects **91.6**, best possible **94.7**.
+Current lineup projects **91.5**, best possible **94.7**.
 
 - ⚠️ LAR D/ST (DEF, LAR) is on bye
 - 🔁 Start Mike Evans (WR, SF) (13.8) over Jordyn Tyson (WR, NO) (10.7)
@@ -20,14 +20,14 @@ Gain = extra projected starting points over weeks 11–14 after the swap.
 **DEF stream this week:** add JAX D/ST for LAR D/ST (+8.0 pts this week)
 
 ## This week's matchup
-vs **Bradsgay** (6-4): you **91.6** – 138.5 projected · win chance **9%**
+vs **Bradsgay** (6-4): you **91.5** – 138.8 projected · win chance **9%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 3 | 129.8 | 98% |
+| 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 3 | 129.9 | 98% |
 | 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 2 | 130.9 | 97% |
 | 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 5 | 128.4 | 99% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 4 | 128.4 | 94% |
@@ -35,7 +35,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 116.3 | 48% |
 | 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 7 | 122.7 | 38% |
 | 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 136.4 | 57% |
-| 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 6 | 124.5 | 10% |
+| 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 6 | 124.5 | 11% |
 | 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 107.7 | 0% |
 
 ## Trade ideas
