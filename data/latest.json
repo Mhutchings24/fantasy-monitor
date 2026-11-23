@@ -1,5 +1,5 @@
 {
- "content_hash": "8da8119795323a9173b8121651f47b9e5dcb0b04",
+ "content_hash": "ee835af5aa78411de6c93d26b7b42767dd2f23a2",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -674,21 +674,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Jadarian Price",
-   "pos": "RB",
-   "proj_4wk": 23.9,
-   "proj_this_week": 0.0,
-   "status": null,
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Hunter Henry",
    "pos": "TE",
    "proj_4wk": 23.9,
    "proj_this_week": 0.0,
    "status": null,
    "team": "NE"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Jadarian Price",
+   "pos": "RB",
+   "proj_4wk": 23.9,
+   "proj_this_week": 0.0,
+   "status": null,
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -817,7 +817,7 @@
    "team": "CIN"
   }
  ],
- "generated_at": "2026-11-23T14:44:53Z",
+ "generated_at": "2026-11-23T14:49:58Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1031,19 +1031,19 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.388,
+    "first_seed_odds": 0.411,
     "losses": 3,
     "mine": false,
     "pa": 1170.04,
     "pf": 1210.18,
-    "playoff_odds": 0.979,
-    "power_rank": 5,
-    "proj_avg": 128.4,
+    "playoff_odds": 0.983,
+    "power_rank": 3,
+    "proj_avg": 129.8,
     "proj_by_week": {
      "11": 130.18,
      "12": 129.21,
-     "13": 128.04,
-     "14": 126.14
+     "13": 131.7,
+     "14": 128.19
     },
     "rank": 1,
     "roster_id": 8,
@@ -1052,19 +1052,19 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.212,
+    "first_seed_odds": 0.208,
     "losses": 4,
     "mine": false,
     "pa": 1317.2,
     "pf": 1399.62,
-    "playoff_odds": 0.967,
+    "playoff_odds": 0.968,
     "power_rank": 2,
-    "proj_avg": 130.3,
+    "proj_avg": 130.6,
     "proj_by_week": {
      "11": 111.05,
      "12": 141.67,
-     "13": 125.5,
-     "14": 143.16
+     "13": 125.99,
+     "14": 143.66
     },
     "rank": 2,
     "roster_id": 10,
@@ -1073,13 +1073,13 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.291,
+    "first_seed_odds": 0.277,
     "losses": 4,
     "mine": false,
     "pa": 1360.82,
     "pf": 1378.72,
     "playoff_odds": 0.992,
-    "power_rank": 3,
+    "power_rank": 4,
     "proj_avg": 129.0,
     "proj_by_week": {
      "11": 138.04,
@@ -1094,13 +1094,13 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.089,
+    "first_seed_odds": 0.087,
     "losses": 4,
     "mine": false,
     "pa": 1246.68,
     "pf": 1303.84,
     "playoff_odds": 0.937,
-    "power_rank": 4,
+    "power_rank": 5,
     "proj_avg": 128.4,
     "proj_by_week": {
      "11": 130.8,
@@ -1115,19 +1115,19 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.011,
+    "first_seed_odds": 0.009,
     "losses": 5,
     "mine": false,
     "pa": 1236.3,
     "pf": 1220.66,
-    "playoff_odds": 0.59,
-    "power_rank": 8,
-    "proj_avg": 122.4,
+    "playoff_odds": 0.582,
+    "power_rank": 7,
+    "proj_avg": 122.7,
     "proj_by_week": {
      "11": 117.39,
      "12": 121.6,
-     "13": 122.78,
-     "14": 127.69
+     "13": 123.36,
+     "14": 128.25
     },
     "rank": 5,
     "roster_id": 6,
@@ -1141,7 +1141,7 @@
     "mine": false,
     "pa": 1293.6,
     "pf": 1206.58,
-    "playoff_odds": 0.484,
+    "playoff_odds": 0.487,
     "power_rank": 9,
     "proj_avg": 117.1,
     "proj_by_week": {
@@ -1157,13 +1157,13 @@
     "wins": 5
    },
    {
-    "first_seed_odds": 0.002,
+    "first_seed_odds": 0.003,
     "losses": 5,
     "mine": false,
     "pa": 1107.26,
     "pf": 1150.76,
-    "playoff_odds": 0.357,
-    "power_rank": 7,
+    "playoff_odds": 0.354,
+    "power_rank": 8,
     "proj_avg": 122.6,
     "proj_by_week": {
      "11": 125.56,
@@ -1183,13 +1183,13 @@
     "mine": false,
     "pa": 1248.08,
     "pf": 1235.98,
-    "playoff_odds": 0.575,
+    "playoff_odds": 0.582,
     "power_rank": 1,
-    "proj_avg": 136.5,
+    "proj_avg": 136.7,
     "proj_by_week": {
      "11": 138.65,
      "12": 143.99,
-     "13": 137.55,
+     "13": 138.36,
      "14": 125.66
     },
     "rank": 8,
@@ -1204,7 +1204,7 @@
     "mine": false,
     "pa": 1219.86,
     "pf": 1206.34,
-    "playoff_odds": 0.116,
+    "playoff_odds": 0.115,
     "power_rank": 6,
     "proj_avg": 125.5,
     "proj_by_week": {
@@ -1515,6 +1515,42 @@
   {
    "get": [
     {
+     "name": "Ashton Jeanty",
+     "pid": "12527",
+     "pos": "RB",
+     "ros_per_week": 11.7,
+     "status": null,
+     "team": "LV"
+    }
+   ],
+   "give": [
+    {
+     "name": "Stefon Diggs",
+     "pid": "2449",
+     "pos": "WR",
+     "ros_per_week": 12.6,
+     "status": null,
+     "team": "WAS"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "I’m stuck Step Burrow",
+   "partner_roster_id": 8,
+   "summary": "Give Stefon Diggs, get Ashton Jeanty from I’m stuck Step Burrow: +2.0 pts/week for you, -0.3 for them.",
+   "their_gain_per_week": -0.3,
+   "value_ratio": 0.93,
+   "why_them": [
+    "Stefon Diggs would start 1 of 7 weeks for them"
+   ],
+   "why_you": [
+    "Ashton Jeanty would start 6 of 7 weeks for you",
+    "Stefon Diggs starts 6 of 7 weeks for you"
+   ],
+   "your_gain_per_week": 2.0
+  },
+  {
+   "get": [
+    {
      "name": "Jonathan Taylor",
      "pid": "6813",
      "pos": "RB",
@@ -1583,6 +1619,42 @@
     "Jordyn Tyson starts only 1 of 7 weeks for you"
    ],
    "your_gain_per_week": 1.7
+  },
+  {
+   "get": [
+    {
+     "name": "Rhamondre Stevenson",
+     "pid": "7611",
+     "pos": "RB",
+     "ros_per_week": 10.5,
+     "status": null,
+     "team": "NE"
+    }
+   ],
+   "give": [
+    {
+     "name": "Jordyn Tyson",
+     "pid": "13281",
+     "pos": "WR",
+     "ros_per_week": 11.5,
+     "status": null,
+     "team": "NO"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "Atticus Dean",
+   "partner_roster_id": 10,
+   "summary": "Give Jordyn Tyson, get Rhamondre Stevenson from Atticus Dean: +1.3 pts/week for you, -0.5 for them.",
+   "their_gain_per_week": -0.5,
+   "value_ratio": 0.91,
+   "why_them": [
+    "Jordyn Tyson would start 7 of 7 weeks for them"
+   ],
+   "why_you": [
+    "Rhamondre Stevenson would start 6 of 7 weeks for you",
+    "Jordyn Tyson starts only 1 of 7 weeks for you"
+   ],
+   "your_gain_per_week": 1.3
   }
  ],
  "waivers": [
