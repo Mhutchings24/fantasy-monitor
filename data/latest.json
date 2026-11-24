@@ -1,5 +1,5 @@
 {
- "content_hash": "1199df2672d02720006aa1282e6a37e794a7660a",
+ "content_hash": "ad1a3cd95f70e72f7043e8041c4edadf89f83615",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -250,15 +250,6 @@
    "team": "TB"
   },
   {
-   "adds_24h": 39342,
-   "name": "Drew Stevens",
-   "pos": "K",
-   "proj_4wk": 34.1,
-   "proj_this_week": 8.75,
-   "status": null,
-   "team": "WAS"
-  },
-  {
    "adds_24h": 0,
    "name": "Dalton Schultz",
    "pos": "TE",
@@ -266,6 +257,15 @@
    "proj_this_week": 8.6,
    "status": null,
    "team": "HOU"
+  },
+  {
+   "adds_24h": 39342,
+   "name": "Drew Stevens",
+   "pos": "K",
+   "proj_4wk": 34.1,
+   "proj_this_week": 8.75,
+   "status": null,
+   "team": "WAS"
   },
   {
    "adds_24h": 36379,
@@ -853,7 +853,7 @@
    "team": "PHI"
   }
  ],
- "generated_at": "2026-11-24T23:20:37Z",
+ "generated_at": "2026-11-24T23:25:41Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
