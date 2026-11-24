@@ -1,10 +1,10 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-24T21:41:11Z UTC
+Week 12 · record 3-8 · updated 2026-11-24T21:46:15Z UTC
 
 ## Lineup check
 Current lineup projects **101.1**, best possible **110.5**.
 
-- 🔁 Start Mike Evans (WR, SF) (13.5) over Rico Dowdle (RB, PIT) (7.9)
+- 🔁 Start Mike Evans (WR, SF) (13.5) over Rico Dowdle (RB, PIT) (7.8)
 - 🔁 Start Quinshon Judkins (RB, CLE) (12.9) over DJ Moore (WR, BUF) (9.2)
 
 ## Waiver targets
@@ -25,7 +25,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Drew Stevens for Jake Bates (+0.5 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **101.1** – 140.9 projected · win chance **13%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **101.1** – 140.8 projected · win chance **13%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -34,11 +34,11 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 126.6 | 99% |
 | 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 3 | 132.6 | 99% |
-| 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 130.0 | 98% |
+| 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 130.0 | 97% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 2 | 132.9 | 93% |
 | 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 123.2 | 71% |
 | 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 122.3 | 50% |
-| 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 138.6 | 71% |
+| 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 138.5 | 71% |
 | 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 120.7 | 19% |
 | 9 | Touch of the Downs | 3-8 | 1301.2 | 1316.8 | 9 | 116.5 | 0% |
 | 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 112.2 | 0% |
@@ -61,7 +61,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Jake Bates | K | DET | starter |  | 8.4 | 8.4 | 8.6 | 8.5 |
 | Jared Goff | QB | DET | starter |  | 19.9 | 19.1 | 20.0 | 16.9 |
 | Jordan Mason | RB | MIN | starter |  | 10.8 | 11.0 | 10.0 | 10.1 |
-| Rico Dowdle | RB | PIT | starter |  | 7.9 | 8.3 | 7.6 | 7.6 |
+| Rico Dowdle | RB | PIT | starter |  | 7.8 | 8.3 | 7.6 | 7.6 |
 | George Kittle | TE | SF | starter |  | 12.1 | 14.6 | 13.9 | 15.5 |
 | Stefon Diggs | WR | WAS | starter |  | 13.3 | 13.5 | 12.3 | 12.4 |
 | Jordyn Tyson | WR | NO | starter |  | 12.0 | 11.2 | 11.0 | 11.4 |
