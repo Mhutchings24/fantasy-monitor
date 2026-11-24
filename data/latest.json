@@ -1,5 +1,5 @@
 {
- "content_hash": "177563fdbde570ea64be8621f26ab8ed1ed20e20",
+ "content_hash": "a24b9a0cc5e99661ce886a8ccb626a6bb94e244e",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -350,21 +350,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Eddy Pineiro",
-   "pos": "K",
-   "proj_4wk": 31.0,
-   "proj_this_week": 8.26,
-   "status": null,
-   "team": "SF"
-  },
-  {
-   "adds_24h": 0,
    "name": "Trey Smack",
    "pos": "K",
    "proj_4wk": 31.0,
    "proj_this_week": 7.16,
    "status": null,
    "team": "GB"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Eddy Pineiro",
+   "pos": "K",
+   "proj_4wk": 31.0,
+   "proj_this_week": 8.26,
+   "status": null,
+   "team": "SF"
   },
   {
    "adds_24h": 58797,
@@ -610,15 +610,6 @@
    "team": "TB"
   },
   {
-   "adds_24h": 0,
-   "name": "Carson Beck",
-   "pos": "QB",
-   "proj_4wk": 27.4,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "ARI"
-  },
-  {
    "adds_24h": 12588,
    "name": "Tre Tucker",
    "pos": "WR",
@@ -626,6 +617,15 @@
    "proj_this_week": 8.85,
    "status": null,
    "team": "LV"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Carson Beck",
+   "pos": "QB",
+   "proj_4wk": 27.4,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "ARI"
   },
   {
    "adds_24h": 132139,
@@ -862,7 +862,7 @@
    "team": "PHI"
   }
  ],
- "generated_at": "2026-11-24T08:52:41Z",
+ "generated_at": "2026-11-24T08:57:45Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
