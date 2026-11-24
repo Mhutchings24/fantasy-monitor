@@ -1,5 +1,5 @@
 {
- "content_hash": "b5fedff79bd0abc71761a51a67591c07545ee286",
+ "content_hash": "c9aa4e65fbcae4f5da6e649cf161f5cecacd6b80",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -260,21 +260,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Germie Bernard",
-   "pos": "WR",
-   "proj_4wk": 33.7,
-   "proj_this_week": 8.07,
-   "status": null,
-   "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
    "name": "Drew Stevens",
    "pos": "K",
    "proj_4wk": 33.7,
    "proj_this_week": 8.72,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Germie Bernard",
+   "pos": "WR",
+   "proj_4wk": 33.7,
+   "proj_this_week": 8.07,
+   "status": null,
+   "team": "PIT"
   },
   {
    "adds_24h": 0,
@@ -610,15 +610,6 @@
    "team": "TB"
   },
   {
-   "adds_24h": 0,
-   "name": "Carson Beck",
-   "pos": "QB",
-   "proj_4wk": 27.4,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "ARI"
-  },
-  {
    "adds_24h": 11592,
    "name": "Tre Tucker",
    "pos": "WR",
@@ -626,6 +617,15 @@
    "proj_this_week": 8.85,
    "status": null,
    "team": "LV"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Carson Beck",
+   "pos": "QB",
+   "proj_4wk": 27.4,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "ARI"
   },
   {
    "adds_24h": 106939,
@@ -862,7 +862,7 @@
    "team": "PHI"
   }
  ],
- "generated_at": "2026-11-24T06:48:04Z",
+ "generated_at": "2026-11-24T06:53:08Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
