@@ -1,5 +1,5 @@
 {
- "content_hash": "8ae69585c6e778bc3b8ea194d2580200e1f92c87",
+ "content_hash": "ec92a13a1b61316240fbd26c8b8b69fb74d04d3e",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -574,15 +574,6 @@
    "team": "NE"
   },
   {
-   "adds_24h": 36291,
-   "name": "SF D/ST",
-   "pos": "DEF",
-   "proj_4wk": 27.6,
-   "proj_this_week": 6.78,
-   "status": null,
-   "team": "SF"
-  },
-  {
    "adds_24h": 0,
    "name": "CIN D/ST",
    "pos": "DEF",
@@ -590,6 +581,15 @@
    "proj_this_week": 8.43,
    "status": null,
    "team": "CIN"
+  },
+  {
+   "adds_24h": 36291,
+   "name": "SF D/ST",
+   "pos": "DEF",
+   "proj_4wk": 27.6,
+   "proj_this_week": 6.78,
+   "status": null,
+   "team": "SF"
   },
   {
    "adds_24h": 0,
@@ -853,7 +853,7 @@
    "team": "PHI"
   }
  ],
- "generated_at": "2026-11-24T14:18:52Z",
+ "generated_at": "2026-11-24T14:23:56Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
