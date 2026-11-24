@@ -1,11 +1,11 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-24T18:21:19Z UTC
+Week 12 · record 3-8 · updated 2026-11-24T18:31:26Z UTC
 
 ## Lineup check
-Current lineup projects **102.4**, best possible **110.5**.
+Current lineup projects **102.4**, best possible **110.7**.
 
 - 🔁 Start Mike Evans (WR, SF) (13.5) over Rico Dowdle (RB, PIT) (7.9)
-- 🔁 Start Quinshon Judkins (RB, CLE) (12.9) over DJ Moore (WR, BUF) (10.4)
+- 🔁 Start Quinshon Judkins (RB, CLE) (13.1) over DJ Moore (WR, BUF) (10.4)
 
 ## Waiver targets
 FAAB left: **$78** (league starting budget $100)
@@ -14,7 +14,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 51,660 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 52,440 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.5 | +0.2 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +0.9 | +0.0 | 0 |
@@ -32,9 +32,9 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 126.6 | 99% |
-| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 3 | 132.5 | 99% |
-| 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 130.3 | 97% |
+| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 126.5 | 99% |
+| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 3 | 132.6 | 99% |
+| 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 130.2 | 97% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 2 | 132.9 | 93% |
 | 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 123.2 | 71% |
 | 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 122.4 | 50% |
@@ -66,7 +66,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Stefon Diggs | WR | WAS | starter |  | 13.3 | 13.5 | 12.3 | 12.4 |
 | Jordyn Tyson | WR | NO | starter |  | 12.0 | 11.2 | 11.0 | 11.4 |
 | DJ Moore | WR | BUF | starter | Questionable | 10.4 | 14.2 | 13.2 | 14.1 |
-| Quinshon Judkins | RB | CLE | bench |  | 12.9 | 12.2 | 11.5 | 11.2 |
+| Quinshon Judkins | RB | CLE | bench |  | 13.1 | 12.2 | 11.5 | 11.2 |
 | Corey Kiner | RB | NE | bench |  | 7.1 | 6.1 | 6.2 | 3.5 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 15.5 | 13.2 | 14.3 |
 | Mike Evans | WR | SF | bench |  | 13.5 | 16.2 | 15.5 | 17.1 |
