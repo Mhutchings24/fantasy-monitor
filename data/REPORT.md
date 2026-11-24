@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-24T12:57:57Z UTC
+Week 12 · record 3-8 · updated 2026-11-24T13:03:03Z UTC
 
 ## Lineup check
-Current lineup projects **103.0**, best possible **111.3**.
+Current lineup projects **102.4**, best possible **110.8**.
 
 - 🔁 Start Mike Evans (WR, SF) (13.7) over Rico Dowdle (RB, PIT) (7.9)
 - 🔁 Start Quinshon Judkins (RB, CLE) (13.0) over DJ Moore (WR, BUF) (10.4)
@@ -14,7 +14,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 23,920 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 24,608 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.5 | +0.2 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +0.9 | +0.0 | 0 |
@@ -22,26 +22,26 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 
 **DEF stream this week:** add JAX D/ST for LAR D/ST (+1.7 pts this week)
 
-**K stream this week:** add Drew Stevens for Jake Bates (+0.1 pts this week)
+**K stream this week:** add Dominic Zvada for Jake Bates (+0.4 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **103.0** – 131.3 projected · win chance **21%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **102.4** – 131.3 projected · win chance **21%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 126.7 | 99% |
-| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 3 | 132.7 | 99% |
-| 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 130.5 | 97% |
+| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 126.6 | 99% |
+| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 3 | 132.6 | 99% |
+| 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 130.5 | 98% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 2 | 132.9 | 93% |
-| 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 123.4 | 71% |
-| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 122.5 | 50% |
-| 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 138.4 | 70% |
-| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 120.8 | 19% |
-| 9 | Touch of the Downs | 3-8 | 1301.2 | 1316.8 | 9 | 116.8 | 0% |
-| 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 112.4 | 0% |
+| 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 123.3 | 71% |
+| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 122.4 | 50% |
+| 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 138.4 | 71% |
+| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 120.7 | 19% |
+| 9 | Touch of the Downs | 3-8 | 1301.2 | 1316.8 | 9 | 116.6 | 0% |
+| 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 112.3 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -58,12 +58,12 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Player | Pos | Team | Spot | Status | Wk 12 | Wk 13 | Wk 14 | Wk 15 |
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter |  | 7.5 | 6.1 | 5.9 | 6.3 |
-| Jake Bates | K | DET | starter |  | 8.8 | 8.4 | 8.6 | 8.5 |
+| Jake Bates | K | DET | starter |  | 8.4 | 8.4 | 8.6 | 8.5 |
 | Jared Goff | QB | DET | starter |  | 19.9 | 19.1 | 20.0 | 16.9 |
 | Jordan Mason | RB | MIN | starter |  | 10.8 | 11.0 | 10.0 | 10.1 |
 | Rico Dowdle | RB | PIT | starter |  | 7.9 | 8.3 | 7.6 | 7.6 |
 | George Kittle | TE | SF | starter |  | 12.2 | 14.6 | 13.9 | 15.5 |
-| Stefon Diggs | WR | WAS | starter |  | 13.4 | 13.5 | 12.3 | 12.4 |
+| Stefon Diggs | WR | WAS | starter |  | 13.2 | 13.5 | 12.3 | 12.4 |
 | Jordyn Tyson | WR | NO | starter |  | 12.0 | 11.2 | 11.0 | 11.4 |
 | DJ Moore | WR | BUF | starter | Questionable | 10.4 | 14.2 | 13.2 | 14.1 |
 | Quinshon Judkins | RB | CLE | bench |  | 13.0 | 12.2 | 11.5 | 11.2 |
