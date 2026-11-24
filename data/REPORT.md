@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-24T02:49:08Z UTC
+Week 11 · record 3-7 · updated 2026-11-24T02:54:11Z UTC
 
 ## Lineup check
 Current lineup projects **91.5**, best possible **94.7**.
@@ -27,24 +27,24 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 4 | 129.8 | 99% |
+| 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 4 | 129.6 | 99% |
 | 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 3 | 130.9 | 98% |
-| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 5 | 128.1 | 99% |
-| 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 134.3 | 97% |
-| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 7 | 121.9 | 58% |
+| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 5 | 127.7 | 99% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 134.1 | 97% |
+| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 7 | 121.9 | 57% |
 | 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 116.2 | 48% |
-| 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 6 | 122.4 | 40% |
-| 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 136.4 | 57% |
-| 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 8 | 117.4 | 6% |
-| 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 107.9 | 0% |
+| 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 6 | 122.5 | 39% |
+| 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 136.9 | 57% |
+| 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 8 | 117.3 | 6% |
+| 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 108.0 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
-- **Likely** · Give Mike Evans, get Jonathan Taylor from Monangynecologist: +1.6 pts/week for you, +0.3 for them.
-- **Likely** · Give Mike Evans, get Jonah Coleman from Monangynecologist: +1.3 pts/week for you, +0.4 for them.
-- **Possible** · Give Stefon Diggs, get Ashton Jeanty from I’m stuck Step Burrow: +2.3 pts/week for you, -0.2 for them.
-- **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +2.1 pts/week for you, -0.3 for them.
+- **Likely** · Give Mike Evans, get Jonathan Taylor from Monangynecologist: +1.5 pts/week for you, +0.3 for them.
+- **Likely** · Give Mike Evans, get Jonah Coleman from Monangynecologist: +1.2 pts/week for you, +0.4 for them.
+- **Possible** · Give Stefon Diggs, get Ashton Jeanty from I’m stuck Step Burrow: +2.2 pts/week for you, -0.2 for them.
+- **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +2.1 pts/week for you, -0.4 for them.
 - **Possible** · Give DJ Moore, get Derrick Henry from Gibbs me Nabers 😵‍💫: +2.0 pts/week for you, -0.3 for them.
 - **Possible** · Give Mike Evans, get Cam Skattebo from Gibbs me Nabers 😵‍💫: +1.7 pts/week for you, -0.4 for them.
 - **Possible** · Give Jared Goff, get Patrick Mahomes from Bradsgay: +1.2 pts/week for you, -0.0 for them.
@@ -58,9 +58,9 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Rico Dowdle | RB | PIT | starter |  | 9.5 | 7.9 | 8.3 | 7.6 |
 | Jordan Mason | RB | MIN | starter |  | 8.7 | 10.7 | 11.0 | 10.0 |
 | George Kittle | TE | SF | starter |  | 12.4 | 12.2 | 14.6 | 13.9 |
-| Stefon Diggs | WR | WAS | starter |  | 13.4 | 13.1 | 13.5 | 12.3 |
+| Stefon Diggs | WR | WAS | starter |  | 13.4 | 13.4 | 13.5 | 12.3 |
 | DJ Moore | WR | BUF | starter | Questionable | 11.0 | 12.4 | 14.2 | 13.2 |
-| Jordyn Tyson | WR | NO | starter |  | 10.7 | 12.0 | 11.2 | 11.0 |
+| Jordyn Tyson | WR | NO | starter |  | 10.7 | 11.7 | 11.2 | 11.0 |
 | Corey Kiner | RB | NE | bench | BYE | 0.0 | 7.0 | 6.1 | 6.2 |
 | Quinshon Judkins | RB | CLE | bench | BYE | 0.0 | 12.8 | 12.2 | 11.5 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 0.0 | 15.5 | 13.2 |
