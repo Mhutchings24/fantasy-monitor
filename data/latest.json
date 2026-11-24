@@ -1,5 +1,5 @@
 {
- "content_hash": "3f01a443f23fcc16540851b80d1c806bade03e93",
+ "content_hash": "90ee4709413cac69fa5cda810f45c768d23c6c4e",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -304,15 +304,6 @@
    "team": "NE"
   },
   {
-   "adds_24h": 59359,
-   "name": "Antonio Williams",
-   "pos": "WR",
-   "proj_4wk": 31.8,
-   "proj_this_week": 8.15,
-   "status": null,
-   "team": "WAS"
-  },
-  {
    "adds_24h": 0,
    "name": "Pat Freiermuth",
    "pos": "TE",
@@ -320,6 +311,15 @@
    "proj_this_week": 7.57,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 59359,
+   "name": "Antonio Williams",
+   "pos": "WR",
+   "proj_4wk": 31.8,
+   "proj_this_week": 8.15,
+   "status": null,
+   "team": "WAS"
   },
   {
    "adds_24h": 20307,
@@ -610,15 +610,6 @@
    "team": "TB"
   },
   {
-   "adds_24h": 0,
-   "name": "Carson Beck",
-   "pos": "QB",
-   "proj_4wk": 27.4,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "ARI"
-  },
-  {
    "adds_24h": 19914,
    "name": "Tre Tucker",
    "pos": "WR",
@@ -626,6 +617,15 @@
    "proj_this_week": 8.85,
    "status": null,
    "team": "LV"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Carson Beck",
+   "pos": "QB",
+   "proj_4wk": 27.4,
+   "proj_this_week": 0.0,
+   "status": "Out",
+   "team": "ARI"
   },
   {
    "adds_24h": 371070,
@@ -844,7 +844,7 @@
    "team": "PHI"
   }
  ],
- "generated_at": "2026-11-24T15:48:11Z",
+ "generated_at": "2026-11-24T15:53:16Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
