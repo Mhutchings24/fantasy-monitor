@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-24T04:42:19Z UTC
+Week 11 · record 3-7 · updated 2026-11-24T04:47:25Z UTC
 
 ## Lineup check
 Current lineup projects **91.5**, best possible **94.7**.
@@ -36,7 +36,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 6 | 122.5 | 39% |
 | 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 136.9 | 57% |
 | 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 8 | 117.3 | 6% |
-| 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 108.0 | 0% |
+| 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 108.1 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -47,6 +47,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +2.1 pts/week for you, -0.4 for them.
 - **Possible** · Give DJ Moore, get Derrick Henry from Gibbs me Nabers 😵‍💫: +2.0 pts/week for you, -0.3 for them.
 - **Possible** · Give Mike Evans, get Cam Skattebo from Gibbs me Nabers 😵‍💫: +1.7 pts/week for you, -0.4 for them.
+- **Possible** · Give DJ Moore, get Ashton Jeanty from I’m stuck Step Burrow: +1.6 pts/week for you, -0.5 for them.
 - **Possible** · Give Jared Goff, get Patrick Mahomes from Bradsgay: +1.2 pts/week for you, -0.0 for them.
 
 ## Roster
@@ -59,7 +60,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Jordan Mason | RB | MIN | starter |  | 8.7 | 10.7 | 11.0 | 10.0 |
 | George Kittle | TE | SF | starter |  | 12.4 | 12.2 | 14.6 | 13.9 |
 | Stefon Diggs | WR | WAS | starter |  | 13.4 | 13.4 | 13.5 | 12.3 |
-| DJ Moore | WR | BUF | starter | Questionable | 11.0 | 12.3 | 14.2 | 13.2 |
+| DJ Moore | WR | BUF | starter | Questionable | 11.0 | 12.4 | 14.2 | 13.2 |
 | Jordyn Tyson | WR | NO | starter |  | 10.7 | 11.7 | 11.2 | 11.0 |
 | Corey Kiner | RB | NE | bench | BYE | 0.0 | 7.0 | 6.1 | 6.2 |
 | Quinshon Judkins | RB | CLE | bench | BYE | 0.0 | 12.8 | 12.2 | 11.5 |
