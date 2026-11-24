@@ -1,5 +1,5 @@
 {
- "content_hash": "608719bc2c0ca517857c282aca2152ed80ea953b",
+ "content_hash": "27685b64fb6a15b59417c9925a51d6fd95d10128",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -64,8 +64,8 @@
    "adds_24h": 0,
    "name": "Matthew Stafford",
    "pos": "QB",
-   "proj_4wk": 59.7,
-   "proj_this_week": 13.54,
+   "proj_4wk": 59.6,
+   "proj_this_week": 13.44,
    "status": null,
    "team": "LAR"
   },
@@ -332,21 +332,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Trey Smack",
-   "pos": "K",
-   "proj_4wk": 31.4,
-   "proj_this_week": 7.16,
-   "status": null,
-   "team": "GB"
-  },
-  {
-   "adds_24h": 0,
    "name": "Daniel Carlson",
    "pos": "K",
    "proj_4wk": 31.4,
    "proj_this_week": 7.78,
    "status": null,
    "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Trey Smack",
+   "pos": "K",
+   "proj_4wk": 31.4,
+   "proj_this_week": 7.13,
+   "status": null,
+   "team": "GB"
   },
   {
    "adds_24h": 0,
@@ -398,7 +398,7 @@
    "name": "Tyler Higbee",
    "pos": "TE",
    "proj_4wk": 30.9,
-   "proj_this_week": 8.07,
+   "proj_this_week": 8.06,
    "status": null,
    "team": "LAR"
   },
@@ -515,7 +515,7 @@
    "name": "Brandon McManus",
    "pos": "K",
    "proj_4wk": 28.5,
-   "proj_this_week": 7.22,
+   "proj_this_week": 7.18,
    "status": null,
    "team": "LAR"
   },
@@ -551,7 +551,7 @@
    "name": "GB D/ST",
    "pos": "DEF",
    "proj_4wk": 28.1,
-   "proj_this_week": 5.91,
+   "proj_this_week": 5.88,
    "status": null,
    "team": "GB"
   },
@@ -740,7 +740,7 @@
    "name": "Konata Mumpfield",
    "pos": "WR",
    "proj_4wk": 21.5,
-   "proj_this_week": 8.01,
+   "proj_this_week": 7.99,
    "status": null,
    "team": "LAR"
   },
@@ -853,7 +853,7 @@
    "team": "PHI"
   }
  ],
- "generated_at": "2026-11-24T23:00:21Z",
+ "generated_at": "2026-11-24T23:05:25Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -931,12 +931,12 @@
    {
     "name": "LAR D/ST",
     "pid": "LAR",
-    "proj": 7.49,
+    "proj": 7.47,
     "slot": "DEF"
    }
   ],
-  "best_projected": 110.33,
-  "current_projected": 100.88,
+  "best_projected": 110.31,
+  "current_projected": 100.86,
   "gain": 9.45,
   "problems": [],
   "source": "matchup week 12",
@@ -1074,7 +1074,7 @@
     "power_rank": 5,
     "proj_avg": 126.2,
     "proj_by_week": {
-     "12": 129.05,
+     "12": 129.0,
      "13": 121.29,
      "14": 117.59,
      "15": 136.8
@@ -1116,7 +1116,7 @@
     "power_rank": 4,
     "proj_avg": 130.1,
     "proj_by_week": {
-     "12": 123.69,
+     "12": 123.61,
      "13": 132.77,
      "14": 127.78,
      "15": 136.32
@@ -1200,7 +1200,7 @@
     "power_rank": 1,
     "proj_avg": 137.8,
     "proj_by_week": {
-     "12": 142.58,
+     "12": 142.55,
      "13": 136.71,
      "14": 126.19,
      "15": 145.66
@@ -1217,7 +1217,7 @@
     "mine": false,
     "pa": 1417.6,
     "pf": 1271.58,
-    "playoff_odds": 0.188,
+    "playoff_odds": 0.189,
     "power_rank": 8,
     "proj_avg": 120.2,
     "proj_by_week": {
@@ -1242,7 +1242,7 @@
     "power_rank": 9,
     "proj_avg": 116.7,
     "proj_by_week": {
-     "12": 114.6,
+     "12": 114.55,
      "13": 116.03,
      "14": 118.12,
      "15": 118.03
@@ -1261,9 +1261,9 @@
     "pf": 1212.28,
     "playoff_odds": 0.0,
     "power_rank": 10,
-    "proj_avg": 111.4,
+    "proj_avg": 111.3,
     "proj_by_week": {
-     "12": 110.33,
+     "12": 110.31,
      "13": 112.05,
      "14": 110.91,
      "15": 112.13
@@ -1284,7 +1284,7 @@
    "pid": "LAR",
    "pos": "DEF",
    "proj_by_week": {
-    "12": 7.49,
+    "12": 7.47,
     "13": 6.08,
     "14": 5.9,
     "15": 6.35
@@ -1523,8 +1523,8 @@
   {
    "drop": "LAR",
    "drop_name": "LAR D/ST",
-   "gain_this_week": 1.73,
-   "gain_window": 1.73,
+   "gain_this_week": 1.75,
+   "gain_window": 1.75,
    "name": "JAX D/ST",
    "pid": "JAX",
    "pos": "DEF",
@@ -1941,7 +1941,7 @@
    "pid": "421",
    "pos": "QB",
    "proj_by_week": {
-    "12": 13.54,
+    "12": 13.44,
     "13": 13.64,
     "14": 14.76,
     "15": 17.8
