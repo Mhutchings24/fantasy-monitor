@@ -1,5 +1,5 @@
 {
- "content_hash": "93ddd7996987553b165f73daf0b304a8e1e5b413",
+ "content_hash": "609116f73f92d2ca397423c7815f6cfcd3c01b91",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -377,21 +377,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "JAX D/ST",
-   "pos": "DEF",
-   "proj_4wk": 29.9,
-   "proj_this_week": 8.0,
-   "status": null,
-   "team": "JAX"
-  },
-  {
-   "adds_24h": 0,
    "name": "Ryan Fitzgerald",
    "pos": "K",
    "proj_4wk": 29.9,
    "proj_this_week": 7.73,
    "status": null,
    "team": "CAR"
+  },
+  {
+   "adds_24h": 0,
+   "name": "JAX D/ST",
+   "pos": "DEF",
+   "proj_4wk": 29.9,
+   "proj_this_week": 8.0,
+   "status": null,
+   "team": "JAX"
   },
   {
    "adds_24h": 0,
@@ -565,15 +565,6 @@
    "team": "TB"
   },
   {
-   "adds_24h": 8091,
-   "name": "Xavier Worthy",
-   "pos": "WR",
-   "proj_4wk": 24.9,
-   "proj_this_week": 6.81,
-   "status": null,
-   "team": "KC"
-  },
-  {
    "adds_24h": 61894,
    "name": "WAS D/ST",
    "pos": "DEF",
@@ -581,6 +572,15 @@
    "proj_this_week": 4.14,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 8091,
+   "name": "Xavier Worthy",
+   "pos": "WR",
+   "proj_4wk": 24.9,
+   "proj_this_week": 6.81,
+   "status": null,
+   "team": "KC"
   },
   {
    "adds_24h": 0,
@@ -862,7 +862,7 @@
    "team": "PIT"
   }
  ],
- "generated_at": "2026-11-24T01:44:52Z",
+ "generated_at": "2026-11-24T01:49:57Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
