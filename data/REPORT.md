@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-7 · updated 2026-11-24T05:02:39Z UTC
+Week 12 · record 3-7 · updated 2026-11-24T05:07:44Z UTC
 
 ## Lineup check
 Current lineup projects **102.7**, best possible **110.8**.
@@ -14,7 +14,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 11,184 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 11,476 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.6 | +0.2 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +0.9 | +0.0 | 0 |
@@ -25,7 +25,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Drew Stevens for Jake Bates (+0.2 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-4): you **102.7** – 101.1 projected · win chance **52%**
+vs **Gibbs me Nabers 😵‍💫** (6-4): you **102.7** – 131.3 projected · win chance **21%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
