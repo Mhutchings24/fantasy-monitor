@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-7 · updated 2026-11-24T05:07:44Z UTC
+Week 12 · record 3-7 · updated 2026-11-24T05:17:51Z UTC
 
 ## Lineup check
-Current lineup projects **102.7**, best possible **110.8**.
+Current lineup projects **102.8**, best possible **110.8**.
 
 - 🔁 Start Mike Evans (WR, SF) (13.7) over Rico Dowdle (RB, PIT) (7.9)
 - 🔁 Start Quinshon Judkins (RB, CLE) (12.8) over DJ Moore (WR, BUF) (10.5)
@@ -14,9 +14,9 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 11,476 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 11,828 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
-| Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.6 | +0.2 | 0 |
+| Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.5 | +0.2 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +0.9 | +0.0 | 0 |
 | Michael Penix Jr. | QB | ATL | Corey Kiner | +0.1 | +0.0 | 0 |
 
@@ -25,7 +25,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Drew Stevens for Jake Bates (+0.2 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-4): you **102.7** – 131.3 projected · win chance **21%**
+vs **Gibbs me Nabers 😵‍💫** (6-4): you **102.8** – 131.3 projected · win chance **21%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -37,7 +37,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 5 | 126.3 | 97% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 132.7 | 98% |
 | 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 6 | 123.4 | 56% |
-| 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 8 | 120.8 | 54% |
+| 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 8 | 120.7 | 54% |
 | 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 7 | 122.5 | 38% |
 | 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 138.5 | 55% |
 | 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 9 | 116.7 | 4% |
@@ -60,7 +60,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | LAR D/ST | DEF | LAR | starter |  | 7.5 | 6.1 | 5.9 | 6.3 |
 | Jake Bates | K | DET | starter |  | 8.8 | 8.4 | 8.6 | 8.5 |
 | Jared Goff | QB | DET | starter |  | 19.9 | 19.1 | 20.0 | 16.9 |
-| Jordan Mason | RB | MIN | starter |  | 10.7 | 11.0 | 10.0 | 10.1 |
+| Jordan Mason | RB | MIN | starter |  | 10.8 | 11.0 | 10.0 | 10.1 |
 | Rico Dowdle | RB | PIT | starter |  | 7.9 | 8.3 | 7.6 | 7.6 |
 | George Kittle | TE | SF | starter |  | 12.2 | 14.6 | 13.9 | 15.5 |
 | Stefon Diggs | WR | WAS | starter |  | 13.4 | 13.5 | 12.3 | 12.4 |
