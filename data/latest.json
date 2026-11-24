@@ -1,5 +1,5 @@
 {
- "content_hash": "2ba1565d8c739200d79740f22a0792613fae9eaa",
+ "content_hash": "11c7a5a8aadc2d9380e33acd755dbac7a1e11c5b",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -377,21 +377,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "JAX D/ST",
-   "pos": "DEF",
-   "proj_4wk": 29.9,
-   "proj_this_week": 8.0,
-   "status": null,
-   "team": "JAX"
-  },
-  {
-   "adds_24h": 0,
    "name": "Ryan Fitzgerald",
    "pos": "K",
    "proj_4wk": 29.9,
    "proj_this_week": 7.73,
    "status": null,
    "team": "CAR"
+  },
+  {
+   "adds_24h": 0,
+   "name": "JAX D/ST",
+   "pos": "DEF",
+   "proj_4wk": 29.9,
+   "proj_this_week": 8.0,
+   "status": null,
+   "team": "JAX"
   },
   {
    "adds_24h": 0,
@@ -853,7 +853,7 @@
    "team": "PHI"
   }
  ],
- "generated_at": "2026-11-24T03:26:10Z",
+ "generated_at": "2026-11-24T03:31:15Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
