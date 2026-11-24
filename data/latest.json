@@ -1,5 +1,5 @@
 {
- "content_hash": "9bc0ac9330eedb89785a30b50a9f52663c0e5c6c",
+ "content_hash": "b39c8096e00003b2c46ffcaa950aa51116b3920d",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -610,15 +610,6 @@
    "team": "TB"
   },
   {
-   "adds_24h": 18372,
-   "name": "Tre Tucker",
-   "pos": "WR",
-   "proj_4wk": 27.4,
-   "proj_this_week": 8.85,
-   "status": null,
-   "team": "LV"
-  },
-  {
    "adds_24h": 0,
    "name": "Carson Beck",
    "pos": "QB",
@@ -626,6 +617,15 @@
    "proj_this_week": 0.0,
    "status": "Out",
    "team": "ARI"
+  },
+  {
+   "adds_24h": 18372,
+   "name": "Tre Tucker",
+   "pos": "WR",
+   "proj_4wk": 27.4,
+   "proj_this_week": 8.85,
+   "status": null,
+   "team": "LV"
   },
   {
    "adds_24h": 318878,
@@ -853,7 +853,7 @@
    "team": "BUF"
   }
  ],
- "generated_at": "2026-11-24T14:49:17Z",
+ "generated_at": "2026-11-24T14:54:22Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
