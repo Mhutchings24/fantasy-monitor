@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 11 · record 3-7 · updated 2026-11-24T01:49:57Z UTC
+Week 11 · record 3-7 · updated 2026-11-24T02:18:51Z UTC
 
 ## Lineup check
 Current lineup projects **91.5**, best possible **94.7**.
@@ -30,13 +30,13 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 4 | 129.8 | 99% |
 | 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 3 | 130.9 | 98% |
 | 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 5 | 128.1 | 99% |
-| 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 134.4 | 97% |
-| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 7 | 122.0 | 58% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 134.3 | 97% |
+| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 7 | 121.9 | 58% |
 | 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 9 | 116.2 | 48% |
-| 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 6 | 122.5 | 40% |
+| 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 6 | 122.4 | 40% |
 | 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 136.4 | 57% |
 | 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 8 | 117.4 | 6% |
-| 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 108.0 | 0% |
+| 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 107.9 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -53,10 +53,10 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Player | Pos | Team | Spot | Status | Wk 11 | Wk 12 | Wk 13 | Wk 14 |
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter | BYE | 0.0 | 7.5 | 6.1 | 5.9 |
-| Jake Bates | K | DET | starter |  | 8.7 | 8.8 | 8.4 | 8.6 |
-| Jared Goff | QB | DET | starter |  | 17.2 | 19.9 | 19.1 | 20.0 |
+| Jake Bates | K | DET | starter |  | 8.7 | 8.7 | 8.4 | 8.6 |
+| Jared Goff | QB | DET | starter |  | 17.2 | 19.8 | 19.1 | 20.0 |
 | Rico Dowdle | RB | PIT | starter |  | 9.5 | 7.9 | 8.3 | 7.6 |
-| Jordan Mason | RB | MIN | starter |  | 8.7 | 10.8 | 11.0 | 10.0 |
+| Jordan Mason | RB | MIN | starter |  | 8.7 | 10.7 | 11.0 | 10.0 |
 | George Kittle | TE | SF | starter |  | 12.4 | 12.2 | 14.6 | 13.9 |
 | Stefon Diggs | WR | WAS | starter |  | 13.4 | 13.1 | 13.5 | 12.3 |
 | DJ Moore | WR | BUF | starter | Questionable | 11.0 | 12.4 | 14.2 | 13.2 |
