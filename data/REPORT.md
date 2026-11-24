@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-7 · updated 2026-11-24T05:28:00Z UTC
+Week 12 · record 3-8 · updated 2026-11-24T05:41:43Z UTC
 
 ## Lineup check
 Current lineup projects **102.7**, best possible **110.8**.
@@ -14,7 +14,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 12,156 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 11,828 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.5 | +0.2 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +0.9 | +0.0 | 0 |
@@ -25,23 +25,23 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Dominic Zvada for Jake Bates (+0.1 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-4): you **102.7** – 131.1 projected · win chance **21%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **102.7** – 131.1 projected · win chance **21%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | I’m stuck Step Burrow | 7-3 | 1210.2 | 1170.0 | 4 | 130.6 | 99% |
-| 2 | Atticus Dean | 6-4 | 1399.6 | 1317.2 | 3 | 132.6 | 98% |
-| 3 | Bradsgay | 6-4 | 1378.7 | 1360.8 | 5 | 126.7 | 98% |
-| 4 | Gibbs me Nabers 😵‍💫 | 6-4 | 1303.8 | 1246.7 | 2 | 132.9 | 98% |
-| 5 | Never Going Go Scottsdale | 5-5 | 1220.7 | 1236.3 | 6 | 123.4 | 56% |
-| 6 | Bradsbaconisundercooked | 5-5 | 1206.6 | 1293.6 | 8 | 120.8 | 53% |
-| 7 | Monangynecologist | 5-5 | 1150.8 | 1107.3 | 7 | 122.5 | 40% |
-| 8 | Glizzy Globbler  | 4-6 | 1236.0 | 1248.1 | 1 | 138.1 | 54% |
-| 9 | Touch of the Downs | 3-7 | 1206.3 | 1219.9 | 9 | 116.8 | 4% |
-| 10 | **Conorrhea ** | 3-7 | 1119.8 | 1232.7 | 10 | 112.3 | 0% |
+| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 126.7 | 99% |
+| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 3 | 132.6 | 99% |
+| 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 130.6 | 98% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 2 | 132.9 | 93% |
+| 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 123.4 | 71% |
+| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 122.5 | 51% |
+| 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 138.1 | 70% |
+| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 120.8 | 19% |
+| 9 | Touch of the Downs | 3-8 | 1301.2 | 1316.8 | 9 | 116.8 | 0% |
+| 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 112.3 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
