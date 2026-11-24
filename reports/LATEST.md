@@ -1,107 +1,97 @@
-# Week 11 · Mon Nov 23 PM report
-_Conorrhea · No Fun League · record 3-7 · data as of 5:37 PM MT (fresh monitor run succeeded)_
+# Week 12 check-in · Tue Nov 24
+_Conorrhea · No Fun League · record 3-8 · 10th of 10 · playoff odds 0% · data as of 7:37 AM MT (fresh monitor run 45416057665 succeeded)_
 
-## Bottom line
-- **Your DEF is still LAR D/ST (bye, 0 pts) as of 5:37 PM MT. Add CIN D/ST ($0 free agent), drop LAR D/ST, start CIN before 6:15 PM MT / 8:15 PM ET.** It's the last DEF left to play this week. If the add fails, use WAS D/ST. **High.**
-- **Keep Diggs at WR tonight.** No designation all week. **High.**
-- **Week 12 starts Wednesday.** Plan: Evans back in for Tyson at WR, Judkins back at RB, Jacobs stays on IR (not expected to play Wed), and stream **JAX D/ST** (home vs Titans) in Week 12.
-- **Waiver idea for Week 12:** Aaron Jones Sr. (free agent) for Corey Kiner, $1–5. He projects slightly above your Jordan Mason in the same backfield. **Low.**
-- **DJ Moore (knee) plays Thursday night vs KC.** Watch the Bills' Mon–Wed practice reports. If he's DNP Tuesday, start Tyson at FLEX. Wednesday 4 PM ET is the final status deadline.
+**Fix first.** Your saved Week 12 lineup still starts **Dowdle at RB and Tyson at WR**, with **Judkins and Evans on the bench** and **LAR D/ST** at DEF. Week 12 starts **Wednesday 8:00 PM ET (6:00 PM MT)** with GB @ LAR, which locks LAR D/ST. Make the DEF swap and set the lineup **today or by Wednesday afternoon**.
 
-## Recommended lineup
-Week 11 (tonight):
+## Last week
+**Lost 92.5–142.1 to Bradsgay**, a 49.6-point loss.
+
+- **Who carried you:** DJ Moore 23.1 (9-91-1 after a scary knee hyperextension), Goff 20.4, Kittle 18.4.
+- **Who let you down:** Tyson 2.0 at FLEX, Mason 4.7 (11 carries, 38 yards; Aaron Jones got the TD), Diggs 8.5. **DEF scored 0.** LAR was on bye, and the CIN D/ST add never went through.
+- **Bench points left on the table: about 27.** Evans scored 22.9 on your bench vs Tyson's 2.0 (20.9 pts). A streamed DEF would have added roughly 6. Even with both, you'd have lost by about 23.
+- **The lesson:** the empty DEF slot cost points in two straight weeks. Do the DEF add first, before anything else, while the free agent is still there.
+
+## Where you stand
+- **Standings:** 10th, 3-8, last in points for (1,212.3). Six teams have 6+ wins, and 6th place (Monangynecologist) is 6-5. You're **3 games back with 3 regular-season games left** (Weeks 12–14; playoffs start Week 15).
+- **Playoff odds: 0%** (4,000 sims), down from 0.2% a week ago. Even 6-8 can't catch a 6-5 team that has the tiebreak edge in points. You're eliminated in practice.
+- **Schedule:** you're projected lowest in the league for Weeks 12–14 (110.6 / 115.2 / 110.9 with the best lineup).
+- **What it means:** you're playing for wins and pride, and as a spoiler. FAAB has no future value. Spend whatever improves this week.
+
+## This week
+**Opponent: Gibbs me Nabers 😵‍💫 (6-5, 4th, 93% playoff odds, power rank 2).**
+- Monitor projection: **you 102.5 as set, 110.6 best lineup, vs them 140.9.** Their best possible lineup is 143.4. **Win chance 14%** as set. With the best lineup plus JAX D/ST, it's about **18–20% (est.)**.
+- **You're a big underdog, so favor ceiling.** That means target-share WRs in high-total games over low-ceiling RBs.
+- Their namesakes look healthy. Malik Nabers had 12 targets and a TD vs JAX in Week 11, and NYG is a 6.5-point favorite at IND. Jahmyr Gibbs plays Thursday 1 PM ET vs CHI (total 55.5, the highest of the week). Neither is on Monday's Week 12 injury roundup (Yahoo, Nov 23). The monitor doesn't carry their full roster, so check it in Sleeper.
+
+**Early lineup plan:**
 
 | Slot | Player | Game (ET) | Proj | Plays? | Confidence | Why |
 |---|---|---|---|---|---|---|
-| QB | Jared Goff | Sun (final) | 17.2 | Played | — | Locked |
-| RB | Rico Dowdle | Sun (final) | 9.5 | Played | — | Locked |
-| RB | Jordan Mason | Sun (final) | 8.7 | Played | — | Locked |
-| WR | Stefon Diggs | **Mon 8:15 PM** CIN @ WAS | 13.4 | ~97% (est.) | High | Healthy WR1, ~54 total |
-| WR | DJ Moore | Sun (final) | 11.0 | Played | — | Locked |
-| TE | George Kittle | Sun (final) | 12.4 | Played | — | Locked |
-| FLEX | Jordyn Tyson | Sun (final) | 10.7 | Played | — | Locked |
-| K | Jake Bates | Sun (final) | 8.7 | Played | — | Locked |
-| DEF | **CIN D/ST** (add; drop LAR) | **Mon 8:15 PM** @ WAS | ~6.5 | Yes | High | LAR is on bye. Anything beats 0 |
+| QB | Jared Goff | CHI @ DET · **Thu 1:00** | 19.9 | 95%+ | High | Week-high 55.5 total. Bears -2.5, so DET may chase |
+| RB | **Quinshon Judkins** | LV @ CLE · Sun 8:20 | 12.8 | 95%+ | Medium | Back from bye. Still the starter, but Sampson takes passing-down snaps (FantasyPros, Nov 23). CLE -4.5 |
+| RB | Jordan Mason (or **Aaron Jones** if claimed) | ATL @ MIN · Sun 1:00 | 10.8 | 95%+ | Low | Near-even split: Mason 11 carries, Jones 8 and the TD in Week 11. MIN -6.5 is a good run script |
+| WR | **Mike Evans** | SEA @ SF · Sun 4:25 | 13.7 | ~95% (est.) | High | 6-109-1 in his return. No designation |
+| WR | Stefon Diggs | WAS @ ARI · Sun 4:25 | 13.2 | 95%+ | High | No tag. WAS -7.5, but a low 40.5 total limits his ceiling |
+| TE | George Kittle | SEA @ SF · Sun 4:25 | 12.2 | 95%+ | High | 2 TDs in Week 11 |
+| FLEX | **DJ Moore** | KC @ BUF · **Thu 8:20** | 10.4 | ~92% (est.) | Medium | Not on Monday's Bills injury report (SI / Buffalo Rumblings, Nov 23–24). 42 pts in his last 2 games. Tyson (Sunday) is the pivot if he's scratched |
+| K | Jake Bates | CHI @ DET · Thu 1:00 | 8.4 | — | Medium | Same 55.5-total game as Goff |
+| DEF | **JAX D/ST** (add; drop LAR) | TEN @ JAX · Sun 1:00 | 9.2 | — | High | JAX -14.5 at home. LAR (7.5) plays Wednesday and locks |
 
-Week 12 early plan (set by Tuesday night):
+**Bench:** Tyson (NO @ CIN, Sun 1:00), Dowdle (DEN @ PIT, Fri 3:00), Allen, Kiner/Jones, Cooper (out), Jacobs (IR), Adams (IR).
 
-| Slot | Player | Proj | Plays? | Confidence | Why |
-|---|---|---|---|---|---|
-| QB | Jared Goff | 19.9 | Yes | High | Your only QB |
-| RB | Quinshon Judkins | 12.7 | Yes | High | Back from bye, lead back |
-| RB | Jordan Mason (or Aaron Jones if added) | 10.8 | Yes | Low | Shares MIN backfield with Jones. See Key decisions |
-| WR | Mike Evans | 13.7 | ~95% (est.) | High | 6-109-1 in his return Sunday |
-| WR | Stefon Diggs | 13.1 | Yes | High | WR1 in WAS |
-| TE | George Kittle | 12.2 | Yes | High | — |
-| FLEX | DJ Moore | 12.4 | ~85% (est.) | Medium | Knee. Thu 8:20 PM vs KC. Pivot: Tyson (12.0) |
-| K | Jake Bates | 8.8 | Yes | High | — |
-| DEF | JAX D/ST (add) | 9.2 | Yes | Medium | Home vs Titans. Alt: LAC D/ST vs NE (DeVito at QB) |
+**Decisions to revisit later in the week:**
+1. **FLEX: Moore or Tyson.**
+   - Moore hyperextended his knee Sunday but returned and finished 9-91-1. The Bills left him off Monday's injury report. Coach Joe Brady praised his toughness (SI, Nov 24). One outside analyst, ex-team doctor David Chao, called Thursday "in jeopardy" (Heavy, Nov 22), but that came before the team report.
+   - **Start Moore.** He plays Thursday, so if he's ruled out, Tyson is still unlocked for Sunday. Starting Tyson first throws that safety net away.
+   - **Flip to Tyson** if Moore shows up as DNP or limited on Tuesday's or Wednesday's report, or is listed questionable or worse by Wednesday 4 PM ET. Tyson has upside of his own: NO is a 10.5-point underdog at CIN (total 51.5), so the Saints should throw a lot.
+2. **RB2: Mason or Jones.**
+   - Start whichever back gets the better midweek news. With no news, start **Jones** if the claim lands. He has the goal-line work. Otherwise start Mason. Both beat Dowdle, who plays Friday in a 38.5 total.
+3. **Late-game risk.**
+   - Judkins plays SNF (8:20 PM ET). No bench RB is still unlocked by then: Dowdle plays Friday, and Mason/Jones play at 1 PM. A surprise Judkins scratch would leave the slot empty.
+   - Evans, Kittle and Diggs play at 4:25 PM ET. Allen (SF, same game) is the only bench WR still unlocked then; check inactives at 2:55 PM ET (12:55 PM MT).
+   - Judkins has no tag, so the risk is low. Check CLE inactives at 6:50 PM ET (4:50 PM MT) Sunday.
 
-## This week's matchup
-vs **Bradsgay** (6-4). Pregame projection was 91.5 to 138.5, a 9% win chance. This data has no live scores, so check the margin in Sleeper. Win or lose, the empty DEF slot is free points. CIN is the road favorite against a Washington line that came in banged up, so it has sack and turnover upside despite the high total. You're eliminated in the sims (0% playoff odds), so treat the rest of the season as playing for wins and spoiling.
+## Waiver plan
+You have **$78 FAAB** and no playoff path, so keep only about **$50** for emergencies (e.g., if Moore is scratched and you need a WR).
 
-## Key decisions
-### DEF tonight: CIN D/ST vs LAR (bye)
-- **CIN @ WAS, 8:15 PM ET.** CIN is about a 6-point favorite, total ~54 (prior-day lines, Covers / Bettors Insider). Median ~5–6, range ~0–14. WAS D/ST median ~3–4. LAR = 0.
-- **Drop LAR?** Yes. LAR projects only 6.5 in Week 12 at GB. JAX (9.2 at home vs TEN) and LAC (vs DeVito) are free agents and better Week 12 streams.
-- **Call:** add CIN, drop LAR, start CIN. **High.** The only thing that changes it is the add failing. Then use WAS D/ST.
-
-### Week 12 RB2: Mason vs Aaron Jones Sr. vs Dowdle
-- Aaron Jones Sr. is on waivers, and the monitor projects him slightly above Mason (11.0 vs 10.8 in Week 12). I couldn't find dated 2026 usage splits this run. Only 2025 game logs came up, so don't lean on them. Owning both Vikings backs makes sure you hold whichever one leads.
-- Dowdle projects only 7.9. Kiner 7.0.
-- **Call:** claim Jones for Kiner ($1–5. You have $78 and no playoff path, so spend). Start whichever Viking gets the better practice and usage news. If no claim, start Mason over Dowdle. **Low.**
-
-### Week 12 FLEX: DJ Moore vs Jordyn Tyson
-- Moore landed awkwardly on his knee late in the 2nd quarter Sunday, returned, and finished 8-91-1 (Democrat and Chronicle via Yahoo, Nov 23). He's questionable in Sleeper. The Bills file practice reports Mon–Wed, with game status due Wednesday 4 PM ET, a day before the Thursday 8:20 PM ET kickoff.
-- **Estimate:** ~85% to play. He's a full-target-share starter when healthy. Tyson is a solid 12.0-projection fallback.
-- **Call:** start Moore, **Medium.** Flip to Tyson if Moore is DNP Tuesday or listed doubtful Wednesday. Tyson's game is Sunday, so you can wait for Wednesday's report.
-
-## Injury watch
-| Player | Status | Latest news (date) | Chance to play | Next update |
+| Priority | Add | Drop | Bid | Why |
 |---|---|---|---|---|
-| DJ Moore (BUF) | Questionable (knee) | Returned Sunday and finished 8-91-1 (Yahoo/D&C, Nov 23) | ~85% Wk 12 (est.) | Bills practice report Mon–Tue. Status Wed 4 PM ET |
-| Josh Jacobs (GB) | Out / IR (broken ring finger, surgery) | Practiced Monday "to some degree" but not expected to play Wednesday vs LAR (RotoWire citing SI's Bill Huber, Nov 23). LaFleur gave him "a chance to prove" it (CBS, Nov 21) | ~15% Wk 12 (est.) | GB final status Tue. Week 13 return is the realistic target |
-| Omar Cooper Jr. (NYJ) | Out | Picked up a new issue on top of his ankle in Week 10. Went for ankle imaging and missed Week 11 (Fantasy Footballers, Nov 15–18) | ~45% Wk 12 (est.) | Jets Wed practice. NYJ bye in Week 13 |
-| Mike Evans (SF) | Healthy | 6-109-1 in his return Sunday, no setback reported (49ers Webzone, Nov 22) | ~95% | Week 12 practice |
-| Davante Adams (LAR) | IR | No new news | 0% | — |
+| 1 | **JAX D/ST** | LAR D/ST | $0 (free agent, **now**) | TEN @ JAX, JAX -14.5 (Covers, Nov 23). LAR locks Wednesday night. JAX is the monitor's top stream (+1.7 over LAR) |
+| 2 | **Aaron Jones Sr.** (MIN RB) | Corey Kiner | $1–5 (or $0 if he's a free agent) | Had the Vikings' only TD in Week 11 and projects 11.0, just above Mason (10.8). Owning both MIN backs guarantees you own the lead back. 0 adds in 24h, so don't overpay |
+| — | Skip: Geno Smith, Bryce Young, Stafford | — | — | The monitor ranks them high, but you start one QB, and it's Goff (19.9) |
+| — | Skip: K stream (Zvada for Bates) | — | — | +0.4 pts. Bates has the week's best game environment |
 
-## Waivers & FAAB
-| Add | Drop | Bid | Why |
-|---|---|---|---|
-| CIN D/ST | LAR D/ST | $0 (free agent, now) | Only DEF still to play in Week 11 |
-| JAX D/ST | CIN D/ST (after tonight) | $0–1 | Week 12 stream, home vs Titans (Yahoo/Sportsnaut top-5 DST, Nov 23). Alt: LAC D/ST vs NE |
-| Aaron Jones Sr. (MIN RB) | Corey Kiner | $1–5 | Projects over Mason in the same backfield. Kiner is your 6th RB |
+## Trade ideas
+_Ideas only. At 0% playoff odds these matter little, so don't spend energy unless a partner engages._
 
-**Skip Bryce Young.** You start one QB, and it's Goff.
+1. **Tyson for Ashton Jeanty** (I'm stuck Step Burrow, 7-4). The engine projects +3.1/wk for you but -0.4 for them, so they'll probably say no.
+   - Why they might bite: Tyson would start 0 of 6 weeks for them, so this only works if they need WR depth for the playoffs.
+   - Message: "Need a WR for your playoff run? Tyson for Jeanty, straight up?"
+2. **Reject:** Evans for Jonathan Taylor or Cam Skattebo. Evans is your best rest-of-season WR (16+ projected in Weeks 13–15). The gain is under 1.5/wk.
 
-## Trades
-**No sends.** Evans for Jonathan Taylor (+1.6/wk) moves your best rest-of-season WR right after a 109-yard return. The Jeanty and Breece Hall ideas are "possible" and help the other side less. At 3-7 with 0% playoff odds, these small gains aren't worth the trouble. Revisit only if a partner reaches out.
-
-## Kicker & defense
-DEF: CIN tonight, then JAX D/ST for Week 12 (alt LAC D/ST). Rams D/ST at GB is a decent matchup because GB's line grades poorly in pass block (Yahoo/Sportsnaut), but at a 6.5 projection it isn't worth keeping over JAX. K: keep Bates.
-
-## Looking ahead
-- **Week 12 schedule:** GB-LAR Wednesday, Thanksgiving Thursday (BUF vs KC 8:20 PM ET for Moore). Lineup and claims must be set by **Tuesday night** for anything playing Wednesday.
-- **Week 13:** Omar Cooper Jr. (NYJ) is on bye. Jacobs is the likely return (monitor: 15.5).
-- **Hold Jacobs.** His finger is healing, and he's your top Week 13–14 RB.
-- **Cut candidates:** Keenan Allen (6.5/wk) and Kiner are the lowest-value bench spots.
-
-## Changes since last report
-- No change in the lineup: the 5:37 PM MT data still has LAR D/ST starting. The CIN move is still open with about 35 minutes left at data time.
-- New: Jacobs practiced Monday but isn't expected to play Wednesday (Nov 23). Week 12 odds dropped from ~25% to ~15%.
-- New: Moore's knee was confirmed as a scare only (8-91-1). He's still questionable in Sleeper, and the practice report is the next check.
-- New: Week 12 streaming picks are in. JAX at home vs TEN is the top free-agent DEF, with LAC vs NE as the alternate.
-- New: Aaron Jones Sr. added as a Week 12 waiver claim over Mason/Kiner.
+## Roster health
+- **Hold Josh Jacobs (IR).** LaFleur said Monday he "remains unlikely" Wednesday. A return Week 13 at New Orleans looks "more realistic" (CBS/RotoWire, Nov 23). The monitor projects him 15.5 for Week 13. He's your best RB when healthy.
+- **Omar Cooper Jr.** Out. His ankle has been rolled up three times, and he's missed five games (SI, Nov 24). NYJ is on bye in Week 13. He's worth 0 for the next two weeks, so he's the first cut if you need a roster spot.
+- **Davante Adams (IR).** Out until at least Week 13 (Yahoo, Nov 23). Stays on IR at no cost.
+- **Cut candidates:** Kiner (dropping for Jones), then Cooper, then Keenan Allen (6.5/wk).
+- **Week 13 byes:** NYJ (Cooper). Check other byes next week.
 
 ## Sources
-- Sleeper / monitor data (`data/latest.json`), 2026-11-24 00:37 UTC
-- [RotoWire: Josh Jacobs practicing, but not expected to play Wednesday](https://www.rotowire.com/football/headlines/josh-jacobs-injury-practicing-but-not-expected-to-play-wednesday-649360) — Nov 23
-- [CBS Sports: Packers' Josh Jacobs unlikely to play Wednesday](https://www.cbssports.com/fantasy/football/news/packers-josh-jacobs-unlikely-to-play-wednesday/) — Nov 21
-- [Fantasy Footballers: Josh Jacobs could be back for Week 12](https://www.thefantasyfootballers.com/news/648321/josh-jacobs-could-be-back-for-week-12/) — Nov 17: injury, Kaleb Johnson role
-- [Yahoo (Democrat and Chronicle): Bills vs. Chiefs injury update](https://sports.yahoo.com/articles/bills-vs-chiefs-injury-buffalo-121517497.html) — Nov 23: Moore knee, report schedule
-- [Fantasy Footballers: Omar Cooper Jr. questionable to return](https://www.thefantasyfootballers.com/news/647890/omar-cooper-jr-questionable-to-return-sunday/) — Nov 15
-- [Fantasy Footballers: Omar Cooper Jr. active Sunday](https://www.thefantasyfootballers.com/news/647829/omar-cooper-jr-active-sunday/) — Nov 15
-- [RotoBaller: Defenses to start in Week 12 (2026)](https://www.rotoballer.com/defenses-def-to-start-in-week-12-2026-best-fantasy-football-streaming-options/1997038) — Nov 21
-- [Yahoo/Sportsnaut: Week 12 NFL defense rankings](https://sports.yahoo.com/articles/week-12-nfl-defense-rankings-143000969.html) — Nov 23
-- [Covers: Bengals vs Commanders prediction](https://www.covers.com/nfl/bengals-vs-commanders-prediction-picks-nov-23-2026) — Nov 23 (from prior report)
-- Prior report: [Mon Nov 23 · Game day 16:53](2026-11-23-gameday-1653.md)
+- Sleeper / monitor data (`data/latest.json`), 2026-11-24 14:37 UTC
+- [NFL.com: Week 12 schedule change](https://www.nfl.com/news/week-12-schedule-change) — Nov 17: kickoff times, flexed games
+- [Covers: NFL Week 12 odds and opening lines](https://www.covers.com/nfl/week-12-odds-opening-lines-2026) — Nov 23: spreads and totals
+- [SI Bills On SI: Bills Week 12 injury report, DJ Moore not included](https://www.si.com/nfl/bills/onsi/injury-report-week-12-bills-dj-moore-not-included-three-starters-added-chiefs) — Nov 24
+- [Buffalo Rumblings via Yahoo: A short week, a long injury list](https://sports.yahoo.com/articles/short-week-long-injury-list-225835013.html) — Nov 23
+- [Heavy: DJ Moore gets troubling prediction from ex-NFL doctor](https://heavy.com/sports/nfl/buffalo-bills/dj-moore-thursday-doubt-football-doctor/) — Nov 22
+- [Heavy: DJ Moore shares injury update after Week 11 win](https://heavy.com/sports/nfl/buffalo-bills/dj-moore-injury-update-week-11-win/) — Nov 22
+- [CBS Sports: Packers' Josh Jacobs trending toward not playing Wednesday](https://www.cbssports.com/fantasy/football/news/packers-josh-jacobs-trending-toward-not-playing-wednesday/) — Nov 23
+- [NBC Sports: LaFleur says Jacobs unlikely to play vs. Rams](https://www.nbcsports.com/fantasy/football/player-news/2026-11-23/lafleur-jacobs-finger-unlikely-to-play-vs-rams) — Nov 23
+- [Roundtable via Yahoo: Packers share new Josh Jacobs update](https://sports.yahoo.com/articles/packers-share-josh-jacobs-facing-213657822.html) — Nov 22
+- [NBC Sports: Jordan Mason quiet as Aaron Jones scores again](https://www.nbcsports.com/fantasy/football/player-news/2026-11-22/jordan-mason-quiet-as-aaron-jones-scores-again) — Nov 22
+- [Roundtable via Yahoo: 49ers beat Vikings 35-10 in Mexico City](https://sports.yahoo.com/articles/vikings-dominated-across-board-49ers-044517410.html) — Nov 23: box score
+- [FantasyPros: Dylan Sampson news](https://www.fantasypros.com/nfl/players/dylan-sampson.php) — Nov 23: Judkins still the starter
+- [Browns Nation: Browns starter may be quietly losing his job](https://www.brownsnation.com/browns-starter-may-be-quietly-losing-his-job/) — Nov 10
+- [SI Jets On SI: Rookie and sophomore power rankings, Week 12](https://www.si.com/nfl/jets/onsi/jets-rookie-sophomore-power-rankings-week-12-david-bailey-s-rise-can-t-be-ignored-01m850r5kq9w) — Nov 24: Cooper ankle
+- [Yahoo: NFL injury report, Week 12](https://sports.yahoo.com/fantasy/article/nfl-injury-report-week-12-latest-news-updates-for-kenneth-walker-iii-brock-bowers-more-players-for-fantasy-football-185701559.html) — Nov 23
+- [NBC Sports: Nabers 55 yards, TD on 12 targets vs. Jags](https://www.nbcsports.com/fantasy/football/player-news/2026-11-22/nabers-55-yards-td-on-12-targets-vs-jags) — Nov 22
+- Prior report: [Mon Nov 23 · PM](../week-11/2026-11-23-pm.md)
