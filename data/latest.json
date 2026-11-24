@@ -1,5 +1,5 @@
 {
- "content_hash": "29b6a72d8f5942ccad200231523e248e29270310",
+ "content_hash": "d366c4271d84b5996831ffe09e81d9ee2ea55c7f",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -46,7 +46,7 @@
    "adds_24h": 111976,
    "name": "Deshaun Watson",
    "pos": "QB",
-   "proj_4wk": 61.0,
+   "proj_4wk": 61.5,
    "proj_this_week": 16.93,
    "status": null,
    "team": "CLE"
@@ -304,15 +304,6 @@
    "team": "NE"
   },
   {
-   "adds_24h": 65199,
-   "name": "Antonio Williams",
-   "pos": "WR",
-   "proj_4wk": 31.8,
-   "proj_this_week": 8.15,
-   "status": null,
-   "team": "WAS"
-  },
-  {
    "adds_24h": 0,
    "name": "Pat Freiermuth",
    "pos": "TE",
@@ -320,6 +311,15 @@
    "proj_this_week": 7.57,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 65199,
+   "name": "Antonio Williams",
+   "pos": "WR",
+   "proj_4wk": 31.8,
+   "proj_this_week": 8.15,
+   "status": null,
+   "team": "WAS"
   },
   {
    "adds_24h": 22890,
@@ -844,7 +844,7 @@
    "team": "PHI"
   }
  ],
- "generated_at": "2026-11-24T16:47:36Z",
+ "generated_at": "2026-11-24T16:52:41Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
