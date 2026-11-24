@@ -1,5 +1,5 @@
 {
- "content_hash": "9ea808b0efecfe80099bb58c87809f10bd4ac6cc",
+ "content_hash": "677e1aac42b47c750e138fb405f0cedb5bde2e7e",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -304,15 +304,6 @@
    "team": "NE"
   },
   {
-   "adds_24h": 0,
-   "name": "Pat Freiermuth",
-   "pos": "TE",
-   "proj_4wk": 31.8,
-   "proj_this_week": 7.57,
-   "status": null,
-   "team": "PIT"
-  },
-  {
    "adds_24h": 54784,
    "name": "Antonio Williams",
    "pos": "WR",
@@ -320,6 +311,15 @@
    "proj_this_week": 8.15,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Pat Freiermuth",
+   "pos": "TE",
+   "proj_4wk": 31.8,
+   "proj_this_week": 7.57,
+   "status": null,
+   "team": "PIT"
   },
   {
    "adds_24h": 18137,
@@ -853,7 +853,7 @@
    "team": "BUF"
   }
  ],
- "generated_at": "2026-11-24T14:59:26Z",
+ "generated_at": "2026-11-24T15:04:30Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
