@@ -1,5 +1,5 @@
 {
- "content_hash": "015fc7d0a7968f9326650a6ba7eed741d86e19e1",
+ "content_hash": "605c0f487cf8a83e5c14956ee310a8dd28aacd2e",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -146,7 +146,7 @@
    "name": "Chig Okonkwo",
    "pos": "TE",
    "proj_4wk": 40.5,
-   "proj_this_week": 10.33,
+   "proj_this_week": 10.39,
    "status": null,
    "team": "WAS"
   },
@@ -269,21 +269,21 @@
   },
   {
    "adds_24h": 0,
+   "name": "Antonio Williams",
+   "pos": "WR",
+   "proj_4wk": 32.3,
+   "proj_this_week": 8.29,
+   "status": null,
+   "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
    "name": "Pat Freiermuth",
    "pos": "TE",
    "proj_4wk": 32.3,
    "proj_this_week": 8.65,
    "status": null,
    "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Antonio Williams",
-   "pos": "WR",
-   "proj_4wk": 32.3,
-   "proj_this_week": 8.23,
-   "status": null,
-   "team": "WAS"
   },
   {
    "adds_24h": 0,
@@ -853,7 +853,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-24T00:22:03Z",
+ "generated_at": "2026-11-24T00:27:07Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1048,7 +1048,7 @@
   },
   "matchup": {
    "my_proj": 91.5,
-   "opp_best_possible": 138.5,
+   "opp_best_possible": 138.54,
    "opp_proj": 138.5,
    "opponent": "Bradsgay",
    "opponent_record": "6-4",
@@ -1109,7 +1109,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.258,
+    "first_seed_odds": 0.259,
     "losses": 4,
     "mine": false,
     "pa": 1360.82,
@@ -1118,7 +1118,7 @@
     "power_rank": 5,
     "proj_avg": 128.1,
     "proj_by_week": {
-     "11": 138.5,
+     "11": 138.54,
      "12": 133.69,
      "13": 122.74,
      "14": 117.59
@@ -1219,11 +1219,11 @@
     "mine": false,
     "pa": 1248.08,
     "pf": 1235.98,
-    "playoff_odds": 0.578,
+    "playoff_odds": 0.579,
     "power_rank": 1,
-    "proj_avg": 136.4,
+    "proj_avg": 136.5,
     "proj_by_week": {
-     "11": 138.79,
+     "11": 138.93,
      "12": 141.67,
      "13": 139.07,
      "14": 126.19
