@@ -1,10 +1,10 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-25T04:25:11Z UTC
+Week 12 · record 3-8 · updated 2026-11-25T04:49:41Z UTC
 
 ## Lineup check
-Current lineup projects **101.0**, best possible **110.5**.
+Current lineup projects **100.8**, best possible **110.2**.
 
-- 🔁 Start Mike Evans (WR, SF) (13.6) over Rico Dowdle (RB, PIT) (7.8)
+- 🔁 Start Mike Evans (WR, SF) (13.5) over Rico Dowdle (RB, PIT) (7.8)
 - 🔁 Start Quinshon Judkins (RB, CLE) (12.9) over DJ Moore (WR, BUF) (9.2)
 
 ## Waiver targets
@@ -15,7 +15,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Sam Darnold (Out) | QB | SEA | Corey Kiner | +2.5 | +0.0 | 0 |
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 80,332 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 82,608 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.7 | +0.5 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +0.9 | +0.0 | 0 |
@@ -26,7 +26,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Dominic Zvada for Jake Bates (+0.5 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **101.0** – 141.0 projected · win chance **13%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **100.8** – 140.9 projected · win chance **13%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -61,17 +61,17 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter |  | 7.5 | 6.1 | 5.9 | 6.3 |
 | Jake Bates | K | DET | starter |  | 8.3 | 8.9 | 8.6 | 8.5 |
-| Jared Goff | QB | DET | starter |  | 20.2 | 18.2 | 20.0 | 16.9 |
+| Jared Goff | QB | DET | starter |  | 20.1 | 18.2 | 20.0 | 16.9 |
 | Jordan Mason | RB | MIN | starter |  | 10.8 | 11.1 | 10.0 | 10.1 |
 | Rico Dowdle | RB | PIT | starter |  | 7.8 | 8.4 | 7.6 | 7.6 |
-| George Kittle | TE | SF | starter |  | 12.2 | 13.5 | 13.9 | 15.5 |
+| George Kittle | TE | SF | starter |  | 12.1 | 13.5 | 13.9 | 15.5 |
 | Stefon Diggs | WR | WAS | starter |  | 13.2 | 13.8 | 12.3 | 12.4 |
 | Jordyn Tyson | WR | NO | starter |  | 11.9 | 11.2 | 11.0 | 11.4 |
 | DJ Moore | WR | BUF | starter | Questionable | 9.2 | 13.1 | 13.2 | 14.1 |
 | Quinshon Judkins | RB | CLE | bench |  | 12.9 | 12.5 | 11.5 | 11.2 |
 | Corey Kiner | RB | NE | bench |  | 7.1 | 5.8 | 6.2 | 3.5 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 15.5 | 13.2 | 14.3 |
-| Mike Evans | WR | SF | bench |  | 13.6 | 15.0 | 15.5 | 17.1 |
+| Mike Evans | WR | SF | bench |  | 13.5 | 15.0 | 15.5 | 17.1 |
 | Keenan Allen | WR | SF | bench |  | 6.4 | 6.2 | 6.2 | 7.1 |
 | Omar Cooper Jr. | WR | NYJ | bench | Out | 0.0 | 0.0 | 9.7 | 11.0 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
