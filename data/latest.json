@@ -1,5 +1,5 @@
 {
- "content_hash": "c563a405e764fed950cc4942b75d7d22e21c3aa8",
+ "content_hash": "da4810df54b521d0bdac383a814c39a7c203f4b2",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -404,21 +404,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Wil Lutz",
-   "pos": "K",
-   "proj_4wk": 30.0,
-   "proj_this_week": 6.97,
-   "status": null,
-   "team": "DEN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Makai Lemon",
    "pos": "WR",
    "proj_4wk": 30.0,
    "proj_this_week": 8.1,
    "status": null,
    "team": "PHI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Wil Lutz",
+   "pos": "K",
+   "proj_4wk": 30.0,
+   "proj_this_week": 6.97,
+   "status": null,
+   "team": "DEN"
   },
   {
    "adds_24h": 0,
@@ -574,15 +574,6 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 0,
-   "name": "Jake Elliott",
-   "pos": "K",
-   "proj_4wk": 27.7,
-   "proj_this_week": 6.91,
-   "status": null,
-   "team": "PHI"
-  },
-  {
    "adds_24h": 1147986,
    "name": "WAS D/ST",
    "pos": "DEF",
@@ -590,6 +581,15 @@
    "proj_this_week": 8.28,
    "status": null,
    "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Jake Elliott",
+   "pos": "K",
+   "proj_4wk": 27.7,
+   "proj_this_week": 6.91,
+   "status": null,
+   "team": "PHI"
   },
   {
    "adds_24h": 392875,
@@ -853,7 +853,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-25T09:03:11Z",
+ "generated_at": "2026-11-25T09:03:12Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
