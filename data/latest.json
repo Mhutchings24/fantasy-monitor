@@ -1,5 +1,5 @@
 {
- "content_hash": "d67ef2cc8f252710e44b95e93463467fd0d23496",
+ "content_hash": "0de8b9bffcedac4587c0a9561ed31283ea3e65e1",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -133,15 +133,6 @@
    "team": "PIT"
   },
   {
-   "adds_24h": 0,
-   "name": "Anthony Richardson Sr.",
-   "pos": "QB",
-   "proj_4wk": 44.0,
-   "proj_this_week": 13.6,
-   "status": null,
-   "team": "IND"
-  },
-  {
    "adds_24h": 262744,
    "name": "Fernando Mendoza",
    "pos": "QB",
@@ -149,6 +140,15 @@
    "proj_this_week": 13.15,
    "status": null,
    "team": "LV"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Anthony Richardson Sr.",
+   "pos": "QB",
+   "proj_4wk": 44.0,
+   "proj_this_week": 13.6,
+   "status": null,
+   "team": "IND"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "CHI"
   }
  ],
- "generated_at": "2026-11-25T21:38:55Z",
+ "generated_at": "2026-11-25T21:43:59Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
