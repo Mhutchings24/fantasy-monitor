@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 12
+- [Tue Nov 24 · PM](2026/week-12/2026-11-24-pm.md) — Lineup still unfixed: start Judkins + Evans, bench Dowdle; add JAX D/ST ($0, drop LAR) before Wed 6 PM MT (High). Add Aaron Jones ($0, drop Kiner). Keep Moore at FLEX. Jacobs Q but unlikely.
 - [Tue Nov 24 · Weekly](2026/week-12/2026-11-24-weekly.md) — Add JAX D/ST ($0, drop LAR) before Wed 6 PM MT (High). Start Judkins, Evans; bench Dowdle. Moore at FLEX, Tyson pivot. Claim Aaron Jones for Kiner $1–5. 0% playoff odds.
 
 ## 2026 · Week 11
