@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-25T15:49:15Z UTC
+Week 12 · record 3-8 · updated 2026-11-25T16:07:51Z UTC
 
 ## Lineup check
 Current lineup projects **102.4**, best possible **110.3**.
@@ -15,7 +15,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Sam Darnold (Questionable) | QB | SEA | Corey Kiner | +2.5 | +0.0 | 0 |
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 122,328 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 125,424 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.7 | +0.5 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +0.9 | +0.0 | 0 |
@@ -26,17 +26,17 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Dominic Zvada for Jake Bates (+0.5 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **102.4** – 142.7 projected · win chance **13%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **102.4** – 142.5 projected · win chance **13%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 127.7 | 100% |
+| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 127.6 | 100% |
 | 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 135.4 | 100% |
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 131.1 | 98% |
-| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 134.4 | 95% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 134.3 | 95% |
 | 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 125.6 | 70% |
 | 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 122.6 | 52% |
 | 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 138.0 | 72% |
@@ -71,7 +71,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Quinshon Judkins | RB | CLE | bench |  | 12.9 | 12.4 | 11.5 | 11.2 |
 | Corey Kiner | RB | NE | bench |  | 7.1 | 5.8 | 6.2 | 3.5 |
 | Josh Jacobs | RB | GB | reserve | Questionable | 0.0 | 15.5 | 13.2 | 14.3 |
-| Mike Evans | WR | SF | bench |  | 13.5 | 14.7 | 15.5 | 17.1 |
+| Mike Evans | WR | SF | bench |  | 13.5 | 14.8 | 15.5 | 17.1 |
 | Omar Cooper Jr. | WR | NYJ | bench | Questionable | 9.2 | 0.0 | 9.7 | 11.0 |
 | Keenan Allen | WR | SF | bench |  | 6.4 | 6.1 | 6.2 | 7.1 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
