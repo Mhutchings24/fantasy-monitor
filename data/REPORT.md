@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-24T23:51:43Z UTC
+Week 12 · record 3-8 · updated 2026-11-25T00:01:50Z UTC
 
 ## Lineup check
 Current lineup projects **100.9**, best possible **110.3**.
@@ -15,7 +15,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Sam Darnold (Out) | QB | SEA | Corey Kiner | +2.5 | +0.0 | 0 |
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 66,728 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 67,296 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.4 | +0.2 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +0.9 | +0.0 | 0 |
@@ -26,7 +26,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Dominic Zvada for Jake Bates (+0.4 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **100.9** – 140.8 projected · win chance **13%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **100.9** – 140.9 projected · win chance **13%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -36,9 +36,9 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 126.1 | 99% |
 | 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 133.5 | 100% |
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 130.1 | 98% |
-| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.0 | 93% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.1 | 93% |
 | 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 7 | 122.2 | 69% |
-| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 6 | 123.1 | 52% |
+| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 6 | 123.2 | 52% |
 | 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 137.8 | 70% |
 | 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 120.2 | 19% |
 | 9 | Touch of the Downs | 3-8 | 1301.2 | 1316.8 | 9 | 116.7 | 0% |
@@ -49,9 +49,9 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 
 - **Possible** · Give Jordyn Tyson, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.5 for them.
 - **Possible** · Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.5 for them.
-- **Possible** · Give Jordyn Tyson, get Ollie Gordon II from Bradsbaconisundercooked: +1.6 pts/week for you, -0.3 for them.
 - **Possible** · Give DJ Moore, get Derrick Henry from Gibbs me Nabers 😵‍💫: +1.6 pts/week for you, -0.5 for them.
-- **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +0.1 for them.
+- **Possible** · Give Jordyn Tyson, get Ollie Gordon II from Bradsbaconisundercooked: +1.6 pts/week for you, -0.3 for them.
+- **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.4 pts/week for you, +0.1 for them.
 - **Possible** · Give Mike Evans, get Jonathan Taylor from Monangynecologist: +1.4 pts/week for you, -0.1 for them.
 - **Possible** · Give Mike Evans, get Javonte Williams from Glizzy Globbler : +1.3 pts/week for you, -0.4 for them.
 - **Possible** · Give Mike Evans, get Jonah Coleman from Monangynecologist: +1.2 pts/week for you, -0.1 for them.
