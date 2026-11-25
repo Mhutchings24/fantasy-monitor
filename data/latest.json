@@ -1,5 +1,5 @@
 {
- "content_hash": "b839373399b3f565c61ddd72cdaa1c3e8d95c394",
+ "content_hash": "e5b3e9fce10b531cc5a52cf01d68b1a6e6b23210",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -574,15 +574,6 @@
    "team": "WAS"
   },
   {
-   "adds_24h": 1039087,
-   "name": "WAS D/ST",
-   "pos": "DEF",
-   "proj_4wk": 27.7,
-   "proj_this_week": 8.28,
-   "status": null,
-   "team": "WAS"
-  },
-  {
    "adds_24h": 0,
    "name": "Jake Elliott",
    "pos": "K",
@@ -590,6 +581,15 @@
    "proj_this_week": 6.91,
    "status": null,
    "team": "PHI"
+  },
+  {
+   "adds_24h": 1039087,
+   "name": "WAS D/ST",
+   "pos": "DEF",
+   "proj_4wk": 27.7,
+   "proj_this_week": 8.28,
+   "status": null,
+   "team": "WAS"
   },
   {
    "adds_24h": 367080,
@@ -853,7 +853,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-25T05:25:08Z",
+ "generated_at": "2026-11-25T05:30:12Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
