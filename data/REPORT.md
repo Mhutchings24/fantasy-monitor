@@ -1,11 +1,11 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-25T07:28:48Z UTC
+Week 12 · record 3-8 · updated 2026-11-25T07:33:52Z UTC
 
 ## Lineup check
-Current lineup projects **100.6**, best possible **110.2**.
+Current lineup projects **100.5**, best possible **110.3**.
 
 - 🔁 Start Mike Evans (WR, SF) (13.5) over Rico Dowdle (RB, PIT) (7.6)
-- 🔁 Start Quinshon Judkins (RB, CLE) (12.9) over DJ Moore (WR, BUF) (9.2)
+- 🔁 Start Quinshon Judkins (RB, CLE) (12.9) over DJ Moore (WR, BUF) (9.1)
 
 ## Waiver targets
 FAAB left: **$78** (league starting budget $100)
@@ -15,7 +15,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Sam Darnold (Out) | QB | SEA | Corey Kiner | +2.5 | +0.0 | 0 |
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 91,272 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 90,336 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.7 | +0.5 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +0.9 | +0.0 | 0 |
@@ -26,7 +26,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Dominic Zvada for Jake Bates (+0.5 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **100.6** – 140.8 projected · win chance **13%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **100.5** – 140.8 projected · win chance **13%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -67,7 +67,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | George Kittle | TE | SF | starter |  | 12.1 | 13.5 | 13.9 | 15.5 |
 | Stefon Diggs | WR | WAS | starter |  | 13.2 | 13.8 | 12.3 | 12.4 |
 | Jordyn Tyson | WR | NO | starter |  | 11.9 | 11.2 | 11.0 | 11.4 |
-| DJ Moore | WR | BUF | starter | Questionable | 9.2 | 13.1 | 13.2 | 14.1 |
+| DJ Moore | WR | BUF | starter | Questionable | 9.1 | 13.1 | 13.2 | 14.1 |
 | Quinshon Judkins | RB | CLE | bench |  | 12.9 | 12.5 | 11.5 | 11.2 |
 | Corey Kiner | RB | NE | bench |  | 7.1 | 5.8 | 6.2 | 3.5 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 15.5 | 13.2 | 14.3 |
