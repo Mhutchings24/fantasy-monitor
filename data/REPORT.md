@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-25T18:54:56Z UTC
+Week 12 · record 3-8 · updated 2026-11-25T19:00:00Z UTC
 
 ## Lineup check
-Current lineup projects **102.6**, best possible **110.5**.
+Current lineup projects **102.5**, best possible **110.4**.
 
 - 🔁 Start Mike Evans (WR, SF) (13.5) over Rico Dowdle (RB, PIT) (7.9)
 - 🔁 Start Quinshon Judkins (RB, CLE) (12.9) over DJ Moore (WR, BUF) (10.7)
@@ -15,7 +15,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Sam Darnold (Questionable) | QB | SEA | Corey Kiner | +2.5 | +0.0 | 0 |
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 133,340 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 134,900 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +1.7 | +0.0 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.7 | +0.5 | 0 |
@@ -27,14 +27,14 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Dominic Zvada for Jake Bates (+0.5 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **102.6** – 142.8 projected · win chance **13%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **102.5** – 142.6 projected · win chance **13%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 127.6 | 100% |
+| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 127.5 | 100% |
 | 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 136.3 | 100% |
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 130.7 | 97% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 134.3 | 95% |
@@ -48,9 +48,9 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
-- **Possible** · Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.4 for them.
 - **Possible** · Give Jordyn Tyson, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.4 for them.
-- **Likely** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.4 pts/week for you, +0.4 for them.
+- **Possible** · Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.4 for them.
+- **Likely** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +0.4 for them.
 - **Possible** · Give DJ Moore, get Derrick Henry from Gibbs me Nabers 😵‍💫: +1.9 pts/week for you, -0.5 for them.
 - **Possible** · Give Jordyn Tyson, get Ollie Gordon II from Bradsbaconisundercooked: +1.7 pts/week for you, -0.4 for them.
 - **Possible** · Give Mike Evans, get Cam Skattebo from Gibbs me Nabers 😵‍💫: +1.4 pts/week for you, -0.3 for them.
