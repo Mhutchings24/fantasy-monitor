@@ -1,11 +1,11 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-25T10:58:04Z UTC
+Week 12 · record 3-8 · updated 2026-11-25T11:12:23Z UTC
 
 ## Lineup check
 Current lineup projects **102.3**, best possible **110.3**.
 
 - 🔁 Start Mike Evans (WR, SF) (13.5) over Rico Dowdle (RB, PIT) (7.6)
-- 🔁 Start Quinshon Judkins (RB, CLE) (12.9) over DJ Moore (WR, BUF) (10.7)
+- 🔁 Start Quinshon Judkins (RB, CLE) (12.9) over DJ Moore (WR, BUF) (10.8)
 
 ## Waiver targets
 FAAB left: **$78** (league starting budget $100)
@@ -15,7 +15,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Sam Darnold (Questionable) | QB | SEA | Corey Kiner | +2.5 | +0.0 | 0 |
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 98,796 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 99,548 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.7 | +0.5 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +0.9 | +0.0 | 0 |
@@ -49,7 +49,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 
 - **Possible** · Give Jordyn Tyson, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.4 for them.
 - **Possible** · Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.4 for them.
-- **Likely** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.4 pts/week for you, +0.4 for them.
+- **Likely** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +0.4 for them.
 - **Possible** · Give DJ Moore, get Derrick Henry from Gibbs me Nabers 😵‍💫: +1.9 pts/week for you, -0.5 for them.
 - **Possible** · Give Jordyn Tyson, get Ollie Gordon II from Bradsbaconisundercooked: +1.7 pts/week for you, -0.4 for them.
 - **Possible** · Give Mike Evans, get Cam Skattebo from Gibbs me Nabers 😵‍💫: +1.4 pts/week for you, -0.3 for them.
@@ -67,7 +67,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | George Kittle | TE | SF | starter |  | 12.1 | 13.4 | 13.9 | 15.5 |
 | Stefon Diggs | WR | WAS | starter |  | 13.2 | 13.6 | 12.3 | 12.4 |
 | Jordyn Tyson | WR | NO | starter |  | 12.0 | 11.2 | 11.0 | 11.4 |
-| DJ Moore | WR | BUF | starter |  | 10.7 | 13.1 | 13.2 | 14.1 |
+| DJ Moore | WR | BUF | starter |  | 10.8 | 13.1 | 13.2 | 14.1 |
 | Quinshon Judkins | RB | CLE | bench |  | 12.9 | 12.5 | 11.5 | 11.2 |
 | Corey Kiner | RB | NE | bench |  | 7.1 | 5.8 | 6.2 | 3.5 |
 | Josh Jacobs | RB | GB | reserve | Questionable | 0.0 | 15.5 | 13.2 | 14.3 |
