@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-25T00:22:02Z UTC
+Week 12 · record 3-8 · updated 2026-11-25T00:32:09Z UTC
 
 ## Lineup check
-Current lineup projects **100.9**, best possible **110.3**.
+Current lineup projects **100.8**, best possible **110.3**.
 
 - 🔁 Start Mike Evans (WR, SF) (13.5) over Rico Dowdle (RB, PIT) (7.8)
 - 🔁 Start Quinshon Judkins (RB, CLE) (12.9) over DJ Moore (WR, BUF) (9.2)
@@ -15,7 +15,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Sam Darnold (Out) | QB | SEA | Corey Kiner | +2.5 | +0.0 | 0 |
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 68,336 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 68,404 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.4 | +0.2 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +0.9 | +0.0 | 0 |
@@ -34,7 +34,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 126.1 | 99% |
-| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 133.5 | 100% |
+| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 133.6 | 100% |
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 130.1 | 98% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.1 | 93% |
 | 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 7 | 122.2 | 69% |
@@ -49,9 +49,9 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 
 - **Possible** · Give Jordyn Tyson, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.5 for them.
 - **Possible** · Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.5 for them.
-- **Possible** · Give DJ Moore, get Derrick Henry from Gibbs me Nabers 😵‍💫: +1.6 pts/week for you, -0.5 for them.
 - **Possible** · Give Jordyn Tyson, get Ollie Gordon II from Bradsbaconisundercooked: +1.6 pts/week for you, -0.3 for them.
-- **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.4 pts/week for you, +0.1 for them.
+- **Possible** · Give DJ Moore, get Derrick Henry from Gibbs me Nabers 😵‍💫: +1.6 pts/week for you, -0.5 for them.
+- **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +0.1 for them.
 - **Possible** · Give Mike Evans, get Jonathan Taylor from Monangynecologist: +1.4 pts/week for you, -0.1 for them.
 - **Possible** · Give Mike Evans, get Javonte Williams from Glizzy Globbler : +1.3 pts/week for you, -0.4 for them.
 - **Possible** · Give Mike Evans, get Jonah Coleman from Monangynecologist: +1.2 pts/week for you, -0.1 for them.
