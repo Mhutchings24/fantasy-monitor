@@ -1,5 +1,5 @@
 {
- "content_hash": "35be0d2d6aab2e53b260049f963aeb68d45b72f0",
+ "content_hash": "5a55857c22777938e269363973a6ddee0cdc7640",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -46,7 +46,7 @@
    "adds_24h": 0,
    "name": "Cam Ward",
    "pos": "QB",
-   "proj_4wk": 61.8,
+   "proj_4wk": 61.7,
    "proj_this_week": 12.97,
    "status": null,
    "team": "TEN"
@@ -566,6 +566,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Austin Ekeler",
+   "pos": "RB",
+   "proj_4wk": 27.8,
+   "proj_this_week": 6.76,
+   "status": null,
+   "team": "WAS"
+  },
+  {
+   "adds_24h": 0,
    "name": "Jake Elliott",
    "pos": "K",
    "proj_4wk": 27.7,
@@ -694,7 +703,7 @@
    "adds_24h": 0,
    "name": "Treylon Burks",
    "pos": "WR",
-   "proj_4wk": 24.9,
+   "proj_4wk": 24.8,
    "proj_this_week": 6.34,
    "status": null,
    "team": "WAS"
@@ -716,15 +725,6 @@
    "proj_this_week": 6.26,
    "status": null,
    "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Woody Marks",
-   "pos": "RB",
-   "proj_4wk": 24.4,
-   "proj_this_week": 0.0,
-   "status": "Out",
-   "team": "HOU"
   },
   {
    "adds_24h": 495468,
@@ -757,7 +757,7 @@
    "adds_24h": 218844,
    "name": "Jack Bech",
    "pos": "WR",
-   "proj_4wk": 13.7,
+   "proj_4wk": 20.7,
    "proj_this_week": 6.71,
    "status": null,
    "team": "LV"
@@ -844,7 +844,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-25T03:44:41Z",
+ "generated_at": "2026-11-25T03:49:45Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1056,7 +1056,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.305,
+    "first_seed_odds": 0.303,
     "losses": 4,
     "mine": false,
     "pa": 1453.28,
@@ -1077,7 +1077,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.375,
+    "first_seed_odds": 0.374,
     "losses": 4,
     "mine": false,
     "pa": 1412.1,
@@ -1098,19 +1098,19 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.245,
+    "first_seed_odds": 0.249,
     "losses": 4,
     "mine": false,
     "pa": 1288.58,
     "pf": 1326.64,
-    "playoff_odds": 0.978,
+    "playoff_odds": 0.979,
     "power_rank": 4,
-    "proj_avg": 130.3,
+    "proj_avg": 130.9,
     "proj_by_week": {
      "12": 124.61,
-     "13": 132.51,
-     "14": 127.78,
-     "15": 136.32
+     "13": 133.21,
+     "14": 128.53,
+     "15": 137.08
     },
     "rank": 3,
     "roster_id": 8,
@@ -1145,7 +1145,7 @@
     "mine": false,
     "pa": 1301.3,
     "pf": 1344.66,
-    "playoff_odds": 0.7,
+    "playoff_odds": 0.698,
     "power_rank": 7,
     "proj_avg": 123.0,
     "proj_by_week": {
@@ -1187,12 +1187,12 @@
     "mine": false,
     "pa": 1397.48,
     "pf": 1389.34,
-    "playoff_odds": 0.711,
+    "playoff_odds": 0.712,
     "power_rank": 1,
-    "proj_avg": 138.1,
+    "proj_avg": 138.0,
     "proj_by_week": {
      "12": 143.2,
-     "13": 137.32,
+     "13": 137.14,
      "14": 126.19,
      "15": 145.66
     },
@@ -1255,7 +1255,7 @@
     "proj_avg": 111.5,
     "proj_by_week": {
      "12": 110.53,
-     "13": 112.3,
+     "13": 112.24,
      "14": 110.91,
      "15": 112.13
     },
@@ -1366,7 +1366,7 @@
    "pos": "WR",
    "proj_by_week": {
     "12": 13.18,
-    "13": 13.87,
+    "13": 13.81,
     "14": 12.28,
     "15": 12.43
    },
@@ -1580,11 +1580,12 @@
    "likelihood": "Possible",
    "partner": "I’m stuck Step Burrow",
    "partner_roster_id": 8,
-   "summary": "Give Jordyn Tyson, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.5 for them.",
-   "their_gain_per_week": -0.5,
+   "summary": "Give Jordyn Tyson, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.3 for them.",
+   "their_gain_per_week": -0.3,
    "value_ratio": 1.0,
    "why_them": [
-    "Jordyn Tyson would start 0 of 6 weeks for them"
+    "Jordyn Tyson would start 0 of 6 weeks for them",
+    "Ashton Jeanty only starts 3 of 6 weeks on their roster"
    ],
    "why_you": [
     "Ashton Jeanty would start 5 of 6 weeks for you",
@@ -1616,11 +1617,12 @@
    "likelihood": "Possible",
    "partner": "I’m stuck Step Burrow",
    "partner_roster_id": 8,
-   "summary": "Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.5 for them.",
-   "their_gain_per_week": -0.5,
+   "summary": "Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.3 for them.",
+   "their_gain_per_week": -0.3,
    "value_ratio": 1.15,
    "why_them": [
-    "Jordan Mason would start 0 of 6 weeks for them"
+    "Jordan Mason would start 0 of 6 weeks for them",
+    "Ashton Jeanty only starts 3 of 6 weeks on their roster"
    ],
    "why_you": [
     "Ashton Jeanty would start 5 of 6 weeks for you",
