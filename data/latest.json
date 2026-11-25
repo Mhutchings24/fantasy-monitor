@@ -1,5 +1,5 @@
 {
- "content_hash": "f46050857f6c7522ee043aabcddaadaea5f11f44",
+ "content_hash": "3c4716ec97b8f9ef106c2783ecf9ef4fc43b32c9",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -214,15 +214,6 @@
    "team": "BAL"
   },
   {
-   "adds_24h": 85506,
-   "name": "Jakobi Meyers",
-   "pos": "WR",
-   "proj_4wk": 37.5,
-   "proj_this_week": 9.9,
-   "status": null,
-   "team": "JAX"
-  },
-  {
    "adds_24h": 64169,
    "name": "Kyle Pitts Sr.",
    "pos": "TE",
@@ -239,6 +230,15 @@
    "proj_this_week": 6.39,
    "status": "Questionable",
    "team": "BUF"
+  },
+  {
+   "adds_24h": 85506,
+   "name": "Jakobi Meyers",
+   "pos": "WR",
+   "proj_4wk": 36.0,
+   "proj_this_week": 8.42,
+   "status": "Questionable",
+   "team": "JAX"
   },
   {
    "adds_24h": 199325,
@@ -602,21 +602,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Jake Moody",
-   "pos": "K",
-   "proj_4wk": 27.1,
-   "proj_this_week": 6.15,
-   "status": null,
-   "team": "ATL"
-  },
-  {
-   "adds_24h": 0,
    "name": "Greg Dulcich",
    "pos": "TE",
    "proj_4wk": 27.1,
    "proj_this_week": 6.9,
    "status": null,
    "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Jake Moody",
+   "pos": "K",
+   "proj_4wk": 27.1,
+   "proj_this_week": 6.15,
+   "status": null,
+   "team": "ATL"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "CHI"
   }
  ],
- "generated_at": "2026-11-25T21:28:47Z",
+ "generated_at": "2026-11-25T21:33:51Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
