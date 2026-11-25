@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-25T20:59:54Z UTC
+Week 12 · record 3-8 · updated 2026-11-25T21:03:28Z UTC
 
 ## Lineup check
 Current lineup projects **99.9**, best possible **106.2**.
@@ -22,26 +22,26 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 | Cam Ward | QB | TEN | Corey Kiner | +0.4 | +0.0 | 0 |
 | Michael Penix Jr. | QB | ATL | Corey Kiner | +0.1 | +0.0 | 0 |
 
-**DEF stream this week:** add JAX D/ST for LAR D/ST (+1.8 pts this week)
+**DEF stream this week:** add CIN D/ST for LAR D/ST (+0.9 pts this week)
 
 **K stream this week:** add Dominic Zvada for Jake Bates (+0.5 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **99.9** – 139.9 projected · win chance **13%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **99.9** – 140.8 projected · win chance **12%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 127.0 | 99% |
+| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 128.4 | 100% |
 | 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 136.1 | 100% |
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 130.4 | 97% |
-| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 134.1 | 95% |
-| 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 124.8 | 68% |
-| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 122.7 | 52% |
-| 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 138.0 | 72% |
-| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 119.4 | 15% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 134.1 | 96% |
+| 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 124.8 | 69% |
+| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 122.7 | 53% |
+| 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 138.0 | 73% |
+| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 119.4 | 14% |
 | 9 | Touch of the Downs | 3-8 | 1301.2 | 1316.8 | 9 | 115.2 | 0% |
 | 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 110.3 | 0% |
 
