@@ -1,5 +1,5 @@
 {
- "content_hash": "e16dbd999ca9eef73cfaac209cf4bbd2f793d31c",
+ "content_hash": "c5e0dbb87055b2142599d2a3a745a512fc253990",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -521,21 +521,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Jahan Dotson",
-   "pos": "WR",
-   "proj_4wk": 28.3,
-   "proj_this_week": 5.47,
-   "status": "Questionable",
-   "team": "ATL"
-  },
-  {
-   "adds_24h": 0,
    "name": "Joey Slye",
    "pos": "K",
    "proj_4wk": 28.3,
    "proj_this_week": 6.28,
    "status": null,
    "team": "TEN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Jahan Dotson",
+   "pos": "WR",
+   "proj_4wk": 28.3,
+   "proj_this_week": 5.47,
+   "status": "Questionable",
+   "team": "ATL"
   },
   {
    "adds_24h": 0,
@@ -692,15 +692,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Treylon Burks",
-   "pos": "WR",
-   "proj_4wk": 24.7,
-   "proj_this_week": 6.34,
-   "status": null,
-   "team": "WAS"
-  },
-  {
-   "adds_24h": 0,
    "name": "Rashid Shaheed",
    "pos": "WR",
    "proj_4wk": 24.6,
@@ -727,6 +718,15 @@
    "team": "ATL"
   },
   {
+   "adds_24h": 0,
+   "name": "Xavier Worthy",
+   "pos": "WR",
+   "proj_4wk": 24.1,
+   "proj_this_week": 5.04,
+   "status": null,
+   "team": "KC"
+  },
+  {
    "adds_24h": 294996,
    "name": "Ted Hurst III",
    "pos": "WR",
@@ -739,9 +739,9 @@
    "adds_24h": 270114,
    "name": "Tai Felton",
    "pos": "WR",
-   "proj_4wk": 11.9,
-   "proj_this_week": 7.31,
-   "status": null,
+   "proj_4wk": 10.8,
+   "proj_this_week": 6.21,
+   "status": "Questionable",
    "team": "MIN"
   },
   {
@@ -835,7 +835,7 @@
    "team": "CHI"
   }
  ],
- "generated_at": "2026-11-25T22:59:02Z",
+ "generated_at": "2026-11-25T23:04:06Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
