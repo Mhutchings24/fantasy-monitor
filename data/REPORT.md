@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-25T21:03:28Z UTC
+Week 12 · record 3-8 · updated 2026-11-25T21:04:59Z UTC
 
 ## Lineup check
 Current lineup projects **99.9**, best possible **106.2**.
@@ -27,7 +27,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Dominic Zvada for Jake Bates (+0.5 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **99.9** – 140.8 projected · win chance **12%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **99.9** – 139.9 projected · win chance **13%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
