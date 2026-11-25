@@ -1,109 +1,26 @@
-# Week 12 · Tue Nov 24 PM report
-_Conorrhea · No Fun League · record 3-8 · data as of 5:37 PM MT (fresh monitor run 45519475059 succeeded)_
+# Flash: Jacobs and Cooper upgraded to Q, Moore clear; lineup still unfixed
+_Conorrhea · No Fun League · Week 12 · Wed Nov 25, 2:05 AM MT (09:05 UTC) · fresh monitor run 45581711569 succeeded (data 09:03 UTC)_
 
-## Bottom line
-- **Your lineup is still unfixed as of 5:37 PM MT.** Dowdle (RB) and Tyson (WR) start; **Judkins and Evans sit**; DEF is **LAR D/ST**. Fix it tonight. Set-as-is projects 100.8; the fixed lineup is ~112. **High.**
-- **DEF: add JAX D/ST ($0 free agent), drop LAR D/ST.** Do it **before Wed 6:00 PM MT** (GB @ LAR kickoff locks LAR). JAX is home vs Tennessee and about a 14-point favorite. **High.**
-- **RB2: add Aaron Jones Sr. now ($0, he's still a free agent), drop Corey Kiner.** Start Jones or Mason (see Key decisions). Start Judkins at RB1. Bench Dowdle. **Medium.**
-- **FLEX: keep DJ Moore.** No Bills report has listed him this week. If he shows up as limited/DNP or questionable by **Wed 2 PM MT**, swap in Tyson (Sunday game). **Medium.**
-- **Jacobs is officially questionable for Wednesday but still unlikely** (limited all 3 practices; LaFleur says unlikely). Leave him on IR unless he's surprisingly active at ~4:30 PM MT Wednesday.
+## What changed
+- **Josh Jacobs (GB, on your IR) went from Out to Questionable** (Sleeper, 08:47 UTC). That's the Packers' official tag for tonight's game at the Rams (8 PM ET / 6 PM MT). He has a surgically repaired right ring finger and was limited in all three practices. LaFleur said Sunday and Monday he's "still unlikely to play." The Packers may test his grip in a pregame workout. If he sits, he's expected back Dec 6 at New Orleans. He projects 0 this week.
+- **Possible roster lock: on Sleeper, a Questionable player usually can't stay in an IR slot.** If your league blocks it, Sleeper won't let you make any adds (JAX D/ST, Aaron Jones) until Jacobs comes off IR. I couldn't read your league's IR settings from here. Check the app.
+- **Omar Cooper Jr. (NYJ, bench) went from Out to Questionable.** He has an ankle/hip injury, played one snap in Week 10 and sat Week 11. RotoBaller says he's trending toward playing vs Miami. He projects 9.1, below Moore (10.7) and Tyson (11.9). The Jets are on bye in Week 13. No lineup impact.
+- **DJ Moore (BUF) no longer has a designation.** He's not on any Bills Week 12 report after his Week 11 leg hyperextension. Keep him at FLEX for Thursday night vs KC.
+- **Your lineup is still unfixed as of 09:03 UTC:** Dowdle and Tyson are starting, **Judkins and Evans are benched**, DEF is still **LAR D/ST**, and Aaron Jones wasn't added. JAX D/ST and Jones are both still free agents.
 
-## Recommended lineup
-| Slot | Player | Game (ET) | Proj | Plays? | Confidence | Why |
-|---|---|---|---|---|---|---|
-| QB | Jared Goff | CHI @ DET · Thu 1:00 | 19.9 | ~97% (est.) | High | Not on the Lions' Tue report. Week-high ~55 total |
-| RB | **Quinshon Judkins** (start; now benched) | LV @ CLE · Sun 8:20 | 12.9 | ~95% (est.) | High | No tag. Lead back; Sampson takes passing downs |
-| RB | **Aaron Jones Sr.** (add) or Jordan Mason | ATL @ MIN · Sun 1:00 | 10.9 / 10.8 | ~95% | Low | Coin flip in a near-even split. Jones had the TD and more receiving work |
-| WR | **Mike Evans** (start; now benched) | SEA @ SF · Sun 4:25 | 13.5 | ~93% (est.) | High | 6-109-1 in his Achilles return. No new tag |
-| WR | Stefon Diggs | WAS @ ARI · Sun 4:25 | 13.2 | ~97% | High | 6+ targets in most games. WAS a big favorite |
-| TE | George Kittle | SEA @ SF · Sun 4:25 | 12.1 | ~97% | High | Healthy, 2 TDs in Week 11 |
-| FLEX | DJ Moore | KC @ BUF · Thu 8:20 | 9.2 | ~90% (est.) | Medium | Off every Bills report so far. 42 pts in his last 2. Tyson is the Sunday pivot |
-| K | Jake Bates | CHI @ DET · Thu 1:00 | 8.4 | Yes | Medium | Best game environment of the week |
-| DEF | **JAX D/ST** (add; drop LAR) | TEN @ JAX · Sun 1:00 | 9.3 | Yes | High | Top stream. LAR (7.5) locks Wed |
-
-**Bench:** Tyson (NO @ CIN, Sun 1:00), Mason or Jones, Dowdle (DEN @ PIT, Fri), Allen, Cooper (out), Jacobs (IR), Adams (IR).
-
-## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5, 4th). The monitor has you at **100.9 as set vs 140.9**, a **13% win chance**. With the fixed lineup plus JAX (~112), that's about **18–20% (est.)**. You're a big underdog, so lean toward ceiling: Moore over Tyson only because Moore's Thursday slot keeps Tyson as a free pivot; otherwise they're close.
-
-Their namesakes: Jahmyr Gibbs plays Thursday 1 PM ET vs CHI (same game as Goff and Bates). Malik Nabers had 12 targets in Week 11. Neither appeared on the injury reports I found today. The monitor doesn't carry their full roster, so check it in Sleeper.
-
-## Key decisions
-### FLEX: DJ Moore or Jordyn Tyson
-- **Moore:** hyperextended his left knee Sunday, returned and finished 8-91-1. He was **not on Monday's estimated report** (SI / Fantasy Guru, Nov 23–24). The Tuesday coverage I found doesn't list him either (Arrowhead Pride via Yahoo, Nov 24). Brady: "He's as tough as they come." Sleeper still shows him questionable, and his projection dropped to 9.2 (likely the tag, not new news).
-- **Tyson:** NO is a ~10-point underdog at CIN (total ~51), a pass-heavy script. Volatile, though: 11-80 on 13 targets in Week 10, then 1-6 in Week 11.
-- **Estimates:** Moore ~90% to play; median ~11 if active, range 4–25. Tyson median ~10, range 2–20.
-- **Call: start Moore. Medium.** He plays first, so a surprise scratch leaves Tyson unlocked for Sunday. **Flip to Tyson** if Moore is listed questionable or worse on Wednesday's final report (due ~4 PM ET / 2 PM MT).
-
-### RB2: Aaron Jones Sr. or Jordan Mason (or Dowdle)
-- Week 11 vs SF: Mason 11-38, Jones 8-30-1 plus 1-13 receiving (CBS/RotoWire, Nov 23). RotoWire expects the split to continue vs ATL.
-- MIN is about a 6.5-point home favorite, a good rushing script for both.
-- Dowdle (7.8, Friday at PIT, low ~38 total) is a clear third.
-- **Call:** add Jones now ($0) for Kiner. **Start Jones** (TD role and pass-game upside fit an underdog). Mason is a fine alternative. **Low** — it's a true coin flip. Skip the add and start Mason if you'd rather not churn.
-
-### Jacobs: activate if he plays Wednesday?
-- Officially **questionable** (finger), **limited Sun/Mon/Tue**. LaFleur said Sunday he'd need "a lot of progress" and Monday that he's unlikely. GB may test his grip pregame (Packers.com, RotoWire, NBC, Nov 24).
-- **Estimate: ~15%** to play. Even if active, likely a limited role behind Kaleb Johnson / MarShawn Lloyd.
-- **Call: leave him on IR. High.** Only if GB lists him active (~4:30 PM MT Wed) would it be worth activating him (drop Allen) and starting him over Jones/Mason before 6 PM MT. Realistic return: Week 13 at New Orleans.
-
-### Late-game risk
-- Judkins is on SNF (8:20 PM ET). Every bench RB will be locked by then. He has no tag and Raheim Sanders' return window (hip, behind Judkins and Sampson) doesn't change his role (Yardbarker, Nov 24). Check CLE inactives at 4:50 PM MT Sunday.
-- Evans, Kittle and Diggs play at 4:25 PM ET. Allen (SF) is the only bench WR still unlocked; inactives come at 12:55 PM MT.
-
-## Injury watch
-| Player | Status | Latest news (date) | Chance to play | Next update |
-|---|---|---|---|---|
-| DJ Moore (BUF) | Questionable in Sleeper (knee) | Not on Mon estimated report; not named in Tue coverage (SI/Fantasy Guru Nov 23–24; Yahoo Nov 24) | ~90% (est.) | Bills final report Wed ~4 PM ET |
-| Josh Jacobs (GB) | Questionable (finger), on your IR | Limited all 3 practices; LaFleur: unlikely (Packers.com/RotoWire/NBC, Nov 24) | ~15% Wk 12; ~70% Wk 13 (est.) | GB inactives Wed ~6:30 PM ET |
-| Mike Evans (SF) | No tag | 6-109-1 in return from Achilles (Nov 22) | ~93% (est.) | SF Wed practice |
-| Omar Cooper Jr. (NYJ) | Out (ankle) | Ankle rolled three times; missed five games (SI, Nov 24) | ~35% Wk 12 (est.) | Jets Wed practice; NYJ bye Wk 13 |
-| Davante Adams (LAR) | IR | Out until at least Week 13 (Yahoo, Nov 23) | 0% | — |
-| Sam LaPorta (DET, affects Goff) | Limited (ankle) | Mon estimated report (Yardbarker, Nov 24) | — | Lions Wed report |
-
-## Waivers & FAAB
-| Add | Drop | Bid | Why |
-|---|---|---|---|
-| **JAX D/ST** | LAR D/ST | $0 (free agent, **now**) | +1.8 over LAR this week. LAR locks Wed 6 PM MT. 57K adds in 24h, so don't wait |
-| **Aaron Jones Sr.** | Corey Kiner | $0 (free agent, now) | Same backfield as Mason; owning both locks up the lead MIN back. Kiner is 7.2 and your 6th RB |
-
-Skip the QBs the monitor ranks high (Darnold is out, Geno Smith, Bryce Young). You start one QB, and it's Goff. Keep ~$50 of the $78 FAAB for emergencies.
-
-## Trades
-**No sends.** The engine's top idea (Tyson or Mason for Ashton Jeanty, +3.1/wk) hurts I'm stuck Step Burrow (-0.5), so they'll likely pass. Moore for Derrick Henry (+1.6) would go to this week's opponent and costs you a WR right when Moore is healthy. At 0% playoff odds, it's not worth the effort unless someone reaches out.
-
-## Kicker & defense
-DEF: JAX D/ST this week (drop LAR). K: keep Bates (Zvada is only +0.4, and Bates has the week's best game environment).
-
-## Looking ahead
-- **Week 13:** Jacobs (15.5 projected) is the likely return at NO; Cooper is on bye (NYJ). Moore's projection climbs to 13.1.
-- **Cut order** when you need a spot: Kiner (now), then Cooper, then Allen. Hold Jacobs and Adams on IR.
-- JAX is only 6.0 in Week 13, so plan to stream DEF again next Tuesday.
-
-## Changes since last report
-- **Lineup still not fixed** at 5:37 PM MT (same as the 7:37 AM check-in): Dowdle and Tyson start, Judkins and Evans sit, LAR at DEF.
-- **Aaron Jones is still a free agent** (no claim processed), so the add is now $0 and immediate instead of a $1–5 claim.
-- **Jacobs upgraded on paper:** now officially questionable, limited all three days. Still unlikely; Week 12 odds about the same (~15%).
-- **Moore:** still not on any Bills report, but Sleeper's projection fell from 10.4 to 9.2. No change to the call.
-- **New:** Browns opened Raheim Sanders' IR return window (no effect on Judkins). LaPorta (ankle) limited on the Lions' Monday estimate.
-- Win chance as set: 14% → 13%.
+## What to do
+1. **Before 6:00 PM MT today (8 PM ET, when GB @ LAR kicks off and LAR locks): add JAX D/ST, drop LAR D/ST, start JAX.** It's the top stream (9.3 proj). After kickoff you can't drop LAR. **High.**
+2. **If Sleeper blocks the add because Jacobs is IR-ineligible:** move Jacobs from IR to your bench and drop **Keenan Allen** (6.4 proj, your 6th WR) to make room. Then make the adds. **High.** If it doesn't block you, leave Jacobs on IR.
+3. **Fix the lineup tonight:** start **Judkins** (RB) and **Evans** (WR), and bench **Dowdle**. Keep **Moore at FLEX** and Tyson on the bench as the Sunday pivot. That's about +8 projected points. **High.**
+4. **Add Aaron Jones Sr. ($0), drop Corey Kiner.** Jones (11.2) or Mason (10.8) is your RB2, a coin flip. **Medium.**
+5. **Jacobs: check GB inactives around 4:30 PM MT.** If he's surprisingly active, start him only if he's confirmed to play without limits. Otherwise keep Judkins and Jones/Mason. **Low.**
+6. **Cooper:** keep him on the bench. No move.
 
 ## Sources
-- Sleeper / monitor data (`data/latest.json`), 2026-11-25 00:37 UTC
-- [Packers.com: Packers list eight questionable vs. Rams](https://www.packers.com/news/packers-list-eight-questionable-vs-rams-week-12-injury-report) — Nov 24: Jacobs Q, limited all week
-- [RotoWire: Josh Jacobs officially questionable for Wednesday](https://www.rotowire.com/football/headlines/josh-jacobs-injury-officially-questionable-for-wednesday-649591) — Nov 24
-- [NBC Sports: Josh Jacobs questionable for Wednesday](https://www.nbcsports.com/fantasy/football/player-news/2026-11-24/josh-jacobs-thumb-questionable-for-wednesday) — Nov 24
-- [Yahoo/ClutchPoints: Packers reveal Parsons, Jacobs status](https://sports.yahoo.com/articles/packers-reveals-micah-parsons-josh-193145289.html) — Nov 24
-- [NFL.com: News roundup, Tuesday Nov 24](https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-tuesday-nov-24) — Nov 24
-- [Yahoo/Arrowhead Pride: Chiefs-Bills Week 12 Tuesday injury report](https://sports.yahoo.com/nfl/articles/chiefs-bills-week-12-tuesday-214129890.html) — Nov 24
-- [Yahoo/Bills On SI: Bills' Week 12 injury outlook](https://sports.yahoo.com/articles/bills-week-12-injury-outlook-165302736.html) — Nov 23: Moore knee, Brady quote
-- [Fantasy Guru: DJ Moore not on Monday's estimated report](https://www.fantasyguru.com/bills-dj-moore-not-on-mondays-estimated-injury-report) — Nov 23
-- [SI Bills On SI: Week 12 injury report, DJ Moore not included](https://www.si.com/nfl/bills/onsi/injury-report-week-12-bills-dj-moore-not-included-three-starters-added-chiefs) — Nov 24 (from weekly check-in)
-- [CBS Sports: Thanksgiving injury report](https://www.cbssports.com/nfl/news/nfl-thanksgiving-injury-report-micah-parsons-cleared-kenneth-walker-iii-practices/) — Nov 24
-- [Yahoo/Lions Wire: Lions duo upgraded in Tuesday injury report](https://sports.yahoo.com/nfl/articles/detroit-lions-duo-upgraded-tuesday-222504289.html) — Nov 24: Goff not listed
-- [Yardbarker: Lions hit with two injury concerns](https://www.yardbarker.com/nfl/articles/detroit_lions_hit_with_two_injury_concerns_before_thanksgiving_game/s1_17355_44610026) — Nov 24: LaPorta limited
-- [Yardbarker: Browns announce running back injury news](https://www.yardbarker.com/nfl/articles/browns_announce_running_back_injury_news_on_tuesday/s1_17355_44612903) — Nov 24: Sanders return window
-- [CBS Sports/RotoWire: Aaron Jones quiet after first-quarter TD](https://www.cbssports.com/fantasy/football/news/vikings-aaron-jones-quiet-after-first-quarter-td/) — Nov 23: MIN split
-- [Fantasy Footballers: Jordyn Tyson breakout in Week 10](https://www.thefantasyfootballers.com/news/648096/jordyn-tyson-breakout-performance-in-week-10-loss/) — Nov 16
-- [Draft Sharks: Stefon Diggs schedule boost](https://www.draftsharks.com/fantasy-football-news/84177/stefon-diggs-gets-a-schedule-boost-after-game-winning-td) — Nov 13
-- [Covers: NFL Week 12 odds and opening lines](https://www.covers.com/nfl/week-12-odds-opening-lines-2026) — Nov 23 (from weekly check-in): spreads and totals
-- Prior report: [Tue Nov 24 · Weekly](2026/week-12/2026-11-24-weekly.md)
+- Sleeper / monitor data (`data/latest.json`, `data/events.json`), 2026-11-25 09:03 UTC
+- [RotoWire: Josh Jacobs officially questionable for Wednesday](https://www.rotowire.com/football/headlines/josh-jacobs-injury-officially-questionable-for-wednesday-649591)
+- [ClutchPoints: Jacobs injury update not a good sign](https://clutchpoints.com/nfl/green-bay-packers/packers-news-josh-jacobs-injury-update-not-good-sign-thanksgiving-eve-vs-rams)
+- [Heavy: Jacobs questionable vs Rams](https://heavy.com/sports/nfl/green-bay-packers/josh-jacobs-questionable-rams-game/)
+- [RotoBaller: When is Omar Cooper Jr. coming back (Week 12)](https://www.rotoballer.com/when-is-omar-cooper-jr-coming-back-week-12-fantasy-football-injury-return-update-2026/2001994)
+- [SI: Bills Week 12 injury report, DJ Moore not included](https://www.si.com/nfl/bills/onsi/injury-report-week-12-bills-dj-moore-not-included-three-starters-added-chiefs)
+- [SI: Bills get positive injury news for Thanksgiving night](https://www.si.com/nfl/bills/onsi/injuries-week-12-bills-get-positive-news-across-board-for-thanksgiving-night-game-vs-chiefs)
