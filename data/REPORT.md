@@ -1,11 +1,11 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-25T20:49:44Z UTC
+Week 12 · record 3-8 · updated 2026-11-25T20:54:49Z UTC
 
 ## Lineup check
-Current lineup projects **100.4**, best possible **106.2**.
+Current lineup projects **99.9**, best possible **106.2**.
 
 - 🔁 Start Quinshon Judkins (RB, CLE) (12.9) over Rico Dowdle (RB, PIT) (7.9)
-- 🔁 Start Mike Evans (WR, SF) (11.4) over DJ Moore (WR, BUF) (10.7)
+- 🔁 Start Mike Evans (WR, SF) (11.4) over DJ Moore (WR, BUF) (10.2)
 
 ## Waiver targets
 FAAB left: **$78** (league starting budget $100)
@@ -27,34 +27,34 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Dominic Zvada for Jake Bates (+0.5 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **100.4** – 140.4 projected · win chance **13%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **99.9** – 139.9 projected · win chance **13%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 127.4 | 99% |
-| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 136.3 | 100% |
-| 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 130.5 | 97% |
-| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 134.2 | 95% |
-| 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 124.9 | 68% |
-| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 122.7 | 53% |
-| 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 138.0 | 73% |
-| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 119.4 | 14% |
-| 9 | Touch of the Downs | 3-8 | 1301.2 | 1316.8 | 9 | 115.4 | 0% |
+| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 127.0 | 99% |
+| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 136.1 | 100% |
+| 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 130.4 | 97% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 134.1 | 95% |
+| 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 124.8 | 68% |
+| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 122.7 | 52% |
+| 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 138.0 | 72% |
+| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 119.4 | 15% |
+| 9 | Touch of the Downs | 3-8 | 1301.2 | 1316.8 | 9 | 115.2 | 0% |
 | 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 110.3 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
-- **Possible** · Give Jordyn Tyson, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.4 for them.
-- **Possible** · Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.4 for them.
+- **Possible** · Give Jordyn Tyson, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.3 for them.
+- **Possible** · Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.0 pts/week for you, -0.3 for them.
 - **Likely** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +0.4 for them.
 - **Possible** · Give Mike Evans, get Jonathan Taylor from Monangynecologist: +1.7 pts/week for you, -0.4 for them.
 - **Possible** · Give Jordyn Tyson, get Ollie Gordon II from Bradsbaconisundercooked: +1.7 pts/week for you, -0.4 for them.
 - **Possible** · Give DJ Moore, get Derrick Henry from Gibbs me Nabers 😵‍💫: +1.6 pts/week for you, -0.5 for them.
-- **Possible** · Give Mike Evans, get Jonah Coleman from Monangynecologist: +1.5 pts/week for you, -0.3 for them.
+- **Possible** · Give Mike Evans, get Jonah Coleman from Monangynecologist: +1.5 pts/week for you, -0.4 for them.
 - **Possible** · Give Stefon Diggs, get Rhamondre Stevenson from Atticus Dean: +1.2 pts/week for you, -0.0 for them.
 
 ## Roster
@@ -68,7 +68,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | George Kittle | TE | SF | starter |  | 12.1 | 13.5 | 13.9 | 15.5 |
 | Jordyn Tyson | WR | NO | starter |  | 11.8 | 11.2 | 11.0 | 11.4 |
 | Stefon Diggs | WR | WAS | starter | Questionable | 11.2 | 13.6 | 12.3 | 12.4 |
-| DJ Moore | WR | BUF | starter |  | 10.7 | 13.1 | 13.2 | 14.1 |
+| DJ Moore | WR | BUF | starter |  | 10.2 | 13.1 | 13.2 | 14.1 |
 | Quinshon Judkins | RB | CLE | bench |  | 12.9 | 12.6 | 11.5 | 11.2 |
 | Corey Kiner | RB | NE | bench |  | 7.1 | 5.8 | 6.2 | 3.5 |
 | Josh Jacobs | RB | GB | reserve | Questionable | 0.0 | 15.5 | 13.2 | 14.3 |
