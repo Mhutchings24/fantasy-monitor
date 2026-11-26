@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-26T23:48:40Z UTC
+Week 12 · record 3-8 · updated 2026-11-26T23:51:44Z UTC
 
 ## Lineup check
 Current lineup projects **107.0**, best possible **108.2**.
@@ -39,8 +39,8 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 128.8 | 97% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 2 | 134.0 | 96% |
 | 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 121.3 | 68% |
-| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 119.7 | 50% |
-| 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 138.0 | 76% |
+| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 119.8 | 50% |
+| 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 137.9 | 76% |
 | 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 118.9 | 14% |
 | 9 | DeshaunDontTouchdownThere | 3-8 | 1301.2 | 1316.8 | 9 | 112.7 | 0% |
 | 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 110.8 | 0% |
@@ -62,14 +62,14 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Jake Bates | K | DET | starter |  | 8.4 | 8.9 | 8.6 | 8.5 |
 | Jared Goff | QB | DET | starter |  | 20.4 | 18.2 | 20.0 | 16.9 |
 | Quinshon Judkins | RB | CLE | starter |  | 13.0 | 12.5 | 11.5 | 11.2 |
-| Jordan Mason | RB | MIN | starter |  | 10.8 | 11.0 | 10.0 | 10.1 |
+| Jordan Mason | RB | MIN | starter |  | 10.8 | 11.1 | 10.0 | 10.1 |
 | George Kittle | TE | SF | starter |  | 11.9 | 13.5 | 13.9 | 15.5 |
 | Stefon Diggs | WR | WAS | starter |  | 13.1 | 13.6 | 12.3 | 12.4 |
 | Jordyn Tyson | WR | NO | starter |  | 11.8 | 11.2 | 11.0 | 11.4 |
 | DJ Moore | WR | BUF | starter |  | 10.1 | 13.2 | 13.2 | 14.1 |
 | Rico Dowdle | RB | PIT | bench |  | 7.8 | 8.4 | 7.4 | 7.5 |
 | Corey Kiner | RB | NE | bench |  | 7.6 | 5.8 | 6.2 | 3.5 |
-| Josh Jacobs | RB | GB | reserve | Out | 0.0 | 15.5 | 13.2 | 14.3 |
+| Josh Jacobs | RB | GB | reserve | Out | 0.0 | 15.4 | 13.2 | 14.3 |
 | Mike Evans | WR | SF | bench | Questionable | 11.4 | 15.0 | 15.5 | 17.1 |
 | Omar Cooper Jr. | WR | NYJ | bench | Questionable | 9.3 | 0.0 | 9.7 | 11.0 |
 | Keenan Allen | WR | SF | bench |  | 6.4 | 6.2 | 6.2 | 7.1 |
