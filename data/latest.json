@@ -1,5 +1,5 @@
 {
- "content_hash": "d3caa39fcea5d8f56870bbdc00a6356147d8d8a0",
+ "content_hash": "946080d50b092861995a9bb1e26612b729e55975",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -458,21 +458,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "SEA D/ST",
-   "pos": "DEF",
-   "proj_4wk": 28.9,
-   "proj_this_week": 5.99,
-   "status": null,
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Kalif Raymond",
    "pos": "WR",
    "proj_4wk": 28.9,
    "proj_this_week": 7.66,
    "status": null,
    "team": "CHI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "SEA D/ST",
+   "pos": "DEF",
+   "proj_4wk": 28.9,
+   "proj_this_week": 5.99,
+   "status": null,
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -799,7 +799,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-26T15:59:30Z",
+ "generated_at": "2026-11-26T16:04:34Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
