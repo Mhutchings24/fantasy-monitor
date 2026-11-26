@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-26T23:13:03Z UTC
+Week 12 · record 3-8 · updated 2026-11-26T23:18:07Z UTC
 
 ## Lineup check
 Current lineup projects **107.0**, best possible **108.2**.
@@ -38,10 +38,10 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 3 | 134.0 | 100% |
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 128.8 | 97% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 2 | 134.0 | 96% |
-| 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 123.6 | 71% |
-| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 119.7 | 49% |
+| 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 121.3 | 68% |
+| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 119.7 | 50% |
 | 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 138.0 | 76% |
-| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 118.9 | 13% |
+| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 118.9 | 14% |
 | 9 | DeshaunDontTouchdownThere | 3-8 | 1301.2 | 1316.8 | 9 | 112.7 | 0% |
 | 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 110.8 | 0% |
 
