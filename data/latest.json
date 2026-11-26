@@ -1,5 +1,5 @@
 {
- "content_hash": "54d8f172435728694ba67a8f48443d67d218b67e",
+ "content_hash": "de8ef23d4b58bfcf1565669d3bbd8252eb2ab581",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -413,21 +413,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Andre Szmyt",
-   "pos": "K",
-   "proj_4wk": 30.0,
-   "proj_this_week": 7.53,
-   "status": null,
-   "team": "CLE"
-  },
-  {
-   "adds_24h": 0,
    "name": "Quentin Johnston",
    "pos": "WR",
    "proj_4wk": 30.0,
    "proj_this_week": 7.13,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Andre Szmyt",
+   "pos": "K",
+   "proj_4wk": 30.0,
+   "proj_this_week": 7.53,
+   "status": null,
+   "team": "CLE"
   },
   {
    "adds_24h": 0,
@@ -799,7 +799,7 @@
    "team": "NE"
   }
  ],
- "generated_at": "2026-11-26T03:12:08Z",
+ "generated_at": "2026-11-26T03:17:13Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1011,7 +1011,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.32,
+    "first_seed_odds": 0.321,
     "losses": 4,
     "mine": false,
     "pa": 1453.28,
@@ -1032,7 +1032,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.431,
+    "first_seed_odds": 0.434,
     "losses": 4,
     "mine": false,
     "pa": 1412.1,
@@ -1053,16 +1053,16 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.174,
+    "first_seed_odds": 0.167,
     "losses": 4,
     "mine": false,
     "pa": 1288.58,
     "pf": 1326.64,
-    "playoff_odds": 0.969,
+    "playoff_odds": 0.966,
     "power_rank": 4,
-    "proj_avg": 129.2,
+    "proj_avg": 128.7,
     "proj_by_week": {
-     "12": 118.67,
+     "12": 116.81,
      "13": 132.81,
      "14": 128.5,
      "15": 136.71
@@ -1074,7 +1074,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.065,
+    "first_seed_odds": 0.066,
     "losses": 5,
     "mine": false,
     "pa": 1400.04,
@@ -1121,7 +1121,7 @@
     "mine": false,
     "pa": 1223.72,
     "pf": 1269.3,
-    "playoff_odds": 0.485,
+    "playoff_odds": 0.486,
     "power_rank": 7,
     "proj_avg": 119.6,
     "proj_by_week": {
@@ -1142,7 +1142,7 @@
     "mine": false,
     "pa": 1397.48,
     "pf": 1389.34,
-    "playoff_odds": 0.752,
+    "playoff_odds": 0.753,
     "power_rank": 1,
     "proj_avg": 137.8,
     "proj_by_week": {
@@ -1163,7 +1163,7 @@
     "mine": false,
     "pa": 1417.6,
     "pf": 1271.58,
-    "playoff_odds": 0.131,
+    "playoff_odds": 0.132,
     "power_rank": 8,
     "proj_avg": 118.8,
     "proj_by_week": {
