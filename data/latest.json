@@ -1,5 +1,5 @@
 {
- "content_hash": "efd7c6b698f368400414c270b04ca100deec0b1e",
+ "content_hash": "597919d8249e1c7c3eb7c7fa9e01d9fd30bd3e82",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -260,15 +260,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Dalton Schultz",
-   "pos": "TE",
-   "proj_4wk": 34.2,
-   "proj_this_week": 8.75,
-   "status": null,
-   "team": "HOU"
-  },
-  {
-   "adds_24h": 0,
    "name": "Chris Godwin Jr.",
    "pos": "WR",
    "proj_4wk": 34.1,
@@ -293,6 +284,15 @@
    "proj_this_week": 7.04,
    "status": "Questionable",
    "team": "CAR"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Dalton Schultz",
+   "pos": "TE",
+   "proj_4wk": 32.9,
+   "proj_this_week": 7.44,
+   "status": "Questionable",
+   "team": "HOU"
   },
   {
    "adds_24h": 0,
@@ -808,7 +808,7 @@
    "team": "NO"
   }
  ],
- "generated_at": "2026-11-26T21:50:07Z",
+ "generated_at": "2026-11-26T21:55:10Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
