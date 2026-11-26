@@ -1,5 +1,5 @@
 {
- "content_hash": "0f3d92b92ff53162ffb7cb58fb35ae6221028c35",
+ "content_hash": "7c43cfffa08fe1a436acca2b2489a0a69ae80ca4",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -448,15 +448,6 @@
    "team": "CAR"
   },
   {
-   "adds_24h": 46764,
-   "name": "SF D/ST",
-   "pos": "DEF",
-   "proj_4wk": 29.0,
-   "proj_this_week": 6.63,
-   "status": null,
-   "team": "SF"
-  },
-  {
    "adds_24h": 58345,
    "name": "Xavier Hutchinson",
    "pos": "WR",
@@ -464,6 +455,15 @@
    "proj_this_week": 8.27,
    "status": null,
    "team": "HOU"
+  },
+  {
+   "adds_24h": 46764,
+   "name": "SF D/ST",
+   "pos": "DEF",
+   "proj_4wk": 29.0,
+   "proj_this_week": 6.63,
+   "status": null,
+   "team": "SF"
   },
   {
    "adds_24h": 0,
@@ -799,7 +799,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-26T10:25:54Z",
+ "generated_at": "2026-11-26T10:30:58Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
