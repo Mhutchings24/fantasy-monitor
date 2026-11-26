@@ -1,5 +1,5 @@
 {
- "content_hash": "983f7c6d454c8a7cfcd9b697985016193241432f",
+ "content_hash": "87323e91344ccae7dd420f230decadbd3941f6ac",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -109,8 +109,8 @@
    "adds_24h": 179556,
    "name": "Geno Smith",
    "pos": "QB",
-   "proj_4wk": 52.0,
-   "proj_this_week": 17.99,
+   "proj_4wk": 52.1,
+   "proj_this_week": 18.09,
    "status": null,
    "team": "NYJ"
   },
@@ -182,7 +182,7 @@
    "name": "Chig Okonkwo",
    "pos": "TE",
    "proj_4wk": 39.9,
-   "proj_this_week": 10.26,
+   "proj_this_week": 10.27,
    "status": null,
    "team": "WAS"
   },
@@ -200,7 +200,7 @@
    "name": "Carson Beck",
    "pos": "QB",
    "proj_4wk": 38.7,
-   "proj_this_week": 11.32,
+   "proj_this_week": 11.39,
    "status": "Questionable",
    "team": "ARI"
   },
@@ -368,21 +368,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Daniel Carlson",
-   "pos": "K",
-   "proj_4wk": 31.1,
-   "proj_this_week": 7.45,
-   "status": null,
-   "team": "MIA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Jadarian Price",
    "pos": "RB",
    "proj_4wk": 31.1,
    "proj_this_week": 6.51,
    "status": null,
    "team": "SEA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Daniel Carlson",
+   "pos": "K",
+   "proj_4wk": 31.0,
+   "proj_this_week": 7.41,
+   "status": null,
+   "team": "MIA"
   },
   {
    "adds_24h": 0,
@@ -605,7 +605,7 @@
    "name": "Greg Dulcich",
    "pos": "TE",
    "proj_4wk": 27.2,
-   "proj_this_week": 6.9,
+   "proj_this_week": 6.88,
    "status": null,
    "team": "MIA"
   },
@@ -683,21 +683,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Kimani Vidal",
-   "pos": "RB",
-   "proj_4wk": 25.1,
-   "proj_this_week": 6.15,
-   "status": null,
-   "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
    "name": "CHI D/ST",
    "pos": "DEF",
    "proj_4wk": 25.1,
    "proj_this_week": 6.05,
    "status": null,
    "team": "CHI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Kimani Vidal",
+   "pos": "RB",
+   "proj_4wk": 25.1,
+   "proj_this_week": 6.15,
+   "status": null,
+   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -767,7 +767,7 @@
    "name": "NYJ D/ST",
    "pos": "DEF",
    "proj_4wk": 20.8,
-   "proj_this_week": 8.03,
+   "proj_this_week": 8.06,
    "status": null,
    "team": "NYJ"
   },
@@ -799,7 +799,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-26T12:48:43Z",
+ "generated_at": "2026-11-26T12:53:46Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -865,7 +865,7 @@
    {
     "name": "Stefon Diggs",
     "pid": "2449",
-    "proj": 11.2,
+    "proj": 11.15,
     "slot": "FLEX"
    },
    {
@@ -881,8 +881,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 106.41,
-  "current_projected": 99.66,
+  "best_projected": 106.36,
+  "current_projected": 99.61,
   "gain": 6.75,
   "problems": [],
   "source": "matchup week 12",
@@ -992,9 +992,9 @@
    "week": 11
   },
   "matchup": {
-   "my_proj": 99.7,
-   "opp_best_possible": 140.21,
-   "opp_proj": 138.4,
+   "my_proj": 99.6,
+   "opp_best_possible": 140.18,
+   "opp_proj": 138.3,
    "opponent": "Gibbs me Nabers 😵‍💫",
    "opponent_record": "6-5",
    "win_prob": 0.137
@@ -1011,7 +1011,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.324,
+    "first_seed_odds": 0.325,
     "losses": 4,
     "mine": false,
     "pa": 1453.28,
@@ -1020,7 +1020,7 @@
     "power_rank": 5,
     "proj_avg": 128.4,
     "proj_by_week": {
-     "12": 134.7,
+     "12": 134.75,
      "13": 122.47,
      "14": 118.76,
      "15": 137.79
@@ -1041,7 +1041,7 @@
     "power_rank": 2,
     "proj_avg": 135.5,
     "proj_by_week": {
-     "12": 134.43,
+     "12": 134.5,
      "13": 127.38,
      "14": 142.99,
      "15": 137.03
@@ -1053,7 +1053,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.169,
+    "first_seed_odds": 0.168,
     "losses": 4,
     "mine": false,
     "pa": 1288.58,
@@ -1081,9 +1081,9 @@
     "pf": 1453.24,
     "playoff_odds": 0.953,
     "power_rank": 3,
-    "proj_avg": 133.5,
+    "proj_avg": 133.4,
     "proj_by_week": {
-     "12": 140.21,
+     "12": 140.18,
      "13": 127.24,
      "14": 135.17,
      "15": 131.19
@@ -1104,7 +1104,7 @@
     "power_rank": 6,
     "proj_avg": 124.8,
     "proj_by_week": {
-     "12": 120.44,
+     "12": 120.41,
      "13": 125.08,
      "14": 127.24,
      "15": 126.55
@@ -1121,11 +1121,11 @@
     "mine": false,
     "pa": 1223.72,
     "pf": 1269.3,
-    "playoff_odds": 0.484,
+    "playoff_odds": 0.485,
     "power_rank": 7,
     "proj_avg": 119.6,
     "proj_by_week": {
-     "12": 129.47,
+     "12": 129.5,
      "13": 102.03,
      "14": 121.94,
      "15": 125.03
@@ -1146,7 +1146,7 @@
     "power_rank": 1,
     "proj_avg": 137.8,
     "proj_by_week": {
-     "12": 143.13,
+     "12": 143.07,
      "13": 137.32,
      "14": 125.14,
      "15": 145.66
@@ -1167,7 +1167,7 @@
     "power_rank": 8,
     "proj_avg": 118.9,
     "proj_by_week": {
-     "12": 114.85,
+     "12": 114.77,
      "13": 120.74,
      "14": 113.56,
      "15": 126.37
@@ -1209,7 +1209,7 @@
     "power_rank": 10,
     "proj_avg": 110.2,
     "proj_by_week": {
-     "12": 106.41,
+     "12": 106.36,
      "13": 111.41,
      "14": 110.91,
      "15": 112.13
@@ -1335,7 +1335,7 @@
    "pid": "2449",
    "pos": "WR",
    "proj_by_week": {
-    "12": 11.2,
+    "12": 11.15,
     "13": 13.61,
     "14": 12.28,
     "15": 12.43
@@ -1425,7 +1425,7 @@
    "pid": "13276",
    "pos": "WR",
    "proj_by_week": {
-    "12": 9.27,
+    "12": 9.31,
     "13": 0.0,
     "14": 9.69,
     "15": 10.98
@@ -1625,7 +1625,7 @@
      "name": "Ollie Gordon II",
      "pid": "12495",
      "pos": "RB",
-     "ros_per_week": 12.0,
+     "ros_per_week": 11.9,
      "status": null,
      "team": "MIA"
     }
@@ -1716,7 +1716,7 @@
      "name": "Omar Cooper Jr.",
      "pid": "13276",
      "pos": "WR",
-     "ros_per_week": 8.3,
+     "ros_per_week": 8.4,
      "status": "Questionable",
      "team": "NYJ"
     }
@@ -1840,7 +1840,7 @@
    "pid": "1373",
    "pos": "QB",
    "proj_by_week": {
-    "12": 17.99,
+    "12": 18.09,
     "13": 0.0,
     "14": 14.8,
     "15": 19.23
