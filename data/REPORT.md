@@ -1,10 +1,10 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-26T02:23:57Z UTC
+Week 12 · record 3-8 · updated 2026-11-26T02:29:00Z UTC
 
 ## Lineup check
-Current lineup projects **99.8**, best possible **106.4**.
+Current lineup projects **99.8**, best possible **106.2**.
 
-- 🔁 Start Quinshon Judkins (RB, CLE) (13.2) over Rico Dowdle (RB, PIT) (7.8)
+- 🔁 Start Quinshon Judkins (RB, CLE) (13.0) over Rico Dowdle (RB, PIT) (7.8)
 - 🔁 Start Mike Evans (WR, SF) (11.4) over DJ Moore (WR, BUF) (10.1)
 
 ## Waiver targets
@@ -16,7 +16,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 |---|---|---|---|---|---|---|
 | Bo Nix | QB | DEN | Corey Kiner | +2.5 | +0.0 | 0 |
 | Sam Darnold | QB | SEA | Corey Kiner | +2.5 | +0.0 | 0 |
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 199,568 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 200,764 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +1.8 | +0.0 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.7 | +0.5 | 0 |
@@ -29,7 +29,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Dominic Zvada for Jake Bates (+0.5 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **99.8** – 138.2 projected · win chance **14%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **99.8** – 138.4 projected · win chance **14%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -37,23 +37,23 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 128.4 | 100% |
-| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 135.4 | 100% |
-| 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 129.1 | 97% |
-| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.3 | 95% |
+| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 135.5 | 100% |
+| 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 129.2 | 97% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.4 | 95% |
 | 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 124.7 | 70% |
-| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 121.9 | 53% |
+| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 122.0 | 53% |
 | 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 137.8 | 74% |
-| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 118.8 | 13% |
-| 9 | DeshaunDontTouchdownThere | 3-8 | 1301.2 | 1316.8 | 9 | 113.1 | 0% |
+| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 118.8 | 12% |
+| 9 | DeshaunDontTouchdownThere | 3-8 | 1301.2 | 1316.8 | 9 | 113.3 | 0% |
 | 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 110.2 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
-- **Possible** · Give Jordyn Tyson, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.4 for them.
-- **Possible** · Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.4 for them.
+- **Possible** · Give Jordyn Tyson, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.3 for them.
+- **Possible** · Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.0 pts/week for you, -0.3 for them.
 - **Likely** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +0.4 for them.
-- **Possible** · Give Mike Evans, get Jonathan Taylor from Monangynecologist: +1.7 pts/week for you, -0.4 for them.
+- **Possible** · Give Mike Evans, get Jonathan Taylor from Monangynecologist: +1.8 pts/week for you, -0.4 for them.
 - **Possible** · Give Jordyn Tyson, get Ollie Gordon II from Bradsbaconisundercooked: +1.7 pts/week for you, -0.4 for them.
 - **Possible** · Give Mike Evans, get Jonah Coleman from Monangynecologist: +1.6 pts/week for you, -0.4 for them.
 - **Possible** · Give Stefon Diggs, get Rhamondre Stevenson from Atticus Dean: +1.3 pts/week for you, -0.1 for them.
@@ -71,7 +71,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Jordyn Tyson | WR | NO | starter |  | 11.8 | 11.2 | 11.0 | 11.4 |
 | Stefon Diggs | WR | WAS | starter | Questionable | 11.2 | 13.8 | 12.3 | 12.4 |
 | DJ Moore | WR | BUF | starter |  | 10.1 | 12.8 | 13.2 | 14.1 |
-| Quinshon Judkins | RB | CLE | bench |  | 13.2 | 12.6 | 11.5 | 11.2 |
+| Quinshon Judkins | RB | CLE | bench |  | 13.0 | 12.6 | 11.5 | 11.2 |
 | Corey Kiner | RB | NE | bench |  | 7.4 | 5.9 | 6.2 | 3.5 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 15.5 | 13.2 | 14.3 |
 | Mike Evans | WR | SF | bench | Questionable | 11.4 | 14.8 | 15.5 | 17.1 |
