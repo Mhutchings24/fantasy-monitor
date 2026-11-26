@@ -1,5 +1,5 @@
 {
- "content_hash": "a0cc9477ea39c45ef4c85a05a5cd29a4465819c4",
+ "content_hash": "2ab170373086481602766abc67d4ac08a261abd0",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -377,21 +377,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Cairo Santos",
-   "pos": "K",
-   "proj_4wk": 31.0,
-   "proj_this_week": 8.25,
-   "status": null,
-   "team": "CHI"
-  },
-  {
-   "adds_24h": 0,
    "name": "Jadarian Price",
    "pos": "RB",
    "proj_4wk": 31.0,
    "proj_this_week": 6.5,
    "status": null,
    "team": "SEA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Cairo Santos",
+   "pos": "K",
+   "proj_4wk": 31.0,
+   "proj_this_week": 8.25,
+   "status": null,
+   "team": "CHI"
   },
   {
    "adds_24h": 0,
@@ -799,7 +799,7 @@
    "team": "NE"
   }
  ],
- "generated_at": "2026-11-26T04:40:51Z",
+ "generated_at": "2026-11-26T04:45:54Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1021,7 +1021,7 @@
     "proj_avg": 128.5,
     "proj_by_week": {
      "12": 134.54,
-     "13": 122.82,
+     "13": 122.76,
      "14": 118.76,
      "15": 137.79
     },
@@ -1063,7 +1063,7 @@
     "proj_avg": 128.7,
     "proj_by_week": {
      "12": 116.86,
-     "13": 132.81,
+     "13": 132.79,
      "14": 128.5,
      "15": 136.71
     },
@@ -1084,7 +1084,7 @@
     "proj_avg": 133.4,
     "proj_by_week": {
      "12": 140.19,
-     "13": 127.13,
+     "13": 126.95,
      "14": 135.17,
      "15": 131.19
     },
@@ -1095,7 +1095,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.01,
+    "first_seed_odds": 0.011,
     "losses": 5,
     "mine": false,
     "pa": 1301.3,
@@ -1105,7 +1105,7 @@
     "proj_avg": 124.7,
     "proj_by_week": {
      "12": 120.06,
-     "13": 125.12,
+     "13": 125.07,
      "14": 127.24,
      "15": 126.55
     },
@@ -1121,12 +1121,12 @@
     "mine": false,
     "pa": 1223.72,
     "pf": 1269.3,
-    "playoff_odds": 0.485,
+    "playoff_odds": 0.484,
     "power_rank": 7,
     "proj_avg": 119.6,
     "proj_by_week": {
      "12": 129.51,
-     "13": 101.98,
+     "13": 101.77,
      "14": 121.94,
      "15": 125.03
     },
@@ -1142,7 +1142,7 @@
     "mine": false,
     "pa": 1397.48,
     "pf": 1389.34,
-    "playoff_odds": 0.752,
+    "playoff_odds": 0.753,
     "power_rank": 1,
     "proj_avg": 137.8,
     "proj_by_week": {
@@ -1163,7 +1163,7 @@
     "mine": false,
     "pa": 1417.6,
     "pf": 1271.58,
-    "playoff_odds": 0.131,
+    "playoff_odds": 0.132,
     "power_rank": 8,
     "proj_avg": 118.8,
     "proj_by_week": {
@@ -1186,10 +1186,10 @@
     "pf": 1301.24,
     "playoff_odds": 0.0,
     "power_rank": 9,
-    "proj_avg": 113.3,
+    "proj_avg": 113.2,
     "proj_by_week": {
      "12": 116.44,
-     "13": 110.59,
+     "13": 110.57,
      "14": 111.73,
      "15": 114.25
     },
