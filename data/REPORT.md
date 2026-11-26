@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-26T00:51:29Z UTC
+Week 12 · record 3-8 · updated 2026-11-26T00:56:33Z UTC
 
 ## Lineup check
-Current lineup projects **99.7**, best possible **106.3**.
+Current lineup projects **99.8**, best possible **106.4**.
 
 - 🔁 Start Quinshon Judkins (RB, CLE) (13.2) over Rico Dowdle (RB, PIT) (7.8)
 - 🔁 Start Mike Evans (WR, SF) (11.4) over DJ Moore (WR, BUF) (10.2)
@@ -29,21 +29,21 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Dominic Zvada for Jake Bates (+0.5 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **99.7** – 138.2 projected · win chance **14%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **99.8** – 138.2 projected · win chance **14%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 128.7 | 100% |
+| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 128.6 | 100% |
 | 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 135.4 | 100% |
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 129.8 | 97% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.4 | 95% |
-| 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 124.8 | 70% |
-| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 121.9 | 52% |
+| 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 124.7 | 70% |
+| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 121.9 | 53% |
 | 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 137.8 | 74% |
-| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 118.8 | 12% |
+| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 118.8 | 13% |
 | 9 | DeshaunDontTouchdownThere | 3-8 | 1301.2 | 1316.8 | 9 | 113.1 | 0% |
 | 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 110.2 | 0% |
 
@@ -64,7 +64,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter |  | 7.5 | 6.0 | 5.9 | 6.3 |
 | Jake Bates | K | DET | starter |  | 8.3 | 8.9 | 8.6 | 8.5 |
-| Jared Goff | QB | DET | starter |  | 20.1 | 18.2 | 20.0 | 16.9 |
+| Jared Goff | QB | DET | starter |  | 20.2 | 18.2 | 20.0 | 16.9 |
 | Jordan Mason | RB | MIN | starter |  | 10.8 | 11.0 | 10.0 | 10.1 |
 | Rico Dowdle | RB | PIT | starter |  | 7.8 | 8.5 | 7.4 | 7.5 |
 | George Kittle | TE | SF | starter |  | 12.0 | 13.3 | 13.9 | 15.5 |
