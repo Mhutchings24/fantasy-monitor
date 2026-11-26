@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-26T06:26:26Z UTC
+Week 12 · record 3-8 · updated 2026-11-26T06:31:29Z UTC
 
 ## Lineup check
-Current lineup projects **99.6**, best possible **106.3**.
+Current lineup projects **99.5**, best possible **106.3**.
 
 - 🔁 Start Quinshon Judkins (RB, CLE) (13.2) over Rico Dowdle (RB, PIT) (7.8)
 - 🔁 Start Mike Evans (WR, SF) (11.4) over DJ Moore (WR, BUF) (10.0)
@@ -16,7 +16,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 |---|---|---|---|---|---|---|
 | Bo Nix | QB | DEN | Corey Kiner | +2.5 | +0.0 | 0 |
 | Sam Darnold | QB | SEA | Corey Kiner | +2.5 | +0.0 | 0 |
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 201,012 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 201,348 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +1.8 | +0.0 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.7 | +0.5 | 0 |
@@ -28,7 +28,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Dominic Zvada for Jake Bates (+0.5 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **99.6** – 138.3 projected · win chance **14%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **99.5** – 138.3 projected · win chance **14%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
