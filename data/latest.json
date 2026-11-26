@@ -1,5 +1,5 @@
 {
- "content_hash": "2a85bd1bcbfd85ab39e0e90ef1d20beabebe0cd2",
+ "content_hash": "e87e6f6c883f3a1819a380299f21c13d90fd51ad",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -236,7 +236,7 @@
    "name": "Dalton Kincaid",
    "pos": "TE",
    "proj_4wk": 35.9,
-   "proj_this_week": 6.44,
+   "proj_this_week": 6.37,
    "status": "Questionable",
    "team": "BUF"
   },
@@ -413,21 +413,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Andre Szmyt",
-   "pos": "K",
-   "proj_4wk": 30.0,
-   "proj_this_week": 7.53,
-   "status": null,
-   "team": "CLE"
-  },
-  {
-   "adds_24h": 0,
    "name": "Quentin Johnston",
    "pos": "WR",
    "proj_4wk": 30.0,
    "proj_this_week": 7.13,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Andre Szmyt",
+   "pos": "K",
+   "proj_4wk": 30.0,
+   "proj_this_week": 7.53,
+   "status": null,
+   "team": "CLE"
   },
   {
    "adds_24h": 0,
@@ -542,7 +542,7 @@
    "name": "Harrison Butker",
    "pos": "K",
    "proj_4wk": 28.3,
-   "proj_this_week": 6.61,
+   "proj_this_week": 6.58,
    "status": null,
    "team": "KC"
   },
@@ -632,7 +632,7 @@
    "name": "BUF D/ST",
    "pos": "DEF",
    "proj_4wk": 26.4,
-   "proj_this_week": 5.92,
+   "proj_this_week": 5.89,
    "status": null,
    "team": "BUF"
   },
@@ -808,7 +808,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-26T02:51:53Z",
+ "generated_at": "2026-11-26T02:56:57Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -891,8 +891,8 @@
    }
   ],
   "best_projected": 106.22,
-  "current_projected": 99.76,
-  "gain": 6.46,
+  "current_projected": 99.74,
+  "gain": 6.48,
   "problems": [],
   "source": "matchup week 12",
   "swaps": [
@@ -1001,7 +1001,7 @@
    "week": 11
   },
   "matchup": {
-   "my_proj": 99.8,
+   "my_proj": 99.7,
    "opp_best_possible": 140.21,
    "opp_proj": 138.4,
    "opponent": "Gibbs me Nabers 😵‍💫",
@@ -1029,7 +1029,7 @@
     "power_rank": 5,
     "proj_avg": 128.4,
     "proj_by_week": {
-     "12": 134.42,
+     "12": 134.35,
      "13": 122.82,
      "14": 118.76,
      "15": 137.79
@@ -1041,7 +1041,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.43,
+    "first_seed_odds": 0.431,
     "losses": 4,
     "mine": false,
     "pa": 1412.1,
@@ -1071,7 +1071,7 @@
     "power_rank": 4,
     "proj_avg": 129.2,
     "proj_by_week": {
-     "12": 118.83,
+     "12": 118.67,
      "13": 132.81,
      "14": 128.5,
      "15": 136.71
@@ -1104,7 +1104,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.01,
+    "first_seed_odds": 0.011,
     "losses": 5,
     "mine": false,
     "pa": 1301.3,
@@ -1113,7 +1113,7 @@
     "power_rank": 6,
     "proj_avg": 124.7,
     "proj_by_week": {
-     "12": 119.92,
+     "12": 119.89,
      "13": 125.12,
      "14": 127.24,
      "15": 126.55
@@ -1359,7 +1359,7 @@
    "pid": "4983",
    "pos": "WR",
    "proj_by_week": {
-    "12": 10.13,
+    "12": 10.11,
     "13": 12.79,
     "14": 13.23,
     "15": 14.11

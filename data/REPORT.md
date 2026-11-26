@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-26T02:51:53Z UTC
+Week 12 · record 3-8 · updated 2026-11-26T02:56:57Z UTC
 
 ## Lineup check
-Current lineup projects **99.8**, best possible **106.2**.
+Current lineup projects **99.7**, best possible **106.2**.
 
 - 🔁 Start Quinshon Judkins (RB, CLE) (13.0) over Rico Dowdle (RB, PIT) (7.8)
 - 🔁 Start Mike Evans (WR, SF) (11.4) over DJ Moore (WR, BUF) (10.1)
@@ -28,7 +28,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Dominic Zvada for Jake Bates (+0.5 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **99.8** – 138.4 projected · win chance **14%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **99.7** – 138.4 projected · win chance **14%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
