@@ -1,5 +1,5 @@
 {
- "content_hash": "c613472991d109bb092d0aa0de8f7a7a4362fdab",
+ "content_hash": "82427e7770139d716f700abf18638c34e000bc13",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -64,7 +64,7 @@
    "adds_24h": 54240,
    "name": "Tyler Shough",
    "pos": "QB",
-   "proj_4wk": 62.2,
+   "proj_4wk": 62.4,
    "proj_this_week": 16.74,
    "status": null,
    "team": "NO"
@@ -323,21 +323,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Trey Smack",
-   "pos": "K",
-   "proj_4wk": 31.4,
-   "proj_this_week": 7.13,
-   "status": null,
-   "team": "GB"
-  },
-  {
-   "adds_24h": 0,
    "name": "Pat Freiermuth",
    "pos": "TE",
    "proj_4wk": 31.3,
    "proj_this_week": 7.45,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Trey Smack",
+   "pos": "K",
+   "proj_4wk": 31.3,
+   "proj_this_week": 7.13,
+   "status": null,
+   "team": "GB"
   },
   {
    "adds_24h": 0,
@@ -377,21 +377,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Jadarian Price",
-   "pos": "RB",
-   "proj_4wk": 31.0,
-   "proj_this_week": 6.5,
-   "status": null,
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Cairo Santos",
    "pos": "K",
    "proj_4wk": 31.0,
    "proj_this_week": 8.25,
    "status": null,
    "team": "CHI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Jadarian Price",
+   "pos": "RB",
+   "proj_4wk": 31.0,
+   "proj_this_week": 6.5,
+   "status": null,
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -485,21 +485,21 @@
   },
   {
    "adds_24h": 0,
+   "name": "Charlie Smyth",
+   "pos": "K",
+   "proj_4wk": 28.8,
+   "proj_this_week": 6.64,
+   "status": null,
+   "team": "NO"
+  },
+  {
+   "adds_24h": 0,
    "name": "Cameron Dicker",
    "pos": "K",
    "proj_4wk": 28.7,
    "proj_this_week": 6.73,
    "status": null,
    "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Charlie Smyth",
-   "pos": "K",
-   "proj_4wk": 28.7,
-   "proj_this_week": 6.64,
-   "status": null,
-   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -550,7 +550,7 @@
    "adds_24h": 0,
    "name": "GB D/ST",
    "pos": "DEF",
-   "proj_4wk": 28.1,
+   "proj_4wk": 28.0,
    "proj_this_week": 5.88,
    "status": null,
    "team": "GB"
@@ -799,7 +799,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-26T05:43:56Z",
+ "generated_at": "2026-11-26T05:48:58Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1011,7 +1011,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.325,
+    "first_seed_odds": 0.326,
     "losses": 4,
     "mine": false,
     "pa": 1453.28,
@@ -1021,7 +1021,7 @@
     "proj_avg": 128.5,
     "proj_by_week": {
      "12": 134.68,
-     "13": 122.76,
+     "13": 122.9,
      "14": 118.76,
      "15": 137.79
     },
@@ -1063,7 +1063,7 @@
     "proj_avg": 128.7,
     "proj_by_week": {
      "12": 116.67,
-     "13": 132.79,
+     "13": 132.78,
      "14": 128.5,
      "15": 136.71
     },
@@ -1084,7 +1084,7 @@
     "proj_avg": 133.4,
     "proj_by_week": {
      "12": 140.19,
-     "13": 126.95,
+     "13": 127.13,
      "14": 135.17,
      "15": 131.19
     },
@@ -1095,7 +1095,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.011,
+    "first_seed_odds": 0.01,
     "losses": 5,
     "mine": false,
     "pa": 1301.3,
@@ -1105,7 +1105,7 @@
     "proj_avg": 124.8,
     "proj_by_week": {
      "12": 120.38,
-     "13": 125.07,
+     "13": 125.12,
      "14": 127.24,
      "15": 126.55
     },
@@ -1121,12 +1121,12 @@
     "mine": false,
     "pa": 1223.72,
     "pf": 1269.3,
-    "playoff_odds": 0.482,
+    "playoff_odds": 0.484,
     "power_rank": 7,
     "proj_avg": 119.6,
     "proj_by_week": {
      "12": 129.51,
-     "13": 101.77,
+     "13": 101.98,
      "14": 121.94,
      "15": 125.03
     },
@@ -1144,10 +1144,10 @@
     "pf": 1389.34,
     "playoff_odds": 0.752,
     "power_rank": 1,
-    "proj_avg": 137.9,
+    "proj_avg": 137.8,
     "proj_by_week": {
      "12": 143.3,
-     "13": 137.32,
+     "13": 137.29,
      "14": 125.14,
      "15": 145.66
     },
@@ -1163,12 +1163,12 @@
     "mine": false,
     "pa": 1417.6,
     "pf": 1271.58,
-    "playoff_odds": 0.132,
+    "playoff_odds": 0.131,
     "power_rank": 8,
     "proj_avg": 118.8,
     "proj_by_week": {
      "12": 114.67,
-     "13": 120.56,
+     "13": 120.58,
      "14": 113.56,
      "15": 126.37
     },
@@ -1186,10 +1186,10 @@
     "pf": 1301.24,
     "playoff_odds": 0.0,
     "power_rank": 9,
-    "proj_avg": 113.2,
+    "proj_avg": 113.3,
     "proj_by_week": {
      "12": 116.44,
-     "13": 110.57,
+     "13": 110.59,
      "14": 111.73,
      "15": 114.25
     },
@@ -1321,7 +1321,7 @@
    "pos": "WR",
    "proj_by_week": {
     "12": 11.75,
-    "13": 11.16,
+    "13": 11.23,
     "14": 10.96,
     "15": 11.38
    },
@@ -1396,7 +1396,7 @@
    "pos": "RB",
    "proj_by_week": {
     "12": 0.0,
-    "13": 15.48,
+    "13": 15.41,
     "14": 13.23,
     "15": 14.27
    },
@@ -1716,8 +1716,8 @@
    "likelihood": "Possible",
    "partner": "Bradsbaconisundercooked",
    "partner_roster_id": 1,
-   "summary": "Give DJ Moore, get Chase Brown from Bradsbaconisundercooked: +1.0 pts/week for you, -0.4 for them.",
-   "their_gain_per_week": -0.4,
+   "summary": "Give DJ Moore, get Chase Brown from Bradsbaconisundercooked: +1.1 pts/week for you, -0.5 for them.",
+   "their_gain_per_week": -0.5,
    "value_ratio": 1.0,
    "why_them": [
     "DJ Moore would start 5 of 6 weeks for them"
@@ -1726,7 +1726,7 @@
     "Chase Brown would start 6 of 6 weeks for you",
     "DJ Moore starts 5 of 6 weeks for you"
    ],
-   "your_gain_per_week": 1.0
+   "your_gain_per_week": 1.1
   }
  ],
  "waivers": [
