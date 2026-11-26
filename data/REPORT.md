@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-26T18:29:23Z UTC
+Week 12 · record 3-8 · updated 2026-11-26T18:34:28Z UTC
 
 ## Lineup check
 Current lineup projects **99.8**, best possible **106.1**.
@@ -36,9 +36,9 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 128.4 | 100% |
-| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 3 | 133.5 | 100% |
+| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 134.0 | 100% |
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 128.7 | 97% |
-| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 2 | 133.5 | 95% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.5 | 95% |
 | 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 124.8 | 72% |
 | 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 119.7 | 48% |
 | 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 137.9 | 75% |
@@ -51,9 +51,9 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 
 - **Possible** · Give Jordyn Tyson, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.3 for them.
 - **Possible** · Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.0 pts/week for you, -0.3 for them.
-- **Likely** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +0.4 for them.
 - **Possible** · Give Jordyn Tyson, get Ollie Gordon II from Bradsbaconisundercooked: +1.7 pts/week for you, -0.4 for them.
-- **Possible** · Give Stefon Diggs, get Rhamondre Stevenson from Atticus Dean: +1.3 pts/week for you, -0.1 for them.
+- **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +0.1 for them.
+- **Possible** · Give Stefon Diggs, get Rhamondre Stevenson from Atticus Dean: +1.3 pts/week for you, -0.4 for them.
 - **Possible** · Give Stefon Diggs, get Ollie Gordon II from Bradsbaconisundercooked: +1.0 pts/week for you, -0.1 for them.
 
 ## Roster

@@ -1,5 +1,5 @@
 {
- "content_hash": "69a86114cebaac26208b84c9a4aaf126fb823037",
+ "content_hash": "d3866165e18e61b1049f9f1ee4c98982ba62b20f",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -790,7 +790,7 @@
    "team": "NO"
   }
  ],
- "generated_at": "2026-11-26T18:29:23Z",
+ "generated_at": "2026-11-26T18:34:28Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1002,7 +1002,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.374,
+    "first_seed_odds": 0.361,
     "losses": 4,
     "mine": false,
     "pa": 1453.28,
@@ -1023,17 +1023,17 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.378,
+    "first_seed_odds": 0.392,
     "losses": 4,
     "mine": false,
     "pa": 1412.1,
     "pf": 1496.58,
     "playoff_odds": 0.996,
-    "power_rank": 3,
-    "proj_avg": 133.5,
+    "power_rank": 2,
+    "proj_avg": 134.0,
     "proj_by_week": {
      "12": 134.43,
-     "13": 119.42,
+     "13": 121.46,
      "14": 142.99,
      "15": 137.03
     },
@@ -1044,7 +1044,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.175,
+    "first_seed_odds": 0.173,
     "losses": 4,
     "mine": false,
     "pa": 1288.58,
@@ -1065,13 +1065,13 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.062,
+    "first_seed_odds": 0.064,
     "losses": 5,
     "mine": false,
     "pa": 1400.04,
     "pf": 1453.24,
     "playoff_odds": 0.954,
-    "power_rank": 2,
+    "power_rank": 3,
     "proj_avg": 133.5,
     "proj_by_week": {
      "12": 140.67,
@@ -1577,42 +1577,6 @@
   {
    "get": [
     {
-     "name": "Breece Hall",
-     "pid": "8155",
-     "pos": "RB",
-     "ros_per_week": 10.0,
-     "status": null,
-     "team": "NYJ"
-    }
-   ],
-   "give": [
-    {
-     "name": "Jordyn Tyson",
-     "pid": "13281",
-     "pos": "WR",
-     "ros_per_week": 11.6,
-     "status": null,
-     "team": "NO"
-    }
-   ],
-   "likelihood": "Likely",
-   "partner": "Atticus Dean",
-   "partner_roster_id": 10,
-   "summary": "Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +0.4 for them.",
-   "their_gain_per_week": 0.4,
-   "value_ratio": 0.86,
-   "why_them": [
-    "Jordyn Tyson would start 6 of 6 weeks for them"
-   ],
-   "why_you": [
-    "Breece Hall would start 5 of 6 weeks for you",
-    "Jordyn Tyson starts only 2 of 6 weeks for you"
-   ],
-   "your_gain_per_week": 1.5
-  },
-  {
-   "get": [
-    {
      "name": "Ollie Gordon II",
      "pid": "12495",
      "pos": "RB",
@@ -1650,6 +1614,42 @@
   {
    "get": [
     {
+     "name": "Breece Hall",
+     "pid": "8155",
+     "pos": "RB",
+     "ros_per_week": 10.0,
+     "status": null,
+     "team": "NYJ"
+    }
+   ],
+   "give": [
+    {
+     "name": "Jordyn Tyson",
+     "pid": "13281",
+     "pos": "WR",
+     "ros_per_week": 11.6,
+     "status": null,
+     "team": "NO"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "Atticus Dean",
+   "partner_roster_id": 10,
+   "summary": "Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +0.1 for them.",
+   "their_gain_per_week": 0.1,
+   "value_ratio": 0.86,
+   "why_them": [
+    "Jordyn Tyson would start 6 of 6 weeks for them"
+   ],
+   "why_you": [
+    "Breece Hall would start 5 of 6 weeks for you",
+    "Jordyn Tyson starts only 2 of 6 weeks for you"
+   ],
+   "your_gain_per_week": 1.5
+  },
+  {
+   "get": [
+    {
      "name": "Rhamondre Stevenson",
      "pid": "7611",
      "pos": "RB",
@@ -1671,8 +1671,8 @@
    "likelihood": "Possible",
    "partner": "Atticus Dean",
    "partner_roster_id": 10,
-   "summary": "Give Stefon Diggs, get Rhamondre Stevenson from Atticus Dean: +1.3 pts/week for you, -0.1 for them.",
-   "their_gain_per_week": -0.1,
+   "summary": "Give Stefon Diggs, get Rhamondre Stevenson from Atticus Dean: +1.3 pts/week for you, -0.4 for them.",
+   "their_gain_per_week": -0.4,
    "value_ratio": 1.01,
    "why_them": [
     "Stefon Diggs would start 6 of 6 weeks for them"
