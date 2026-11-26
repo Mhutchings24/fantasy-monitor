@@ -1,5 +1,5 @@
 {
- "content_hash": "f61780c9c870223505d21c9c28d15f0af9ab108b",
+ "content_hash": "2178b091a2da12804ec299c28cc0e16c23af747e",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -10,7 +10,7 @@
    "adds_24h": 0,
    "name": "Bo Nix",
    "pos": "QB",
-   "proj_4wk": 69.8,
+   "proj_4wk": 69.9,
    "proj_this_week": 14.33,
    "status": null,
    "team": "DEN"
@@ -64,7 +64,7 @@
    "adds_24h": 37072,
    "name": "Tyler Shough",
    "pos": "QB",
-   "proj_4wk": 62.4,
+   "proj_4wk": 62.2,
    "proj_this_week": 16.74,
    "status": null,
    "team": "NO"
@@ -181,7 +181,7 @@
    "adds_24h": 37048,
    "name": "Malik Washington",
    "pos": "WR",
-   "proj_4wk": 39.5,
+   "proj_4wk": 39.6,
    "proj_this_week": 10.02,
    "status": null,
    "team": "MIA"
@@ -217,7 +217,7 @@
    "adds_24h": 31356,
    "name": "Jakobi Meyers",
    "pos": "WR",
-   "proj_4wk": 36.2,
+   "proj_4wk": 36.3,
    "proj_this_week": 8.59,
    "status": "Questionable",
    "team": "JAX"
@@ -332,21 +332,21 @@
   },
   {
    "adds_24h": 0,
+   "name": "Trey Smack",
+   "pos": "K",
+   "proj_4wk": 31.4,
+   "proj_this_week": 7.13,
+   "status": null,
+   "team": "GB"
+  },
+  {
+   "adds_24h": 0,
    "name": "Pat Freiermuth",
    "pos": "TE",
    "proj_4wk": 31.3,
    "proj_this_week": 7.46,
    "status": null,
    "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Trey Smack",
-   "pos": "K",
-   "proj_4wk": 31.3,
-   "proj_this_week": 7.13,
-   "status": null,
-   "team": "GB"
   },
   {
    "adds_24h": 0,
@@ -359,15 +359,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Cairo Santos",
-   "pos": "K",
-   "proj_4wk": 31.1,
-   "proj_this_week": 8.31,
-   "status": null,
-   "team": "CHI"
-  },
-  {
-   "adds_24h": 0,
    "name": "Eddy Pineiro",
    "pos": "K",
    "proj_4wk": 31.0,
@@ -377,9 +368,18 @@
   },
   {
    "adds_24h": 0,
+   "name": "Cairo Santos",
+   "pos": "K",
+   "proj_4wk": 31.0,
+   "proj_this_week": 8.31,
+   "status": null,
+   "team": "CHI"
+  },
+  {
+   "adds_24h": 0,
    "name": "Jadarian Price",
    "pos": "RB",
-   "proj_4wk": 30.9,
+   "proj_4wk": 31.0,
    "proj_this_week": 6.38,
    "status": null,
    "team": "SEA"
@@ -469,7 +469,7 @@
    "adds_24h": 0,
    "name": "Kalif Raymond",
    "pos": "WR",
-   "proj_4wk": 29.0,
+   "proj_4wk": 28.9,
    "proj_this_week": 7.68,
    "status": null,
    "team": "CHI"
@@ -485,21 +485,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Charlie Smyth",
-   "pos": "K",
-   "proj_4wk": 28.8,
-   "proj_this_week": 6.64,
-   "status": null,
-   "team": "NO"
-  },
-  {
-   "adds_24h": 0,
    "name": "SEA D/ST",
    "pos": "DEF",
    "proj_4wk": 28.8,
    "proj_this_week": 5.9,
    "status": null,
    "team": "SEA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Charlie Smyth",
+   "pos": "K",
+   "proj_4wk": 28.7,
+   "proj_this_week": 6.64,
+   "status": null,
+   "team": "NO"
   },
   {
    "adds_24h": 0,
@@ -808,7 +808,7 @@
    "team": "NO"
   }
  ],
- "generated_at": "2026-11-26T20:41:58Z",
+ "generated_at": "2026-11-26T20:47:01Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1025,7 +1025,7 @@
     "proj_avg": 128.3,
     "proj_by_week": {
      "12": 135.14,
-     "13": 121.75,
+     "13": 121.69,
      "14": 118.76,
      "15": 137.65
     },
@@ -1036,7 +1036,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.395,
+    "first_seed_odds": 0.396,
     "losses": 4,
     "mine": false,
     "pa": 1412.1,
@@ -1046,7 +1046,7 @@
     "proj_avg": 134.0,
     "proj_by_week": {
      "12": 134.67,
-     "13": 121.35,
+     "13": 121.36,
      "14": 142.99,
      "15": 137.03
     },
@@ -1067,7 +1067,7 @@
     "proj_avg": 128.7,
     "proj_by_week": {
      "12": 116.87,
-     "13": 132.57,
+     "13": 132.56,
      "14": 128.5,
      "15": 136.71
     },
@@ -1083,12 +1083,12 @@
     "mine": false,
     "pa": 1400.04,
     "pf": 1453.24,
-    "playoff_odds": 0.954,
+    "playoff_odds": 0.953,
     "power_rank": 3,
     "proj_avg": 133.5,
     "proj_by_week": {
      "12": 140.63,
-     "13": 126.95,
+     "13": 126.82,
      "14": 135.17,
      "15": 131.19
     },
@@ -1109,7 +1109,7 @@
     "proj_avg": 124.5,
     "proj_by_week": {
      "12": 119.43,
-     "13": 124.86,
+     "13": 124.96,
      "14": 127.24,
      "15": 126.55
     },
@@ -1127,10 +1127,10 @@
     "pf": 1269.3,
     "playoff_odds": 0.486,
     "power_rank": 7,
-    "proj_avg": 119.8,
+    "proj_avg": 119.7,
     "proj_by_week": {
      "12": 129.93,
-     "13": 102.12,
+     "13": 102.08,
      "14": 121.94,
      "15": 125.03
     },
@@ -1151,7 +1151,7 @@
     "proj_avg": 137.9,
     "proj_by_week": {
      "12": 143.59,
-     "13": 137.36,
+     "13": 137.38,
      "14": 125.14,
      "15": 145.66
     },
@@ -1167,12 +1167,12 @@
     "mine": false,
     "pa": 1417.6,
     "pf": 1271.58,
-    "playoff_odds": 0.13,
+    "playoff_odds": 0.131,
     "power_rank": 8,
     "proj_avg": 118.9,
     "proj_by_week": {
      "12": 114.74,
-     "13": 120.84,
+     "13": 120.79,
      "14": 113.56,
      "15": 126.37
     },
@@ -1190,10 +1190,10 @@
     "pf": 1301.24,
     "playoff_odds": 0.0,
     "power_rank": 9,
-    "proj_avg": 112.8,
+    "proj_avg": 112.7,
     "proj_by_week": {
      "12": 114.42,
-     "13": 110.72,
+     "13": 110.59,
      "14": 111.73,
      "15": 114.25
     },
@@ -1214,7 +1214,7 @@
     "proj_avg": 110.3,
     "proj_by_week": {
      "12": 106.11,
-     "13": 112.05,
+     "13": 112.03,
      "14": 110.91,
      "15": 112.13
     },
@@ -1325,7 +1325,7 @@
    "pos": "WR",
    "proj_by_week": {
     "12": 11.74,
-    "13": 11.23,
+    "13": 11.16,
     "14": 10.96,
     "15": 11.38
    },
@@ -1355,7 +1355,7 @@
    "pos": "WR",
    "proj_by_week": {
     "12": 10.11,
-    "13": 13.2,
+    "13": 13.19,
     "14": 13.23,
     "15": 14.11
    },
@@ -1370,7 +1370,7 @@
    "pos": "RB",
    "proj_by_week": {
     "12": 7.8,
-    "13": 8.42,
+    "13": 8.43,
     "14": 7.41,
     "15": 7.46
    },
@@ -1385,7 +1385,7 @@
    "pos": "RB",
    "proj_by_week": {
     "12": 7.58,
-    "13": 5.78,
+    "13": 5.79,
     "14": 6.18,
     "15": 3.46
    },
@@ -1400,7 +1400,7 @@
    "pos": "RB",
    "proj_by_week": {
     "12": 0.0,
-    "13": 15.41,
+    "13": 15.48,
     "14": 13.23,
     "15": 14.27
    },
@@ -1415,7 +1415,7 @@
    "pos": "WR",
    "proj_by_week": {
     "12": 11.27,
-    "13": 15.03,
+    "13": 15.02,
     "14": 15.46,
     "15": 17.11
    },
@@ -1445,7 +1445,7 @@
    "pos": "WR",
    "proj_by_week": {
     "12": 6.35,
-    "13": 6.25,
+    "13": 6.24,
     "14": 6.18,
     "15": 7.08
    },
@@ -1593,7 +1593,7 @@
      "name": "Ollie Gordon II",
      "pid": "12495",
      "pos": "RB",
-     "ros_per_week": 12.0,
+     "ros_per_week": 11.9,
      "status": null,
      "team": "MIA"
     }
@@ -1738,7 +1738,7 @@
      "name": "Ollie Gordon II",
      "pid": "12495",
      "pos": "RB",
-     "ros_per_week": 12.0,
+     "ros_per_week": 11.9,
      "status": null,
      "team": "MIA"
     }
@@ -1775,13 +1775,13 @@
    "drop": "12491",
    "drop_name": "Corey Kiner",
    "gain_this_week": 0.0,
-   "gain_window": 2.5,
+   "gain_window": 2.54,
    "name": "Bo Nix",
    "pid": "11563",
    "pos": "QB",
    "proj_by_week": {
     "12": 14.33,
-    "13": 18.36,
+    "13": 18.4,
     "14": 17.87,
     "15": 19.26
    },
