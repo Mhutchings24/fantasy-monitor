@@ -1,11 +1,20 @@
 {
- "content_hash": "bee56bc813333956724eb4b4953a99562e0a706f",
+ "content_hash": "ea251b298e58708b08cee0c58e945ab2d9f30152",
  "faab": {
   "budget": 100,
   "remaining": 78,
   "used": 22
  },
  "free_agents": [
+  {
+   "adds_24h": 0,
+   "name": "Bo Nix",
+   "pos": "QB",
+   "proj_4wk": 69.5,
+   "proj_this_week": 14.1,
+   "status": null,
+   "team": "DEN"
+  },
   {
    "adds_24h": 0,
    "name": "Sam Darnold",
@@ -59,15 +68,6 @@
    "proj_this_week": 16.75,
    "status": null,
    "team": "NO"
-  },
-  {
-   "adds_24h": 532280,
-   "name": "Deshaun Watson",
-   "pos": "QB",
-   "proj_4wk": 61.1,
-   "proj_this_week": 16.01,
-   "status": null,
-   "team": "CLE"
   },
   {
    "adds_24h": 0,
@@ -521,21 +521,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Jahan Dotson",
-   "pos": "WR",
-   "proj_4wk": 28.3,
-   "proj_this_week": 5.47,
-   "status": "Questionable",
-   "team": "ATL"
-  },
-  {
-   "adds_24h": 0,
    "name": "Joey Slye",
    "pos": "K",
    "proj_4wk": 28.3,
    "proj_this_week": 6.28,
    "status": null,
    "team": "TEN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Jahan Dotson",
+   "pos": "WR",
+   "proj_4wk": 28.3,
+   "proj_this_week": 5.47,
+   "status": "Questionable",
+   "team": "ATL"
   },
   {
    "adds_24h": 0,
@@ -655,15 +655,6 @@
    "team": "LV"
   },
   {
-   "adds_24h": 485560,
-   "name": "NYG D/ST",
-   "pos": "DEF",
-   "proj_4wk": 26.0,
-   "proj_this_week": 7.95,
-   "status": null,
-   "team": "NYG"
-  },
-  {
    "adds_24h": 0,
    "name": "Matt Gay",
    "pos": "K",
@@ -689,6 +680,15 @@
    "proj_this_week": 6.15,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "CHI D/ST",
+   "pos": "DEF",
+   "proj_4wk": 25.1,
+   "proj_this_week": 6.07,
+   "status": null,
+   "team": "CHI"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "PHI"
   }
  ],
- "generated_at": "2026-11-26T00:41:21Z",
+ "generated_at": "2026-11-26T00:46:25Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1038,12 +1038,12 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.319,
+    "first_seed_odds": 0.323,
     "losses": 4,
     "mine": false,
     "pa": 1453.28,
     "pf": 1520.82,
-    "playoff_odds": 0.996,
+    "playoff_odds": 0.995,
     "power_rank": 5,
     "proj_avg": 128.6,
     "proj_by_week": {
@@ -1059,12 +1059,12 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.414,
+    "first_seed_odds": 0.42,
     "losses": 4,
     "mine": false,
     "pa": 1412.1,
     "pf": 1496.58,
-    "playoff_odds": 0.997,
+    "playoff_odds": 0.996,
     "power_rank": 2,
     "proj_avg": 135.4,
     "proj_by_week": {
@@ -1080,12 +1080,12 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.196,
+    "first_seed_odds": 0.184,
     "losses": 4,
     "mine": false,
     "pa": 1288.58,
     "pf": 1326.64,
-    "playoff_odds": 0.972,
+    "playoff_odds": 0.968,
     "power_rank": 4,
     "proj_avg": 129.8,
     "proj_by_week": {
@@ -1101,12 +1101,12 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.061,
+    "first_seed_odds": 0.062,
     "losses": 5,
     "mine": false,
     "pa": 1400.04,
     "pf": 1453.24,
-    "playoff_odds": 0.952,
+    "playoff_odds": 0.951,
     "power_rank": 3,
     "proj_avg": 133.4,
     "proj_by_week": {
@@ -1127,7 +1127,7 @@
     "mine": false,
     "pa": 1301.3,
     "pf": 1344.66,
-    "playoff_odds": 0.707,
+    "playoff_odds": 0.698,
     "power_rank": 6,
     "proj_avg": 124.8,
     "proj_by_week": {
@@ -1148,7 +1148,7 @@
     "mine": false,
     "pa": 1223.72,
     "pf": 1269.3,
-    "playoff_odds": 0.519,
+    "playoff_odds": 0.526,
     "power_rank": 7,
     "proj_avg": 122.0,
     "proj_by_week": {
@@ -1169,7 +1169,7 @@
     "mine": false,
     "pa": 1397.48,
     "pf": 1389.34,
-    "playoff_odds": 0.729,
+    "playoff_odds": 0.742,
     "power_rank": 1,
     "proj_avg": 137.8,
     "proj_by_week": {
@@ -1190,7 +1190,7 @@
     "mine": false,
     "pa": 1417.6,
     "pf": 1271.58,
-    "playoff_odds": 0.129,
+    "playoff_odds": 0.124,
     "power_rank": 8,
     "proj_avg": 118.8,
     "proj_by_week": {
@@ -1211,18 +1211,18 @@
     "mine": false,
     "pa": 1316.82,
     "pf": 1301.24,
-    "playoff_odds": 0.001,
+    "playoff_odds": 0.0,
     "power_rank": 9,
-    "proj_avg": 115.1,
+    "proj_avg": 113.2,
     "proj_by_week": {
-     "12": 112.25,
-     "13": 114.39,
-     "14": 116.8,
-     "15": 116.8
+     "12": 116.04,
+     "13": 110.76,
+     "14": 111.73,
+     "15": 114.25
     },
     "rank": 9,
     "roster_id": 3,
-    "team": "Touch of the Downs",
+    "team": "DeshaunDontTouchdownThere",
     "ties": 0,
     "wins": 3
    },
@@ -1846,6 +1846,25 @@
    "status": null,
    "stream": false,
    "team": "SEA",
+   "trending_adds_24h": 0
+  },
+  {
+   "drop": "12491",
+   "drop_name": "Corey Kiner",
+   "gain_this_week": 0.0,
+   "gain_window": 2.4,
+   "name": "Bo Nix",
+   "pid": "11563",
+   "pos": "QB",
+   "proj_by_week": {
+    "12": 14.1,
+    "13": 18.26,
+    "14": 17.87,
+    "15": 19.26
+   },
+   "status": null,
+   "stream": false,
+   "team": "DEN",
    "trending_adds_24h": 0
   },
   {

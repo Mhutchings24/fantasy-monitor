@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-26T00:41:21Z UTC
+Week 12 · record 3-8 · updated 2026-11-26T00:46:25Z UTC
 
 ## Lineup check
 Current lineup projects **99.7**, best possible **106.3**.
@@ -15,6 +15,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Sam Darnold | QB | SEA | Corey Kiner | +2.5 | +0.0 | 0 |
+| Bo Nix | QB | DEN | Corey Kiner | +2.4 | +0.0 | 0 |
 | Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 183,664 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +1.8 | +0.0 | 0 |
@@ -39,11 +40,11 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 135.4 | 100% |
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 129.8 | 97% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.4 | 95% |
-| 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 124.8 | 71% |
-| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 122.0 | 52% |
-| 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 137.8 | 73% |
-| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 118.8 | 13% |
-| 9 | Touch of the Downs | 3-8 | 1301.2 | 1316.8 | 9 | 115.1 | 0% |
+| 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 124.8 | 70% |
+| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 122.0 | 53% |
+| 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 137.8 | 74% |
+| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 118.8 | 12% |
+| 9 | DeshaunDontTouchdownThere | 3-8 | 1301.2 | 1316.8 | 9 | 113.2 | 0% |
 | 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 110.2 | 0% |
 
 ## Trade ideas
