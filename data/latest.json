@@ -1,5 +1,5 @@
 {
- "content_hash": "af11fca9cdab082ae944f8abeb4e8c2659b751ad",
+ "content_hash": "2288e126e02fd825ddb684f916434c0dd77ed41f",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -16,15 +16,6 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 0,
-   "name": "Bryce Young",
-   "pos": "QB",
-   "proj_4wk": 67.8,
-   "proj_this_week": 15.34,
-   "status": null,
-   "team": "CAR"
-  },
-  {
    "adds_24h": 30132,
    "name": "Sam Darnold",
    "pos": "QB",
@@ -35,10 +26,19 @@
   },
   {
    "adds_24h": 0,
+   "name": "Bryce Young",
+   "pos": "QB",
+   "proj_4wk": 67.7,
+   "proj_this_week": 15.19,
+   "status": null,
+   "team": "CAR"
+  },
+  {
+   "adds_24h": 0,
    "name": "Baker Mayfield",
    "pos": "QB",
-   "proj_4wk": 64.3,
-   "proj_this_week": 15.49,
+   "proj_4wk": 64.2,
+   "proj_this_week": 15.36,
    "status": null,
    "team": "TB"
   },
@@ -145,8 +145,8 @@
    "adds_24h": 127560,
    "name": "Fernando Mendoza",
    "pos": "QB",
-   "proj_4wk": 43.8,
-   "proj_this_week": 12.93,
+   "proj_4wk": 44.0,
+   "proj_this_week": 13.1,
    "status": null,
    "team": "LV"
   },
@@ -163,8 +163,8 @@
    "adds_24h": 0,
    "name": "Denzel Boston",
    "pos": "WR",
-   "proj_4wk": 40.9,
-   "proj_this_week": 8.76,
+   "proj_4wk": 41.1,
+   "proj_this_week": 9.0,
    "status": "Questionable",
    "team": "CLE"
   },
@@ -245,7 +245,7 @@
    "name": "Dylan Sampson",
    "pos": "RB",
    "proj_4wk": 34.8,
-   "proj_this_week": 9.1,
+   "proj_this_week": 9.14,
    "status": null,
    "team": "CLE"
   },
@@ -260,21 +260,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Chris Godwin Jr.",
-   "pos": "WR",
-   "proj_4wk": 34.3,
-   "proj_this_week": 8.32,
-   "status": null,
-   "team": "TB"
-  },
-  {
-   "adds_24h": 0,
    "name": "Dalton Schultz",
    "pos": "TE",
    "proj_4wk": 34.2,
    "proj_this_week": 8.75,
    "status": null,
    "team": "HOU"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Chris Godwin Jr.",
+   "pos": "WR",
+   "proj_4wk": 34.1,
+   "proj_this_week": 8.16,
+   "status": null,
+   "team": "TB"
   },
   {
    "adds_24h": 0,
@@ -593,21 +593,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Cade Otton",
-   "pos": "TE",
-   "proj_4wk": 27.2,
-   "proj_this_week": 6.23,
-   "status": null,
-   "team": "TB"
-  },
-  {
-   "adds_24h": 0,
    "name": "Greg Dulcich",
    "pos": "TE",
    "proj_4wk": 27.2,
    "proj_this_week": 6.88,
    "status": null,
    "team": "MIA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Cade Otton",
+   "pos": "TE",
+   "proj_4wk": 27.1,
+   "proj_this_week": 6.15,
+   "status": null,
+   "team": "TB"
   },
   {
    "adds_24h": 0,
@@ -658,8 +658,8 @@
    "adds_24h": 0,
    "name": "Tre Tucker",
    "pos": "WR",
-   "proj_4wk": 26.1,
-   "proj_this_week": 7.58,
+   "proj_4wk": 26.3,
+   "proj_this_week": 7.8,
    "status": null,
    "team": "LV"
   },
@@ -740,7 +740,7 @@
    "name": "Ted Hurst III",
    "pos": "WR",
    "proj_4wk": 8.0,
-   "proj_this_week": 2.19,
+   "proj_this_week": 2.16,
    "status": null,
    "team": "TB"
   },
@@ -790,7 +790,7 @@
    "team": "NO"
   }
  ],
- "generated_at": "2026-11-26T18:19:13Z",
+ "generated_at": "2026-11-26T18:24:18Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -826,7 +826,7 @@
    {
     "name": "Quinshon Judkins",
     "pid": "12512",
-    "proj": 13.21,
+    "proj": 13.01,
     "slot": "RB"
    },
    {
@@ -872,16 +872,16 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 106.33,
+  "best_projected": 106.13,
   "current_projected": 99.78,
-  "gain": 6.55,
+  "gain": 6.35,
   "problems": [],
   "source": "matchup week 12",
   "swaps": [
    {
     "bench": "7021",
     "start": "12512",
-    "text": "Start Quinshon Judkins (RB, CLE) (13.2) over Rico Dowdle (RB, PIT) (7.8)"
+    "text": "Start Quinshon Judkins (RB, CLE) (13.0) over Rico Dowdle (RB, PIT) (7.8)"
    },
    {
     "bench": "4983",
@@ -1002,7 +1002,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.328,
+    "first_seed_odds": 0.327,
     "losses": 4,
     "mine": false,
     "pa": 1453.28,
@@ -1023,16 +1023,16 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.425,
+    "first_seed_odds": 0.426,
     "losses": 4,
     "mine": false,
     "pa": 1412.1,
     "pf": 1496.58,
     "playoff_odds": 0.997,
     "power_rank": 2,
-    "proj_avg": 135.3,
+    "proj_avg": 135.4,
     "proj_by_week": {
-     "12": 134.11,
+     "12": 134.43,
      "13": 127.19,
      "14": 142.99,
      "15": 137.03
@@ -1044,7 +1044,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.17,
+    "first_seed_odds": 0.169,
     "losses": 4,
     "mine": false,
     "pa": 1288.58,
@@ -1053,7 +1053,7 @@
     "power_rank": 4,
     "proj_avg": 128.7,
     "proj_by_week": {
-     "12": 116.9,
+     "12": 116.84,
      "13": 132.66,
      "14": 128.5,
      "15": 136.71
@@ -1070,7 +1070,7 @@
     "mine": false,
     "pa": 1400.04,
     "pf": 1453.24,
-    "playoff_odds": 0.953,
+    "playoff_odds": 0.954,
     "power_rank": 3,
     "proj_avg": 133.5,
     "proj_by_week": {
@@ -1091,7 +1091,7 @@
     "mine": false,
     "pa": 1301.3,
     "pf": 1344.66,
-    "playoff_odds": 0.723,
+    "playoff_odds": 0.721,
     "power_rank": 6,
     "proj_avg": 124.8,
     "proj_by_week": {
@@ -1133,11 +1133,11 @@
     "mine": false,
     "pa": 1397.48,
     "pf": 1389.34,
-    "playoff_odds": 0.75,
+    "playoff_odds": 0.751,
     "power_rank": 1,
-    "proj_avg": 137.8,
+    "proj_avg": 137.9,
     "proj_by_week": {
-     "12": 143.44,
+     "12": 143.59,
      "13": 137.15,
      "14": 125.14,
      "15": 145.66
@@ -1156,9 +1156,9 @@
     "pf": 1271.58,
     "playoff_odds": 0.13,
     "power_rank": 8,
-    "proj_avg": 118.9,
+    "proj_avg": 118.8,
     "proj_by_week": {
-     "12": 114.84,
+     "12": 114.74,
      "13": 120.67,
      "14": 113.56,
      "15": 126.37
@@ -1179,7 +1179,7 @@
     "power_rank": 9,
     "proj_avg": 113.3,
     "proj_by_week": {
-     "12": 116.82,
+     "12": 116.96,
      "13": 110.33,
      "14": 111.73,
      "15": 114.25
@@ -1200,7 +1200,7 @@
     "power_rank": 10,
     "proj_avg": 110.1,
     "proj_by_week": {
-     "12": 106.33,
+     "12": 106.13,
      "13": 111.22,
      "14": 110.91,
      "15": 112.13
@@ -1356,7 +1356,7 @@
    "pid": "12512",
    "pos": "RB",
    "proj_by_week": {
-    "12": 13.21,
+    "12": 13.01,
     "13": 12.5,
     "14": 11.53,
     "15": 11.17
@@ -1526,8 +1526,8 @@
    "likelihood": "Possible",
    "partner": "I’m stuck Step Burrow",
    "partner_roster_id": 8,
-   "summary": "Give Jordyn Tyson, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.4 for them.",
-   "their_gain_per_week": -0.4,
+   "summary": "Give Jordyn Tyson, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.3 for them.",
+   "their_gain_per_week": -0.3,
    "value_ratio": 1.0,
    "why_them": [
     "Jordyn Tyson would start 0 of 6 weeks for them"
@@ -1562,9 +1562,9 @@
    "likelihood": "Possible",
    "partner": "I’m stuck Step Burrow",
    "partner_roster_id": 8,
-   "summary": "Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.0 pts/week for you, -0.4 for them.",
-   "their_gain_per_week": -0.4,
-   "value_ratio": 1.15,
+   "summary": "Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.0 pts/week for you, -0.3 for them.",
+   "their_gain_per_week": -0.3,
+   "value_ratio": 1.14,
    "why_them": [
     "Jordan Mason would start 0 of 6 weeks for them"
    ],
@@ -1788,7 +1788,7 @@
    "pid": "9228",
    "pos": "QB",
    "proj_by_week": {
-    "12": 15.34,
+    "12": 15.19,
     "13": 14.21,
     "14": 19.49,
     "15": 18.81
