@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-26T02:34:04Z UTC
+Week 12 · record 3-8 · updated 2026-11-26T02:39:07Z UTC
 
 ## Lineup check
 Current lineup projects **99.8**, best possible **106.2**.
@@ -43,7 +43,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 124.7 | 70% |
 | 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 122.0 | 53% |
 | 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 137.8 | 74% |
-| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 118.8 | 12% |
+| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 118.8 | 13% |
 | 9 | DeshaunDontTouchdownThere | 3-8 | 1301.2 | 1316.8 | 9 | 113.3 | 0% |
 | 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 110.2 | 0% |
 

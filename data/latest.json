@@ -1,5 +1,5 @@
 {
- "content_hash": "4436129f437badb23e3aa1d33ab668ef0557e08f",
+ "content_hash": "b38d816e5744fa1f271fdfe23671e3bf3934ecd7",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -350,21 +350,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Eddy Pineiro",
-   "pos": "K",
-   "proj_4wk": 31.1,
-   "proj_this_week": 7.84,
-   "status": null,
-   "team": "SF"
-  },
-  {
-   "adds_24h": 0,
    "name": "Pat Freiermuth",
    "pos": "TE",
    "proj_4wk": 31.1,
    "proj_this_week": 7.4,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Eddy Pineiro",
+   "pos": "K",
+   "proj_4wk": 31.1,
+   "proj_this_week": 7.84,
+   "status": null,
+   "team": "SF"
   },
   {
    "adds_24h": 0,
@@ -629,6 +629,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "BUF D/ST",
+   "pos": "DEF",
+   "proj_4wk": 26.4,
+   "proj_this_week": 5.92,
+   "status": null,
+   "team": "BUF"
+  },
+  {
+   "adds_24h": 0,
    "name": "Tre Tucker",
    "pos": "WR",
    "proj_4wk": 26.3,
@@ -718,15 +727,6 @@
    "team": "ATL"
   },
   {
-   "adds_24h": 0,
-   "name": "Xavier Worthy",
-   "pos": "WR",
-   "proj_4wk": 24.2,
-   "proj_this_week": 5.04,
-   "status": null,
-   "team": "KC"
-  },
-  {
    "adds_24h": 276174,
    "name": "Ted Hurst III",
    "pos": "WR",
@@ -752,15 +752,6 @@
    "proj_this_week": 6.21,
    "status": "Questionable",
    "team": "MIN"
-  },
-  {
-   "adds_24h": 176408,
-   "name": "Jack Bech",
-   "pos": "WR",
-   "proj_4wk": 20.1,
-   "proj_this_week": 6.08,
-   "status": null,
-   "team": "LV"
   },
   {
    "adds_24h": 120000,
@@ -817,7 +808,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-26T02:34:04Z",
+ "generated_at": "2026-11-26T02:39:07Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1144,7 +1135,7 @@
     "proj_avg": 122.0,
     "proj_by_week": {
      "12": 130.01,
-     "13": 110.33,
+     "13": 110.29,
      "14": 123.41,
      "15": 124.44
     },
@@ -1181,7 +1172,7 @@
     "mine": false,
     "pa": 1417.6,
     "pf": 1271.58,
-    "playoff_odds": 0.125,
+    "playoff_odds": 0.126,
     "power_rank": 8,
     "proj_avg": 118.8,
     "proj_by_week": {
