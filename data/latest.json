@@ -1,5 +1,5 @@
 {
- "content_hash": "a54c0424891d406f7a1baf08454d74bc0f7d0754",
+ "content_hash": "2bf122c6c7865b9367ca9bf5f844bc65eb0a02ee",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -448,15 +448,6 @@
    "team": "CAR"
   },
   {
-   "adds_24h": 48177,
-   "name": "SF D/ST",
-   "pos": "DEF",
-   "proj_4wk": 29.0,
-   "proj_this_week": 6.63,
-   "status": null,
-   "team": "SF"
-  },
-  {
    "adds_24h": 59486,
    "name": "Xavier Hutchinson",
    "pos": "WR",
@@ -464,6 +455,15 @@
    "proj_this_week": 8.27,
    "status": null,
    "team": "HOU"
+  },
+  {
+   "adds_24h": 48177,
+   "name": "SF D/ST",
+   "pos": "DEF",
+   "proj_4wk": 29.0,
+   "proj_this_week": 6.63,
+   "status": null,
+   "team": "SF"
   },
   {
    "adds_24h": 0,
@@ -683,21 +683,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "CHI D/ST",
-   "pos": "DEF",
-   "proj_4wk": 25.1,
-   "proj_this_week": 6.05,
-   "status": null,
-   "team": "CHI"
-  },
-  {
-   "adds_24h": 0,
    "name": "Kimani Vidal",
    "pos": "RB",
    "proj_4wk": 25.1,
    "proj_this_week": 6.15,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "CHI D/ST",
+   "pos": "DEF",
+   "proj_4wk": 25.1,
+   "proj_this_week": 6.05,
+   "status": null,
+   "team": "CHI"
   },
   {
    "adds_24h": 0,
@@ -799,7 +799,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-26T09:00:12Z",
+ "generated_at": "2026-11-26T09:10:25Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
