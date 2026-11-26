@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-26T00:00:18Z UTC
+Week 12 · record 3-8 · updated 2026-11-26T00:05:21Z UTC
 
 ## Lineup check
 Current lineup projects **99.7**, best possible **106.1**.
@@ -72,7 +72,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | DJ Moore | WR | BUF | starter |  | 10.2 | 13.1 | 13.2 | 14.1 |
 | Quinshon Judkins | RB | CLE | bench |  | 13.0 | 12.6 | 11.5 | 11.2 |
 | Corey Kiner | RB | NE | bench |  | 7.4 | 5.8 | 6.2 | 3.5 |
-| Josh Jacobs | RB | GB | reserve | Questionable | 0.0 | 15.5 | 13.2 | 14.3 |
+| Josh Jacobs | RB | GB | reserve | Out | 0.0 | 15.5 | 13.2 | 14.3 |
 | Mike Evans | WR | SF | bench | Questionable | 11.4 | 14.8 | 15.5 | 17.1 |
 | Omar Cooper Jr. | WR | NYJ | bench | Questionable | 9.3 | 0.0 | 9.7 | 11.0 |
 | Keenan Allen | WR | SF | bench |  | 6.4 | 6.2 | 6.2 | 7.1 |

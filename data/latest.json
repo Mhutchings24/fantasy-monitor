@@ -1,5 +1,5 @@
 {
- "content_hash": "1e4661cf79a80088284181de73017f7c48450740",
+ "content_hash": "05e9b72d13750a2224a94c603a688890f2a4b47d",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -521,21 +521,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Joey Slye",
-   "pos": "K",
-   "proj_4wk": 28.3,
-   "proj_this_week": 6.28,
-   "status": null,
-   "team": "TEN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Jahan Dotson",
    "pos": "WR",
    "proj_4wk": 28.3,
    "proj_this_week": 5.47,
    "status": "Questionable",
    "team": "ATL"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Joey Slye",
+   "pos": "K",
+   "proj_4wk": 28.3,
+   "proj_this_week": 6.28,
+   "status": null,
+   "team": "TEN"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "TB"
   }
  ],
- "generated_at": "2026-11-26T00:00:18Z",
+ "generated_at": "2026-11-26T00:05:21Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1428,7 +1428,7 @@
     "15": 14.27
    },
    "slot": "reserve",
-   "status": "Questionable",
+   "status": "Out",
    "team": "GB"
   },
   {
