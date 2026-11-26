@@ -1,5 +1,5 @@
 {
- "content_hash": "34a6b75d65e56ee6accbf9bfa3f8bd41853cc816",
+ "content_hash": "b4c82cd14c36d144c789ba7da1e0728356a4d479",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -127,7 +127,7 @@
    "adds_24h": 146802,
    "name": "Mason Rudolph",
    "pos": "QB",
-   "proj_4wk": 48.8,
+   "proj_4wk": 48.9,
    "proj_this_week": 12.24,
    "status": null,
    "team": "PIT"
@@ -289,7 +289,7 @@
    "adds_24h": 0,
    "name": "Germie Bernard",
    "pos": "WR",
-   "proj_4wk": 32.0,
+   "proj_4wk": 32.1,
    "proj_this_week": 7.38,
    "status": null,
    "team": "PIT"
@@ -323,21 +323,21 @@
   },
   {
    "adds_24h": 0,
+   "name": "Pat Freiermuth",
+   "pos": "TE",
+   "proj_4wk": 31.3,
+   "proj_this_week": 7.44,
+   "status": null,
+   "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
    "name": "Trey Smack",
    "pos": "K",
    "proj_4wk": 31.3,
    "proj_this_week": 7.13,
    "status": null,
    "team": "GB"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Pat Freiermuth",
-   "pos": "TE",
-   "proj_4wk": 31.2,
-   "proj_this_week": 7.44,
-   "status": null,
-   "team": "PIT"
   },
   {
    "adds_24h": 0,
@@ -397,7 +397,7 @@
    "adds_24h": 0,
    "name": "Chris Boswell",
    "pos": "K",
-   "proj_4wk": 30.7,
+   "proj_4wk": 30.8,
    "proj_this_week": 7.09,
    "status": null,
    "team": "PIT"
@@ -451,7 +451,7 @@
    "adds_24h": 55657,
    "name": "Xavier Hutchinson",
    "pos": "WR",
-   "proj_4wk": 29.0,
+   "proj_4wk": 29.1,
    "proj_this_week": 8.27,
    "status": null,
    "team": "HOU"
@@ -683,21 +683,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "CHI D/ST",
-   "pos": "DEF",
-   "proj_4wk": 25.1,
-   "proj_this_week": 6.05,
-   "status": null,
-   "team": "CHI"
-  },
-  {
-   "adds_24h": 0,
    "name": "Kimani Vidal",
    "pos": "RB",
    "proj_4wk": 25.1,
    "proj_this_week": 6.15,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "CHI D/ST",
+   "pos": "DEF",
+   "proj_4wk": 25.1,
+   "proj_this_week": 6.05,
+   "status": null,
+   "team": "CHI"
   },
   {
    "adds_24h": 0,
@@ -799,7 +799,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-26T11:47:08Z",
+ "generated_at": "2026-11-26T11:52:12Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1011,7 +1011,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.324,
+    "first_seed_odds": 0.323,
     "losses": 4,
     "mine": false,
     "pa": 1453.28,
@@ -1032,7 +1032,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.433,
+    "first_seed_odds": 0.434,
     "losses": 4,
     "mine": false,
     "pa": 1412.1,
@@ -1042,7 +1042,7 @@
     "proj_avg": 135.5,
     "proj_by_week": {
      "12": 134.73,
-     "13": 127.07,
+     "13": 127.29,
      "14": 142.99,
      "15": 137.03
     },
@@ -1063,7 +1063,7 @@
     "proj_avg": 128.6,
     "proj_by_week": {
      "12": 116.58,
-     "13": 132.59,
+     "13": 132.63,
      "14": 128.5,
      "15": 136.71
     },
@@ -1084,7 +1084,7 @@
     "proj_avg": 133.4,
     "proj_by_week": {
      "12": 140.21,
-     "13": 127.16,
+     "13": 127.19,
      "14": 135.17,
      "15": 131.19
     },
@@ -1095,12 +1095,12 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.011,
+    "first_seed_odds": 0.012,
     "losses": 5,
     "mine": false,
     "pa": 1301.3,
     "pf": 1344.66,
-    "playoff_odds": 0.723,
+    "playoff_odds": 0.722,
     "power_rank": 6,
     "proj_avg": 124.9,
     "proj_by_week": {
@@ -1147,7 +1147,7 @@
     "proj_avg": 137.8,
     "proj_by_week": {
      "12": 143.13,
-     "13": 137.32,
+     "13": 137.35,
      "14": 125.14,
      "15": 145.66
     },
