@@ -1,10 +1,10 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-26T00:21:06Z UTC
+Week 12 · record 3-8 · updated 2026-11-26T00:26:10Z UTC
 
 ## Lineup check
-Current lineup projects **99.7**, best possible **106.1**.
+Current lineup projects **99.7**, best possible **106.3**.
 
-- 🔁 Start Quinshon Judkins (RB, CLE) (13.0) over Rico Dowdle (RB, PIT) (7.8)
+- 🔁 Start Quinshon Judkins (RB, CLE) (13.2) over Rico Dowdle (RB, PIT) (7.8)
 - 🔁 Start Mike Evans (WR, SF) (11.4) over DJ Moore (WR, BUF) (10.2)
 
 ## Waiver targets
@@ -36,7 +36,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 128.6 | 100% |
-| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 135.5 | 100% |
+| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 135.4 | 100% |
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 129.8 | 97% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.4 | 95% |
 | 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 124.8 | 71% |
@@ -49,8 +49,8 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
-- **Possible** · Give Jordyn Tyson, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.3 for them.
-- **Possible** · Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.0 pts/week for you, -0.3 for them.
+- **Possible** · Give Jordyn Tyson, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.4 for them.
+- **Possible** · Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.0 pts/week for you, -0.4 for them.
 - **Likely** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +0.4 for them.
 - **Possible** · Give Mike Evans, get Jonathan Taylor from Monangynecologist: +1.7 pts/week for you, -0.4 for them.
 - **Possible** · Give Jordyn Tyson, get Ollie Gordon II from Bradsbaconisundercooked: +1.7 pts/week for you, -0.4 for them.
@@ -70,7 +70,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Jordyn Tyson | WR | NO | starter |  | 11.8 | 11.2 | 11.0 | 11.4 |
 | Stefon Diggs | WR | WAS | starter | Questionable | 11.2 | 13.6 | 12.3 | 12.4 |
 | DJ Moore | WR | BUF | starter |  | 10.2 | 13.1 | 13.2 | 14.1 |
-| Quinshon Judkins | RB | CLE | bench |  | 13.0 | 12.6 | 11.5 | 11.2 |
+| Quinshon Judkins | RB | CLE | bench |  | 13.2 | 12.6 | 11.5 | 11.2 |
 | Corey Kiner | RB | NE | bench |  | 7.4 | 5.8 | 6.2 | 3.5 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 15.5 | 13.2 | 14.3 |
 | Mike Evans | WR | SF | bench | Questionable | 11.4 | 14.8 | 15.5 | 17.1 |
