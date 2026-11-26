@@ -1,5 +1,5 @@
 {
- "content_hash": "8336ed618eaaa6bdcbab970db3f403acae18c854",
+ "content_hash": "212ebd6991c4e347e98e5553cea0c26054b6e5d9",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -412,15 +412,6 @@
    "team": "DEN"
   },
   {
-   "adds_24h": 32967,
-   "name": "SF D/ST",
-   "pos": "DEF",
-   "proj_4wk": 29.9,
-   "proj_this_week": 7.66,
-   "status": null,
-   "team": "SF"
-  },
-  {
    "adds_24h": 0,
    "name": "Quentin Johnston",
    "pos": "WR",
@@ -428,6 +419,15 @@
    "proj_this_week": 7.13,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 32967,
+   "name": "SF D/ST",
+   "pos": "DEF",
+   "proj_4wk": 29.9,
+   "proj_this_week": 7.66,
+   "status": null,
+   "team": "SF"
   },
   {
    "adds_24h": 0,
@@ -799,7 +799,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-26T16:40:01Z",
+ "generated_at": "2026-11-26T16:45:06Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
