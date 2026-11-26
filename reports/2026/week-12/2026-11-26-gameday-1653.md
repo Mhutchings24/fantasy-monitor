@@ -8,7 +8,7 @@ _Conorrhea · No Fun League · record 3-8 · fresh monitor run 45913378315 succe
     - Heavy rain and about 37°F are forecast for the whole game in Buffalo. That caps Moore's ceiling, and he's already the lowest-projected of your four WRs (Moore 10.1, Tyson 11.8, Evans 11.4, Diggs 13.1).
     - Evans was **Limited** in Thursday practice. That's an upgrade from Wednesday's planned rest DNP.
     - Diggs is cleared, so Tyson no longer has to stay on the bench as Diggs insurance.
-  - **The trade-off:** Evans and Diggs both play Sunday at 4:25 PM ET, and Keenan Allen (6.4) is your only unlocked fallback for them. If Evans is ruled out Friday, start Tyson and Allen, which costs you about 3–4 points versus keeping Moore. I estimate an ~85% chance Evans plays. You're a 19% underdog, so ceiling matters more than floor.
+  - **The trade-off:** Evans and Diggs both play Sunday at 4:25 PM ET, and Keenan Allen (6.4) is your only unlocked fallback for them. If Evans is ruled out Friday, Allen replaces him, which costs you about 3–4 points versus keeping Moore. I estimate an ~85% chance Evans plays. You're a 19% underdog, so ceiling matters more than floor.
   - **Keep Moore instead** only if Moore was a late scratch (then the swap is mandatory anyway) or if you'd rather not carry Sunday risk with Purdy hurt.
 - No other moves. Goff and Bates are locked (CHI @ DET, earlier today). Everyone else plays Friday or Sunday.
 
@@ -20,7 +20,7 @@ _Conorrhea · No Fun League · record 3-8 · fresh monitor run 45913378315 succe
 - **Brock Purdy (SF):** Didn't practice Thursday (ankle), his second straight missed day. His Sunday status is in question, and Mac Jones would start (NBC Sports Bay Area, Nov 26). That lowers Evans and Kittle a little, but it doesn't flip the call.
 
 ## Still to decide
-- **Friday (SF final report, mid-afternoon MT):** If Evans is listed **Doubtful or Out**, put Tyson back in for Evans before Sun 11:00 AM MT, and start Allen if you need another WR. If Evans is Questionable or has no tag, leave the lineup as is.
+- **Friday (SF final report, mid-afternoon MT):** If Evans is listed **Doubtful or Out**, start Keenan Allen (SF, 4:25) in his place. Tyson is already starting. If Evans is Questionable or has no tag, leave the lineup as is.
 - **Fri 1:00 PM MT:** Dowdle (DEN @ PIT) locks. He's on the bench, so no action.
 - **Sun 2:55 PM ET:** Inactives for the 4:25 games (Evans, Diggs, Kittle). Allen is the only pivot left at that point.
 - Optional, unchanged: add Aaron Jones Sr. ($0) for Kiner. **Low.**
