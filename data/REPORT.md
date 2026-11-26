@@ -1,10 +1,9 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-26T19:27:07Z UTC
+Week 12 · record 3-8 · updated 2026-11-26T19:37:12Z UTC
 
 ## Lineup check
-Current lineup projects **99.8**, best possible **106.1**.
+Current lineup projects **105.0**, best possible **106.1**.
 
-- 🔁 Start Quinshon Judkins (RB, CLE) (13.0) over Rico Dowdle (RB, PIT) (7.8)
 - 🔁 Start Mike Evans (WR, SF) (11.3) over DJ Moore (WR, BUF) (10.1)
 
 ## Waiver targets
@@ -28,7 +27,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Dominic Zvada for Jake Bates (+0.4 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **99.8** – 138.7 projected · win chance **14%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **105.0** – 138.7 projected · win chance **17%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -63,13 +62,13 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | LAR D/ST | DEF | LAR | starter |  | 7.5 | 6.0 | 5.9 | 6.3 |
 | Jake Bates | K | DET | starter |  | 8.4 | 8.9 | 8.6 | 8.5 |
 | Jared Goff | QB | DET | starter |  | 20.4 | 18.2 | 20.0 | 16.9 |
+| Quinshon Judkins | RB | CLE | starter |  | 13.0 | 12.5 | 11.5 | 11.2 |
 | Jordan Mason | RB | MIN | starter |  | 10.8 | 11.0 | 10.0 | 10.1 |
-| Rico Dowdle | RB | PIT | starter |  | 7.8 | 8.4 | 7.4 | 7.5 |
 | George Kittle | TE | SF | starter |  | 11.9 | 13.5 | 13.9 | 15.5 |
 | Jordyn Tyson | WR | NO | starter |  | 11.8 | 11.2 | 11.0 | 11.4 |
 | Stefon Diggs | WR | WAS | starter | Questionable | 11.2 | 13.6 | 12.3 | 12.4 |
 | DJ Moore | WR | BUF | starter |  | 10.1 | 13.2 | 13.2 | 14.1 |
-| Quinshon Judkins | RB | CLE | bench |  | 13.0 | 12.5 | 11.5 | 11.2 |
+| Rico Dowdle | RB | PIT | bench |  | 7.8 | 8.4 | 7.4 | 7.5 |
 | Corey Kiner | RB | NE | bench |  | 7.6 | 5.8 | 6.2 | 3.5 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 15.5 | 13.2 | 14.3 |
 | Mike Evans | WR | SF | bench | Questionable | 11.3 | 15.0 | 15.5 | 17.1 |

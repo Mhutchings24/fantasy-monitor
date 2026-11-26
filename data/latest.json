@@ -1,5 +1,5 @@
 {
- "content_hash": "9b402ff5d11b2e9425fd873a36aae3e6a1e32e94",
+ "content_hash": "e995163b84f0bca95e52d569e04c1736e36db25b",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -799,7 +799,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-26T19:27:07Z",
+ "generated_at": "2026-11-26T19:37:12Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -882,16 +882,11 @@
    }
   ],
   "best_projected": 106.13,
-  "current_projected": 99.78,
-  "gain": 6.35,
+  "current_projected": 104.97,
+  "gain": 1.16,
   "problems": [],
   "source": "matchup week 12",
   "swaps": [
-   {
-    "bench": "7021",
-    "start": "12512",
-    "text": "Start Quinshon Judkins (RB, CLE) (13.0) over Rico Dowdle (RB, PIT) (7.8)"
-   },
    {
     "bench": "4983",
     "start": "2216",
@@ -992,12 +987,12 @@
    "week": 11
   },
   "matchup": {
-   "my_proj": 99.8,
+   "my_proj": 105.0,
    "opp_best_possible": 140.67,
    "opp_proj": 138.7,
    "opponent": "Gibbs me Nabers 😵‍💫",
    "opponent_record": "6-5",
-   "win_prob": 0.136
+   "win_prob": 0.17
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1271,6 +1266,21 @@
   },
   {
    "bye_this_week": false,
+   "name": "Quinshon Judkins",
+   "pid": "12512",
+   "pos": "RB",
+   "proj_by_week": {
+    "12": 13.01,
+    "13": 12.54,
+    "14": 11.53,
+    "15": 11.17
+   },
+   "slot": "starter",
+   "status": null,
+   "team": "CLE"
+  },
+  {
+   "bye_this_week": false,
    "name": "Jordan Mason",
    "pid": "8408",
    "pos": "RB",
@@ -1283,21 +1293,6 @@
    "slot": "starter",
    "status": null,
    "team": "MIN"
-  },
-  {
-   "bye_this_week": false,
-   "name": "Rico Dowdle",
-   "pid": "7021",
-   "pos": "RB",
-   "proj_by_week": {
-    "12": 7.82,
-    "13": 8.42,
-    "14": 7.41,
-    "15": 7.46
-   },
-   "slot": "starter",
-   "status": null,
-   "team": "PIT"
   },
   {
    "bye_this_week": false,
@@ -1361,18 +1356,18 @@
   },
   {
    "bye_this_week": false,
-   "name": "Quinshon Judkins",
-   "pid": "12512",
+   "name": "Rico Dowdle",
+   "pid": "7021",
    "pos": "RB",
    "proj_by_week": {
-    "12": 13.01,
-    "13": 12.54,
-    "14": 11.53,
-    "15": 11.17
+    "12": 7.82,
+    "13": 8.42,
+    "14": 7.41,
+    "15": 7.46
    },
    "slot": "bench",
    "status": null,
-   "team": "CLE"
+   "team": "PIT"
   },
   {
    "bye_this_week": false,
