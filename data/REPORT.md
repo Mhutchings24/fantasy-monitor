@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-26T20:52:05Z UTC
+Week 12 · record 3-8 · updated 2026-11-26T20:57:08Z UTC
 
 ## Lineup check
-Current lineup projects **105.0**, best possible **106.1**.
+Current lineup projects **106.9**, best possible **108.1**.
 
 - 🔁 Start Mike Evans (WR, SF) (11.3) over DJ Moore (WR, BUF) (10.1)
 
@@ -27,7 +27,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Dominic Zvada for Jake Bates (+0.4 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **105.0** – 138.7 projected · win chance **17%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **106.9** – 138.7 projected · win chance **18%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -43,7 +43,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 137.9 | 75% |
 | 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 118.9 | 13% |
 | 9 | DeshaunDontTouchdownThere | 3-8 | 1301.2 | 1316.8 | 9 | 112.7 | 0% |
-| 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 110.3 | 0% |
+| 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 110.8 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -53,8 +53,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Possible** · Give Jordyn Tyson, get Ollie Gordon II from Bradsbaconisundercooked: +1.7 pts/week for you, -0.4 for them.
 - **Possible** · Give DJ Moore, get Derrick Henry from Gibbs me Nabers 😵‍💫: +1.6 pts/week for you, -0.5 for them.
 - **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +0.1 for them.
-- **Possible** · Give Stefon Diggs, get Rhamondre Stevenson from Atticus Dean: +1.3 pts/week for you, -0.5 for them.
-- **Possible** · Give Stefon Diggs, get Ollie Gordon II from Bradsbaconisundercooked: +1.0 pts/week for you, -0.1 for them.
+- **Possible** · Give Stefon Diggs, get Rhamondre Stevenson from Atticus Dean: +1.0 pts/week for you, -0.2 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 12 | Wk 13 | Wk 14 | Wk 15 |
@@ -65,8 +64,8 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Quinshon Judkins | RB | CLE | starter |  | 13.0 | 12.5 | 11.5 | 11.2 |
 | Jordan Mason | RB | MIN | starter |  | 10.8 | 11.0 | 10.0 | 10.1 |
 | George Kittle | TE | SF | starter |  | 11.9 | 13.5 | 13.9 | 15.5 |
+| Stefon Diggs | WR | WAS | starter |  | 13.1 | 13.6 | 12.3 | 12.4 |
 | Jordyn Tyson | WR | NO | starter |  | 11.7 | 11.2 | 11.0 | 11.4 |
-| Stefon Diggs | WR | WAS | starter | Questionable | 11.2 | 13.6 | 12.3 | 12.4 |
 | DJ Moore | WR | BUF | starter |  | 10.1 | 13.2 | 13.2 | 14.1 |
 | Rico Dowdle | RB | PIT | bench |  | 7.8 | 8.4 | 7.4 | 7.5 |
 | Corey Kiner | RB | NE | bench |  | 7.6 | 5.8 | 6.2 | 3.5 |
