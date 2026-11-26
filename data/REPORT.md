@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-26T15:46:46Z UTC
+Week 12 · record 3-8 · updated 2026-11-26T15:59:30Z UTC
 
 ## Lineup check
 Current lineup projects **99.8**, best possible **106.5**.
@@ -15,7 +15,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Bo Nix | QB | DEN | Corey Kiner | +2.5 | +0.0 | 0 |
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 160,252 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 162,092 |
 | Sam Darnold | QB | SEA | Corey Kiner | +2.2 | +0.0 | 0 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +1.8 | +0.0 | 0 |
@@ -54,7 +54,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Likely** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +0.4 for them.
 - **Possible** · Give Jordyn Tyson, get Ollie Gordon II from Bradsbaconisundercooked: +1.7 pts/week for you, -0.4 for them.
 - **Possible** · Give Stefon Diggs, get Rhamondre Stevenson from Atticus Dean: +1.3 pts/week for you, -0.1 for them.
-- **Possible** · Give DJ Moore, get Chase Brown from Bradsbaconisundercooked: +1.0 pts/week for you, -0.4 for them.
+- **Possible** · Give Stefon Diggs, get Ollie Gordon II from Bradsbaconisundercooked: +1.0 pts/week for you, -0.1 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 12 | Wk 13 | Wk 14 | Wk 15 |
