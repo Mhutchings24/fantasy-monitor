@@ -1,5 +1,5 @@
 {
- "content_hash": "29a4ffc203c36a625b77c7b9621f918ba36dd79b",
+ "content_hash": "bd49869a8ddf15978a05ec4361b23c156b4cb31d",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -271,7 +271,7 @@
    "adds_24h": 0,
    "name": "Dalton Schultz",
    "pos": "TE",
-   "proj_4wk": 34.1,
+   "proj_4wk": 34.2,
    "proj_this_week": 8.75,
    "status": null,
    "team": "HOU"
@@ -332,21 +332,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Mike Gesicki",
-   "pos": "TE",
-   "proj_4wk": 31.2,
-   "proj_this_week": 8.05,
-   "status": null,
-   "team": "CIN"
-  },
-  {
-   "adds_24h": 0,
    "name": "Pat Freiermuth",
    "pos": "TE",
    "proj_4wk": 31.2,
    "proj_this_week": 7.44,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Mike Gesicki",
+   "pos": "TE",
+   "proj_4wk": 31.2,
+   "proj_this_week": 8.05,
+   "status": null,
+   "team": "CIN"
   },
   {
    "adds_24h": 0,
@@ -397,7 +397,7 @@
    "adds_24h": 0,
    "name": "Chris Boswell",
    "pos": "K",
-   "proj_4wk": 30.8,
+   "proj_4wk": 30.7,
    "proj_this_week": 7.09,
    "status": null,
    "team": "PIT"
@@ -638,6 +638,15 @@
   },
   {
    "adds_24h": 0,
+   "name": "Tank Dell",
+   "pos": "WR",
+   "proj_4wk": 26.4,
+   "proj_this_week": 6.86,
+   "status": null,
+   "team": "HOU"
+  },
+  {
+   "adds_24h": 0,
    "name": "BUF D/ST",
    "pos": "DEF",
    "proj_4wk": 26.4,
@@ -653,15 +662,6 @@
    "proj_this_week": 7.82,
    "status": null,
    "team": "LV"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Tank Dell",
-   "pos": "WR",
-   "proj_4wk": 26.3,
-   "proj_this_week": 6.86,
-   "status": null,
-   "team": "HOU"
   },
   {
    "adds_24h": 0,
@@ -683,21 +683,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "CHI D/ST",
-   "pos": "DEF",
-   "proj_4wk": 25.1,
-   "proj_this_week": 6.05,
-   "status": null,
-   "team": "CHI"
-  },
-  {
-   "adds_24h": 0,
    "name": "Kimani Vidal",
    "pos": "RB",
    "proj_4wk": 25.1,
    "proj_this_week": 6.15,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "CHI D/ST",
+   "pos": "DEF",
+   "proj_4wk": 25.1,
+   "proj_this_week": 6.05,
+   "status": null,
+   "team": "CHI"
   },
   {
    "adds_24h": 0,
@@ -799,7 +799,7 @@
    "team": "LAC"
   }
  ],
- "generated_at": "2026-11-26T10:46:09Z",
+ "generated_at": "2026-11-26T10:51:12Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1011,7 +1011,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.325,
+    "first_seed_odds": 0.324,
     "losses": 4,
     "mine": false,
     "pa": 1453.28,
@@ -1032,17 +1032,17 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.432,
+    "first_seed_odds": 0.433,
     "losses": 4,
     "mine": false,
     "pa": 1412.1,
     "pf": 1496.58,
     "playoff_odds": 0.997,
     "power_rank": 2,
-    "proj_avg": 135.4,
+    "proj_avg": 135.5,
     "proj_by_week": {
      "12": 134.73,
-     "13": 126.91,
+     "13": 127.07,
      "14": 142.99,
      "15": 137.03
     },
@@ -1053,7 +1053,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.165,
+    "first_seed_odds": 0.164,
     "losses": 4,
     "mine": false,
     "pa": 1288.58,
@@ -1063,7 +1063,7 @@
     "proj_avg": 128.6,
     "proj_by_week": {
      "12": 116.58,
-     "13": 132.63,
+     "13": 132.59,
      "14": 128.5,
      "15": 136.71
     },
@@ -1084,7 +1084,7 @@
     "proj_avg": 133.4,
     "proj_by_week": {
      "12": 140.21,
-     "13": 127.19,
+     "13": 127.16,
      "14": 135.17,
      "15": 131.19
     },
@@ -1100,7 +1100,7 @@
     "mine": false,
     "pa": 1301.3,
     "pf": 1344.66,
-    "playoff_odds": 0.722,
+    "playoff_odds": 0.723,
     "power_rank": 6,
     "proj_avg": 124.9,
     "proj_by_week": {
@@ -1126,7 +1126,7 @@
     "proj_avg": 119.7,
     "proj_by_week": {
      "12": 129.51,
-     "13": 102.44,
+     "13": 102.33,
      "14": 121.94,
      "15": 125.03
     },
@@ -1147,7 +1147,7 @@
     "proj_avg": 137.8,
     "proj_by_week": {
      "12": 143.13,
-     "13": 137.35,
+     "13": 137.32,
      "14": 125.14,
      "15": 145.66
     },
@@ -1291,7 +1291,7 @@
    "pos": "RB",
    "proj_by_week": {
     "12": 7.8,
-    "13": 8.49,
+    "13": 8.42,
     "14": 7.41,
     "15": 7.46
    },

@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-26T10:46:09Z UTC
+Week 12 · record 3-8 · updated 2026-11-26T10:51:12Z UTC
 
 ## Lineup check
 Current lineup projects **99.7**, best possible **106.2**.
@@ -36,7 +36,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 128.3 | 100% |
-| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 135.4 | 100% |
+| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 135.5 | 100% |
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 128.6 | 97% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.4 | 95% |
 | 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 124.9 | 72% |
@@ -65,7 +65,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Jake Bates | K | DET | starter |  | 8.3 | 8.9 | 8.6 | 8.5 |
 | Jared Goff | QB | DET | starter |  | 20.2 | 18.2 | 20.0 | 16.9 |
 | Jordan Mason | RB | MIN | starter |  | 10.8 | 11.0 | 10.0 | 10.1 |
-| Rico Dowdle | RB | PIT | starter |  | 7.8 | 8.5 | 7.4 | 7.5 |
+| Rico Dowdle | RB | PIT | starter |  | 7.8 | 8.4 | 7.4 | 7.5 |
 | George Kittle | TE | SF | starter |  | 12.1 | 13.6 | 13.9 | 15.5 |
 | Jordyn Tyson | WR | NO | starter |  | 11.8 | 11.2 | 11.0 | 11.4 |
 | Stefon Diggs | WR | WAS | starter | Questionable | 11.2 | 13.8 | 12.3 | 12.4 |
