@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-26T21:39:59Z UTC
+Week 12 · record 3-8 · updated 2026-11-26T21:45:03Z UTC
 
 ## Lineup check
 Current lineup projects **106.9**, best possible **108.1**.
@@ -27,7 +27,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Dominic Zvada for Jake Bates (+0.4 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **106.9** – 138.7 projected · win chance **18%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **106.9** – 141.2 projected · win chance **17%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -35,11 +35,11 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 128.3 | 100% |
-| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 134.0 | 100% |
+| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 3 | 134.0 | 100% |
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 128.7 | 97% |
-| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.5 | 95% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 2 | 134.1 | 96% |
 | 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 124.5 | 72% |
-| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 119.7 | 49% |
+| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 119.7 | 48% |
 | 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 137.9 | 75% |
 | 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 118.9 | 13% |
 | 9 | DeshaunDontTouchdownThere | 3-8 | 1301.2 | 1316.8 | 9 | 112.7 | 0% |
