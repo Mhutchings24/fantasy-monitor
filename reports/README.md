@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 12
+- [Thu Nov 26 · Flash 14:05](2026/week-12/2026-11-26-flash-2105.md) — Diggs cleared (personal absence, no tag), keep him in. Judkins fix is done. Keep Moore tonight. Swap Evans in for Tyson before Sun 11 AM MT unless Evans is downgraded.
 - [Thu Nov 26 · AM](2026/week-12/2026-11-26-am.md) — Goff/Bates lock 11 AM MT, no change. Start Judkins over Dowdle before Fri 1 PM MT (High). Start Evans over Tyson (Purdy ankle risk noted); Tyson pivot by Sun 11 AM MT. Optional: Jones for Kiner.
 - [Wed Nov 25 · Flash 18:05](2026/week-12/2026-11-26-flash-0105.md) — Jacobs now officially Out (already known, leave on IR). LAR D/ST locked in, so the CIN swap was missed. Start Judkins over Dowdle before Fri (High). WR plan unchanged.
 - [Wed Nov 25 · PM](2026/week-12/2026-11-25-pm.md) — JAX D/ST gone: add CIN D/ST ($0), drop LAR, start CIN before 6 PM MT (High). Start Judkins over Dowdle. Jacobs inactive, leave on IR. Evans/Diggs Q: start both, Tyson pivot by Sun 11 AM MT.
