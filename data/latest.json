@@ -1,5 +1,5 @@
 {
- "content_hash": "59323bdc9becd8fe5f036a6e91dfefe3d5d09f54",
+ "content_hash": "2fdeb68866402bf5152bfd1c45433127f4d5b85d",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -313,15 +313,6 @@
    "team": "CHI"
   },
   {
-   "adds_24h": 16794,
-   "name": "AJ Barner",
-   "pos": "TE",
-   "proj_4wk": 31.0,
-   "proj_this_week": 7.22,
-   "status": null,
-   "team": "SEA"
-  },
-  {
    "adds_24h": 0,
    "name": "Eddy Pineiro",
    "pos": "K",
@@ -329,6 +320,15 @@
    "proj_this_week": 7.74,
    "status": null,
    "team": "SF"
+  },
+  {
+   "adds_24h": 16794,
+   "name": "AJ Barner",
+   "pos": "TE",
+   "proj_4wk": 31.0,
+   "proj_this_week": 7.22,
+   "status": null,
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "NO"
   }
  ],
- "generated_at": "2026-11-27T22:38:24Z",
+ "generated_at": "2026-11-27T22:43:27Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
