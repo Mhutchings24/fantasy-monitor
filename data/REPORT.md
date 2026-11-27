@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-27T16:02:55Z UTC
+Week 12 · record 3-8 · updated 2026-11-27T16:07:59Z UTC
 
 ## Lineup check
 Current lineup projects **106.8**, best possible **108.0**.
@@ -13,9 +13,9 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Sam Darnold | QB | SEA | Corey Kiner | +2.5 | +0.0 | 19,137 |
+| Sam Darnold | QB | SEA | Corey Kiner | +2.5 | +0.0 | 19,263 |
 | Bo Nix | QB | DEN | Corey Kiner | +2.4 | +0.0 | 0 |
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 81,660 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 82,128 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +1.8 | +0.0 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.7 | +0.5 | 0 |
@@ -73,5 +73,5 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 15.5 | 13.2 | 14.3 |
 | Mike Evans | WR | SF | bench | Questionable | 11.3 | 14.6 | 15.5 | 17.1 |
 | Keenan Allen | WR | SF | bench |  | 6.4 | 6.0 | 6.2 | 7.1 |
-| Omar Cooper Jr. | WR | NYJ | bench | Questionable | 0.0 | 0.0 | 9.7 | 11.0 |
+| Omar Cooper Jr. | WR | NYJ | bench | Out | 0.0 | 0.0 | 9.7 | 11.0 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
