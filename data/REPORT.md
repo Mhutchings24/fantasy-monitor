@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-27T18:43:10Z UTC
+Week 12 · record 3-8 · updated 2026-11-27T18:53:54Z UTC
 
 ## Lineup check
 Current lineup projects **106.8**, best possible **108.0**.
@@ -13,9 +13,9 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Sam Darnold | QB | SEA | Corey Kiner | +2.5 | +0.0 | 17,223 |
+| Sam Darnold | QB | SEA | Corey Kiner | +2.5 | +0.0 | 17,331 |
 | Bo Nix | QB | DEN | Corey Kiner | +2.4 | +0.0 | 0 |
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 65,632 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 66,000 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +1.8 | +0.0 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.7 | +0.5 | 0 |
@@ -34,16 +34,16 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 128.4 | 100% |
-| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 133.9 | 100% |
-| 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 128.5 | 97% |
-| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.4 | 95% |
+| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 4 | 128.2 | 100% |
+| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 133.8 | 100% |
+| 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 5 | 128.0 | 97% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.0 | 95% |
 | 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 120.7 | 67% |
 | 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 119.4 | 50% |
-| 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 137.9 | 78% |
-| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 118.7 | 14% |
-| 9 | DeshaunDontTouchdownThere | 3-8 | 1301.2 | 1316.8 | 10 | 108.5 | 0% |
-| 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 9 | 110.5 | 0% |
+| 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 138.0 | 78% |
+| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 118.9 | 14% |
+| 9 | DeshaunDontTouchdownThere | 3-8 | 1301.2 | 1316.8 | 10 | 108.1 | 0% |
+| 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 9 | 110.7 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -54,7 +54,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +0.0 for them.
 - **Possible** · Give Mike Evans, get Cam Skattebo from Gibbs me Nabers 😵‍💫: +1.3 pts/week for you, -0.1 for them.
 - **Possible** · Give Stefon Diggs, get Rhamondre Stevenson from Atticus Dean: +1.1 pts/week for you, -0.2 for them.
-- **Possible** · Give DJ Moore, get Chase Brown from Bradsbaconisundercooked: +1.0 pts/week for you, -0.4 for them.
+- **Possible** · Give DJ Moore, get Chase Brown from Bradsbaconisundercooked: +1.1 pts/week for you, -0.5 for them.
 
 ## Roster
 | Player | Pos | Team | Spot | Status | Wk 12 | Wk 13 | Wk 14 | Wk 15 |
@@ -62,7 +62,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | LAR D/ST | DEF | LAR | starter |  | 7.5 | 6.1 | 5.9 | 6.3 |
 | Jake Bates | K | DET | starter |  | 8.4 | 8.9 | 8.6 | 8.5 |
 | Jared Goff | QB | DET | starter |  | 20.4 | 18.2 | 20.0 | 16.9 |
-| Quinshon Judkins | RB | CLE | starter |  | 13.3 | 12.5 | 11.5 | 11.2 |
+| Quinshon Judkins | RB | CLE | starter |  | 13.3 | 13.1 | 11.5 | 11.2 |
 | Jordan Mason | RB | MIN | starter |  | 10.8 | 11.0 | 10.0 | 10.1 |
 | George Kittle | TE | SF | starter |  | 11.9 | 13.1 | 13.9 | 15.5 |
 | Stefon Diggs | WR | WAS | starter |  | 12.8 | 13.8 | 12.3 | 12.4 |
