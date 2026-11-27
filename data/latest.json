@@ -1,5 +1,5 @@
 {
- "content_hash": "769b4b66217f5cbec1f86d91690dbdead7b58a90",
+ "content_hash": "9bdd8545ca582302a735cccc4984e71f9f1a007f",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -710,21 +710,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "ATL D/ST",
-   "pos": "DEF",
-   "proj_4wk": 24.3,
-   "proj_this_week": 5.51,
-   "status": null,
-   "team": "ATL"
-  },
-  {
-   "adds_24h": 0,
    "name": "Cooper Kupp",
    "pos": "WR",
    "proj_4wk": 24.3,
    "proj_this_week": 6.09,
    "status": null,
    "team": "SEA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "ATL D/ST",
+   "pos": "DEF",
+   "proj_4wk": 24.3,
+   "proj_this_week": 5.51,
+   "status": null,
+   "team": "ATL"
   },
   {
    "adds_24h": 197771,
@@ -808,7 +808,7 @@
    "team": "NO"
   }
  ],
- "generated_at": "2026-11-27T18:38:06Z",
+ "generated_at": "2026-11-27T18:43:10Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
