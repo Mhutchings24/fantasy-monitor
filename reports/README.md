@@ -4,6 +4,7 @@ Twice-daily in-depth analysis for Conorrhea · No Fun League. Newest first.
 **Latest:** [LATEST.md](LATEST.md)
 
 ## 2026 · Week 12
+- [Fri Nov 27 · AM](2026/week-12/2026-11-27-am.md) — Start Evans over Tyson at WR2 before Sun 11 AM MT (Moore locked at FLEX, scored ~3.5). Medium. Keep Tyson if Evans Doubtful/Out Fri; Allen is the 4:25 pivot. Optional: Jones for Kiner. Win chance ~3–5%.
 - [Thu Nov 26 · PM](2026/week-12/2026-11-26-pm.md) — Before 6:20 PM MT: start Evans over DJ Moore (Moore active, rain in BUF). Medium. Allen if Evans Doubtful/Out Fri. Optional: Aaron Jones for Kiner. Gibbs went off; win chance ~5–8%.
 - [Thu Nov 26 · Game day 16:53](2026/week-12/2026-11-26-gameday-1653.md) — Start Evans over DJ Moore before 6:20 PM MT (heavy rain in BUF; Evans limited Thu, Diggs cleared). Medium. If Evans is Doubtful/Out Friday, start Allen.
 - [Thu Nov 26 · Flash 14:05](2026/week-12/2026-11-26-flash-2105.md) — Diggs cleared (personal absence, no tag), keep him in. Judkins fix is done. Keep Moore tonight. Swap Evans in for Tyson before Sun 11 AM MT unless Evans is downgraded.
