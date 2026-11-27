@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-27T04:49:35Z UTC
+Week 12 · record 3-8 · updated 2026-11-27T05:09:52Z UTC
 
 ## Lineup check
 Current lineup projects **106.9**, best possible **108.1**.
@@ -14,8 +14,8 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Bo Nix | QB | DEN | Corey Kiner | +2.5 | +0.0 | 0 |
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 97,420 |
-| Sam Darnold | QB | SEA | Corey Kiner | +2.2 | +0.0 | 21,501 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 98,092 |
+| Sam Darnold | QB | SEA | Corey Kiner | +2.2 | +0.0 | 21,711 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +1.8 | +0.0 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.7 | +0.5 | 0 |
@@ -35,8 +35,8 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 128.3 | 100% |
-| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 3 | 133.9 | 100% |
-| 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 128.8 | 97% |
+| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 3 | 134.0 | 100% |
+| 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 128.7 | 97% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 2 | 134.0 | 96% |
 | 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 120.7 | 68% |
 | 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 119.8 | 50% |
@@ -68,7 +68,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Jordyn Tyson | WR | NO | starter |  | 11.7 | 11.2 | 11.0 | 11.4 |
 | DJ Moore | WR | BUF | starter |  | 10.1 | 12.8 | 13.2 | 14.1 |
 | Rico Dowdle | RB | PIT | bench |  | 7.8 | 8.5 | 7.4 | 7.5 |
-| Corey Kiner | RB | NE | bench |  | 7.6 | 5.9 | 6.2 | 3.5 |
+| Corey Kiner | RB | NE | bench |  | 7.6 | 6.0 | 6.2 | 3.5 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 15.4 | 13.2 | 14.3 |
 | Mike Evans | WR | SF | bench | Questionable | 11.4 | 14.6 | 15.5 | 17.1 |
 | Omar Cooper Jr. | WR | NYJ | bench | Questionable | 9.2 | 0.0 | 9.7 | 11.0 |
