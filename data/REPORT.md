@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-27T11:48:17Z UTC
+Week 12 · record 3-8 · updated 2026-11-27T11:53:22Z UTC
 
 ## Lineup check
 Current lineup projects **107.1**, best possible **108.2**.
@@ -49,7 +49,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
 
 - **Possible** · Give Jordyn Tyson, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.4 for them.
-- **Possible** · Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.0 pts/week for you, -0.4 for them.
+- **Possible** · Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.4 for them.
 - **Possible** · Give Jordyn Tyson, get Ollie Gordon II from Bradsbaconisundercooked: +1.7 pts/week for you, -0.4 for them.
 - **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +0.1 for them.
 - **Possible** · Give Stefon Diggs, get Rhamondre Stevenson from Atticus Dean: +1.1 pts/week for you, -0.2 for them.
@@ -67,7 +67,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Stefon Diggs | WR | WAS | starter |  | 13.1 | 13.8 | 12.3 | 12.4 |
 | Jordyn Tyson | WR | NO | starter |  | 11.7 | 11.2 | 11.0 | 11.4 |
 | DJ Moore | WR | BUF | starter |  | 10.1 | 12.8 | 13.2 | 14.1 |
-| Rico Dowdle | RB | PIT | bench |  | 7.8 | 8.4 | 7.4 | 7.5 |
+| Rico Dowdle | RB | PIT | bench |  | 7.8 | 8.5 | 7.4 | 7.5 |
 | Corey Kiner | RB | NE | bench |  | 7.6 | 6.0 | 6.2 | 3.5 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 15.4 | 13.2 | 14.3 |
 | Mike Evans | WR | SF | bench | Questionable | 11.3 | 14.7 | 15.5 | 17.1 |

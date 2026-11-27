@@ -1,5 +1,5 @@
 {
- "content_hash": "93288e34ed82c0150e01e93780c6d48fe96f921b",
+ "content_hash": "ecd6419f80d55371a0b9b8c255b0de1da6a150ad",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -127,7 +127,7 @@
    "adds_24h": 23594,
    "name": "Mason Rudolph",
    "pos": "QB",
-   "proj_4wk": 48.6,
+   "proj_4wk": 48.7,
    "proj_this_week": 12.25,
    "status": null,
    "team": "PIT"
@@ -289,7 +289,7 @@
    "adds_24h": 0,
    "name": "Dalton Schultz",
    "pos": "TE",
-   "proj_4wk": 32.7,
+   "proj_4wk": 32.8,
    "proj_this_week": 7.44,
    "status": "Questionable",
    "team": "HOU"
@@ -325,7 +325,7 @@
    "adds_24h": 0,
    "name": "Woody Marks",
    "pos": "RB",
-   "proj_4wk": 31.8,
+   "proj_4wk": 31.9,
    "proj_this_week": 7.34,
    "status": "Questionable",
    "team": "HOU"
@@ -343,7 +343,7 @@
    "adds_24h": 0,
    "name": "Pat Freiermuth",
    "pos": "TE",
-   "proj_4wk": 31.1,
+   "proj_4wk": 31.2,
    "proj_this_week": 7.44,
    "status": null,
    "team": "PIT"
@@ -397,7 +397,7 @@
    "adds_24h": 0,
    "name": "Chris Boswell",
    "pos": "K",
-   "proj_4wk": 30.7,
+   "proj_4wk": 30.8,
    "proj_this_week": 7.09,
    "status": null,
    "team": "PIT"
@@ -460,7 +460,7 @@
    "adds_24h": 28070,
    "name": "Xavier Hutchinson",
    "pos": "WR",
-   "proj_4wk": 28.9,
+   "proj_4wk": 29.0,
    "proj_this_week": 8.27,
    "status": null,
    "team": "HOU"
@@ -808,7 +808,7 @@
    "team": "NO"
   }
  ],
- "generated_at": "2026-11-27T11:48:17Z",
+ "generated_at": "2026-11-27T11:53:22Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1015,7 +1015,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.344,
+    "first_seed_odds": 0.342,
     "losses": 4,
     "mine": false,
     "pa": 1453.28,
@@ -1036,7 +1036,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.425,
+    "first_seed_odds": 0.427,
     "losses": 4,
     "mine": false,
     "pa": 1412.1,
@@ -1046,7 +1046,7 @@
     "proj_avg": 133.9,
     "proj_by_week": {
      "12": 134.38,
-     "13": 121.21,
+     "13": 121.4,
      "14": 142.99,
      "15": 137.03
     },
@@ -1067,7 +1067,7 @@
     "proj_avg": 128.6,
     "proj_by_week": {
      "12": 116.99,
-     "13": 132.11,
+     "13": 132.15,
      "14": 128.5,
      "15": 136.71
     },
@@ -1078,7 +1078,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.059,
+    "first_seed_odds": 0.058,
     "losses": 5,
     "mine": false,
     "pa": 1400.04,
@@ -1088,7 +1088,7 @@
     "proj_avg": 134.0,
     "proj_by_week": {
      "12": 142.8,
-     "13": 126.7,
+     "13": 126.73,
      "14": 135.17,
      "15": 131.19
     },
@@ -1151,7 +1151,7 @@
     "proj_avg": 138.0,
     "proj_by_week": {
      "12": 143.53,
-     "13": 137.78,
+     "13": 137.81,
      "14": 125.14,
      "15": 145.66
     },
@@ -1370,7 +1370,7 @@
    "pos": "RB",
    "proj_by_week": {
     "12": 7.79,
-    "13": 8.41,
+    "13": 8.49,
     "14": 7.41,
     "15": 7.46
    },
@@ -1575,7 +1575,7 @@
    "likelihood": "Possible",
    "partner": "I’m stuck Step Burrow",
    "partner_roster_id": 8,
-   "summary": "Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.0 pts/week for you, -0.4 for them.",
+   "summary": "Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.4 for them.",
    "their_gain_per_week": -0.4,
    "value_ratio": 1.15,
    "why_them": [
@@ -1585,7 +1585,7 @@
     "Ashton Jeanty would start 5 of 6 weeks for you",
     "Jordan Mason starts 6 of 6 weeks for you"
    ],
-   "your_gain_per_week": 3.0
+   "your_gain_per_week": 3.1
   },
   {
    "get": [
