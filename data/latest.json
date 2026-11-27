@@ -1,5 +1,5 @@
 {
- "content_hash": "dcffac939d5b1e1967cc53e3f5f37327b52d0a0c",
+ "content_hash": "bac6e219252a819972be73bfb91e4eaab7a1d06e",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -19,8 +19,8 @@
    "adds_24h": 15576,
    "name": "Sam Darnold",
    "pos": "QB",
-   "proj_4wk": 68.2,
-   "proj_this_week": 15.33,
+   "proj_4wk": 68.3,
+   "proj_this_week": 15.42,
    "status": null,
    "team": "SEA"
   },
@@ -263,7 +263,7 @@
    "name": "Jason Myers",
    "pos": "K",
    "proj_4wk": 33.9,
-   "proj_this_week": 7.79,
+   "proj_this_week": 7.82,
    "status": null,
    "team": "SEA"
   },
@@ -314,21 +314,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Eddy Pineiro",
-   "pos": "K",
-   "proj_4wk": 31.0,
-   "proj_this_week": 7.81,
-   "status": null,
-   "team": "SF"
-  },
-  {
-   "adds_24h": 0,
    "name": "Cairo Santos",
    "pos": "K",
    "proj_4wk": 31.0,
    "proj_this_week": 8.31,
    "status": null,
    "team": "CHI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Eddy Pineiro",
+   "pos": "K",
+   "proj_4wk": 31.0,
+   "proj_this_week": 7.77,
+   "status": null,
+   "team": "SF"
   },
   {
    "adds_24h": 0,
@@ -353,7 +353,7 @@
    "name": "Jadarian Price",
    "pos": "RB",
    "proj_4wk": 30.7,
-   "proj_this_week": 6.13,
+   "proj_this_week": 6.14,
    "status": null,
    "team": "SEA"
   },
@@ -395,21 +395,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "SF D/ST",
-   "pos": "DEF",
-   "proj_4wk": 29.9,
-   "proj_this_week": 7.6,
-   "status": null,
-   "team": "SF"
-  },
-  {
-   "adds_24h": 0,
    "name": "Andre Szmyt",
    "pos": "K",
    "proj_4wk": 29.9,
    "proj_this_week": 7.5,
    "status": null,
    "team": "CLE"
+  },
+  {
+   "adds_24h": 0,
+   "name": "SF D/ST",
+   "pos": "DEF",
+   "proj_4wk": 29.8,
+   "proj_this_week": 7.55,
+   "status": null,
+   "team": "SF"
   },
   {
    "adds_24h": 0,
@@ -647,21 +647,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Tre Tucker",
-   "pos": "WR",
-   "proj_4wk": 26.3,
-   "proj_this_week": 7.72,
-   "status": null,
-   "team": "LV"
-  },
-  {
-   "adds_24h": 0,
    "name": "Tank Dell",
    "pos": "WR",
    "proj_4wk": 26.3,
    "proj_this_week": 6.84,
    "status": null,
    "team": "HOU"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Tre Tucker",
+   "pos": "WR",
+   "proj_4wk": 26.3,
+   "proj_this_week": 7.72,
+   "status": null,
+   "team": "LV"
   },
   {
    "adds_24h": 0,
@@ -739,8 +739,8 @@
    "adds_24h": 205382,
    "name": "Josh Cameron",
    "pos": "WR",
-   "proj_4wk": 23.0,
-   "proj_this_week": 11.08,
+   "proj_4wk": 21.9,
+   "proj_this_week": 9.95,
    "status": null,
    "team": "JAX"
   },
@@ -817,7 +817,7 @@
    "team": "NYG"
   }
  ],
- "generated_at": "2026-11-27T21:40:31Z",
+ "generated_at": "2026-11-27T21:45:34Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -877,13 +877,13 @@
    {
     "name": "George Kittle",
     "pid": "4217",
-    "proj": 12.25,
+    "proj": 12.27,
     "slot": "TE"
    },
    {
     "name": "Mike Evans",
     "pid": "2216",
-    "proj": 11.69,
+    "proj": 11.64,
     "slot": "FLEX"
    },
    {
@@ -899,16 +899,16 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 108.78,
-  "current_projected": 107.2,
-  "gain": 1.58,
+  "best_projected": 108.75,
+  "current_projected": 107.22,
+  "gain": 1.53,
   "problems": [],
   "source": "matchup week 12",
   "swaps": [
    {
     "bench": "4983",
     "start": "2216",
-    "text": "Start Mike Evans (WR, SF) (11.7) over DJ Moore (WR, BUF) (10.1)"
+    "text": "Start Mike Evans (WR, SF) (11.6) over DJ Moore (WR, BUF) (10.1)"
    }
   ],
   "week": 12
@@ -1006,11 +1006,11 @@
   },
   "matchup": {
    "my_proj": 107.2,
-   "opp_best_possible": 141.2,
-   "opp_proj": 138.3,
+   "opp_best_possible": 140.15,
+   "opp_proj": 137.2,
    "opponent": "Gibbs me Nabers 😵‍💫",
    "opponent_record": "6-5",
-   "win_prob": 0.19
+   "win_prob": 0.198
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1024,7 +1024,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.331,
+    "first_seed_odds": 0.337,
     "losses": 4,
     "mine": false,
     "pa": 1453.28,
@@ -1045,16 +1045,16 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.449,
+    "first_seed_odds": 0.457,
     "losses": 4,
     "mine": false,
     "pa": 1412.1,
     "pf": 1496.58,
-    "playoff_odds": 0.998,
+    "playoff_odds": 0.997,
     "power_rank": 2,
     "proj_avg": 134.2,
     "proj_by_week": {
-     "12": 135.57,
+     "12": 135.64,
      "13": 121.14,
      "14": 142.99,
      "15": 137.03
@@ -1066,12 +1066,12 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.151,
+    "first_seed_odds": 0.135,
     "losses": 4,
     "mine": false,
     "pa": 1288.58,
     "pf": 1326.64,
-    "playoff_odds": 0.963,
+    "playoff_odds": 0.959,
     "power_rank": 5,
     "proj_avg": 127.2,
     "proj_by_week": {
@@ -1087,16 +1087,16 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.061,
+    "first_seed_odds": 0.063,
     "losses": 5,
     "mine": false,
     "pa": 1400.04,
     "pf": 1453.24,
-    "playoff_odds": 0.947,
+    "playoff_odds": 0.945,
     "power_rank": 3,
-    "proj_avg": 133.3,
+    "proj_avg": 133.0,
     "proj_by_week": {
-     "12": 141.2,
+     "12": 140.15,
      "13": 125.47,
      "14": 135.17,
      "15": 131.19
@@ -1113,11 +1113,11 @@
     "mine": false,
     "pa": 1301.3,
     "pf": 1344.66,
-    "playoff_odds": 0.666,
+    "playoff_odds": 0.668,
     "power_rank": 6,
     "proj_avg": 120.8,
     "proj_by_week": {
-     "12": 104.4,
+     "12": 104.24,
      "13": 125.08,
      "14": 127.24,
      "15": 126.55
@@ -1134,11 +1134,11 @@
     "mine": false,
     "pa": 1223.72,
     "pf": 1269.3,
-    "playoff_odds": 0.521,
-    "power_rank": 7,
-    "proj_avg": 120.6,
+    "playoff_odds": 0.505,
+    "power_rank": 8,
+    "proj_avg": 119.6,
     "proj_by_week": {
-     "12": 133.3,
+     "12": 129.36,
      "13": 101.97,
      "14": 121.94,
      "15": 125.03
@@ -1155,7 +1155,7 @@
     "mine": false,
     "pa": 1397.48,
     "pf": 1389.34,
-    "playoff_odds": 0.755,
+    "playoff_odds": 0.772,
     "power_rank": 1,
     "proj_avg": 137.9,
     "proj_by_week": {
@@ -1177,10 +1177,10 @@
     "pa": 1417.6,
     "pf": 1271.58,
     "playoff_odds": 0.157,
-    "power_rank": 8,
+    "power_rank": 7,
     "proj_avg": 119.8,
     "proj_by_week": {
-     "12": 118.06,
+     "12": 118.12,
      "13": 121.24,
      "14": 113.56,
      "15": 126.37
@@ -1199,9 +1199,9 @@
     "pf": 1301.24,
     "playoff_odds": 0.0,
     "power_rank": 10,
-    "proj_avg": 108.9,
+    "proj_avg": 110.2,
     "proj_by_week": {
-     "12": 114.0,
+     "12": 119.05,
      "13": 104.92,
      "14": 106.96,
      "15": 109.84
@@ -1222,7 +1222,7 @@
     "power_rank": 9,
     "proj_avg": 111.0,
     "proj_by_week": {
-     "12": 108.78,
+     "12": 108.75,
      "13": 112.12,
      "14": 110.91,
      "15": 112.13
@@ -1318,7 +1318,7 @@
    "pid": "4217",
    "pos": "TE",
    "proj_by_week": {
-    "12": 12.25,
+    "12": 12.27,
     "13": 13.52,
     "14": 13.94,
     "15": 15.51
@@ -1423,7 +1423,7 @@
    "pid": "2216",
    "pos": "WR",
    "proj_by_week": {
-    "12": 11.69,
+    "12": 11.64,
     "13": 15.03,
     "14": 15.46,
     "15": 17.11
@@ -1438,7 +1438,7 @@
    "pid": "1479",
    "pos": "WR",
    "proj_by_week": {
-    "12": 6.53,
+    "12": 6.54,
     "13": 6.25,
     "14": 6.18,
     "15": 7.08
@@ -1656,7 +1656,7 @@
    "likelihood": "Possible",
    "partner": "Bradsbaconisundercooked",
    "partner_roster_id": 1,
-   "summary": "Give Jordyn Tyson, get Ollie Gordon II from Bradsbaconisundercooked: +1.6 pts/week for you, -0.4 for them.",
+   "summary": "Give Jordyn Tyson, get Ollie Gordon II from Bradsbaconisundercooked: +1.7 pts/week for you, -0.4 for them.",
    "their_gain_per_week": -0.4,
    "value_ratio": 1.03,
    "why_them": [
@@ -1667,7 +1667,7 @@
     "Ollie Gordon II would start 5 of 6 weeks for you",
     "Jordyn Tyson starts only 2 of 6 weeks for you"
    ],
-   "your_gain_per_week": 1.6
+   "your_gain_per_week": 1.7
   },
   {
    "get": [
@@ -1843,7 +1843,7 @@
    "pid": "4943",
    "pos": "QB",
    "proj_by_week": {
-    "12": 15.33,
+    "12": 15.42,
     "13": 20.69,
     "14": 16.41,
     "15": 15.8
