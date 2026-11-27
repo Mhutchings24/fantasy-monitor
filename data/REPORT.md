@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-27T04:24:16Z UTC
+Week 12 · record 3-8 · updated 2026-11-27T04:29:20Z UTC
 
 ## Lineup check
-Current lineup projects **106.9**, best possible **108.2**.
+Current lineup projects **106.9**, best possible **108.1**.
 
 - 🔁 Start Mike Evans (WR, SF) (11.4) over DJ Moore (WR, BUF) (10.1)
 
@@ -34,7 +34,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 128.4 | 100% |
+| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 128.3 | 100% |
 | 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 3 | 133.9 | 100% |
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 128.8 | 97% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 2 | 134.0 | 96% |
