@@ -1,10 +1,10 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-27T08:24:28Z UTC
+Week 12 · record 3-8 · updated 2026-11-27T08:29:32Z UTC
 
 ## Lineup check
-Current lineup projects **107.1**, best possible **108.3**.
+Current lineup projects **107.0**, best possible **108.2**.
 
-- 🔁 Start Mike Evans (WR, SF) (11.4) over DJ Moore (WR, BUF) (10.1)
+- 🔁 Start Mike Evans (WR, SF) (11.3) over DJ Moore (WR, BUF) (10.1)
 
 ## Waiver targets
 FAAB left: **$78** (league starting budget $100)
@@ -27,7 +27,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Dominic Zvada for Jake Bates (+0.4 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **107.1** – 137.9 projected · win chance **19%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **107.0** – 137.9 projected · win chance **19%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -51,8 +51,6 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 - **Possible** · Give Jordyn Tyson, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.3 for them.
 - **Possible** · Give Jordan Mason, get Ashton Jeanty from I’m stuck Step Burrow: +3.1 pts/week for you, -0.3 for them.
 - **Possible** · Give Jordyn Tyson, get Ollie Gordon II from Bradsbaconisundercooked: +1.7 pts/week for you, -0.4 for them.
-- **Possible** · Give Mike Evans, get Jonah Coleman from Monangynecologist: +1.6 pts/week for you, -0.5 for them.
-- **Possible** · Give Mike Evans + Omar Cooper Jr., get Jonah Coleman from Monangynecologist: +1.6 pts/week for you, -0.5 for them.
 - **Possible** · Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +0.1 for them.
 - **Possible** · Give Stefon Diggs, get Rhamondre Stevenson from Atticus Dean: +1.1 pts/week for you, -0.2 for them.
 - **Possible** · Give DJ Moore, get Chase Brown from Bradsbaconisundercooked: +1.1 pts/week for you, -0.5 for them.
@@ -72,7 +70,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Rico Dowdle | RB | PIT | bench |  | 7.8 | 8.5 | 7.4 | 7.5 |
 | Corey Kiner | RB | NE | bench |  | 7.6 | 6.0 | 6.2 | 3.5 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 15.4 | 13.2 | 14.3 |
-| Mike Evans | WR | SF | bench | Questionable | 11.4 | 15.0 | 15.5 | 17.1 |
+| Mike Evans | WR | SF | bench | Questionable | 11.3 | 15.0 | 15.5 | 17.1 |
 | Omar Cooper Jr. | WR | NYJ | bench | Questionable | 9.2 | 0.0 | 9.7 | 11.0 |
 | Keenan Allen | WR | SF | bench |  | 6.4 | 6.2 | 6.2 | 7.1 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
