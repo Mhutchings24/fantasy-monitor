@@ -1,5 +1,5 @@
 {
- "content_hash": "7306bf4f8f884f2a3e1bb9ca622ce8ae77a42682",
+ "content_hash": "dfb016ef89cab61fa5db6147c777dda3b4d0b0e5",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -64,8 +64,8 @@
    "adds_24h": 18784,
    "name": "Tyler Shough",
    "pos": "QB",
-   "proj_4wk": 62.1,
-   "proj_this_week": 16.39,
+   "proj_4wk": 62.4,
+   "proj_this_week": 16.77,
    "status": null,
    "team": "NO"
   },
@@ -73,8 +73,8 @@
    "adds_24h": 0,
    "name": "Michael Penix Jr.",
    "pos": "QB",
-   "proj_4wk": 60.1,
-   "proj_this_week": 12.46,
+   "proj_4wk": 59.9,
+   "proj_this_week": 12.26,
    "status": null,
    "team": "ATL"
   },
@@ -208,8 +208,8 @@
    "adds_24h": 28336,
    "name": "Kyle Pitts Sr.",
    "pos": "TE",
-   "proj_4wk": 37.0,
-   "proj_this_week": 8.31,
+   "proj_4wk": 36.9,
+   "proj_this_week": 8.19,
    "status": null,
    "team": "ATL"
   },
@@ -624,7 +624,7 @@
    "pos": "TE",
    "proj_4wk": 26.7,
    "proj_this_week": 0.0,
-   "status": "Questionable",
+   "status": "Out",
    "team": "NO"
   },
   {
@@ -802,13 +802,13 @@
    "adds_24h": 16758,
    "name": "Devaughn Vele",
    "pos": "WR",
-   "proj_4wk": 22.5,
-   "proj_this_week": 5.77,
+   "proj_4wk": 22.6,
+   "proj_this_week": 5.83,
    "status": null,
    "team": "NO"
   }
  ],
- "generated_at": "2026-11-27T20:01:30Z",
+ "generated_at": "2026-11-27T20:06:34Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -862,7 +862,7 @@
    {
     "name": "Jordyn Tyson",
     "pid": "13281",
-    "proj": 11.53,
+    "proj": 11.65,
     "slot": "WR"
    },
    {
@@ -890,8 +890,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 107.83,
-  "current_projected": 106.65,
+  "best_projected": 107.95,
+  "current_projected": 106.77,
   "gain": 1.18,
   "problems": [],
   "source": "matchup week 12",
@@ -996,12 +996,12 @@
    "week": 11
   },
   "matchup": {
-   "my_proj": 106.6,
+   "my_proj": 106.8,
    "opp_best_possible": 139.92,
    "opp_proj": 135.0,
    "opponent": "Gibbs me Nabers 😵‍💫",
    "opponent_record": "6-5",
-   "win_prob": 0.211
+   "win_prob": 0.213
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1015,16 +1015,16 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.341,
+    "first_seed_odds": 0.338,
     "losses": 4,
     "mine": false,
     "pa": 1453.28,
     "pf": 1520.82,
-    "playoff_odds": 0.996,
+    "playoff_odds": 0.995,
     "power_rank": 4,
     "proj_avg": 128.1,
     "proj_by_week": {
-     "12": 134.14,
+     "12": 134.26,
      "13": 121.72,
      "14": 118.76,
      "15": 137.65
@@ -1036,7 +1036,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.427,
+    "first_seed_odds": 0.429,
     "losses": 4,
     "mine": false,
     "pa": 1412.1,
@@ -1062,7 +1062,7 @@
     "mine": false,
     "pa": 1288.58,
     "pf": 1326.64,
-    "playoff_odds": 0.968,
+    "playoff_odds": 0.967,
     "power_rank": 5,
     "proj_avg": 127.9,
     "proj_by_week": {
@@ -1083,7 +1083,7 @@
     "mine": false,
     "pa": 1400.04,
     "pf": 1453.24,
-    "playoff_odds": 0.948,
+    "playoff_odds": 0.947,
     "power_rank": 3,
     "proj_avg": 132.9,
     "proj_by_week": {
@@ -1104,7 +1104,7 @@
     "mine": false,
     "pa": 1301.3,
     "pf": 1344.66,
-    "playoff_odds": 0.672,
+    "playoff_odds": 0.67,
     "power_rank": 6,
     "proj_avg": 120.7,
     "proj_by_week": {
@@ -1125,7 +1125,7 @@
     "mine": false,
     "pa": 1223.72,
     "pf": 1269.3,
-    "playoff_odds": 0.501,
+    "playoff_odds": 0.499,
     "power_rank": 7,
     "proj_avg": 119.3,
     "proj_by_week": {
@@ -1167,11 +1167,11 @@
     "mine": false,
     "pa": 1417.6,
     "pf": 1271.58,
-    "playoff_odds": 0.143,
+    "playoff_odds": 0.149,
     "power_rank": 8,
-    "proj_avg": 118.9,
+    "proj_avg": 119.2,
     "proj_by_week": {
-     "12": 114.94,
+     "12": 116.03,
      "13": 120.87,
      "14": 113.56,
      "15": 126.37
@@ -1213,7 +1213,7 @@
     "power_rank": 9,
     "proj_avg": 110.7,
     "proj_by_week": {
-     "12": 107.83,
+     "12": 107.95,
      "13": 111.93,
      "14": 110.91,
      "15": 112.13
@@ -1339,7 +1339,7 @@
    "pid": "13281",
    "pos": "WR",
    "proj_by_week": {
-    "12": 11.53,
+    "12": 11.65,
     "13": 11.23,
     "14": 10.96,
     "15": 11.38
@@ -1531,7 +1531,7 @@
      "name": "Jordyn Tyson",
      "pid": "13281",
      "pos": "WR",
-     "ros_per_week": 11.5,
+     "ros_per_week": 11.6,
      "status": null,
      "team": "NO"
     }
@@ -1603,7 +1603,7 @@
      "name": "Jordyn Tyson",
      "pid": "13281",
      "pos": "WR",
-     "ros_per_week": 11.5,
+     "ros_per_week": 11.6,
      "status": null,
      "team": "NO"
     }
@@ -1722,7 +1722,7 @@
      "name": "Jordyn Tyson",
      "pid": "13281",
      "pos": "WR",
-     "ros_per_week": 11.5,
+     "ros_per_week": 11.6,
      "status": null,
      "team": "NO"
     }
@@ -1730,9 +1730,9 @@
    "likelihood": "Possible",
    "partner": "Atticus Dean",
    "partner_roster_id": 10,
-   "summary": "Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +0.0 for them.",
-   "their_gain_per_week": 0.0,
-   "value_ratio": 0.87,
+   "summary": "Give Jordyn Tyson, get Breece Hall from Atticus Dean: +1.5 pts/week for you, +0.1 for them.",
+   "their_gain_per_week": 0.1,
+   "value_ratio": 0.86,
    "why_them": [
     "Jordyn Tyson would start 6 of 6 weeks for them"
    ],
@@ -1958,7 +1958,7 @@
    "pid": "11559",
    "pos": "QB",
    "proj_by_week": {
-    "12": 12.46,
+    "12": 12.26,
     "13": 16.68,
     "14": 14.01,
     "15": 16.97
