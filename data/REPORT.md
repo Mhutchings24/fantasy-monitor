@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-27T22:03:01Z UTC
+Week 12 · record 3-8 · updated 2026-11-27T22:08:05Z UTC
 
 ## Lineup check
 Current lineup projects **107.1**, best possible **108.7**.
@@ -14,8 +14,8 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Bo Nix | QB | DEN | Corey Kiner | +2.4 | +0.0 | 0 |
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 53,140 |
-| Sam Darnold | QB | SEA | Corey Kiner | +2.0 | +0.0 | 16,263 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 53,628 |
+| Sam Darnold | QB | SEA | Corey Kiner | +2.0 | +0.0 | 16,545 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +1.8 | +0.0 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.7 | +0.5 | 0 |
@@ -35,10 +35,10 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
 | 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 4 | 128.0 | 100% |
-| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 134.1 | 100% |
+| 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 135.0 | 100% |
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 5 | 127.4 | 96% |
-| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.0 | 94% |
-| 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 120.8 | 67% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.0 | 95% |
+| 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 120.8 | 66% |
 | 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 8 | 119.4 | 50% |
 | 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 138.0 | 78% |
 | 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 7 | 119.9 | 16% |
