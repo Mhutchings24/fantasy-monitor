@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-27T03:46:39Z UTC
+Week 12 · record 3-8 · updated 2026-11-27T03:58:58Z UTC
 
 ## Lineup check
 Current lineup projects **106.9**, best possible **108.2**.
@@ -14,8 +14,8 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Bo Nix | QB | DEN | Corey Kiner | +2.5 | +0.0 | 0 |
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 101,428 |
-| Sam Darnold | QB | SEA | Corey Kiner | +2.2 | +0.0 | 22,080 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 101,860 |
+| Sam Darnold | QB | SEA | Corey Kiner | +2.2 | +0.0 | 22,227 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +1.8 | +0.0 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.7 | +0.5 | 0 |
@@ -41,7 +41,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 120.7 | 68% |
 | 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 119.8 | 50% |
 | 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 137.9 | 77% |
-| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 118.8 | 14% |
+| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 118.7 | 14% |
 | 9 | DeshaunDontTouchdownThere | 3-8 | 1301.2 | 1316.8 | 9 | 112.6 | 0% |
 | 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 110.5 | 0% |
 
@@ -67,10 +67,10 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Stefon Diggs | WR | WAS | starter |  | 13.1 | 13.6 | 12.3 | 12.4 |
 | Jordyn Tyson | WR | NO | starter |  | 11.7 | 11.2 | 11.0 | 11.4 |
 | DJ Moore | WR | BUF | starter |  | 10.1 | 12.8 | 13.2 | 14.1 |
-| Rico Dowdle | RB | PIT | bench |  | 7.7 | 8.5 | 7.4 | 7.5 |
+| Rico Dowdle | RB | PIT | bench |  | 7.8 | 8.5 | 7.4 | 7.5 |
 | Corey Kiner | RB | NE | bench |  | 7.6 | 5.9 | 6.2 | 3.5 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 15.4 | 13.2 | 14.3 |
 | Mike Evans | WR | SF | bench | Questionable | 11.4 | 14.6 | 15.5 | 17.1 |
-| Omar Cooper Jr. | WR | NYJ | bench | Questionable | 9.3 | 0.0 | 9.7 | 11.0 |
+| Omar Cooper Jr. | WR | NYJ | bench | Questionable | 9.2 | 0.0 | 9.7 | 11.0 |
 | Keenan Allen | WR | SF | bench |  | 6.4 | 6.0 | 6.2 | 7.1 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
