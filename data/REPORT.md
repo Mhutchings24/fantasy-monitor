@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-27T20:31:54Z UTC
+Week 12 · record 3-8 · updated 2026-11-27T20:42:00Z UTC
 
 ## Lineup check
 Current lineup projects **107.1**, best possible **108.7**.
@@ -13,9 +13,9 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Sam Darnold | QB | SEA | Corey Kiner | +2.5 | +0.0 | 16,953 |
+| Sam Darnold | QB | SEA | Corey Kiner | +2.5 | +0.0 | 15,735 |
 | Bo Nix | QB | DEN | Corey Kiner | +2.4 | +0.0 | 0 |
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 62,448 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 55,756 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +1.8 | +0.0 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.7 | +0.5 | 0 |
