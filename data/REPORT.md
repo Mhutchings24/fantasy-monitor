@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-27T19:24:15Z UTC
+Week 12 · record 3-8 · updated 2026-11-27T19:29:19Z UTC
 
 ## Lineup check
 Current lineup projects **106.8**, best possible **107.9**.
@@ -13,9 +13,9 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Sam Darnold | QB | SEA | Corey Kiner | +2.5 | +0.0 | 17,610 |
+| Sam Darnold | QB | SEA | Corey Kiner | +2.5 | +0.0 | 17,691 |
 | Bo Nix | QB | DEN | Corey Kiner | +2.4 | +0.0 | 0 |
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 67,020 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 67,384 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +1.8 | +0.0 | 0 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +1.7 | +0.5 | 0 |
@@ -27,7 +27,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Dominic Zvada for Jake Bates (+0.4 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **106.8** – 135.3 projected · win chance **21%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **106.8** – 135.2 projected · win chance **21%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -39,7 +39,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 5 | 128.0 | 97% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.0 | 95% |
 | 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 120.7 | 67% |
-| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 119.4 | 50% |
+| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 119.3 | 50% |
 | 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 138.0 | 78% |
 | 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 118.9 | 14% |
 | 9 | DeshaunDontTouchdownThere | 3-8 | 1301.2 | 1316.8 | 10 | 108.1 | 0% |
