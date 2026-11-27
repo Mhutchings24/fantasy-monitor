@@ -1,5 +1,5 @@
 {
- "content_hash": "dee200ef7067b95e689ffb62f1ba9ee80dd35ff8",
+ "content_hash": "93480cb44d783fc9dda1382bb3f39807c14375ab",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -64,7 +64,7 @@
    "adds_24h": 23872,
    "name": "Tyler Shough",
    "pos": "QB",
-   "proj_4wk": 62.4,
+   "proj_4wk": 62.2,
    "proj_this_week": 16.77,
    "status": null,
    "team": "NO"
@@ -314,15 +314,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "Juwan Johnson",
-   "pos": "TE",
-   "proj_4wk": 31.9,
-   "proj_this_week": 5.2,
-   "status": "Questionable",
-   "team": "NO"
-  },
-  {
-   "adds_24h": 0,
    "name": "Woody Marks",
    "pos": "RB",
    "proj_4wk": 31.9,
@@ -332,9 +323,18 @@
   },
   {
    "adds_24h": 0,
+   "name": "Juwan Johnson",
+   "pos": "TE",
+   "proj_4wk": 31.8,
+   "proj_this_week": 5.2,
+   "status": "Questionable",
+   "team": "NO"
+  },
+  {
+   "adds_24h": 0,
    "name": "Trey Smack",
    "pos": "K",
-   "proj_4wk": 31.3,
+   "proj_4wk": 31.4,
    "proj_this_week": 7.13,
    "status": null,
    "team": "GB"
@@ -496,7 +496,7 @@
    "adds_24h": 0,
    "name": "Charlie Smyth",
    "pos": "K",
-   "proj_4wk": 28.8,
+   "proj_4wk": 28.7,
    "proj_this_week": 6.64,
    "status": null,
    "team": "NO"
@@ -808,7 +808,7 @@
    "team": "NO"
   }
  ],
- "generated_at": "2026-11-27T13:45:50Z",
+ "generated_at": "2026-11-27T13:50:55Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1015,7 +1015,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.342,
+    "first_seed_odds": 0.341,
     "losses": 4,
     "mine": false,
     "pa": 1453.28,
@@ -1025,7 +1025,7 @@
     "proj_avg": 128.4,
     "proj_by_week": {
      "12": 134.94,
-     "13": 122.23,
+     "13": 122.15,
      "14": 118.76,
      "15": 137.65
     },
@@ -1067,7 +1067,7 @@
     "proj_avg": 128.7,
     "proj_by_week": {
      "12": 117.28,
-     "13": 132.14,
+     "13": 132.17,
      "14": 128.5,
      "15": 136.71
     },
@@ -1151,7 +1151,7 @@
     "proj_avg": 138.0,
     "proj_by_week": {
      "12": 143.42,
-     "13": 137.64,
+     "13": 137.67,
      "14": 125.14,
      "15": 145.66
     },
@@ -1172,7 +1172,7 @@
     "proj_avg": 118.8,
     "proj_by_week": {
      "12": 114.8,
-     "13": 120.39,
+     "13": 120.37,
      "14": 113.56,
      "15": 126.37
     },
@@ -1340,7 +1340,7 @@
    "pos": "WR",
    "proj_by_week": {
     "12": 11.67,
-    "13": 11.23,
+    "13": 11.16,
     "14": 10.96,
     "15": 11.38
    },
@@ -1400,7 +1400,7 @@
    "pos": "RB",
    "proj_by_week": {
     "12": 0.0,
-    "13": 15.41,
+    "13": 15.48,
     "14": 13.23,
     "15": 14.27
    },
@@ -1531,7 +1531,7 @@
      "name": "Jordyn Tyson",
      "pid": "13281",
      "pos": "WR",
-     "ros_per_week": 11.6,
+     "ros_per_week": 11.5,
      "status": null,
      "team": "NO"
     }
@@ -1603,7 +1603,7 @@
      "name": "Jordyn Tyson",
      "pid": "13281",
      "pos": "WR",
-     "ros_per_week": 11.6,
+     "ros_per_week": 11.5,
      "status": null,
      "team": "NO"
     }
@@ -1640,7 +1640,7 @@
      "name": "Jordyn Tyson",
      "pid": "13281",
      "pos": "WR",
-     "ros_per_week": 11.6,
+     "ros_per_week": 11.5,
      "status": null,
      "team": "NO"
     }
@@ -1720,7 +1720,7 @@
    "likelihood": "Possible",
    "partner": "Bradsbaconisundercooked",
    "partner_roster_id": 1,
-   "summary": "Give DJ Moore, get Chase Brown from Bradsbaconisundercooked: +1.1 pts/week for you, -0.4 for them.",
+   "summary": "Give DJ Moore, get Chase Brown from Bradsbaconisundercooked: +1.0 pts/week for you, -0.4 for them.",
    "their_gain_per_week": -0.4,
    "value_ratio": 1.0,
    "why_them": [
@@ -1730,7 +1730,7 @@
     "Chase Brown would start 6 of 6 weeks for you",
     "DJ Moore starts 5 of 6 weeks for you"
    ],
-   "your_gain_per_week": 1.1
+   "your_gain_per_week": 1.0
   }
  ],
  "waivers": [
