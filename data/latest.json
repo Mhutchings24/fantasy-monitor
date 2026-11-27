@@ -1,5 +1,5 @@
 {
- "content_hash": "cadc503ec075f87c8ca261c615a16add301c6ab8",
+ "content_hash": "147cd607ecbfd8f1da0f5b01c91432eb6c7a1b65",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -46,7 +46,7 @@
    "adds_24h": 0,
    "name": "Cam Ward",
    "pos": "QB",
-   "proj_4wk": 63.9,
+   "proj_4wk": 64.0,
    "proj_this_week": 13.58,
    "status": null,
    "team": "TEN"
@@ -127,7 +127,7 @@
    "adds_24h": 21146,
    "name": "Mason Rudolph",
    "pos": "QB",
-   "proj_4wk": 48.7,
+   "proj_4wk": 48.8,
    "proj_this_week": 12.25,
    "status": null,
    "team": "PIT"
@@ -172,7 +172,7 @@
    "adds_24h": 0,
    "name": "Chig Okonkwo",
    "pos": "TE",
-   "proj_4wk": 39.9,
+   "proj_4wk": 40.0,
    "proj_this_week": 10.27,
    "status": null,
    "team": "WAS"
@@ -316,7 +316,7 @@
    "adds_24h": 0,
    "name": "Woody Marks",
    "pos": "RB",
-   "proj_4wk": 31.9,
+   "proj_4wk": 31.8,
    "proj_this_week": 7.34,
    "status": "Questionable",
    "team": "HOU"
@@ -368,21 +368,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "AJ Barner",
-   "pos": "TE",
-   "proj_4wk": 31.0,
-   "proj_this_week": 7.22,
-   "status": null,
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Cairo Santos",
    "pos": "K",
    "proj_4wk": 31.0,
    "proj_this_week": 8.31,
    "status": null,
    "team": "CHI"
+  },
+  {
+   "adds_24h": 0,
+   "name": "AJ Barner",
+   "pos": "TE",
+   "proj_4wk": 31.0,
+   "proj_this_week": 7.22,
+   "status": null,
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -808,7 +808,7 @@
    "team": "NO"
   }
  ],
- "generated_at": "2026-11-27T14:45:11Z",
+ "generated_at": "2026-11-27T14:50:14Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1057,7 +1057,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.166,
+    "first_seed_odds": 0.165,
     "losses": 4,
     "mine": false,
     "pa": 1288.58,
@@ -1067,7 +1067,7 @@
     "proj_avg": 128.6,
     "proj_by_week": {
      "12": 117.17,
-     "13": 132.17,
+     "13": 132.13,
      "14": 128.5,
      "15": 136.71
     },
@@ -1104,12 +1104,12 @@
     "mine": false,
     "pa": 1301.3,
     "pf": 1344.66,
-    "playoff_odds": 0.677,
+    "playoff_odds": 0.678,
     "power_rank": 6,
     "proj_avg": 120.7,
     "proj_by_week": {
      "12": 104.25,
-     "13": 124.9,
+     "13": 124.93,
      "14": 127.24,
      "15": 126.55
     },
@@ -1125,12 +1125,12 @@
     "mine": false,
     "pa": 1223.72,
     "pf": 1269.3,
-    "playoff_odds": 0.497,
+    "playoff_odds": 0.496,
     "power_rank": 7,
     "proj_avg": 119.7,
     "proj_by_week": {
      "12": 129.7,
-     "13": 102.24,
+     "13": 102.26,
      "14": 121.94,
      "15": 125.03
     },
@@ -1172,7 +1172,7 @@
     "proj_avg": 118.7,
     "proj_by_week": {
      "12": 114.64,
-     "13": 120.37,
+     "13": 120.36,
      "14": 113.56,
      "15": 126.37
     },
@@ -1193,7 +1193,7 @@
     "proj_avg": 112.6,
     "proj_by_week": {
      "12": 114.26,
-     "13": 110.05,
+     "13": 110.13,
      "14": 111.73,
      "15": 114.25
     },
@@ -1214,7 +1214,7 @@
     "proj_avg": 110.5,
     "proj_by_week": {
      "12": 108.07,
-     "13": 110.9,
+     "13": 111.01,
      "14": 110.91,
      "15": 112.13
     },
@@ -1280,7 +1280,7 @@
    "pos": "RB",
    "proj_by_week": {
     "12": 13.01,
-    "13": 12.55,
+    "13": 12.54,
     "14": 11.53,
     "15": 11.17
    },
@@ -1325,7 +1325,7 @@
    "pos": "WR",
    "proj_by_week": {
     "12": 13.12,
-    "13": 13.76,
+    "13": 13.78,
     "14": 12.28,
     "15": 12.43
    },
@@ -1355,7 +1355,7 @@
    "pos": "WR",
    "proj_by_week": {
     "12": 10.11,
-    "13": 12.78,
+    "13": 12.88,
     "14": 13.23,
     "15": 14.11
    },
@@ -1385,7 +1385,7 @@
    "pos": "RB",
    "proj_by_week": {
     "12": 7.58,
-    "13": 5.98,
+    "13": 5.97,
     "14": 6.18,
     "15": 3.46
    },
@@ -1738,25 +1738,6 @@
    "drop": "12491",
    "drop_name": "Corey Kiner",
    "gain_this_week": 0.0,
-   "gain_window": 2.5,
-   "name": "Bo Nix",
-   "pid": "11563",
-   "pos": "QB",
-   "proj_by_week": {
-    "12": 14.32,
-    "13": 18.36,
-    "14": 17.87,
-    "15": 19.26
-   },
-   "status": null,
-   "stream": false,
-   "team": "DEN",
-   "trending_adds_24h": 0
-  },
-  {
-   "drop": "12491",
-   "drop_name": "Corey Kiner",
-   "gain_this_week": 0.0,
    "gain_window": 2.49,
    "name": "Sam Darnold",
    "pid": "4943",
@@ -1771,6 +1752,25 @@
    "stream": false,
    "team": "SEA",
    "trending_adds_24h": 19344
+  },
+  {
+   "drop": "12491",
+   "drop_name": "Corey Kiner",
+   "gain_this_week": 0.0,
+   "gain_window": 2.45,
+   "name": "Bo Nix",
+   "pid": "11563",
+   "pos": "QB",
+   "proj_by_week": {
+    "12": 14.32,
+    "13": 18.31,
+    "14": 17.87,
+    "15": 19.26
+   },
+   "status": null,
+   "stream": false,
+   "team": "DEN",
+   "trending_adds_24h": 0
   },
   {
    "drop": "12491",
@@ -1858,7 +1858,7 @@
    "pos": "QB",
    "proj_by_week": {
     "12": 13.58,
-    "13": 16.31,
+    "13": 16.36,
     "14": 16.77,
     "15": 17.27
    },

@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-27T14:45:11Z UTC
+Week 12 · record 3-8 · updated 2026-11-27T14:50:14Z UTC
 
 ## Lineup check
 Current lineup projects **106.9**, best possible **108.1**.
@@ -13,8 +13,8 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Bo Nix | QB | DEN | Corey Kiner | +2.5 | +0.0 | 0 |
 | Sam Darnold | QB | SEA | Corey Kiner | +2.5 | +0.0 | 19,344 |
+| Bo Nix | QB | DEN | Corey Kiner | +2.5 | +0.0 | 0 |
 | Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 84,216 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +1.8 | +0.0 | 0 |
@@ -61,12 +61,12 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | LAR D/ST | DEF | LAR | starter |  | 7.5 | 6.0 | 5.9 | 6.3 |
 | Jake Bates | K | DET | starter |  | 8.4 | 8.9 | 8.6 | 8.5 |
 | Jared Goff | QB | DET | starter |  | 20.4 | 18.2 | 20.0 | 16.9 |
-| Quinshon Judkins | RB | CLE | starter |  | 13.0 | 12.6 | 11.5 | 11.2 |
+| Quinshon Judkins | RB | CLE | starter |  | 13.0 | 12.5 | 11.5 | 11.2 |
 | Jordan Mason | RB | MIN | starter |  | 10.8 | 11.0 | 10.0 | 10.1 |
 | George Kittle | TE | SF | starter |  | 11.9 | 13.1 | 13.9 | 15.5 |
 | Stefon Diggs | WR | WAS | starter |  | 13.1 | 13.8 | 12.3 | 12.4 |
 | Jordyn Tyson | WR | NO | starter |  | 11.7 | 11.2 | 11.0 | 11.4 |
-| DJ Moore | WR | BUF | starter |  | 10.1 | 12.8 | 13.2 | 14.1 |
+| DJ Moore | WR | BUF | starter |  | 10.1 | 12.9 | 13.2 | 14.1 |
 | Rico Dowdle | RB | PIT | bench |  | 7.8 | 8.5 | 7.4 | 7.5 |
 | Corey Kiner | RB | NE | bench |  | 7.6 | 6.0 | 6.2 | 3.5 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 15.5 | 13.2 | 14.3 |
