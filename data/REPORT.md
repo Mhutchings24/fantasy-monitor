@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-27T15:57:51Z UTC
+Week 12 · record 3-8 · updated 2026-11-27T16:02:55Z UTC
 
 ## Lineup check
 Current lineup projects **106.8**, best possible **108.0**.
@@ -27,7 +27,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Dominic Zvada for Jake Bates (+0.4 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **106.8** – 134.3 projected · win chance **22%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **106.8** – 135.6 projected · win chance **21%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -37,12 +37,12 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 5 | 128.4 | 100% |
 | 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 134.0 | 100% |
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 4 | 128.7 | 97% |
-| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.1 | 95% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.4 | 95% |
 | 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 6 | 120.7 | 67% |
-| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 119.7 | 51% |
+| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 119.6 | 50% |
 | 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 137.8 | 78% |
 | 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 8 | 118.7 | 13% |
-| 9 | DeshaunDontTouchdownThere | 3-8 | 1301.2 | 1316.8 | 10 | 108.3 | 0% |
+| 9 | DeshaunDontTouchdownThere | 3-8 | 1301.2 | 1316.8 | 10 | 108.4 | 0% |
 | 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 9 | 110.5 | 0% |
 
 ## Trade ideas
@@ -72,6 +72,6 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Corey Kiner | RB | NE | bench |  | 7.6 | 6.0 | 6.2 | 3.5 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 15.5 | 13.2 | 14.3 |
 | Mike Evans | WR | SF | bench | Questionable | 11.3 | 14.6 | 15.5 | 17.1 |
-| Omar Cooper Jr. | WR | NYJ | bench | Questionable | 9.2 | 0.0 | 9.7 | 11.0 |
 | Keenan Allen | WR | SF | bench |  | 6.4 | 6.0 | 6.2 | 7.1 |
+| Omar Cooper Jr. | WR | NYJ | bench | Questionable | 0.0 | 0.0 | 9.7 | 11.0 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |

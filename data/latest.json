@@ -1,5 +1,5 @@
 {
- "content_hash": "ef4bf00bbf942a2842c28c247d3d76e8a93836a8",
+ "content_hash": "43fe945b83f239ff7d66470cd15cf4e0663f515f",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -109,8 +109,8 @@
    "adds_24h": 81660,
    "name": "Geno Smith",
    "pos": "QB",
-   "proj_4wk": 52.1,
-   "proj_this_week": 18.03,
+   "proj_4wk": 52.3,
+   "proj_this_week": 18.27,
    "status": null,
    "team": "NYJ"
   },
@@ -127,8 +127,8 @@
    "adds_24h": 20212,
    "name": "Mason Rudolph",
    "pos": "QB",
-   "proj_4wk": 48.4,
-   "proj_this_week": 11.88,
+   "proj_4wk": 48.5,
+   "proj_this_week": 11.96,
    "status": null,
    "team": "PIT"
   },
@@ -341,15 +341,6 @@
   },
   {
    "adds_24h": 0,
-   "name": "AJ Barner",
-   "pos": "TE",
-   "proj_4wk": 31.0,
-   "proj_this_week": 7.22,
-   "status": null,
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Cairo Santos",
    "pos": "K",
    "proj_4wk": 31.0,
@@ -359,19 +350,19 @@
   },
   {
    "adds_24h": 0,
+   "name": "AJ Barner",
+   "pos": "TE",
+   "proj_4wk": 31.0,
+   "proj_this_week": 7.22,
+   "status": null,
+   "team": "SEA"
+  },
+  {
+   "adds_24h": 0,
    "name": "Pat Freiermuth",
    "pos": "TE",
    "proj_4wk": 30.9,
    "proj_this_week": 7.18,
-   "status": null,
-   "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Germie Bernard",
-   "pos": "WR",
-   "proj_4wk": 30.9,
-   "proj_this_week": 6.29,
    "status": null,
    "team": "PIT"
   },
@@ -446,6 +437,15 @@
    "proj_this_week": 6.93,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Germie Bernard",
+   "pos": "WR",
+   "proj_4wk": 29.7,
+   "proj_this_week": 5.07,
+   "status": null,
+   "team": "PIT"
   },
   {
    "adds_24h": 0,
@@ -757,8 +757,8 @@
    "adds_24h": 52044,
    "name": "Josh Cameron",
    "pos": "WR",
-   "proj_4wk": 16.4,
-   "proj_this_week": 4.45,
+   "proj_4wk": 20.5,
+   "proj_this_week": 8.6,
    "status": null,
    "team": "JAX"
   },
@@ -808,7 +808,7 @@
    "team": "NO"
   }
  ],
- "generated_at": "2026-11-27T15:57:51Z",
+ "generated_at": "2026-11-27T16:02:55Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -997,11 +997,11 @@
   },
   "matchup": {
    "my_proj": 106.8,
-   "opp_best_possible": 139.22,
-   "opp_proj": 134.3,
+   "opp_best_possible": 140.5,
+   "opp_proj": 135.6,
    "opponent": "Gibbs me Nabers 😵‍💫",
    "opponent_record": "6-5",
-   "win_prob": 0.218
+   "win_prob": 0.208
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1024,7 +1024,7 @@
     "power_rank": 5,
     "proj_avg": 128.4,
     "proj_by_week": {
-     "12": 134.88,
+     "12": 134.94,
      "13": 122.15,
      "14": 118.76,
      "15": 137.65
@@ -1036,7 +1036,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.422,
+    "first_seed_odds": 0.424,
     "losses": 4,
     "mine": false,
     "pa": 1412.1,
@@ -1045,7 +1045,7 @@
     "power_rank": 2,
     "proj_avg": 134.0,
     "proj_by_week": {
-     "12": 134.48,
+     "12": 134.59,
      "13": 121.53,
      "14": 142.99,
      "15": 137.03
@@ -1057,16 +1057,16 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.179,
+    "first_seed_odds": 0.176,
     "losses": 4,
     "mine": false,
     "pa": 1288.58,
     "pf": 1326.64,
-    "playoff_odds": 0.971,
+    "playoff_odds": 0.969,
     "power_rank": 4,
     "proj_avg": 128.7,
     "proj_by_week": {
-     "12": 117.61,
+     "12": 117.35,
      "13": 132.13,
      "14": 128.5,
      "15": 136.71
@@ -1083,11 +1083,11 @@
     "mine": false,
     "pa": 1400.04,
     "pf": 1453.24,
-    "playoff_odds": 0.951,
+    "playoff_odds": 0.953,
     "power_rank": 3,
-    "proj_avg": 133.1,
+    "proj_avg": 133.4,
     "proj_by_week": {
-     "12": 139.22,
+     "12": 140.5,
      "13": 126.84,
      "14": 135.17,
      "15": 131.19
@@ -1104,7 +1104,7 @@
     "mine": false,
     "pa": 1301.3,
     "pf": 1344.66,
-    "playoff_odds": 0.667,
+    "playoff_odds": 0.669,
     "power_rank": 6,
     "proj_avg": 120.7,
     "proj_by_week": {
@@ -1125,11 +1125,11 @@
     "mine": false,
     "pa": 1223.72,
     "pf": 1269.3,
-    "playoff_odds": 0.508,
+    "playoff_odds": 0.504,
     "power_rank": 7,
-    "proj_avg": 119.7,
+    "proj_avg": 119.6,
     "proj_by_week": {
-     "12": 129.91,
+     "12": 129.35,
      "13": 102.05,
      "14": 121.94,
      "15": 125.03
@@ -1146,7 +1146,7 @@
     "mine": false,
     "pa": 1397.48,
     "pf": 1389.34,
-    "playoff_odds": 0.777,
+    "playoff_odds": 0.779,
     "power_rank": 1,
     "proj_avg": 137.8,
     "proj_by_week": {
@@ -1167,7 +1167,7 @@
     "mine": false,
     "pa": 1417.6,
     "pf": 1271.58,
-    "playoff_odds": 0.133,
+    "playoff_odds": 0.132,
     "power_rank": 8,
     "proj_avg": 118.7,
     "proj_by_week": {
@@ -1190,9 +1190,9 @@
     "pf": 1301.24,
     "playoff_odds": 0.0,
     "power_rank": 10,
-    "proj_avg": 108.3,
+    "proj_avg": 108.4,
     "proj_by_week": {
-     "12": 110.27,
+     "12": 110.9,
      "13": 105.97,
      "14": 106.96,
      "15": 109.84
@@ -1369,7 +1369,7 @@
    "pid": "7021",
    "pos": "RB",
    "proj_by_week": {
-    "12": 7.86,
+    "12": 7.92,
     "13": 8.49,
     "14": 7.41,
     "15": 7.46
@@ -1425,21 +1425,6 @@
   },
   {
    "bye_this_week": false,
-   "name": "Omar Cooper Jr.",
-   "pid": "13276",
-   "pos": "WR",
-   "proj_by_week": {
-    "12": 9.24,
-    "13": 0.0,
-    "14": 9.69,
-    "15": 10.98
-   },
-   "slot": "bench",
-   "status": "Questionable",
-   "team": "NYJ"
-  },
-  {
-   "bye_this_week": false,
    "name": "Keenan Allen",
    "pid": "1479",
    "pos": "WR",
@@ -1452,6 +1437,21 @@
    "slot": "bench",
    "status": null,
    "team": "SF"
+  },
+  {
+   "bye_this_week": false,
+   "name": "Omar Cooper Jr.",
+   "pid": "13276",
+   "pos": "WR",
+   "proj_by_week": {
+    "12": 0.0,
+    "13": 0.0,
+    "14": 9.69,
+    "15": 10.98
+   },
+   "slot": "bench",
+   "status": "Questionable",
+   "team": "NYJ"
   },
   {
    "bye_this_week": false,
@@ -1817,7 +1817,7 @@
    "pid": "1373",
    "pos": "QB",
    "proj_by_week": {
-    "12": 18.03,
+    "12": 18.27,
     "13": 0.0,
     "14": 14.8,
     "15": 19.23
