@@ -1,5 +1,5 @@
 {
- "content_hash": "25e158b884aff81b61e1cd275d8d4c4efddfaed6",
+ "content_hash": "4b6495e3ce0a15755370411f48830ab36fd5ce40",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -323,21 +323,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Jadarian Price",
-   "pos": "RB",
-   "proj_4wk": 30.9,
-   "proj_this_week": 6.35,
-   "status": null,
-   "team": "SEA"
-  },
-  {
-   "adds_24h": 0,
    "name": "Pat Freiermuth",
    "pos": "TE",
    "proj_4wk": 30.9,
    "proj_this_week": 7.17,
    "status": null,
    "team": "PIT"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Jadarian Price",
+   "pos": "RB",
+   "proj_4wk": 30.9,
+   "proj_this_week": 6.35,
+   "status": null,
+   "team": "SEA"
   },
   {
    "adds_24h": 0,
@@ -826,7 +826,7 @@
    "team": "NO"
   }
  ],
- "generated_at": "2026-11-27T23:14:18Z",
+ "generated_at": "2026-11-27T23:19:22Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
