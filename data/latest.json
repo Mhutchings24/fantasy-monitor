@@ -1,5 +1,5 @@
 {
- "content_hash": "66cc96405a7e8ead6ef5e775e1c0c0cb4fd782b2",
+ "content_hash": "7a48e3792861639d7cc16142c333f83663c5ebb8",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -10,7 +10,7 @@
    "adds_24h": 0,
    "name": "Bo Nix",
    "pos": "QB",
-   "proj_4wk": 69.1,
+   "proj_4wk": 69.0,
    "proj_this_week": 14.13,
    "status": null,
    "team": "DEN"
@@ -37,7 +37,7 @@
    "adds_24h": 0,
    "name": "Baker Mayfield",
    "pos": "QB",
-   "proj_4wk": 64.2,
+   "proj_4wk": 64.3,
    "proj_this_week": 15.38,
    "status": null,
    "team": "TB"
@@ -172,7 +172,7 @@
    "adds_24h": 20872,
    "name": "Malik Washington",
    "pos": "WR",
-   "proj_4wk": 39.4,
+   "proj_4wk": 39.3,
    "proj_this_week": 9.95,
    "status": null,
    "team": "MIA"
@@ -235,7 +235,7 @@
    "adds_24h": 0,
    "name": "Chris Godwin Jr.",
    "pos": "WR",
-   "proj_4wk": 34.1,
+   "proj_4wk": 34.2,
    "proj_this_week": 8.18,
    "status": null,
    "team": "TB"
@@ -575,21 +575,21 @@
   },
   {
    "adds_24h": 0,
+   "name": "Cade Otton",
+   "pos": "TE",
+   "proj_4wk": 27.2,
+   "proj_this_week": 6.17,
+   "status": null,
+   "team": "TB"
+  },
+  {
+   "adds_24h": 0,
    "name": "Jake Moody",
    "pos": "K",
    "proj_4wk": 27.1,
    "proj_this_week": 6.15,
    "status": null,
    "team": "ATL"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Cade Otton",
-   "pos": "TE",
-   "proj_4wk": 27.1,
-   "proj_this_week": 6.17,
-   "status": null,
-   "team": "TB"
   },
   {
    "adds_24h": 0,
@@ -604,7 +604,7 @@
    "adds_24h": 0,
    "name": "Greg Dulcich",
    "pos": "TE",
-   "proj_4wk": 27.0,
+   "proj_4wk": 26.9,
    "proj_this_week": 6.81,
    "status": null,
    "team": "MIA"
@@ -622,7 +622,7 @@
    "adds_24h": 0,
    "name": "Kimani Vidal",
    "pos": "RB",
-   "proj_4wk": 26.5,
+   "proj_4wk": 26.4,
    "proj_this_week": 7.67,
    "status": null,
    "team": "LAC"
@@ -862,7 +862,7 @@
    "team": "ARI"
   }
  ],
- "generated_at": "2026-11-28T12:54:01Z",
+ "generated_at": "2026-11-28T12:59:05Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -1069,7 +1069,7 @@
   },
   "standings": [
    {
-    "first_seed_odds": 0.328,
+    "first_seed_odds": 0.33,
     "losses": 4,
     "mine": false,
     "pa": 1453.28,
@@ -1090,7 +1090,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.444,
+    "first_seed_odds": 0.445,
     "losses": 4,
     "mine": false,
     "pa": 1412.1,
@@ -1132,17 +1132,17 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.064,
+    "first_seed_odds": 0.061,
     "losses": 5,
     "mine": false,
     "pa": 1400.04,
     "pf": 1453.24,
-    "playoff_odds": 0.954,
+    "playoff_odds": 0.952,
     "power_rank": 3,
-    "proj_avg": 133.5,
+    "proj_avg": 133.4,
     "proj_by_week": {
      "12": 139.94,
-     "13": 127.59,
+     "13": 127.13,
      "14": 135.17,
      "15": 131.19
     },
@@ -1158,12 +1158,12 @@
     "mine": false,
     "pa": 1301.3,
     "pf": 1344.66,
-    "playoff_odds": 0.562,
+    "playoff_odds": 0.564,
     "power_rank": 8,
     "proj_avg": 114.7,
     "proj_by_week": {
      "12": 107.12,
-     "13": 119.37,
+     "13": 119.32,
      "14": 117.66,
      "15": 114.66
     },
@@ -1179,12 +1179,12 @@
     "mine": false,
     "pa": 1223.72,
     "pf": 1269.3,
-    "playoff_odds": 0.556,
+    "playoff_odds": 0.552,
     "power_rank": 7,
     "proj_avg": 119.3,
     "proj_by_week": {
      "12": 128.34,
-     "13": 101.84,
+     "13": 102.12,
      "14": 121.94,
      "15": 124.9
     },
@@ -1200,12 +1200,12 @@
     "mine": false,
     "pa": 1397.48,
     "pf": 1389.34,
-    "playoff_odds": 0.809,
+    "playoff_odds": 0.802,
     "power_rank": 1,
     "proj_avg": 137.9,
     "proj_by_week": {
      "12": 142.96,
-     "13": 137.64,
+     "13": 137.59,
      "14": 125.09,
      "15": 145.91
     },
@@ -1221,12 +1221,12 @@
     "mine": false,
     "pa": 1417.6,
     "pf": 1271.58,
-    "playoff_odds": 0.155,
+    "playoff_odds": 0.168,
     "power_rank": 6,
-    "proj_avg": 119.3,
+    "proj_avg": 119.7,
     "proj_by_week": {
      "12": 118.04,
-     "13": 119.29,
+     "13": 120.7,
      "14": 113.56,
      "15": 126.37
     },
@@ -1244,10 +1244,10 @@
     "pf": 1301.24,
     "playoff_odds": 0.001,
     "power_rank": 9,
-    "proj_avg": 109.8,
+    "proj_avg": 110.3,
     "proj_by_week": {
      "12": 117.58,
-     "13": 104.97,
+     "13": 106.64,
      "14": 106.96,
      "15": 109.84
     },
@@ -1265,10 +1265,10 @@
     "pf": 1212.28,
     "playoff_odds": 0.0,
     "power_rank": 10,
-    "proj_avg": 107.4,
+    "proj_avg": 108.2,
     "proj_by_week": {
      "12": 106.37,
-     "13": 107.01,
+     "13": 109.96,
      "14": 107.56,
      "15": 108.85
     },
@@ -1364,7 +1364,7 @@
    "pos": "TE",
    "proj_by_week": {
     "12": 10.86,
-    "13": 10.84,
+    "13": 12.27,
     "14": 12.27,
     "15": 13.91
    },
@@ -1394,7 +1394,7 @@
    "pos": "WR",
    "proj_by_week": {
     "12": 10.45,
-    "13": 12.18,
+    "13": 13.7,
     "14": 13.78,
     "15": 15.43
    },
@@ -1484,7 +1484,7 @@
    "pos": "WR",
    "proj_by_week": {
     "12": 5.53,
-    "13": 4.84,
+    "13": 5.45,
     "14": 5.22,
     "15": 6.11
    },
@@ -1680,42 +1680,6 @@
   {
    "get": [
     {
-     "name": "Derrick Henry",
-     "pid": "3198",
-     "pos": "RB",
-     "ros_per_week": 11.9,
-     "status": null,
-     "team": "BAL"
-    }
-   ],
-   "give": [
-    {
-     "name": "Mike Evans",
-     "pid": "2216",
-     "pos": "WR",
-     "ros_per_week": 13.3,
-     "status": "Questionable",
-     "team": "SF"
-    }
-   ],
-   "likelihood": "Possible",
-   "partner": "Gibbs me Nabers 😵‍💫",
-   "partner_roster_id": 4,
-   "summary": "Give Mike Evans, get Derrick Henry from Gibbs me Nabers 😵‍💫: +1.7 pts/week for you, -0.2 for them.",
-   "their_gain_per_week": -0.2,
-   "value_ratio": 0.89,
-   "why_them": [
-    "Mike Evans would start 3 of 6 weeks for them"
-   ],
-   "why_you": [
-    "Derrick Henry would start 5 of 6 weeks for you",
-    "Mike Evans starts 6 of 6 weeks for you"
-   ],
-   "your_gain_per_week": 1.7
-  },
-  {
-   "get": [
-    {
      "name": "Ollie Gordon II",
      "pid": "12495",
      "pos": "RB",
@@ -1783,6 +1747,42 @@
    "why_you": [
     "Breece Hall would start 5 of 6 weeks for you",
     "Jordyn Tyson starts only 2 of 6 weeks for you"
+   ],
+   "your_gain_per_week": 1.5
+  },
+  {
+   "get": [
+    {
+     "name": "Derrick Henry",
+     "pid": "3198",
+     "pos": "RB",
+     "ros_per_week": 11.9,
+     "status": null,
+     "team": "BAL"
+    }
+   ],
+   "give": [
+    {
+     "name": "Mike Evans",
+     "pid": "2216",
+     "pos": "WR",
+     "ros_per_week": 13.6,
+     "status": "Questionable",
+     "team": "SF"
+    }
+   ],
+   "likelihood": "Possible",
+   "partner": "Gibbs me Nabers 😵‍💫",
+   "partner_roster_id": 4,
+   "summary": "Give Mike Evans, get Derrick Henry from Gibbs me Nabers 😵‍💫: +1.5 pts/week for you, -0.1 for them.",
+   "their_gain_per_week": -0.1,
+   "value_ratio": 0.88,
+   "why_them": [
+    "Mike Evans would start 4 of 6 weeks for them"
+   ],
+   "why_you": [
+    "Derrick Henry would start 5 of 6 weeks for you",
+    "Mike Evans starts 6 of 6 weeks for you"
    ],
    "your_gain_per_week": 1.5
   },
@@ -1870,7 +1870,7 @@
    "pos": "QB",
    "proj_by_week": {
     "12": 14.13,
-    "13": 17.86,
+    "13": 17.75,
     "14": 17.87,
     "15": 19.26
    },
