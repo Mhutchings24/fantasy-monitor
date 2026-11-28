@@ -1,5 +1,5 @@
 {
- "content_hash": "2834f54a2ac7120990fa56576f273081d3df2fe6",
+ "content_hash": "951b9918856dff05e2b693f2e95c8db5ec5d065f",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -826,7 +826,7 @@
    "team": "NO"
   }
  ],
- "generated_at": "2026-11-28T00:30:19Z",
+ "generated_at": "2026-11-28T00:36:42Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -909,15 +909,15 @@
    }
   ],
   "best_projected": 106.14,
-  "current_projected": 105.96,
-  "gain": 0.18,
+  "current_projected": 103.46,
+  "gain": 2.68,
   "problems": [],
   "source": "matchup week 12",
   "swaps": [
    {
     "bench": "4983",
-    "start": "2216",
-    "text": "Start Mike Evans (WR, SF) (10.3) over DJ Moore (WR, BUF) (10.1)"
+    "start": "2449",
+    "text": "Start Stefon Diggs (WR, WAS) (12.8) over DJ Moore (WR, BUF) (10.1)"
    }
   ],
   "week": 12
@@ -1014,12 +1014,12 @@
    "week": 11
   },
   "matchup": {
-   "my_proj": 106.0,
+   "my_proj": 103.5,
    "opp_best_possible": 139.94,
    "opp_proj": 137.0,
    "opponent": "Gibbs me Nabers 😵‍💫",
    "opponent_record": "6-5",
-   "win_prob": 0.19
+   "win_prob": 0.172
   },
   "playoff": {
    "playoff_teams": 6,
@@ -1338,21 +1338,6 @@
   },
   {
    "bye_this_week": false,
-   "name": "Stefon Diggs",
-   "pid": "2449",
-   "pos": "WR",
-   "proj_by_week": {
-    "12": 12.79,
-    "13": 13.62,
-    "14": 12.28,
-    "15": 12.43
-   },
-   "slot": "starter",
-   "status": null,
-   "team": "WAS"
-  },
-  {
-   "bye_this_week": false,
    "name": "Jordyn Tyson",
    "pid": "13281",
    "pos": "WR",
@@ -1365,6 +1350,21 @@
    "slot": "starter",
    "status": null,
    "team": "NO"
+  },
+  {
+   "bye_this_week": false,
+   "name": "Mike Evans",
+   "pid": "2216",
+   "pos": "WR",
+   "proj_by_week": {
+    "12": 10.29,
+    "13": 13.8,
+    "14": 13.78,
+    "15": 15.43
+   },
+   "slot": "starter",
+   "status": "Questionable",
+   "team": "SF"
   },
   {
    "bye_this_week": false,
@@ -1428,18 +1428,18 @@
   },
   {
    "bye_this_week": false,
-   "name": "Mike Evans",
-   "pid": "2216",
+   "name": "Stefon Diggs",
+   "pid": "2449",
    "pos": "WR",
    "proj_by_week": {
-    "12": 10.29,
-    "13": 13.8,
-    "14": 13.78,
-    "15": 15.43
+    "12": 12.79,
+    "13": 13.62,
+    "14": 12.28,
+    "15": 12.43
    },
    "slot": "bench",
-   "status": "Questionable",
-   "team": "SF"
+   "status": null,
+   "team": "WAS"
   },
   {
    "bye_this_week": false,

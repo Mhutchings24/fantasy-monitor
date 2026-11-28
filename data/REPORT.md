@@ -1,10 +1,10 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-28T00:30:19Z UTC
+Week 12 · record 3-8 · updated 2026-11-28T00:36:42Z UTC
 
 ## Lineup check
-Current lineup projects **106.0**, best possible **106.1**.
+Current lineup projects **103.5**, best possible **106.1**.
 
-- 🔁 Start Mike Evans (WR, SF) (10.3) over DJ Moore (WR, BUF) (10.1)
+- 🔁 Start Stefon Diggs (WR, WAS) (12.8) over DJ Moore (WR, BUF) (10.1)
 
 ## Waiver targets
 FAAB left: **$78** (league starting budget $100)
@@ -27,7 +27,7 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Spencer Shrader for Jake Bates (+0.4 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **106.0** – 137.0 projected · win chance **19%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **103.5** – 137.0 projected · win chance **17%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
@@ -66,13 +66,13 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Quinshon Judkins | RB | CLE | starter |  | 13.5 | 12.3 | 11.5 | 11.2 |
 | Jordan Mason | RB | MIN | starter |  | 10.8 | 11.0 | 10.0 | 10.1 |
 | George Kittle | TE | SF | starter |  | 10.7 | 12.3 | 12.3 | 13.9 |
-| Stefon Diggs | WR | WAS | starter |  | 12.8 | 13.6 | 12.3 | 12.4 |
 | Jordyn Tyson | WR | NO | starter |  | 11.8 | 11.2 | 11.0 | 11.4 |
+| Mike Evans | WR | SF | starter | Questionable | 10.3 | 13.8 | 13.8 | 15.4 |
 | DJ Moore | WR | BUF | starter |  | 10.1 | 13.2 | 13.2 | 14.1 |
 | Rico Dowdle | RB | PIT | bench |  | 7.9 | 8.5 | 7.4 | 7.5 |
 | Corey Kiner | RB | NE | bench |  | 7.6 | 5.8 | 6.2 | 3.5 |
 | Josh Jacobs | RB | GB | reserve | Out | 0.0 | 15.5 | 13.2 | 14.3 |
-| Mike Evans | WR | SF | bench | Questionable | 10.3 | 13.8 | 13.8 | 15.4 |
+| Stefon Diggs | WR | WAS | bench |  | 12.8 | 13.6 | 12.3 | 12.4 |
 | Keenan Allen | WR | SF | bench |  | 5.5 | 5.5 | 5.2 | 6.1 |
 | Omar Cooper Jr. | WR | NYJ | bench | Out | 0.0 | 0.0 | 9.7 | 11.0 |
 | Davante Adams | WR | LAR | reserve | IR | 0.0 | 0.0 | 0.0 | 0.0 |
