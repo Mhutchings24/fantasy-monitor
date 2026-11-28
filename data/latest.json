@@ -1,5 +1,5 @@
 {
- "content_hash": "75c8ddf3a4de05b4c90ada96c1e3eb0f338060d9",
+ "content_hash": "030db1eb276118d88f14efdb16a328f2868d6050",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -304,15 +304,6 @@
    "team": "SEA"
   },
   {
-   "adds_24h": 0,
-   "name": "Cairo Santos",
-   "pos": "K",
-   "proj_4wk": 31.0,
-   "proj_this_week": 8.31,
-   "status": null,
-   "team": "CHI"
-  },
-  {
    "adds_24h": 18084,
    "name": "Mike Gesicki",
    "pos": "TE",
@@ -320,6 +311,15 @@
    "proj_this_week": 7.93,
    "status": null,
    "team": "CIN"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Cairo Santos",
+   "pos": "K",
+   "proj_4wk": 31.0,
+   "proj_this_week": 8.31,
+   "status": null,
+   "team": "CHI"
   },
   {
    "adds_24h": 0,
@@ -467,21 +467,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Cameron Dicker",
-   "pos": "K",
-   "proj_4wk": 28.6,
-   "proj_this_week": 6.57,
-   "status": null,
-   "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
    "name": "SF D/ST",
    "pos": "DEF",
    "proj_4wk": 28.6,
    "proj_this_week": 6.29,
    "status": null,
    "team": "SF"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Cameron Dicker",
+   "pos": "K",
+   "proj_4wk": 28.6,
+   "proj_this_week": 6.57,
+   "status": null,
+   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -853,7 +853,7 @@
    "team": "NO"
   }
  ],
- "generated_at": "2026-11-28T09:54:21Z",
+ "generated_at": "2026-11-28T09:59:24Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
