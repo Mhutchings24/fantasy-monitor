@@ -1,5 +1,5 @@
 {
- "content_hash": "a2c2bc3cd679ee695c2d140caaa8db9395b08b00",
+ "content_hash": "409924ec53408ec0bb3c173e575a42dec7c41df0",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -467,21 +467,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "SF D/ST",
-   "pos": "DEF",
-   "proj_4wk": 28.6,
-   "proj_this_week": 6.29,
-   "status": null,
-   "team": "SF"
-  },
-  {
-   "adds_24h": 0,
    "name": "Cameron Dicker",
    "pos": "K",
    "proj_4wk": 28.6,
    "proj_this_week": 6.57,
    "status": null,
    "team": "LAC"
+  },
+  {
+   "adds_24h": 0,
+   "name": "SF D/ST",
+   "pos": "DEF",
+   "proj_4wk": 28.6,
+   "proj_this_week": 6.29,
+   "status": null,
+   "team": "SF"
   },
   {
    "adds_24h": 0,
@@ -853,7 +853,7 @@
    "team": "NO"
   }
  ],
- "generated_at": "2026-11-28T06:53:26Z",
+ "generated_at": "2026-11-28T06:58:30Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
