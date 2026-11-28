@@ -1,8 +1,8 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-28T04:17:24Z UTC
+Week 12 · record 3-8 · updated 2026-11-28T04:34:05Z UTC
 
 ## Lineup check
-Current lineup projects **103.5**, best possible **106.1**.
+Current lineup projects **103.6**, best possible **106.3**.
 
 - 🔁 Start Stefon Diggs (WR, WAS) (12.8) over DJ Moore (WR, BUF) (10.1)
 
@@ -14,9 +14,9 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Bo Nix | QB | DEN | Corey Kiner | +2.4 | +0.0 | 0 |
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 147,144 |
-| Aaron Jones Sr. | RB | MIN | Corey Kiner | +2.2 | +0.9 | 0 |
-| Sam Darnold | QB | SEA | Corey Kiner | +2.1 | +0.0 | 30,258 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 146,052 |
+| Aaron Jones Sr. | RB | MIN | Corey Kiner | +2.1 | +0.9 | 0 |
+| Sam Darnold | QB | SEA | Corey Kiner | +2.1 | +0.0 | 29,655 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +1.8 | +0.0 | 0 |
 | Cam Ward | QB | TEN | Corey Kiner | +0.4 | +0.0 | 0 |
@@ -27,14 +27,14 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Spencer Shrader for Jake Bates (+0.4 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **103.5** – 137.0 projected · win chance **17%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **103.6** – 137.0 projected · win chance **17%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 4 | 128.2 | 100% |
+| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 4 | 128.3 | 100% |
 | 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 134.9 | 100% |
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 5 | 128.0 | 97% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.4 | 95% |
@@ -64,7 +64,7 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Jared Goff | QB | DET | starter |  | 20.4 | 18.5 | 20.0 | 16.9 |
 | Quinshon Judkins | RB | CLE | starter |  | 13.5 | 12.3 | 11.5 | 11.2 |
 | Jordan Mason | RB | MIN | starter |  | 10.8 | 11.0 | 10.0 | 10.1 |
-| George Kittle | TE | SF | starter |  | 10.7 | 12.3 | 12.3 | 13.9 |
+| George Kittle | TE | SF | starter |  | 10.8 | 12.3 | 12.3 | 13.9 |
 | Jordyn Tyson | WR | NO | starter |  | 11.8 | 11.2 | 11.0 | 11.4 |
 | Mike Evans | WR | SF | starter | Questionable | 10.3 | 13.7 | 13.8 | 15.4 |
 | DJ Moore | WR | BUF | starter |  | 10.1 | 12.8 | 13.2 | 14.1 |
