@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-28T02:43:33Z UTC
+Week 12 · record 3-8 · updated 2026-11-28T02:48:36Z UTC
 
 ## Lineup check
 Current lineup projects **103.5**, best possible **106.1**.
@@ -13,10 +13,10 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
-| Sam Darnold | QB | SEA | Corey Kiner | +2.4 | +0.0 | 29,373 |
 | Bo Nix | QB | DEN | Corey Kiner | +2.4 | +0.0 | 0 |
 | Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 142,076 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +2.2 | +0.9 | 0 |
+| Sam Darnold | QB | SEA | Corey Kiner | +2.1 | +0.0 | 29,373 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +1.8 | +0.0 | 0 |
 | Cam Ward | QB | TEN | Corey Kiner | +0.4 | +0.0 | 0 |
@@ -38,12 +38,12 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 134.9 | 100% |
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 5 | 128.0 | 97% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.4 | 95% |
-| 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 8 | 114.7 | 56% |
+| 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 8 | 114.6 | 56% |
 | 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 119.2 | 55% |
-| 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 137.9 | 81% |
-| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 6 | 119.6 | 17% |
+| 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 137.9 | 80% |
+| 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 6 | 119.7 | 17% |
 | 9 | DeshaunDontTouchdownThere | 3-8 | 1301.2 | 1316.8 | 9 | 110.4 | 0% |
-| 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 107.9 | 0% |
+| 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 108.0 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
@@ -60,8 +60,8 @@ Gains are projected starting points per week, rest of season (playoff weeks weig
 | Player | Pos | Team | Spot | Status | Wk 12 | Wk 13 | Wk 14 | Wk 15 |
 |---|---|---|---|---|---|---|---|---|
 | LAR D/ST | DEF | LAR | starter |  | 7.5 | 5.9 | 5.9 | 6.3 |
-| Jake Bates | K | DET | starter |  | 8.4 | 8.9 | 8.6 | 8.5 |
-| Jared Goff | QB | DET | starter |  | 20.4 | 18.2 | 20.0 | 16.9 |
+| Jake Bates | K | DET | starter |  | 8.4 | 9.0 | 8.6 | 8.5 |
+| Jared Goff | QB | DET | starter |  | 20.4 | 18.5 | 20.0 | 16.9 |
 | Quinshon Judkins | RB | CLE | starter |  | 13.5 | 12.3 | 11.5 | 11.2 |
 | Jordan Mason | RB | MIN | starter |  | 10.8 | 11.0 | 10.0 | 10.1 |
 | George Kittle | TE | SF | starter |  | 10.7 | 12.3 | 12.3 | 13.9 |
