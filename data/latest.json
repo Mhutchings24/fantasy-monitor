@@ -1,5 +1,5 @@
 {
- "content_hash": "d5631c5f2c169303a09ea5007d374fec97647a29",
+ "content_hash": "5a7ecf9bd5a727068065827dd0287b824aabd86c",
  "faab": {
   "budget": 100,
   "remaining": 78,
@@ -146,7 +146,7 @@
    "name": "Fernando Mendoza",
    "pos": "QB",
    "proj_4wk": 43.5,
-   "proj_this_week": 12.64,
+   "proj_this_week": 12.68,
    "status": null,
    "team": "LV"
   },
@@ -154,8 +154,8 @@
    "adds_24h": 0,
    "name": "Denzel Boston",
    "pos": "WR",
-   "proj_4wk": 40.3,
-   "proj_this_week": 8.27,
+   "proj_4wk": 40.4,
+   "proj_this_week": 8.3,
    "status": "Questionable",
    "team": "CLE"
   },
@@ -323,21 +323,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Pat Freiermuth",
-   "pos": "TE",
-   "proj_4wk": 30.9,
-   "proj_this_week": 7.17,
-   "status": null,
-   "team": "PIT"
-  },
-  {
-   "adds_24h": 0,
    "name": "Jadarian Price",
    "pos": "RB",
    "proj_4wk": 30.9,
    "proj_this_week": 6.36,
    "status": null,
    "team": "SEA"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Pat Freiermuth",
+   "pos": "TE",
+   "proj_4wk": 30.9,
+   "proj_this_week": 7.17,
+   "status": null,
+   "team": "PIT"
   },
   {
    "adds_24h": 0,
@@ -398,7 +398,7 @@
    "name": "Andre Szmyt",
    "pos": "K",
    "proj_4wk": 29.8,
-   "proj_this_week": 7.43,
+   "proj_this_week": 7.46,
    "status": null,
    "team": "CLE"
   },
@@ -467,21 +467,21 @@
   },
   {
    "adds_24h": 0,
-   "name": "Cameron Dicker",
-   "pos": "K",
-   "proj_4wk": 28.6,
-   "proj_this_week": 6.57,
-   "status": null,
-   "team": "LAC"
-  },
-  {
-   "adds_24h": 0,
    "name": "SF D/ST",
    "pos": "DEF",
    "proj_4wk": 28.6,
    "proj_this_week": 6.29,
    "status": null,
    "team": "SF"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Cameron Dicker",
+   "pos": "K",
+   "proj_4wk": 28.6,
+   "proj_this_week": 6.57,
+   "status": null,
+   "team": "LAC"
   },
   {
    "adds_24h": 0,
@@ -559,8 +559,8 @@
    "adds_24h": 23212,
    "name": "CLE D/ST",
    "pos": "DEF",
-   "proj_4wk": 27.3,
-   "proj_this_week": 8.12,
+   "proj_4wk": 27.4,
+   "proj_this_week": 8.15,
    "status": null,
    "team": "CLE"
   },
@@ -659,7 +659,16 @@
    "name": "Tre Tucker",
    "pos": "WR",
    "proj_4wk": 26.0,
-   "proj_this_week": 7.47,
+   "proj_this_week": 7.48,
+   "status": null,
+   "team": "LV"
+  },
+  {
+   "adds_24h": 0,
+   "name": "Matt Gay",
+   "pos": "K",
+   "proj_4wk": 25.3,
+   "proj_this_week": 7.67,
    "status": null,
    "team": "LV"
   },
@@ -671,15 +680,6 @@
    "proj_this_week": 8.38,
    "status": null,
    "team": "LAR"
-  },
-  {
-   "adds_24h": 0,
-   "name": "Matt Gay",
-   "pos": "K",
-   "proj_4wk": 25.2,
-   "proj_this_week": 7.63,
-   "status": null,
-   "team": "LV"
   },
   {
    "adds_24h": 0,
@@ -853,7 +853,7 @@
    "team": "NO"
   }
  ],
- "generated_at": "2026-11-28T09:24:59Z",
+ "generated_at": "2026-11-28T09:30:03Z",
  "league": {
   "id": "1389724872015347712",
   "name": "No fun league",
@@ -889,7 +889,7 @@
    {
     "name": "Quinshon Judkins",
     "pid": "12512",
-    "proj": 13.36,
+    "proj": 13.41,
     "slot": "RB"
    },
    {
@@ -935,8 +935,8 @@
     "slot": "DEF"
    }
   ],
-  "best_projected": 106.36,
-  "current_projected": 103.68,
+  "best_projected": 106.41,
+  "current_projected": 103.73,
   "gain": 2.68,
   "problems": [],
   "source": "matchup week 12",
@@ -1090,7 +1090,7 @@
     "power_rank": 2,
     "proj_avg": 135.0,
     "proj_by_week": {
-     "12": 138.72,
+     "12": 138.79,
      "13": 121.07,
      "14": 142.99,
      "15": 137.03
@@ -1102,7 +1102,7 @@
     "wins": 7
    },
    {
-    "first_seed_odds": 0.16,
+    "first_seed_odds": 0.159,
     "losses": 4,
     "mine": false,
     "pa": 1288.58,
@@ -1144,7 +1144,7 @@
     "wins": 6
    },
    {
-    "first_seed_odds": 0.004,
+    "first_seed_odds": 0.003,
     "losses": 5,
     "mine": false,
     "pa": 1301.3,
@@ -1237,7 +1237,7 @@
     "power_rank": 9,
     "proj_avg": 109.8,
     "proj_by_week": {
-     "12": 117.45,
+     "12": 117.55,
      "13": 104.97,
      "14": 106.96,
      "15": 109.84
@@ -1256,9 +1256,9 @@
     "pf": 1212.28,
     "playoff_odds": 0.0,
     "power_rank": 10,
-    "proj_avg": 107.4,
+    "proj_avg": 107.5,
     "proj_by_week": {
-     "12": 106.36,
+     "12": 106.41,
      "13": 107.01,
      "14": 107.56,
      "15": 108.85
@@ -1324,7 +1324,7 @@
    "pid": "12512",
    "pos": "RB",
    "proj_by_week": {
-    "12": 13.36,
+    "12": 13.41,
     "13": 12.54,
     "14": 11.53,
     "15": 11.17

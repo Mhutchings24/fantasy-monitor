@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-28T09:24:59Z UTC
+Week 12 · record 3-8 · updated 2026-11-28T09:30:03Z UTC
 
 ## Lineup check
 Current lineup projects **103.7**, best possible **106.4**.
@@ -43,7 +43,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 137.9 | 81% |
 | 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 6 | 119.3 | 16% |
 | 9 | DeshaunDontTouchdownThere | 3-8 | 1301.2 | 1316.8 | 9 | 109.8 | 0% |
-| 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 107.4 | 0% |
+| 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 107.5 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
