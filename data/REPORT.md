@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-28T09:45:14Z UTC
+Week 12 · record 3-8 · updated 2026-11-28T09:54:21Z UTC
 
 ## Lineup check
 Current lineup projects **103.7**, best possible **106.4**.
@@ -14,8 +14,8 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Bo Nix | QB | DEN | Corey Kiner | +2.4 | +0.0 | 0 |
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 151,664 |
-| Sam Darnold | QB | SEA | Corey Kiner | +2.2 | +0.0 | 30,615 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 151,812 |
+| Sam Darnold | QB | SEA | Corey Kiner | +2.2 | +0.0 | 30,648 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +2.0 | +0.8 | 0 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +1.8 | +0.0 | 0 |
@@ -39,7 +39,7 @@ Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seaso
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 5 | 127.9 | 97% |
 | 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.5 | 95% |
 | 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 8 | 114.7 | 56% |
-| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 119.3 | 56% |
+| 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 119.2 | 55% |
 | 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 137.9 | 81% |
 | 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 6 | 119.3 | 16% |
 | 9 | DeshaunDontTouchdownThere | 3-8 | 1301.2 | 1316.8 | 9 | 109.8 | 0% |
