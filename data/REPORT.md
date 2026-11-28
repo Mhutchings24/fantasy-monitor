@@ -1,5 +1,5 @@
 # Conorrhea  — No fun league
-Week 12 · record 3-8 · updated 2026-11-28T10:29:40Z UTC
+Week 12 · record 3-8 · updated 2026-11-28T10:34:43Z UTC
 
 ## Lineup check
 Current lineup projects **103.7**, best possible **106.4**.
@@ -14,8 +14,8 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 | Add | Pos | Team | Drop | Gain | This wk | Adds 24h |
 |---|---|---|---|---|---|---|
 | Bo Nix | QB | DEN | Corey Kiner | +2.4 | +0.0 | 0 |
-| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 152,200 |
-| Sam Darnold | QB | SEA | Corey Kiner | +2.2 | +0.0 | 30,762 |
+| Geno Smith | QB | NYJ | Corey Kiner | +2.3 | +0.0 | 151,968 |
+| Sam Darnold | QB | SEA | Corey Kiner | +2.2 | +0.0 | 30,660 |
 | Aaron Jones Sr. | RB | MIN | Corey Kiner | +2.0 | +0.8 | 0 |
 | Bryce Young | QB | CAR | Corey Kiner | +1.9 | +0.0 | 0 |
 | Matthew Stafford | QB | LAR | Corey Kiner | +1.8 | +0.0 | 0 |
@@ -27,23 +27,23 @@ Gain = extra projected starting points over weeks 12–15 after the swap.
 **K stream this week:** add Spencer Shrader for Jake Bates (+0.4 pts this week)
 
 ## This week's matchup
-vs **Gibbs me Nabers 😵‍💫** (6-5): you **103.7** – 137.1 projected · win chance **17%**
+vs **Gibbs me Nabers 😵‍💫** (6-5): you **103.7** – 137.0 projected · win chance **17%**
 
 ## League overview
 Top 6 make the playoffs (starting week 15). Odds come from 4,000 simulated seasons using projections.
 
 | # | Team | W-L | PF | PA | Power | Proj/wk | Playoffs |
 |---|---|---|---|---|---|---|---|
-| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 4 | 128.2 | 100% |
+| 1 | Bradsgay | 7-4 | 1520.8 | 1453.3 | 4 | 128.1 | 100% |
 | 2 | Atticus Dean | 7-4 | 1496.6 | 1412.1 | 2 | 135.0 | 100% |
 | 3 | I’m stuck Step Burrow | 7-4 | 1326.6 | 1288.6 | 5 | 127.9 | 97% |
-| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.5 | 95% |
+| 4 | Gibbs me Nabers 😵‍💫 | 6-5 | 1453.2 | 1400.0 | 3 | 133.4 | 95% |
 | 5 | Never Going Go Scottsdale | 6-5 | 1344.7 | 1301.3 | 8 | 114.7 | 56% |
 | 6 | Monangynecologist | 6-5 | 1269.3 | 1223.7 | 7 | 119.2 | 55% |
 | 7 | Glizzy Globbler  | 5-6 | 1389.3 | 1397.5 | 1 | 137.9 | 81% |
 | 8 | Bradsbaconisundercooked | 5-6 | 1271.6 | 1417.6 | 6 | 119.3 | 16% |
 | 9 | DeshaunDontTouchdownThere | 3-8 | 1301.2 | 1316.8 | 9 | 109.8 | 0% |
-| 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 107.5 | 0% |
+| 10 | **Conorrhea ** | 3-8 | 1212.3 | 1374.8 | 10 | 107.4 | 0% |
 
 ## Trade ideas
 Gains are projected starting points per week, rest of season (playoff weeks weighted 1.25x).
